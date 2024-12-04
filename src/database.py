@@ -337,7 +337,7 @@ def listdict_to_long_string(data):
     counter = 1
     for json_object in data:
 
-        result += f"Step {counter}: {json_object.get("text", "")}\n"
+        result += f"Step {counter}: {json_object.get('text', '')}\n"
         counter += 1
     return result
 
