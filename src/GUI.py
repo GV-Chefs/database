@@ -5,8 +5,8 @@ from PySide6.QtGui import QPixmap, QIcon
 from PySide6.QtWidgets import *
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from src.database import Database
-from src.utils import Recipe
+from database import Database
+from utils import Recipe
 
 ICON_PATH: str = os.path.join(os.getcwd(), "recipe_database_icon.png")
 PATH_TO_RECIPE: str = os.path.join(os.getcwd(), "mashed_potatoes.txt")
