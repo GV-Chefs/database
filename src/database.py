@@ -17,7 +17,7 @@ class Database:
 
     def __create_table(self):
 
-        json_files = get_all_jsons()
+        json_files = __get_all_jsons()
 
         self.cursor.execute(
             """--sql -- the --sql is part of a vscode extension that allows me to color sql code in the python file and -- is a comment in sql
@@ -53,7 +53,7 @@ class Database:
                 data = json.load(f)
                 nutrition = json.dumps(data.get("nutrition", {}))
                 recipeCuisine = json.dumps(data.get("recipeCuisine", []))
-                recipeIngredient = listsrt_to_long_string(data.get("recipeIngredient", []))
+                recipeIngredient = __listsrt_to_long_string(data.get("recipeIngredient", []))
 
                 try:
                     # Extract nutrition information
@@ -73,7 +73,7 @@ class Database:
 
                     recipeCategory = json.dumps(data.get("recipeCategory", "None")[0])
 
-                    recipeInstructions = listdict_to_long_string(
+                    recipeInstructions = __listdict_to_long_string(
                         data.get("recipeInstructions", [])
                     )
 
@@ -308,7 +308,7 @@ class Database:
         return result[0]
 
 
-def get_all_jsons():
+def __get_all_jsons():
     """
     Retrieves all JSON files in the data directory and its subdirectories.
     Returns:
@@ -325,7 +325,7 @@ def get_all_jsons():
     return json_files
 
 
-def listdict_to_long_string(data):
+def __listdict_to_long_string(data):
     """
     Converts a list to a line separated string. Meant to be used for instructions.
     Args:
@@ -341,7 +341,7 @@ def listdict_to_long_string(data):
         counter += 1
     return result
 
-def listsrt_to_long_string(data):
+def __listsrt_to_long_string(data):
     """
     Converts a list to a line separated string. Meant to be used for instructions.
     Args:
