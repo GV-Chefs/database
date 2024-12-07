@@ -7,8 +7,8 @@ from PySide6.QtWidgets import *
 from database import Database
 from utils import Recipe
 
-ICON_PATH: str = os.path.join(os.getcwd(), "recipe_database_icon.png")
-PATH_TO_RECIPE: str = os.path.join(os.getcwd(), "mashed_potatoes.txt")
+ICON_PATH: str = os.path.join(os.getcwd(), "recipe_database_icon.png") # Path to the application icon/ image
+PATH_TO_RECIPE: str = os.path.join(os.getcwd(), "mashed_potatoes.txt") # Path to a deprecated recipe file
 
 
 class MainWindow(QMainWindow):
@@ -17,8 +17,8 @@ class MainWindow(QMainWindow):
     """
     def __init__(self, data: Database):
         super(MainWindow, self).__init__()
-        self.data = data
-        self.recipes = set()
+        self.data = data # Database instance
+        self.recipes = set() # Set to store recipe names mainly used for the search feature and filtering.
         self.setWindowTitle("Recipe book")
         self.setMinimumHeight(400)
         self.setMinimumWidth(600)
@@ -250,13 +250,13 @@ class recipe_widget:
         item_widget (QGroupBox): The widget instance for displaying the recipe in a horizontal layout.
     """
     def __init__(self, recipe, MainWindow: QMainWindow = None):
-        self.window = MainWindow
-        self.recipe = recipe
+        self.window = MainWindow # MainWindow object
+        self.recipe = recipe # Recipe object
         
-        self.title = self.recipe.name
-        self.item_widget = None
+        self.title = self.recipe.name # Recipe title
+        self.item_widget = None # Widget for displaying the recipe item
         # Load the favorite status from the database using main window's data reference
-        self.is_favorite = self.window.data.isfavorite(self.recipe.name) if self.window else 0
+        self.is_favorite = self.window.data.isfavorite(self.recipe.name) if self.window else 0 # Favorite status
 
     def get_widget(self):
         """

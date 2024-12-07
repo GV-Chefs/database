@@ -7,9 +7,9 @@ class Database:
 
     def __init__(self) -> None:
         os.remove("recipes_data.db")
-        self.connection = sqlite3.connect("recipes_data.db")
+        self.connection = sqlite3.connect("recipes_data.db") # connect to the database
 
-        self.cursor = self.connection.cursor()
+        self.cursor = self.connection.cursor() # create a cursor object in order to interact with the database using SQL commands
 
         self.__create_table()
 
@@ -18,7 +18,7 @@ class Database:
         json_files = get_all_jsons()
 
         self.cursor.execute(
-            """--sql -- the --sql is part of a vscode extension that allows me to color sql code in the python file and -- is a comment in sql
+            """--sql -- the '--sql' is part of a vscode extension that allows me to color sql code in the python file and -- is a comment in sql
             CREATE TABLE IF NOT EXISTS Cuisines
             (
                 name TEXT PRIMARY KEY, -- the name of the recipe which must be unique
