@@ -1,0 +1,47 @@
+{
+    "headline": "Garbanzo Bean Soup",
+    "name": "Garbanzo Bean Soup",
+    "description": "This is a recipe that I picked up in Italy a few years ago. Being that I'm not a soup fan, I was somewhat hesitant... but this thick and hearty soup quickly won my praise. It will quickly become a favorite recipe!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "502 kcal",
+        "carbohydrateContent": "95 g",
+        "fiberContent": "12 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "822 mg",
+        "sugarContent": "4 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (14.5 ounce) can peeled and diced tomatoes",
+        "1 teaspoon olive oil",
+        "2 (15.5 ounce) cans garbanzo beans",
+        "salt and pepper to taste",
+        "2 sprigs fresh rosemary",
+        "1 cup acini di pepe pasta"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine the tomatoes, olive oil and 1 1/2 cans of the beans in a large saucepan. Bring to a boil. Puree the remaining 1/2 can of garbanzo beans using a blender or food processor, and stir into the saucepan. Place the sprigs of rosemary into the pan without breaking off the leaves. The sprigs will be removed before serving."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add acini de pepe pasta and simmer until pasta is soft, stirring gently to prevent sticking. Remove rosemary, and season with salt and pepper."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

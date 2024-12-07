@@ -1,0 +1,73 @@
+{
+    "headline": "Cranked Up Corn Chowder",
+    "name": "Cranked Up Corn Chowder",
+    "description": "Roasted fresh corn and canned cream-style corn are both used in this hearty corn chowder, chock full of potatoes, celery, and carrots.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "313 kcal",
+        "carbohydrateContent": "31 g",
+        "cholesterolContent": "54 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "729 mg",
+        "sugarContent": "6 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 ears corn, kernels cut from cob",
+        "2 tablespoons olive oil, divided",
+        "1 onion, diced",
+        "1 cup shredded carrot",
+        "1 stalk celery, chopped",
+        "1 clove garlic",
+        "4 cups chicken broth",
+        "4 red potatoes, cut into bite-size pieces",
+        "2 cups light cream",
+        "1 (15 ounce) can cream-style corn",
+        "1 teaspoon finely chopped parsley",
+        "salt and ground black pepper to taste",
+        "3 tablespoons butter",
+        "2 tablespoons all-purpose flour"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine corn kernels and 1 tablespoon olive oil in a baking dish; stir to coat corn kernels in oil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast corn in preheated oven for 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon olive oil in a large pot over medium heat. Cook and stir onion, carrot, celery, and garlic in the olive oil until tender, 5 to 7 minutes. Stir chicken broth, roasted corn, potatoes, light cream, cream-style corn, parsley, salt, and pepper into the vegetable mixture; bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a small skillet over medium-low heat; stir flour into melted butter and whisk until a paste forms and begins to thin, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir roux into the chowder; continue cooking until chowder is thickened, about 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

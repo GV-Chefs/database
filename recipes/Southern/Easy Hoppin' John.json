@@ -1,0 +1,49 @@
+{
+    "headline": "Easy Hoppin' John",
+    "name": "Easy Hoppin' John",
+    "description": "This easy Hoppin' John recipe uses canned black-eyed peas and instant rice to make a quicker version of the beloved Southern dish in under an hour.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "406 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "39 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1153 mg",
+        "sugarContent": "1 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound smoked beef sausage, cut into bite-size pieces",
+        "1 small onion, chopped",
+        "3 (15 ounce) cans black-eyed peas, rinsed and drained",
+        "2 (10.75 ounce) cans low sodium chicken stock",
+        "1 cup water",
+        "0.5 teaspoon cayenne pepper, or to taste",
+        "2 cups uncooked instant rice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place sausage and onion into a large saucepan over medium heat; cook and stir until sausage begins to brown, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in black-eyed peas, chicken stock, water, and cayenne pepper, and bring to a boil. Stir in rice; cover and cook, stirring occasionally, until rice is tender, 20 to 25 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

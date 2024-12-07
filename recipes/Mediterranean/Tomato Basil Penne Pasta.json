@@ -1,0 +1,113 @@
+{
+    "headline": "Tomato Basil Penne Pasta",
+    "name": "Tomato Basil Penne Pasta",
+    "description": "This penne pasta is made with sweet grape tomatoes slow-simmered with garlic, then mixed with 3 cheeses to create a Mediterranean-style pasta dish.",
+    "recipeCuisine": [
+        "Mediterranean Inspired"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "502 kcal",
+        "carbohydrateContent": "47 g",
+        "cholesterolContent": "58 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "462 mg",
+        "sugarContent": "2 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (8 ounce) package penne pasta",
+        "1 tablespoon basil oil",
+        "1 tablespoon olive oil",
+        "3 cloves garlic, minced",
+        "1 pint grape tomatoes, halved",
+        "1 cup shredded pepper Jack cheese",
+        "1 cup shredded mozzarella cheese",
+        "0.25 cup grated Parmesan cheese",
+        "1 tablespoon minced fresh basil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oe3r1JqVXQe1Ehs6DS0gMNr-JfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-001-f217edb900114849a5cef4f40f6628db.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/YewLcD7ucJKwlyuWunijhwY1gXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-002-f0f0ea0c4ea742b384ad2c6825b7fe54.jpg"
+                }
+            ],
+            "text": "Bring a large pot of water to a rolling boil over high heat. Cook pasta in boiling water until cooked through but still firm to the bite, about 10 minutes. Drain and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6USe5IImjkUQPAHO4ubUxiLqsQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-003-a37000fc289b44b187d8ccddf8310321.jpg"
+                }
+            ],
+            "text": "Heat both oils in a large skillet over medium-high heat. Add garlic and cook until soft, 1 to 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/81jhN10ISG967_zOG6WM6Yg9YNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-004-804a90d319fa42b9a3a7483a2275cfe0.jpg"
+                }
+            ],
+            "text": "Add tomatoes, reduce heat to medium, and simmer for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/DqrqJFhQGvzYVsAvZULxmMenF_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-005-055be24392e14760be73a60effaac6b6.jpg"
+                }
+            ],
+            "text": "Stir in pepper Jack, mozzarella, and Parmesan cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5-J2zkWBWwsAyM2jwj_SQ-JkGRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-006-cda9876c9875431fadf92dc7e3ff738e.jpg"
+                }
+            ],
+            "text": "When cheese begins to melt, mix in cooked penne pasta."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cSL5VdXjGxAREOK7FuRvsV17G44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Beauty-4x3-fe8a68f4b54049b0b17a6bdf3f85a5c0.jpg"
+                }
+            ],
+            "text": "Season with fresh basil."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

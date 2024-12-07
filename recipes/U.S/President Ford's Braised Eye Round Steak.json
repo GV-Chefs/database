@@ -1,0 +1,84 @@
+{
+    "headline": "President Ford's Braised Eye Round Steak",
+    "name": "President Ford's Braised Eye Round Steak",
+    "description": "This eye of round steak recipe features herb-seasoned beef and caramelized onions simmered in a flavorful Burgundy red wine sauce until fork tender.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "342 kcal",
+        "carbohydrateContent": "10 g",
+        "cholesterolContent": "71 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "28 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "347 mg",
+        "sugarContent": "3 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons vegetable oil",
+        "2 large onions, sliced",
+        "12 (4 ounce) beef eye of round steaks",
+        "1 teaspoon seasoned salt",
+        "0.25 teaspoon dried thyme",
+        "0.25 cup all-purpose flour for coating",
+        "1 cup Burgundy wine",
+        "1 cup beef consomme",
+        "1 teaspoon chopped fresh parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OZxb0MhqgiCNDvtsZeDH2JcXnOU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152453-homemade-k152453-president-fords-braised-eye-round-steak-ddmfs-28-step-1.CR3-ccdeecb9589041efb45c8bc6018a38fc.jpg"
+                }
+            ],
+            "text": "Heat oil in a large skillet over medium-high heat. Add onions; cook and stir until lightly browned and tender, about 5 minutes. Use a slotted spoon to transfer onions to a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rLRPWQ6yqGuRtehMzfbNx8hlfws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152453-president-fords-braised-eye-round-steak-ddmfs-284250-step-2-be47d8d45b514adeaf236bc61f39a343.jpg"
+                }
+            ],
+            "text": "Season steaks with seasoned salt and thyme, then dust lightly with flour. Fry steaks in the skillet over medium-high heat until browned, about 5 minutes per side."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/H_dkPioxKYhdYEuU8hxaB484B5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152453-president-fords-braised-eye-round-steak-ddmfs-284251-step-3-abae1529a01645d9b4fd7a95c4a51dca.jpg"
+                }
+            ],
+            "text": "Pour red wine and beef consomm\u00e9 into the skillet with steaks. Return onions to the skillet. Cook until the aroma of wine dissipates, 2 to 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/n1_HE16-tw9u_QeyV2QGrzm2how=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152453-president-fords-braised-eye-round-steak-ddmfs-284251-step-4-47b090b11c4f49c3b7ac26698f4d2ff8.jpg"
+                }
+            ],
+            "text": "Reduce heat to low, cover, and simmer for 1 hour. Serve steaks with sauce, garnish with chopped parsley."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

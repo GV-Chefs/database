@@ -1,0 +1,61 @@
+{
+    "headline": "Fried Frog's Legs",
+    "name": "Fried Frog's Legs",
+    "description": "Fried frog's legs are tender and slightly sweet. In this recipe they are coated with a salty cracker crumb coating for extra crispiness.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "413 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "107 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "1102 mg",
+        "sugarContent": "1 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "24 frog legs, skin removed",
+        "1 cup all-purpose flour",
+        "0.5 cup cornmeal",
+        "1 (4 ounce) packet saltine crackers, crushed",
+        "1 tablespoon ground black pepper",
+        "2 teaspoons salt",
+        "1 teaspoon minced onion",
+        "2 eggs",
+        "0.5 cup milk",
+        "2 cups vegetable oil for frying",
+        "1 cup peanut oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Rinse frog legs and pat dry; set aside. Combine flour, cornmeal, saltine cracker crumbs, pepper, salt, and onion in a large resealable bag; shake well to mix. Whisk eggs and milk together in a shallow bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat vegetable oil and peanut oil in a large skillet over medium-high heat. The oil should be about 1/2 inch deep."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip legs into egg mixture in batches, then press into cracker mixture until evenly coated. Place the breaded legs, unstacked, onto a plate. Repeat with remaining legs."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lower breaded legs carefully into the hot oil in batches. Fry until golden brown, about 4 to 5 minutes on each side. Transfer to a paper towel-lined plate to drain. Repeat with remaining frog legs."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

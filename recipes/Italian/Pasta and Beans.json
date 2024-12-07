@@ -1,0 +1,51 @@
+{
+    "headline": "Pasta and Beans",
+    "name": "Pasta and Beans",
+    "description": "Simple yet delicious- cannellini beans and penne pasta mixed with chopped onion and fresh tomatoes.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "279 kcal",
+        "carbohydrateContent": "46 g",
+        "fiberContent": "6 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "228 mg",
+        "sugarContent": "4 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 tablespoons extra virgin olive oil",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1 (15 ounce) can cannellini beans",
+        "2 cups penne pasta",
+        "salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a medium size saucepan heat the olive oil. Saute onion until tender. Stir in tomatoes and entire can of beans. Let simmer for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add penne pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix pasta with bean mixture and salt as desired."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

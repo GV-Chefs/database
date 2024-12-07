@@ -1,0 +1,122 @@
+{
+    "headline": "Southern Fried Catfish",
+    "name": "Southern Fried Catfish",
+    "description": "This fried catfish recipe is made with fish fillets marinated in buttermilk and coated with Old Bay cornmeal, deep-fried until crisp and golden brown.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1427 kcal",
+        "carbohydrateContent": "132 g",
+        "cholesterolContent": "145 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "46 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "800 mg",
+        "sugarContent": "6 g",
+        "fatContent": "79 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup buttermilk",
+        "0.5 cup water",
+        "salt and pepper, to taste",
+        "1 pound catfish fillets, cut in strips",
+        "1.5 cups fine cornmeal",
+        "0.5 cup all-purpose flour",
+        "1 teaspoon seafood seasoning, such as Old Bay\u2122",
+        "1 quart vegetable oil for deep frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zACb0jXciApU9JxLJH-fZr9h-qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-step-0-61f90cb8c0024397aaa0392d54e7a668.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/V0z59aw5dgW1gtuVNCDn1Ln_Z9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-Step1-bf333ee4cb3d42c59fd09de5de0c099d.jpg"
+                }
+            ],
+            "text": "Mix buttermilk, water, salt, and pepper in a small bowl. Pour mixture into a flat pan large enough to hold fillets."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/9C07DkKISld_TWS6OnAYeNwKOg4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-Step2-bd7e888140934ce1ac123c400dbd9e68.jpg"
+                }
+            ],
+            "text": "Arrange fillets in a single layer in the pan, turning to coat each side. Set aside to marinate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rDYXyS2GhwpAS7W5Qc4EYRAYjAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-Step3-ef59f3b8ff2d425faee74b8128b5bbf8.jpg"
+                }
+            ],
+            "text": "Combine cornmeal, flour, and seafood seasoning in a 2-gallon resealable plastic bag."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/C_mVxqdAm1xFCYoElC4QDBRSDD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-Step4-83d109e2659d461e9abd03fb3ac241fd.jpg"
+                }
+            ],
+            "text": "Add fillets to the bag, a few at a time, and tumble gently until evenly coated."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vJiJmylBPuUO6jYEH5jvU7B73rY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-Step5-926f988a1d9345a4b245cc01b0e880e0.jpg"
+                }
+            ],
+            "text": "Heat oil in a deep fryer to 365 degrees F (185 degrees C). Fry fillets in hot oil until crisp and golden brown, about 3 minutes. Work in batches to avoid overcrowding, so fillets have room to brown properly."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/YrFzkZRW0WWb1CumaDuZEvG6v7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-Step6-48c590dc9f704176841fba8c21d7fc96.jpg"
+                }
+            ],
+            "text": "Drain on paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/4Zilyeyqtz4shmiKprMpRdnm_cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-140930-Southern-Fried-Catfish-Beauty-4x3-70c5e0d8071248afbe4184fb4f33f6dc.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

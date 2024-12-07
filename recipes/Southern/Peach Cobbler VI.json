@@ -1,0 +1,56 @@
+{
+    "headline": "Peach Cobbler VI",
+    "name": "Peach Cobbler VI",
+    "description": "This is a wonderful Southern recipe... very easy and tastes great!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "299 kcal",
+        "carbohydrateContent": "47 g",
+        "cholesterolContent": "2 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "383 mg",
+        "sugarContent": "33 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup all-purpose flour",
+        "0.5 cup brown sugar",
+        "0.5 cup white sugar",
+        "2 teaspoons baking powder",
+        "0.5 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "0.75 cup milk",
+        "0.5 cup margarine, melted",
+        "1 (29 ounce) can sliced canned peaches, drained",
+        "1 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C). Grease a 9x9-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, combine flour, brown sugar, white sugar, baking powder, salt, and vanilla. Pour milk into dry ingredients, and then stir in melted margarine. Mix thoroughly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour mixture into prepared baking pan. Arrange peaches on top and sprinkle with cinnamon. Bake in preheated oven until golden brown, about 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

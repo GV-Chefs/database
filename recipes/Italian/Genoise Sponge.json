@@ -1,0 +1,59 @@
+{
+    "headline": "Genoise Sponge",
+    "name": "Genoise Sponge",
+    "description": "Genoise sponge is a classic European cake made with whipped egg whites. It has a nice buttery color and a fairly firm texture making it perfect for layer cakes.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "326 kcal",
+        "carbohydrateContent": "41 g",
+        "cholesterolContent": "128 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "252 mg",
+        "sugarContent": "25 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "6 egg whites",
+        "0.5 teaspoon cream of tartar",
+        "0.75 cup white sugar",
+        "1 cup butter, softened",
+        "1 cup white sugar",
+        "6 egg yolks",
+        "2 cups sifted cake flour",
+        "0.5 teaspoon baking powder",
+        "0.5 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 10-inch cake pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat egg whites and cream of tartar until soft peaks form. Add 3/4 cup sugar gradually, beating until very stiff."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cream butter and 1 cup sugar in a large bowl with an electric beater until light in color. Add egg yolks, and beat until thick and fluffy. Sift flour, baking powder, and salt over batter; fold in. Gently fold in egg whites. Pour batter into prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 50 to 60 minutes. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely."
+        }
+    ],
+    "recipeYield": [
+        "14"
+    ]
+}

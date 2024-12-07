@@ -1,0 +1,81 @@
+{
+    "headline": "Slow-Cooker Corned Beef and Cabbage",
+    "name": "Slow-Cooker Corned Beef and Cabbage",
+    "description": "Cook corned beef in a slow cooker for a foolproof and delicious St. Patrick's Day dinner that cooks all day and lets you celebrate the easy way!",
+    "recipeCuisine": [
+        "Irish"
+    ],
+    "totalTime": "PT495M",
+    "cookTime": "PT480M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "473 kcal",
+        "carbohydrateContent": "50 g",
+        "cholesterolContent": "100 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1281 mg",
+        "sugarContent": "7 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "10 baby red potatoes, quartered",
+        "4 large carrots, peeled and cut into matchstick pieces",
+        "1 onion, peeled and cut into bite-sized pieces",
+        "4 cups water",
+        "1 (4 pound) corned beef brisket with spice packet",
+        "6 ounces beer",
+        "0.5 head cabbage, coarsely chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TLVf8po35Mf-TC0ScJPi9Xb2djo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-84270-slow-cooker-corned-beef-and-cabbage-ddmfs-ingredients-853b27bd26664129911d94579e3d8e23.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vm97wdteF0Y_ewHK5PpvwQmAfbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-84270-slow-cooker-corned-beef-and-cabbage-ddmfs-step1-1-b4c6411199c543ca91d441058e057f02.jpg"
+                }
+            ],
+            "text": "Place potatoes, carrots, and onion into the bottom of a slow cooker; add water and place brisket on top of vegetables."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/HaquKni8fLA_pylsREEyccZypWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-84270-slow-cooker-corned-beef-and-cabbage-ddmfs-step2-eccce26099f14c278554fc21c7a3324f.jpg"
+                }
+            ],
+            "text": "Pour beer over brisket; sprinkle over spices from the packet and cover."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1hVWx30o03NL_kEeyopn3QYFFmE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-84270-slow-cooker-corned-beef-and-cabbage-ddmfs-4x3-958ceac8d36d40ceafa0551648e7cb62.jpg"
+                }
+            ],
+            "text": "Cook on High for 7 hours; stir in the cabbage and cook for 1 more hour."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

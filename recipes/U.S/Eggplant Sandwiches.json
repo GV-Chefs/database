@@ -1,0 +1,51 @@
+{
+    "headline": "Eggplant Sandwiches",
+    "name": "Eggplant Sandwiches",
+    "description": "A delicious vegetarian eggplant sandwich made with roasted eggplant slices layered in a bread roll with feta cheese, tomato, basil, and garlic mayo.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "802 kcal",
+        "carbohydrateContent": "91 g",
+        "cholesterolContent": "44 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "1460 mg",
+        "sugarContent": "12 g",
+        "fatContent": "40 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Sandwich"
+    ],
+    "recipeIngredient": [
+        "1 small eggplant, halved and sliced",
+        "1 tablespoon olive oil, or as needed",
+        "0.25 cup mayonnaise",
+        "2 cloves garlic, minced",
+        "2 (6 inch) French sandwich rolls",
+        "1 small tomato, sliced",
+        "0.5 cup crumbled feta cheese",
+        "0.25 cup chopped fresh basil leaves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat your oven's broiler. Brush eggplant slices with olive oil, and place them on a baking sheet or broiling pan. Place the pan about 6 inches from the heat source. Cook under the broiler for 10 minutes, or until tender and toasted."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Split the French rolls lengthwise, and toast. Stir mayonnaise and garlic together in a cup or small bowl; spread on the toasted bread. Fill rolls with eggplant slices, tomato, feta cheese and basil leaves."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

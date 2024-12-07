@@ -1,0 +1,63 @@
+{
+    "headline": "Cast Iron Skillet Buttermilk Cornbread",
+    "name": "Cast Iron Skillet Buttermilk Cornbread",
+    "description": "White and yellow cornmeal are combined with lard and buttermilk and baked in a cast iron skillet in this traditional Southern cornbread.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "202 kcal",
+        "carbohydrateContent": "27 g",
+        "cholesterolContent": "29 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "635 mg",
+        "sugarContent": "2 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeIngredient": [
+        "1 cup white cornmeal",
+        "0.5 cup yellow cornmeal",
+        "0.5 cup all-purpose flour",
+        "4 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 cup buttermilk",
+        "2 tablespoons lard",
+        "2 tablespoons vegetable oil",
+        "1 large egg",
+        "1 teaspoon butter, or as needed",
+        "1 pinch paprika",
+        "1 pinch kosher salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place a cast iron skillet in the oven and preheat to 450 degrees F (230 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix white cornmeal, yellow cornmeal, flour, baking powder, and salt together in a large bowl. Add buttermilk, lard, and vegetable oil; stir will to combine. Stir in egg until smooth batter forms."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove hot cast iron skillet from oven, melt butter in skillet, then pour in batter. Top with paprika and kosher salt. Return skillet to oven."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce temperature to 425 degrees F (220 degrees C) and bake until cornbread is golden brown and pulling away from the sides of the pan, about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from oven to cool slightly, about 5 minutes. Cut into wedges."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

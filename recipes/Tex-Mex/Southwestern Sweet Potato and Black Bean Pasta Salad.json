@@ -1,0 +1,77 @@
+{
+    "headline": "Southwestern Sweet Potato and Black Bean Pasta Salad",
+    "name": "Southwestern Sweet Potato and Black Bean Pasta Salad",
+    "description": "This southwestern sweet potato and black bean pasta salad combines all your favorite southwestern components with pasta in a chipotle vinaigrette.",
+    "recipeCuisine": [
+        "Tex-Mex"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "382 kcal",
+        "carbohydrateContent": "38 g",
+        "cholesterolContent": "12 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1271 mg",
+        "sugarContent": "7 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish",
+        "Pasta",
+        "Salad"
+    ],
+    "recipeIngredient": [
+        "1 pound pasta such as bow-ties or penne",
+        "5 chipotles in adobo, plus 1 tablespoon adobo sauce, divided",
+        "1 cloves garlic",
+        "1 teaspoon dried oregano",
+        "1/4 teaspoon ground cumin",
+        "2 Tablespoons honey",
+        "6 Tablespoons red wine vinegar",
+        "2/3 cup olive oil",
+        "2 large sweet potatoes, cut into 1 inch cubes",
+        "2 Tablespoons olive oil",
+        "2 1/2 Tablespoons kosher salt, plus more to taste, divided",
+        "1/2 teaspoon freshly ground black pepper",
+        "1 15 ounce can black beans, drained and rinsed",
+        "2/3 cup finely chopped red onion",
+        "1/2 cup finely chopped cilantro",
+        "1 cup crumbled cotija cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C).\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook pasta at a boil, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain and set aside to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For vinaigrette, place 2 chipotle peppers, plus 1 tablespoon sauce into a blender. Add garlic, oregano, honey, and red wine vinegar, and blend on high until well combined. Drizzle in the 2/3 cup olive oil with blender running until smooth, and set aside. Chop remaining peppers finely and stir into vinaigrette. Refrigerate until ready to use.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Toss potatoes in 2 tablespoons olive oil, black pepper, and remaining salt. Coat a baking sheet with nonstick spray or line with parchment, and spread potatoes in an even layer on the sheet.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast in the preheated oven until browned, about 20 minutes, stirring halfway through. Remove from oven and set aside.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl combine cooked pasta with black beans, onion, cilantro, and toss.\u00a0 Add in potatoes and 3/4 cup vinaigrette, or more as needed, and toss gently (reserve any remaining vinaigrette for another use). Season with salt and pepper, and stir in cotija cheese. Serve immediately or refrigerate until ready to serve."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "headline": "Fish Puttanesca",
+    "name": "Fish Puttanesca",
+    "description": "This fish puttanesca, cod filets in a simple but robust puttanesca sauce, is served over spaghetti. Any mild white fish will work just fine in this dish.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "518 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "132 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "47 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "851 mg",
+        "sugarContent": "6 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "1/2 pound spaghetti",
+        "2 Tablespoons olive oil",
+        "2 Tablespoons capers",
+        "1 Tablespoon anchovy paste, or to taste",
+        "4 garlic cloves, peeled, thinly sliced",
+        "1 teaspoon crushed red pepper, optional",
+        "1 (28 ounce) can whole, peeled San Marzano tomatoes",
+        "1/2 cup pitted and sliced Kalamata olives",
+        "2 Tablespoons minced fresh Italian parsley",
+        "Salt and pepper to taste",
+        "4 (6 ounce) cod filets, or other mildly flavored white fish",
+        "Fresh Italian parsley sprigs for optional garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat olive oil in a large skillet over medium-low heat until it shimmers."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add capers, anchovy paste, garlic, and red pepper and cook, stirring frequently, until garlic is soft and fragrant, about 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain off about 1/2 cup of the liquid in the tomato can and discard. With clean hands, crush tomatoes, and add to the skillet with the remaining juice. Stir in olives and minced parsley. Season to taste with salt and black pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring sauce to a boil, add fish filets, and reduce heat to a simmer. Sauce should bubble occasionally, but not boil, once fish have been added."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook until fish flakes easily with a fork, 8 to 10 minutes, spooning sauce over fish occasionally. Thin filets may cook more quickly. An instant read thermometer inserted in the fish should read 145 degrees F (63 degrees C).\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Evenly divide spaghetti into 4 serving dishes. Place 1 filet in each dish and ladle sauce over all. Garnish with parsley sprigs."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

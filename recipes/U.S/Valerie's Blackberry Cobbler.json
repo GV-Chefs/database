@@ -1,0 +1,52 @@
+{
+    "headline": "Valerie's Blackberry Cobbler",
+    "name": "Valerie's Blackberry Cobbler",
+    "description": "Try this super simple blackberry cobbler recipe the next time you find yourself with an abundance of blackberries for a tasty, comforting dessert.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "337 kcal",
+        "carbohydrateContent": "60 g",
+        "cholesterolContent": "26 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "367 mg",
+        "sugarContent": "41 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.5 cup butter",
+        "2 cups self-rising flour",
+        "2 cups white sugar",
+        "2 cups milk",
+        "3.5 cups blackberries"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Once oven temperature is reached, melt butter in a 9x13-inch baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir together flour, sugar, and milk in a medium bowl; batter will be slightly lumpy. Pour mixture on top of melted butter in the baking pan. Do not mix butter and mixture together."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drop blackberries into batter; if more crust is desired add less blackberries. Bake in the preheated oven until golden brown, about 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "11"
+    ]
+}

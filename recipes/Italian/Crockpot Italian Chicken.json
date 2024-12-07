@@ -1,0 +1,46 @@
+{
+    "headline": "Crockpot Italian Chicken",
+    "name": "Crockpot Italian Chicken",
+    "description": "Chicken breasts, Italian dressing, and Parmesan cheese are all you need for this three-ingredient crockpot Italian chicken to be ready to eat when you get home.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT485M",
+    "cookTime": "PT480M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "506 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "107 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "39 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1368 mg",
+        "sugarContent": "13 g",
+        "fatContent": "31 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) bottle Italian dressing (such as Olive Garden\u2120 Signature Italian Dressing)",
+        "1/4 cup grated Parmesan cheese",
+        "4 boneless, skinless chicken breasts"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Stir Italian dressing and Parmesan cheese together in a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken in a slow cooker, and pour dressing mixture over chicken. Cover and cook on Low until chicken is tender, no longer pink in the center, and the juices run clear, about 8 hours."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "headline": "Pasta Fazool (Pasta e Fagioli)",
+    "name": "Pasta Fazool (Pasta e Fagioli)",
+    "description": "This pasta fazool recipe is Chef John's version of the classic Italian comfort food dish made with sweet Italian sausage, white beans, and pasta.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "888 kcal",
+        "carbohydrateContent": "77 g",
+        "cholesterolContent": "84 mg",
+        "fiberContent": "13 g",
+        "proteinContent": "44 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "4200 mg",
+        "sugarContent": "10 g",
+        "fatContent": "44 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "12 ounces sweet bulk Italian sausage",
+        "1 stalk celery, diced",
+        "0.5 yellow onion, chopped",
+        "0.75 cup dry elbow macaroni",
+        "0.25 cup tomato paste",
+        "3 cups chicken broth, or more as needed, divided",
+        "0.25 teaspoon crushed red pepper flakes, or to taste",
+        "0.25 teaspoon dried oregano",
+        "Salt and freshly ground black pepper to taste",
+        "3 cups chopped Swiss chard",
+        "1 (15 ounce) can cannellini (white kidney) beans, drained",
+        "0.25 cup grated Parmigiano-Reggiano cheese, plus additional for serving, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8v9_vBTayMnc8t2BPfHWWTTa3tI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255823-Pasta-Fazool-pasta-e-fagioli-ddmfs-step-1-119-9f6296068cc046378f970b231d294d06.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PGAM1zW5U3sEbEmQj1Gq3Hc6a90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255823-Pasta-Fazool-pasta-e-fagioli-ddmfs-step-2-138-02a81f6c3ae7400ab391f6d36e0bd369.jpg"
+                }
+            ],
+            "text": "Heat oil in a skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, about 5 minutes. Reduce heat to medium. Add diced celery and chopped onion. Cook until onions are translucent, 4 to 5 minutes. Add dry pasta; cook and stir for 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wbvcnz-ynu57K0IXsLYGVNVMQ6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255823-Pasta-Fazool-pasta-e-fagioli-ddmfs-step-3-252-cf0b93d1358b4189bc2a48bdd2e428af.jpg"
+                }
+            ],
+            "text": "Stir in tomato paste until evenly distributed, 2 to 3 minutes. Pour in 3 cups broth; increase heat to high and bring to a boil. Stir in red pepper flakes, oregano, salt, and pepper. Reduce heat to medium and let simmer, stirring often, for about 5 minutes. Add more broth if needed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AcmIsY3Ozs33BaNsOfq6gHK6ZCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255823-Pasta-Fazool-pasta-e-fagioli-ddmfs-step-4-254-e994f71a484a4d648e89e6ef5ef3034e.jpg"
+                }
+            ],
+            "text": "Place chopped chard in a bowl. Cover with cold water and rinse leaves; any grit will fall to the bottom of the bowl. Transfer chard to a colander to drain briefly; add to soup. Cook and stir until leaves wilt, 2 to 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/pZsGfCyud619kavjZr8aFTXrvH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255823-Pasta-Fazool-pasta-e-fagioli-ddmfs-step-5-256-98364fec0f01417f97a1e62926d17816.jpg"
+                }
+            ],
+            "text": "Stir in white beans; continue cooking and stirring until pasta is tender, 4 to 5 minutes. Remove from heat and stir in grated cheese. Serve topped with additional grated cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oBq0Fa2lyGOGg2lLOL9gHdzAHi4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255823-Pasta-Fazool-pasta-e-fagioli-ddmfs-3x4-297-a3efce7990a043699e2e5162c035cef6.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

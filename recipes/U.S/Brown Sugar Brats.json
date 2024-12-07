@@ -1,0 +1,48 @@
+{
+    "headline": "Brown Sugar Brats",
+    "name": "Brown Sugar Brats",
+    "description": "Brats, which are a major food group in Wisconsin, along with cheese, beer and venison, are cooked in the classic electric roaster with apples, onion, and brown sugar.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT195M",
+    "cookTime": "PT180M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "611 kcal",
+        "carbohydrateContent": "63 g",
+        "cholesterolContent": "84 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "977 mg",
+        "sugarContent": "50 g",
+        "fatContent": "33 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "3 pounds fresh bratwurst sausages",
+        "5 large apples - peeled, cored and sliced",
+        "6 onions, sliced",
+        "1 (16 ounce) package brown sugar",
+        "1 cup water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place the brats into the bottom of a large electric covered roaster (such as a Nesco\u00ae). Layer the apples, then the onions, then the brown sugar over the brats. Pour the water over the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover the roaster and cook the brats at 325 degrees F (165 degrees C) for 3 hours. Brats will look dark and candied when ready."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

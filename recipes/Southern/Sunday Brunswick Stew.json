@@ -1,0 +1,58 @@
+{
+    "headline": "Sunday Brunswick Stew",
+    "name": "Sunday Brunswick Stew",
+    "description": "This savory stew is perfect for using up leftover pork roast. It's packed with veggies and beans and delivers a balance of sweet and savory flavors.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT265M",
+    "cookTime": "PT250M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "292 kcal",
+        "carbohydrateContent": "48 g",
+        "cholesterolContent": "35 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1464 mg",
+        "sugarContent": "22 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "2 onions, diced",
+        "2 stalks celery, diced",
+        "2 cloves garlic, finely chopped",
+        "1 (32 fluid ounce) container chicken stock",
+        "1 (28 ounce) can diced tomatoes",
+        "1 (28 ounce) can baked beans",
+        "1 (18 ounce) bottle hickory-flavored barbeque sauce",
+        "1 (15 ounce) can cream-style corn",
+        "3 cups shredded or chopped cooked pork",
+        "2 cups diced peeled butternut squash",
+        "1 cup frozen peas",
+        "1 teaspoon salt",
+        "0.75 teaspoon paprika",
+        "0.5 teaspoon ground cumin",
+        "0.25 teaspoon cayenne pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet over medium heat. Add onions and celery; cook and stir until onion is translucent, 5 to 7 minutes. Stir in garlic; cook and stir for 2 more minutes. Transfer mixture to a slow cooker."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in chicken stock, diced tomatoes, baked beans, barbecue sauce, pork, butternut squash, corn, peas, salt, paprika, cumin, and cayenne. Cover and cook on High for 4 hours."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

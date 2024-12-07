@@ -1,0 +1,95 @@
+{
+    "headline": "Creamy Pesto Shrimp",
+    "name": "Creamy Pesto Shrimp",
+    "description": "This easy pesto shrimp pasta recipe features linguine and shrimp in a luxuriously creamy sauce made with butter, cream, Parmesan cheese and pesto. Yum!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "646 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "210 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "24 g",
+        "sodiumContent": "437 mg",
+        "sugarContent": "0 g",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound linguine pasta",
+        "0.5 cup butter",
+        "2 cups heavy cream",
+        "0.5 teaspoon ground black pepper",
+        "1 cup grated Parmesan cheese",
+        "0.33333334326744 cup pesto",
+        "1 pound large shrimp, peeled and deveined"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zvjS-8m9awSZYq_kqH2hpHEx13s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step1-1482-4x3-cf6881d8c7e64ebb90f0c64f2ddefea0.jpg"
+                }
+            ],
+            "text": "Gather ingredients together."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TLb4CPtBHbCC5o-nOjTXlNVGopA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step2-1545-4x3-9352069c66d24c7a8961293ce3d4e826.jpg"
+                }
+            ],
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in linguine and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt butter in a large skillet over medium heat. Stir in cream and season with pepper; cook, stirring constantly, for 6 to 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/e3FdJ8PP2CnK84uQI_FZacrLBBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step3-1549-4x3-069b8e8855924cf5b451a4baa47bee5f.jpg"
+                }
+            ],
+            "text": "Stir Parmesan cheese into cream sauce until thoroughly mixed. Stir in pesto and cook until thickened, 3 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yRBNcfGOYcs5rQ8B_os6_dXoOuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step4-1550-4x3-b44a414b0a034fa69af553ac2bd3679e.jpg"
+                }
+            ],
+            "text": "Stir in shrimp and cook until they turn pink, about 5 minutes. Serve sauce over hot linguine."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/kUSw-v_Tqc4WUrqVqxxJgut1fig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-beauty-1560-4x3-f45231b50a62405cb7649367f3fc433e.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

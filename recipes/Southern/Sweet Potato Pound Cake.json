@@ -1,0 +1,68 @@
+{
+    "headline": "Sweet Potato Pound Cake",
+    "name": "Sweet Potato Pound Cake",
+    "description": "This sweet potato pound cake is baked in a Bundt pan and topped with an delicious citrus glaze. Perfect for feeding a large holiday party crowd.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT120M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "432 kcal",
+        "carbohydrateContent": "66 g",
+        "cholesterolContent": "94 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "304 mg",
+        "sugarContent": "41 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups white sugar",
+        "1 cup butter, softened",
+        "2 cups cooked and mashed sweet potatoes",
+        "1 teaspoon vanilla extract",
+        "4 large eggs",
+        "3 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 teaspoon ground cinnamon",
+        "0.5 teaspoon baking soda",
+        "0.5 teaspoon ground nutmeg",
+        "0.25 teaspoon salt",
+        "1 cup sifted confectioners' sugar",
+        "5 teaspoons orange juice",
+        "2 tablespoons grated orange zest"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 10-inch tube or Bundt pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make cake: Cream sugar and butter in a large bowl with an electric mixer on medium speed until light and fluffy. Mix in mashed sweet potatoes and vanilla until well blended. Add eggs, one at a time, mixing well after each addition. Sift together flour, baking powder, cinnamon, baking soda, nutmeg, and salt in a separate bowl; beat into potato mixture on low speed until combined. Pour batter into the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the cake comes out clean, about 1 hour and 20 minutes. Cool cake for 20 minutes in the pan, then invert onto a serving plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make glaze: Stir together confectioners' sugar with 3 to 5 teaspoons orange juice in a small bowl until a drizzling consistency is reached."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon glaze over warm cake and sprinkle with orange zest."
+        }
+    ],
+    "recipeYield": [
+        "14"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "headline": "Classic Pecan Pie",
+    "name": "Classic Pecan Pie",
+    "description": "This pecan pie recipe combines eggs, corn syrup, vanilla, and pecans in a pie crust. Bake until golden brown for a classic Thanksgiving dessert.",
+    "recipeCuisine": [
+        "U.S.",
+        "Southern"
+    ],
+    "totalTime": "PT195M",
+    "cookTime": "PT70M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "514 kcal",
+        "carbohydrateContent": "69 g",
+        "cholesterolContent": "77 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "223 mg",
+        "sugarContent": "38 g",
+        "fatContent": "26 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup Karo Light or Dark Corn Syrup",
+        "3 eggs",
+        "1 cup sugar",
+        "2 tablespoons butter, melted",
+        "1 teaspoon pure vanilla extract",
+        "1.5 cups (6 ounces) pecans",
+        "1 (9 inch) unbaked deep dish pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix corn syrup, eggs, sugar, butter, and vanilla together in a large bowl using a spoon; stir in pecans. Pour into pie crust."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 60 to 70 minutes. The pie is done when the center reaches 200 degrees F (95 degrees C). Tap the center surface of the pie lightly; it should spring back when done. If the pie crust is getting too brown, cover the edges with foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cool for 2 hours before serving."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

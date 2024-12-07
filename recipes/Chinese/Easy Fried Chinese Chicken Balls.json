@@ -1,0 +1,59 @@
+{
+    "headline": "Easy Fried Chinese Chicken Balls",
+    "name": "Easy Fried Chinese Chicken Balls",
+    "description": "These fried Chinese chicken balls are dipped in a cornstarch batter, then fried until golden for a crispy, succulent bite better than any restaurant.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "338 kcal",
+        "carbohydrateContent": "34 g",
+        "cholesterolContent": "65 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "27 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "341 mg",
+        "sugarContent": "0 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 pinch salt",
+        "1 teaspoon sesame oil",
+        "0.5 cup water, or more if needed",
+        "vegetable oil for frying",
+        "5 tablespoons cornstarch",
+        "1 pinch ground white pepper",
+        "4 boneless skinless chicken breasts, cubed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Make batter: Combine flour, baking powder, and salt in a large bowl. Drizzle in sesame oil. Gradually add water, whisking constantly until smooth; batter should be the consistency of cream. Let sit for at least 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fill a deep pan or wok with oil and slowly heat to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Prepare chicken: Mix together cornstarch and white pepper in a large shallow dish. Dust chicken in cornstarch mixture, then dip into batter, evenly coating each piece."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Working in batches, fry coated chicken in hot oil until golden and no longer pink in the center, 4 to 5 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).\u00a0Use a slotted spoon to remove fried chicken to a clean kitchen towel to drain."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

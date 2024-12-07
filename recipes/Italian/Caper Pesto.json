@@ -1,0 +1,75 @@
+{
+    "headline": "Caper Pesto",
+    "name": "Caper Pesto",
+    "description": "This fresh, herby pesto combines basil, dill, and capers with a bright twist of lemon and Parmesan for a zesty, aromatic spread. Perfect for pasta, sandwiches, or as a dip, this pesto puts a briny twist on a timeless Italian sauce.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "126 kcal",
+        "carbohydrateContent": "2 g",
+        "cholesterolContent": "4 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "172 mg",
+        "sugarContent": "0 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 cups packed fresh basil leaves",
+        "1/2 cup grated Parmesan cheese",
+        "1/2 cup olive oil",
+        "1/3 cup pine nuts",
+        "1/4 cup chopped green onions",
+        "1/4 cup packed fresh dill",
+        "3 Tablespoons capers",
+        "3 Tablespoons lemon juice",
+        "1 1/2 teaspoons lemon zest",
+        "2 cloves smashed garlic",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon black pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wFsf0prCSkE6JRSFdku0xlwQ_5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8741129-caper-pesto-recipe-VAT-step-01-c82d05a12d944a4c86c0d3f942144f88.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/f-5KiGaVzSzXDqsXhHmCq5jQNz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8741129-caper-pesto-recipe-VAT-4x3-pasta-1-b2e825a0ad424b06ae6b74b2bef58ebb.jpg"
+                }
+            ],
+            "text": "Process basil, Parmesan, oil, pine nuts, green onions, dill, capers, juice, zest, garlic, salt, and pepper in a food processor until nearly smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Agz42uM7_jAfFPrrzUmndOEfFXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8741129-caper-pesto-recipe-VAT-step-03-2-0d606a91fe1d40c895b9d06c283c75d1.jpg"
+                }
+            ],
+            "text": "Chill in an airtight container up to 1 week; freeze up to 3 months."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

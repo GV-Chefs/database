@@ -1,0 +1,57 @@
+{
+    "headline": "Cast Iron Corn Bread",
+    "name": "Cast Iron Corn Bread",
+    "description": "This savory corn bread is made in the traditional Southern style: not too sweet and very dry. Perfect with butter and maple syrup.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT42M",
+    "cookTime": "PT27M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "242 kcal",
+        "carbohydrateContent": "29 g",
+        "cholesterolContent": "50 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "657 mg",
+        "sugarContent": "2 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeIngredient": [
+        "2 eggs",
+        "1.5 cups milk",
+        "2.5 cups self-rising white cornmeal",
+        "0.5 teaspoon salt",
+        "3 tablespoons vegetable oil",
+        "2 tablespoons shortening"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk eggs together in a large bowl until light and frothy; stir in milk. Stir in cornmeal and salt. Add oil; stir until batter is smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place shortening in a 10-inch cast iron skillet; heat skillet in the preheated oven until shortening is liquefied, 2 to 3 minutes. Remove skillet and pour in batter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Return skillet to oven and bake until corn bread is lightly browned, 25 to 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove skillet from oven immediately and cover with wooden cutting board. Use oven mitts to invert skillet and tip corn bread onto cutting board. Cut into 8 wedges."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

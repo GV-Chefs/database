@@ -1,0 +1,49 @@
+{
+    "headline": "Depression Era Corn Chowder",
+    "name": "Depression Era Corn Chowder",
+    "description": "This corn chowder is made with just corn, potatoes, chicken broth, evaporated milk, onion and butter.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "331 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "48 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "470 mg",
+        "sugarContent": "14 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 (14.5 ounce) cans chicken broth",
+        "2 (15 ounce) cans whole kernel corn",
+        "1 large white onion, diced",
+        "3 cups diced potatoes",
+        "2 (12 fluid ounce) cans evaporated milk",
+        "0.33000001311302 cup butter",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large pot over medium heat, combine broth, corn, onion and potatoes. Bring to a boil, then reduce heat, cover and simmer 15 to 20 minutes, until potatoes are just tender."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in evaporated milk and butter until butter is just melted. Season with salt and pepper and serve at once."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

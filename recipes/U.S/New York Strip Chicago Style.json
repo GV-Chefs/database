@@ -1,0 +1,57 @@
+{
+    "headline": "New York Strip Chicago Style",
+    "name": "New York Strip Chicago Style",
+    "description": "New York Strip on a grill has never been easier. This recipe is easy and ingredients are usually around the house!",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "439 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "134 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "49 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "142 mg",
+        "sugarContent": "10 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon extra virgin olive oil",
+        "1 clove garlic, minced",
+        "0.5 teaspoon ground cinnamon",
+        "0.5 teaspoon white sugar",
+        "2 tablespoons apricot preserves",
+        "2 (1/2 pound) New York strip steaks, 1 inch thick",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a shallow glass dish, mix the olive oil, garlic, cinnamon, sugar, and apricot preserves. Mix well, as the preserves tend to stick until warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "With a knife, make several shallow slashes in both sides of the steaks. Sprinkle with salt and pepper. Place steaks in the dish with the sauce, and turn to coat. Cover with plastic wrap, and refrigerate for at least 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat grill for high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lightly oil the grill grate. Place steaks on the grill, and discard any remaining sauce. Grill steaks 10 minutes, turning occasionally, or to desired doneness."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

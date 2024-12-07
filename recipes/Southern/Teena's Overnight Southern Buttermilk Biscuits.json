@@ -1,0 +1,58 @@
+{
+    "headline": "Teena's Overnight Southern Buttermilk Biscuits",
+    "name": "Teena's Overnight Southern Buttermilk Biscuits",
+    "description": "Buttermilk makes the difference in these easy Southern-style biscuits that are refrigerated overnight to ensure they rise high, light and beautiful.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT515M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "273 kcal",
+        "carbohydrateContent": "35 g",
+        "cholesterolContent": "2 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "572 mg",
+        "sugarContent": "4 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 cups self-rising flour",
+        "2 tablespoons white sugar",
+        "0.66666668653488 cup shortening",
+        "2 cups buttermilk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Sift together flour and sugar in a large bowl. Cut in shortening until mixture resembles a fine crumb or cornmeal texture. Stir in buttermilk with a fork until a soft dough forms."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Turn dough out onto a floured surface, pulling off any pieces sticking inside the bowl. Gather dough into a ball and knead about 20 times, until smooth and elastic. Wrap in plastic wrap and refrigerate for 8 hours to overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Working on a floured surface, roll or pat dough out to 1-inch thickness. Cut into rounds with a 2-inch biscuit cutter or the floured rim of a glass, by pressing straight down and up. Twisting the cutter will prevent biscuits from rising as high. Place biscuits about 1 inch apart on an ungreased baking sheet and allow to rest a few minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until lightly brown, 12 to 15 minutes. Cool on a wire rack. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

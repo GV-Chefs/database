@@ -1,0 +1,90 @@
+{
+    "headline": "Slow Cooker Barbeque Chicken",
+    "name": "Slow Cooker Barbeque Chicken",
+    "description": "This BBQ chicken crockpot recipe combines chicken breasts with bottled BBQ sauce, vinegar, brown sugar, and garlic in a slow cooker for an easy meal.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT250M",
+    "cookTime": "PT240M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "364 kcal",
+        "carbohydrateContent": "60 g",
+        "cholesterolContent": "61 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1464 mg",
+        "sugarContent": "46 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 skinless, boneless chicken breast halves",
+        "1 (18 ounce) bottle barbeque sauce (such as Sweet Baby Ray's\u00ae)",
+        "0.25 cup distilled white vinegar",
+        "0.25 cup brown sugar",
+        "1 teaspoon garlic powder",
+        "0.5 teaspoon red pepper flakes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hhpTn_bF2j-fGweOn4vBQNsNrhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235111-Slow-Cooker-Barbeque-Chicken-DDMFS-4x3-step-01-f9d89f1722f14615902bd98c01b8f1be.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1SDh-HcR27hd8qI0PlR8UX1usrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235111-Slow-Cooker-Barbeque-Chicken-DDMFS-4x3-step-02-35fe879797ff4141a68655b96220c76b.jpg"
+                }
+            ],
+            "text": "Place chicken breast halves in a slow cooker."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Qz8e9Wn2S9EsxPi7cPcNB1CPTA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235111-Slow-Cooker-Barbeque-Chicken-DDMFS-4x3-step-03-fdef8acad6064f039ff3fce3144bef3b.jpg"
+                }
+            ],
+            "text": "Whisk together barbeque sauce, vinegar, brown sugar, garlic powder, and pepper flakes in a bowl until sugar dissolves; pour over chicken."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UZY3NgtXRM3QsEcOLpv8drHRlTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235111-Slow-Cooker-Barbeque-Chicken-DDMFS-4x3-step-04-3e3615b964eb45fe9b0fb6f8cfcfcb59.jpg"
+                }
+            ],
+            "text": "Cook on Low for 4 to 6 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hQAf-nc6Tgqud9geJdV-hG6eIXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235111-Slow-Cooker-Barbeque-Chicken-DDMFS-4x3-ba343d43d3cb4ef2b6a3e1fb66a4f5bf.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "headline": "Tuscan Chard and Cannellini Bean Soup",
+    "name": "Tuscan Chard and Cannellini Bean Soup",
+    "description": "This robust, hearty, chard-bean-pasta soup comes together in no time! Adding grated Parmigiano Reggiano or the rinds to the broth lends deeper flavor.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "215 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "14 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "494 mg",
+        "sugarContent": "3 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "2 slices smoked bacon, finely chopped",
+        "1 onion, chopped",
+        "1 clove garlic, minced",
+        "0.25 teaspoon freshly grated nutmeg",
+        "0.125 teaspoon crushed red pepper flakes",
+        "6 cups chicken broth, or more as needed",
+        "1 (15 ounce) can cannellini beans, drained and rinsed - or more to taste",
+        "2 tablespoons chopped sun-dried tomatoes",
+        "2 ounces Parmesan cheese rind",
+        "1 bunch red or white Swiss chard",
+        "0.25 cup uncooked small pasta, such as orzo or pastina",
+        "5 large fresh sage leaves, minced",
+        "5 leaves fresh basil, coarsely chopped",
+        "1 tablespoon grated Parmesan cheese, divided",
+        "1 tablespoon extra-virgin olive oil, divided"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cook bacon, onion, garlic, nutmeg, and red pepper flakes in a large saucepan over medium heat until onion is translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken broth and cannellini beans, and bring mixture to a boil. Stir in sun-dried tomatoes and Parmigiano Reggiano rind. Reduce heat to a simmer, and cook while you prepare chard, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut stems from chard, and slice into pieces about 3/4-inch long. Cut chard leaves into 1-inch wide ribbons. Stir chard stems and pasta into soup, setting aside leaves. Reduce heat to a simmer and cook until pasta is tender, about 10 minutes. Stir in chard leaves, sage, and basil. Simmer until just wilted, 3 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Ladle soup into bowls and top with grated Parmigiano Reggiano and a drizzle of olive oil, if desired."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

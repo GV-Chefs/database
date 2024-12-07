@@ -1,0 +1,100 @@
+{
+    "headline": "Dave's Low Country Boil",
+    "name": "Dave's Low Country Boil",
+    "description": "Low country boil is a famously flavorful one-pot feast of seafood, sausage, potatoes, and corn. It's an outdoor cooking classic, but fun indoors too.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "722 kcal",
+        "carbohydrateContent": "46 g",
+        "cholesterolContent": "333 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "68 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1576 mg",
+        "sugarContent": "5 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon seafood seasoning (such as Old Bay\u00ae), or to taste",
+        "5 pounds new potatoes",
+        "3 (16 ounce) packages cooked kielbasa sausage, cut into 1 inch pieces",
+        "8 ears fresh corn, husks and silks removed",
+        "5 pounds whole crab, broken into pieces",
+        "4 pounds fresh shrimp, peeled and deveined"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/05zX4pBwub_sLOG6j0fvwO9FQZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-44033-daves-low-country-boil-step-01-cd2ce92633f74283b65ce154e42f874f.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yrtw3dh8LPOShIh4zv7hOhb6dcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-44033-daves-low-country-boil-step-02-b60a0d2b52734107ad1d371a24342272.jpg"
+                }
+            ],
+            "text": "Heat a large pot of water over an outdoor cooker, or on the stovetop over medium-high heat. Add seafood seasoning to taste and bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iSgpxvfTH6lSobiCX8oXKpsNK5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-44033-daves-low-country-boil-step-03-4ecb963d508446a2bc76a43cc1553074.jpg"
+                }
+            ],
+            "text": "Add potatoes and sausage and cook for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yrZ5jm36ix5t-VU45tfavjwthJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-44033-daves-low-country-boil-step-04-9fd57bf9e90a4009bc83712c3cd6572e.jpg"
+                }
+            ],
+            "text": "Break corn ears in half; add corn and crab and cook for another 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AOnvyRRk6bocvuTRA2S59U2nsb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-44033-daves-low-country-boil-step-05-0bb017f5aacf40a4bc5582d7ec9a588d.jpg"
+                }
+            ],
+            "text": "Add shrimp when potatoes are almost tender and everything else is almost done; cook until shrimp are just cooked through, 3 to 4 minutes longer."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ULH8siilklAYA8cr2St7WWGEv2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-44033-daves-low-country-boil-Beauty-4x3-30b6e070c6f941f8a0acf090ef96315e.jpg"
+                }
+            ],
+            "text": "Drain off and discard the water. Pour the contents out onto a picnic table covered with newspaper."
+        }
+    ],
+    "recipeYield": [
+        "15"
+    ]
+}

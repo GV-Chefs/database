@@ -1,0 +1,75 @@
+{
+    "headline": "Southern-Style Neck Bones",
+    "name": "Southern-Style Neck Bones",
+    "description": "Pork neck bones cooked until tender and succulent are roasted to a golden brown in this satisfying Southern-style recipe. Delicious with greens!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT180M",
+    "cookTime": "PT165M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1134 kcal",
+        "carbohydrateContent": "10 g",
+        "cholesterolContent": "215 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "42 g",
+        "saturatedFatContent": "36 g",
+        "sodiumContent": "824 mg",
+        "sugarContent": "4 g",
+        "fatContent": "102 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 onions, roughly chopped",
+        "5 cloves garlic, roughly chopped",
+        "0.25 cup water",
+        "1 tablespoon distilled white vinegar",
+        "4 pounds pork neck bones",
+        "1.5 teaspoons salt",
+        "1 teaspoon ground black pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-E_4yTr-N3CsEUDOjIHA3MG_YmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/184008-Southern-Style-Neck-Bones-ddmfs-step-2-101-936ddc7b117d44ddb51609907088c759.jpg"
+                }
+            ],
+            "text": "Sprinkle 3/4 of the chopped onions and 3/4 of the chopped garlic into the bottom of a roasting pan; pour in water and vinegar. Season neck bones with salt and pepper and place in the roasting pan. Sprinkle remaining onions and garlic over top and cover the roasting pan tightly with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/eN57hGAbmi4NwMcWQgnuLZVSrgA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/184008-Southern-Style-Neck-Bones-ddmfs-step-4-155-bfa926f93a444062996878bc0db5121d.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven for 2 hours, basting every 30 minutes and recovering with the foil every time you baste."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OyNBa-B4XuD6o4j3oaDg-NGdJU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/184008-Southern-Style-Neck-Bones-ddmfs-step-5-157-cc1c4c83c34b43f8a4adbe207b26ba72.jpg"
+                }
+            ],
+            "text": "Remove the foil and continue cooking until neck bones are golden brown, about 45 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

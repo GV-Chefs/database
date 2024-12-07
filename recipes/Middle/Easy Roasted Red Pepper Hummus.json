@@ -1,0 +1,47 @@
+{
+    "headline": "Easy Roasted Red Pepper Hummus",
+    "name": "Easy Roasted Red Pepper Hummus",
+    "description": "This roasted red pepper hummus is easy to make in a food processor. It's flavored with garlic, lemon, tahini, and basil for a delicious vegan dip.",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "50 kcal",
+        "carbohydrateContent": "5 g",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "101 mg",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) can chickpeas, drained",
+        "0.33300000429153 cup tahini",
+        "0.33300000429153 cup lemon juice",
+        "2 cloves garlic, minced",
+        "0.5 cup roasted red peppers",
+        "0.25 teaspoon dried basil",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine chickpeas, tahini, lemon juice, and garlic in the bowl of a food processor; pulse until blended. Add roasted peppers and basil; process until the peppers are finely chopped. Season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer hummus to a small bowl, cover, and chill until ready to serve."
+        }
+    ],
+    "recipeYield": [
+        "18"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "headline": "Caramelized Onion Pasta",
+    "name": "Caramelized Onion Pasta",
+    "description": "This caramelized onion pasta is a new and really different pasta dish that just might become your new favorite. Sun-dried tomatoes and chili onion crunch add a new dimension to rich, silky caramelized onions, and the result is both elegant and worth the effort.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "358 kcal",
+        "carbohydrateContent": "41 g",
+        "cholesterolContent": "24 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "632 mg",
+        "sugarContent": "9 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Side Dish",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil\u00a0",
+        "2 tablespoons unsalted butter, divided\u00a0",
+        "3 large onions, halved and thinly sliced\u00a0",
+        "3 cloves garlic, minced\u00a0",
+        "1/4 cup julienned sun-dried tomatoes\u00a0",
+        "1 1/2 tablespoons soy sauce\u00a0",
+        "1 1/2 tablespoons chili onion crunch (such as Trader Joe\u2019s\u00ae) or more to taste\u00a0",
+        "salt and freshly-ground black pepper to taste\u00a0",
+        "8 ounces spaghetti\u00a0",
+        "garnish with chopped fresh parsley and grated Parmesan cheese\u00a0"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil and 1 tablespoon butter in a large skillet over medium-low heat. Stir in onions until well coated. Cook, stirring occasionally, until they start to caramelize and turn golden brown, 20 to 25 minutes. You can add water, 1 tablespoon at a time, as onion mixture cooks to speed up caramelization and keep onions moist."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add garlic and cook until fragrant, about 1 minute. Stir in sun-dried tomatoes, soy sauce, chili onion crunch, and season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain, reserving 1/2 cup pasta water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer pasta to the skillet with caramelized onions. Toss everything together until well coated, and stir in remaining tablespoon of butter. Add reserved pasta water, if needed, a tablespoon at a time."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Garnish with chopped parsley and Parmesan cheese, and serve."
+        }
+    ],
+    "recipeYield": [
+        "3"
+    ]
+}

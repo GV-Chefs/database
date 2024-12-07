@@ -1,0 +1,62 @@
+{
+    "headline": "Shrimp Scampi",
+    "name": "Shrimp Scampi",
+    "description": "This easy shrimp scampi recipe features flavorful saut\u00e9ed shrimp in a garlicky, buttery wine sauce tossed with pasta for a quick weeknight dinner.",
+    "recipeCuisine": [
+        "European",
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "606 kcal",
+        "carbohydrateContent": "36 g",
+        "cholesterolContent": "247 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "18 g",
+        "sodiumContent": "680 mg",
+        "sugarContent": "2 g",
+        "fatContent": "31 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (8 ounce) package angel hair pasta",
+        "0.5 cup butter",
+        "1 pound shrimp, peeled and deveined",
+        "4 cloves minced garlic",
+        "1 cup dry white wine",
+        "0.25 teaspoon ground black pepper",
+        "0.75 cup grated Parmesan cheese",
+        "1 tablespoon chopped fresh parsley",
+        "4 lemon wedges"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, 4 to 5 minutes. Drain; transfer to a serving bowl and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large saucepan over medium heat. Stir in shrimp and garlic. Cook and stir until shrimp turns pink, 3 to 5 minutes. Stir in white wine and pepper; bring to a boil. Cook and stir for 30 seconds."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/BTw0lLAKDIME51Y__GfPHojPXkg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/734514-beea29a391854e9d8790a1394662f46d.jpg"
+                }
+            ],
+            "text": "Pour shrimp with sauce over pasta in the serving bowl; toss well. Sprinkle with Parmesan cheese and parsley. Serve with lemon wedges."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

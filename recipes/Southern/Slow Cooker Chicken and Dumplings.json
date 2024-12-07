@@ -1,0 +1,70 @@
+{
+    "headline": "Slow Cooker Chicken and Dumplings",
+    "name": "Slow Cooker Chicken and Dumplings",
+    "description": "An easy crockpot chicken and dumplings recipe packed with creamy chicken and soft biscuit dumplings made in a slow cooker for a filling, comforting meal.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT310M",
+    "cookTime": "PT300M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "385 kcal",
+        "carbohydrateContent": "37 g",
+        "cholesterolContent": "45 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1245 mg",
+        "sugarContent": "6 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 skinless, boneless chicken breast halves",
+        "2 tablespoons butter",
+        "2 (10.5 ounce) cans condensed cream of chicken soup",
+        "1 medium onion, finely diced",
+        "1 (10 ounce) package refrigerated biscuit dough",
+        "2 cups water, or as needed to cover"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aljzzSkUMeLUMq0WRfpgPcwE8gY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8941_SlowCookerChickenandDumplings_mfs_step3_0128-1-f4c9d85792124bc9a4551c3cd43d11a2.jpg"
+                }
+            ],
+            "text": "Place chicken, condensed soup, onion, and butter in a slow cooker. Add enough water to cover; stir well. Cover and cook on High for 5 to 6 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/BpO5umNMOS4S6Sxd0mD-ihWrFX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8941_SlowCookerChickenandDumplings_mfs_step4_0129-1-f610b9d80ed1485d8f60d547833dae55.jpg"
+                }
+            ],
+            "text": "About 30 minutes before serving, tear biscuit dough into pieces. Place dough in the slow cooker. Cook until dough is no longer raw in the center."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rM5ofnjHsChJKHrPFTPzGDAHpzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8941-slow-cooker-chicken-and-dumplings-DDMFS-4x3-0be0b1895efe4983acfc38ad3acc0fa2.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

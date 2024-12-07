@@ -1,0 +1,56 @@
+{
+    "headline": "Southern Sweet Potato Bread with Pecans",
+    "name": "Southern Sweet Potato Bread with Pecans",
+    "description": "Reminiscent of pumpkin, sweet potatoes have a more delicate taste. This spicy, sweet loaf is well packed with raisins and pecans.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "314 kcal",
+        "carbohydrateContent": "39 g",
+        "cholesterolContent": "31 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "150 mg",
+        "sugarContent": "22 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "1.5 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "0.25 teaspoon salt",
+        "1 teaspoon ground nutmeg",
+        "0.5 teaspoon ground cinnamon",
+        "1 cup white sugar",
+        "2 eggs, beaten",
+        "0.5 cup vegetable oil",
+        "2 tablespoons milk",
+        "1 cup cooked and mashed sweet potatoes",
+        "1 cup chopped pecans",
+        "0.5 cup golden raisins"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 325 degrees F ( 165 degrees C ). Grease an 8x4 inch loaf pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, stir together the flour, baking powder, salt, nutmeg cinnamon, and sugar. Add the eggs, oil, and milk; mix until well blended. Finally, stir in the mashed sweet potatoes, pecans, and golden raisins. Pour the batter into the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 70 minutes, or until a toothpick inserted comes out clean. Allow bread to cool in the pan at least 15 minutes before removing. For best flavor, store overnight before serving."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

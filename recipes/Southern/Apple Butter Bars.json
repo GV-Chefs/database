@@ -1,0 +1,71 @@
+{
+    "headline": "Apple Butter Bars",
+    "name": "Apple Butter Bars",
+    "description": "These apple butter bar cookies are made moist and tasty by using apple butter and feature a simple drizzled icing for a delicious dessert.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "94 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "7 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "38 mg",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.5 cup butter",
+        "1.5 cups all-purpose flour",
+        "0.5 cup packed brown sugar",
+        "0.25 cup white sugar",
+        "1 egg",
+        "0.75 cup apple butter",
+        "0.5 teaspoon baking soda",
+        "0.5 teaspoon apple pie spice",
+        "1 cup raisins",
+        "1 cup confectioners' sugar",
+        "0.25 teaspoon vanilla extract",
+        "2 tablespoons milk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 13x9x2-inch baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat butter until creamy. Add 1/2 of the flour, brown sugar, white sugar, egg, apple butter, baking soda, and apple pie spice. Beat together until well blended. Beat in remaining flour and stir in raisins. Spread in the prepared baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 20 to 25 minutes or until a toothpick in center comes out clean. Cool in pan on wire rack."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the apple mixture is cooling, mix confectioners' sugar, vanilla, and 1 to 2 tablespoons milk in a bowl to a drizzling consistency."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/COVVjGKf1-TrRbMssB0TQ6BCsTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/482203-apple-butter-bars-Alberta-Rose-1x1-1-2fd1c385bfb543faa65d50a5fa985d02.jpg"
+                }
+            ],
+            "text": "Drizzle icing over cooled apple mixture. Cut into 36 bars."
+        }
+    ],
+    "recipeYield": [
+        "36"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "headline": "Applesauce Cornbread",
+    "name": "Applesauce Cornbread",
+    "description": "This is an easy, quick recipe for applesauce cornbread that's dense, and adjustably sweet. It will smell great as it bakes and comes out with a great golden crust. It can accompany anything. I love it served with salad, soup, or chili. Add herbs for extra flavor.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "155 kcal",
+        "carbohydrateContent": "30 g",
+        "cholesterolContent": "42 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "475 mg",
+        "sugarContent": "8 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "cooking spray",
+        "1 cup all-purpose flour",
+        "1 cup fine cornmeal",
+        "2 teaspoons baking soda",
+        "1 teaspoon baking powder",
+        "0.5 teaspoon salt",
+        "0.25 cup sugar",
+        "0.75 cup skim milk",
+        "2 large eggs",
+        "0.25 cup unsweetened applesauce"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C). Lightly spray an 8x8-inch baking pan with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a bowl, mix together flour, cornmeal, baking soda, baking powder, salt, and sugar. In a separate bowl, stir together milk, eggs, and applesauce. Fold the wet mixture into the dry; mix together well. Pour batter into the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until puffed and brown, 15 to 20 minutes."
+        }
+    ],
+    "recipeYield": [
+        "9"
+    ]
+}

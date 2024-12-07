@@ -1,0 +1,62 @@
+{
+    "headline": "Southern Grilled BBQ Ribs",
+    "name": "Southern Grilled BBQ Ribs",
+    "description": "Grilled BBQ ribs flavored with a simple marinade finish cooking on the grill basted generously with a homemade tangy BBQ sauce until tender and juicy.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT110M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "519 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "132 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "15 g",
+        "sodiumContent": "721 mg",
+        "sugarContent": "21 g",
+        "fatContent": "36 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 pounds baby back pork ribs",
+        "0.66666668653488 cup water",
+        "0.33333334326744 cup red wine vinegar",
+        "1 cup ketchup",
+        "1 cup water",
+        "0.5 cup cider vinegar",
+        "0.33333334326744 cup Worcestershire sauce",
+        "0.25 cup prepared mustard",
+        "4 tablespoons butter",
+        "0.5 cup packed brown sugar",
+        "1 teaspoon hot pepper sauce",
+        "0.125 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Place ribs in two 10x15-inch roasting pans. Pour water and red wine vinegar into a bowl; stir to mix. Pour diluted vinegar over ribs and cover with foil. Bake in the preheated oven for 45 minutes. Baste the ribs with juices halfway through cooking."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To make the BBQ sauce: Mix ketchup, water, vinegar, Worcestershire sauce, mustard, butter, brown sugar, hot pepper sauce, and salt together in a medium saucepan; bring to a boil. Reduce heat to low, cover, and simmer for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat grill for medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lightly oil preheated grill. Transfer ribs from the oven to the grill, discarding cooking liquid. Grill over medium heat for 15 minutes, turning ribs once. Baste ribs generously with BBQ sauce, and grill 8 minutes. Turn ribs, baste again with BBQ sauce, and grill 8 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

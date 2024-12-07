@@ -1,0 +1,55 @@
+{
+    "headline": "Italian-Style Mushrooms and Spinach",
+    "name": "Italian-Style Mushrooms and Spinach",
+    "description": "Saut\u00e9ed spinach and mushrooms are flavored with onion, garlic, balsamic vinegar, and white wine in this delicious Italian vegetable side dish.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "199 kcal",
+        "carbohydrateContent": "10 g",
+        "fiberContent": "3 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "69 mg",
+        "sugarContent": "4 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "4 tablespoons olive oil",
+        "1 small onion, chopped",
+        "2 cloves garlic, chopped",
+        "14 ounces fresh mushrooms, sliced",
+        "10 ounces clean fresh spinach, roughly chopped",
+        "2 tablespoons balsamic vinegar",
+        "0.5 cup white wine",
+        "salt and freshly ground black pepper to taste",
+        "chopped fresh parsley, for garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large skillet over medium-high heat. Saut\u00e9 onion and garlic in oil until tender. Add mushrooms and fry until they begin to shrink, about 3 to 4 minutes. Toss in spinach and saut\u00e9, stirring constantly for a few minutes, until spinach is wilted."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add vinegar, stirring constantly until it is absorbed, then stir in white wine. Reduce heat to low and simmer until wine is almost completely absorbed."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season with salt and pepper to taste and sprinkle with fresh parsley. Serve hot."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

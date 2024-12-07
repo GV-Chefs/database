@@ -1,0 +1,52 @@
+{
+    "headline": "Sicilian Style Steak",
+    "name": "Sicilian Style Steak",
+    "description": "Thick T-bone steaks are coated with Parmesan cheese and bread crumbs, then baked to perfection in this simple but flavorful recipe.",
+    "recipeCuisine": [
+        "Sicilian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1383 kcal",
+        "carbohydrateContent": "46 g",
+        "cholesterolContent": "294 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "147 g",
+        "saturatedFatContent": "25 g",
+        "sodiumContent": "2467 mg",
+        "sugarContent": "5 g",
+        "fatContent": "64 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup Italian seasoned dry bread crumbs",
+        "1 cup grated Parmesan cheese",
+        "1 teaspoon seasoned salt",
+        "1 tablespoon garlic powder",
+        "0.5 cup olive oil",
+        "2 (16 ounce) T-bone steaks"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a broiler pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir bread crumbs, Parmesan cheese, seasoned salt, and garlic powder together in a shallow dish, such as a pie plate. Pour olive oil into a separate shallow dish. Dip T-bone steaks in olive oil on both sides; allow excess to drip off. Press steaks into bread crumb mixture, and place onto the prepared broiler pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake on the middle rack in the preheated oven until steaks have cooked to your desired degree of doneness, about 15 minutes for medium. An instant-read thermometer inserted into center for medium should read 140 degrees F (60 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

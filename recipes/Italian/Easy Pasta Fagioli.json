@@ -1,0 +1,86 @@
+{
+    "headline": "Easy Pasta Fagioli",
+    "name": "Easy Pasta Fagioli",
+    "description": "This pasta fagioli recipe is a hearty bean and pasta soup with lots of veggies, tomatoes, and flavorful herbs for a comforting Italian meal on a chilly day!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "338 kcal",
+        "carbohydrateContent": "61 g",
+        "cholesterolContent": "2 mg",
+        "fiberContent": "9 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1882 mg",
+        "sugarContent": "11 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "1 carrot, diced",
+        "1 stalk celery, diced",
+        "1 thin slice onion, diced",
+        "0.5 teaspoon chopped garlic",
+        "4 (8 ounce) cans tomato sauce",
+        "1 (14 ounce) can chicken broth",
+        "1 tablespoon dried parsley",
+        "0.5 tablespoon dried basil leaves",
+        "freshly ground black pepper to taste",
+        "1.5 cups ditalini pasta",
+        "1 (15 ounce) can cannellini beans, drained and rinsed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/HxIbrjotycgiu8aYCXuv8gZljUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23842-easy-pasta-fagioli-Step-01-2f1d51a7ac0d41b09c737e9dee44a2f2.jpg"
+                }
+            ],
+            "text": "Heat olive oil in a saucepan over medium heat. Add carrot, celery, and onion; cook and stir until soft. Add garlic and saut\u00e9 briefly."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tNlfmkoap-Rz9CbRG7_Sc9zMHYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23842-easy-pasta-fagioli-Step-02-0cff3b11ab23459d821e26aa848a71b0.jpg"
+                }
+            ],
+            "text": "Stir in tomato sauce, chicken broth, parsley, basil, and pepper; simmer for 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/n1If800DhOz8I3-08IgYssJyn_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23842-easy-pasta-fagioli-Step-03-7ace05d01fcb41b1990e916c3a9bd8ac.jpg"
+                }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Add ditalini pasta and cook for 8 minutes or until al dente; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Wwd3Rqfouj9spwBlUcGIHnHTXYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23842-easy-pasta-fagioli-Step-04-abe67ea27760440b9fb35e30a624973c.jpg"
+                }
+            ],
+            "text": "Add beans and cooked pasta to soup; simmer until heated through, 1 or 2 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

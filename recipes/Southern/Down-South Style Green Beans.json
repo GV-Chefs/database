@@ -1,0 +1,48 @@
+{
+    "headline": "Down-South Style Green Beans",
+    "name": "Down-South Style Green Beans",
+    "description": "This recipe can also be cooked in a crock pot, and simmered all day. If fresh green beans are not available, use frozen. Just good ol' Southern style green beans with FLAVA!!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT180M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "152 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "27 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "370 mg",
+        "sugarContent": "1 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT60M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "6 cups water",
+        "1 ham hock",
+        "2 tablespoons lard or other cooking fat",
+        "1 teaspoon seasoning salt",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon black pepper",
+        "0.5 teaspoon garlic powder",
+        "0.5 teaspoon onion powder",
+        "1 pound fresh green beans - rinsed, trimmed and snapped into bite size pieces"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine the water, ham hock, and lard in a large pot over medium-high heat. Season with seasoning salt, salt, pepper, garlic powder, and onion powder. Bring to a boil, then reduce heat to medium-low, and add green beans. Simmer covered for about 2 hours."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

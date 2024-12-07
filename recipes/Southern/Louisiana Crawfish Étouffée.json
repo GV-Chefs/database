@@ -1,0 +1,115 @@
+{
+    "headline": "Louisiana Crawfish \u00c9touff\u00e9e",
+    "name": "Louisiana Crawfish \u00c9touff\u00e9e",
+    "description": "Crawfish \u00e9touff\u00e9e is a Louisiana classic and comes together as quickly as you can cook a pot of rice. You can even substitute shrimp for crawfish tails.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "636 kcal",
+        "carbohydrateContent": "83 g",
+        "cholesterolContent": "142 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "15 g",
+        "sodiumContent": "635 mg",
+        "sugarContent": "2 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 cups long grain white rice",
+        "7 cups water, divided",
+        "0.75 cup butter",
+        "1 large onion, chopped",
+        "1 clove garlic, chopped",
+        "0.25 cup all-purpose flour",
+        "2 tablespoons canned tomato sauce",
+        "1 pound crawfish tails",
+        "6 green onions, chopped",
+        "salt and pepper to taste",
+        "1.5 tablespoons Cajun seasoning, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gkhjpaDeyD3lzXXcMkudAFKgI_Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-76155-louisiana-crawfish-etouffee-DDMFS-4x3-step-01-df1bedcaad0c4f588304853b78dddd79.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/q8HeX_xQgsB4fvb-GG6jD4ylb50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-76155-louisiana-crawfish-etouffee-DDMFS-4x3-step-02-1c20fbfc52cc41f5acd15e2c3862d3b4.jpg"
+                }
+            ],
+            "text": "Combine rice and 6 cups water in a saucepan. Bring to a boil over high heat. Reduce heat to low, cover the pan, and simmer until rice is tender and water has been absorbed, 15 to 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GET6IP0Go4if1G7-wDxi6xurHiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-76155-louisiana-crawfish-etouffee-DDMFS-4x3-step-03-6b6051c4d0054143b4cfae16c7fcd076.jpg"
+                }
+            ],
+            "text": "While rice cooks, melt butter in a large skillet over medium heat. Add onion and cook, stirring, until transparent. Stir in garlic and cook until fragrant, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ptMm90tdl-NeH54oC4eXsTiGAI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-76155-louisiana-crawfish-etouffee-DDMFS-4x3-step-04-d96577b1e36d4f61ad49cba9da08df78.jpg"
+                }
+            ],
+            "text": "Stir in flour until blended. Gradually stir in tomato sauce and remaining 1 cup water. Add crawfish tails and bring to a simmer."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GrXxEH_Y5iLmUSsKWEkLKgYsiX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-76155-louisiana-crawfish-etouffee-DDMFS-4x3-step-05-9d5f063f006e4ee590c5a8debae2141d.jpg"
+                }
+            ],
+            "text": "Stir in green onions and season with salt, pepper, and Cajun seasoning."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/mWVtajm-OPjWEPHE32RtSSFXY9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-76155-louisiana-crawfish-etouffee-DDMFS-4x3-step-07-9e53a5f0bb454264ababfc91f83e4c99.jpg"
+                }
+            ],
+            "text": "Reduce heat to low and simmer until crawfish is cooked through but not tough, 5 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GQWS2rm7LUGPgcHzamZOF9l2fyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-76155-louisiana-crawfish-etouffee-DDMFS-4x3-72a6cc63adfb42a497ae1a1b355ad491.jpg"
+                }
+            ],
+            "text": "Serve \u00e9touff\u00e9e over cooked rice."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

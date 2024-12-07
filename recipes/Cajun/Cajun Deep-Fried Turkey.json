@@ -1,0 +1,64 @@
+{
+    "headline": "Cajun Deep-Fried Turkey",
+    "name": "Cajun Deep-Fried Turkey",
+    "description": "This Cajun fried turkey is injected with an overnight marinade of butter, onion-garlic juice, hot sauce, and beer, then deep-fried in peanut oil.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT575M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1036 kcal",
+        "carbohydrateContent": "3 g",
+        "cholesterolContent": "346 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "91 g",
+        "saturatedFatContent": "30 g",
+        "sodiumContent": "682 mg",
+        "sugarContent": "1 g",
+        "fatContent": "71 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 cups butter",
+        "7 fluid ounces beer",
+        "0.25 cup onion juice",
+        "0.25 cup garlic juice",
+        "0.25 cup Louisiana-style hot sauce",
+        "0.25 cup Worcestershire sauce",
+        "2 tablespoons ground black pepper",
+        "1 teaspoon cayenne pepper",
+        "1 (12 pound) whole turkey, neck and giblets removed",
+        "3 gallons peanut oil for frying, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large saucepan over medium heat. Add beer, onion juice, garlic juice, hot sauce, Worcestershire sauce, black pepper, and cayenne pepper. Mix until marinade is well blended."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use a marinade-injecting syringe or turkey baster with an injector tip to inject marinade into turkey, including legs, back, wings, thighs, and breasts. Place turkey in a large plastic bag and marinate in the refrigerator, 8 hours to overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When it's time to fry, remove turkey from the bag and place into the cooking basket. Measure the amount of oil needed by lowering turkey into the fryer and filling with enough oil to cover it. Remove turkey and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil to 365 degrees F (185 degrees C). Return turkey to the cooking basket and lower slowly into hot oil using the hanging device that comes with turkey deep-fryers. The turkey should be completely submerged in hot oil. Cook for 36 minutes or 3 minutes per pound of turkey. An instant-read thermometer inserted into the thickest part of thigh should read 165 degrees F (74 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Turn off the flame and slowly remove turkey from oil, making sure all of the oil drains out of the cavity. Allow turkey to rest on a serving platter before carving, about 20 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

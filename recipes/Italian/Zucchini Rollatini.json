@@ -1,0 +1,113 @@
+{
+    "headline": "Zucchini Rollatini",
+    "name": "Zucchini Rollatini",
+    "description": "These zucchini rollatini are ribbons of zucchini, filled with ricotta, mozzarella, and herbs, and baked in marinara, a bit like lasagna roll-ups, but without the pasta.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "299 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "83 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "1390 mg",
+        "sugarContent": "6 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "(12 ounce each) zucchinis, sliced lengthwise into 18 (1/8-inch-thick) planks",
+        "2 tablespoon extra-virgin olive oil",
+        "1 tablespoon kosher salt, divided",
+        "1 cup whole-milk ricotta cheese, patted dry",
+        "1 large egg, lightly beaten",
+        "3 tablespoon chopped fresh basil, plus more for garnish",
+        "2 teaspoon chopped fresh oregano",
+        "2 teaspoon grated lemon zest",
+        "1 teaspoon ground black pepper",
+        "2 garlic cloves, grated",
+        "6 ounce whole-milk mozzarella cheese, shredded (about 1 1/2 cups), divided",
+        "2 ounce Parmesan cheese, grated (about 1/2 cup), divided",
+        "Cooking spray",
+        "2 cups jarred marinara (such as Rao\u2019s\u00ae), divided"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PADEGLnjIeD5xwVGqLcC_o3cfuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8680237-Zucchini-Rollatini-ddmfs-21079-4x3-Step-01-499d2b62d3144237ae02f6f396d11ab3.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 425 degrees F (220 degrees C) with racks in top third and lower third positions."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5xZhyVTM1k2_UtCbvXPsW-airFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8680237-Zucchini-Rollatini-ddmfs-21083-4x3-Step-02-fc9dd3a17f59483ba1160a50afe96754.jpg"
+                }
+            ],
+            "text": "Toss zucchini slices with oil and 2 teaspoons salt on 2 large rimmed baking sheets; arrange in a single layer. Bake in the preheated oven until tender, about 10 minutes, rotating baking sheets from top to bottom halfway through cook time."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from the oven, and let zucchini slices cool slightly, about 5 minutes. Reduce oven temperature to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jiLKw9Z5wK-sL_2Sq8r4eFlWWlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8680237-Zucchini-Rollatini-ddmfs-21082-4x3-Step-03-92039c88c1464c3b8087220db7f8d12b.jpg"
+                }
+            ],
+            "text": "Meanwhile, stir together ricotta, egg, basil, oregano, lemon zest, pepper, garlic, 1 cup of the mozzarella, 1/4 cup of the Parmesan, and remaining 1 teaspoon salt in a medium bowl until combined."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Wd3lDX6DsOA6Zkr6dOGd4PoiQ6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8680237-Zucchini-Rollatini-ddmfs-21090-4x3-Step-04-78f26dd83270424580be55ad66000abf.jpg"
+                }
+            ],
+            "text": "Lightly coat a 13x9-inch baking dish with cooking spray. Spread 1 cup marinara sauce evenly in the bottom of the baking dish. Gently pat zucchini slices dry with paper towels. Spoon about 1 tablespoon plus 1 teaspoon ricotta mixture on 1 end of 1 zucchini slice; roll up, and place roll, seam-side down, into the marinara in the dish. Repeat process with remaining zucchini slices and ricotta mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FTypZZbLXcW-mVNFrQhjU7CGIqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8680237-Zucchini-Rollatini-ddmfs-21094-4x3-Step-05-cc380553bfeb4a1fb0f34eb17c24b5f9.jpg"
+                }
+            ],
+            "text": "Pour remaining 1 cup marinara evenly over center of zucchini rolls, leaving roll ends exposed. Sprinkle rolls evenly with remaining 1/2 cup mozzarella and 1/4 cup Parmesan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/mknDv5dJ0M354sOqtOnsx2WqZt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8680237-Zucchini-Rollatini-ddmfs-21139-4x3-Beauty-08ee8b144dd04fdfa354975ff2fc7a74.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until bubbling, slightly browned, and zucchini is very tender, about 25 minutes. Let rest 10 minutes. Garnish with basil."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

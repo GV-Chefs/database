@@ -1,0 +1,83 @@
+{
+    "headline": "Sicilian Sausage Rolls (Tomasini)",
+    "name": "Sicilian Sausage Rolls (Tomasini)",
+    "description": "Delicious Sicilian sausage rolls (tomasini), are pizza dough spirals filled with Italian sausage and ricotta. Using ready-made pizza dough, they are extremely easy to make.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "318 kcal",
+        "carbohydrateContent": "30 g",
+        "cholesterolContent": "48 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "557 mg",
+        "sugarContent": "2 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack",
+        "Bread"
+    ],
+    "recipeIngredient": [
+        "24 ounces ready-to-use pizza dough",
+        "1 large egg, beaten",
+        "2 cups ricotta cheese",
+        "12 ounces Italian sausage, casing removed",
+        "1 teaspoon freshly ground black pepper",
+        "red chili flakes to taste\u00a0",
+        "salt to taste (optional)",
+        "1/2 cup thinly sliced green onions",
+        "1/2 cup grated pecorino Romano cheese, or more to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll dough out on a lightly floured surface into a 12x18-inch rectangle. Brush the entire surface of dough with half the beaten egg"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beginning about 3 inches from the top edge of the long side of dough, scoop rounded tablespoons of ricotta onto dough in a row, leaving about 1 1/2 inches between each scoop. Make a second row below the first, but offset the ricotta scoops to make a checkerboard pattern. Repeat all the way to the bottom of the dough, using all the ricotta.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place rounded tablespoons of sausage into the spaces between ricotta scoops. When finished, the cheese on one row should line up with sausage on the next row and vice versa.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season with black pepper, red chili flakes, and salt, keeping in mind that sausage may already be salty. Scatter green onions over, and grate pecorino Romano cheese evenly over."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll dough up from the bottom toward the edge with 3 inches of unfilled dough. Finish with seam on the bottom."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut into 12 equal portions, and place cut side up on the prepared baking sheet. Brush top of each sausage roll with remaining egg, and grate more pecorino Romano cheese over if desired."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iltTvCMJ7K1YuMzr_DrZFTvNuos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8421284_Sicilian-Sausage-Rolls-Tomasini_John-Mitzewich_4x3-6fb16e7247044b01ab4a4a5e901e4191.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until nicely browned, 45 to 50 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "headline": "Chicken Satay",
+    "name": "Chicken Satay",
+    "description": "Grilled chicken satay skewers made with tender chicken marinated in a delicious homemade peanut sauce flavored with ginger, garlic, and curry powder.",
+    "recipeCuisine": [
+        "Thai"
+    ],
+    "totalTime": "PT145M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "162 kcal",
+        "carbohydrateContent": "4 g",
+        "cholesterolContent": "68 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "29 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "694 mg",
+        "sugarContent": "2 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons creamy peanut butter",
+        "0.5 cup soy sauce",
+        "0.5 cup lemon or lime juice",
+        "1 tablespoon brown sugar",
+        "2 tablespoons curry powder",
+        "2 cloves garlic, chopped",
+        "1 teaspoon hot pepper sauce",
+        "6 skinless, boneless chicken breast halves - cubed",
+        "wooden skewers, soaked in cold water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "To make the marinade: Combine peanut butter, soy sauce, lime juice, brown sugar, curry powder, garlic, and hot pepper sauce in a mixing bowl. Add chicken breasts, toss to coat, cover, and refrigerate for 2 to 4 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill to high heat; lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove chicken from marinade and shake off excess. Thread marinated chicken onto skewers; discard remaining marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook on the preheated grill until chicken is cooked through and no longer pink inside, about 5 minutes per side."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

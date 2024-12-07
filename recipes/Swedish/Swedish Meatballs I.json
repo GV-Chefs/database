@@ -1,0 +1,69 @@
+{
+    "headline": "Swedish Meatballs I",
+    "name": "Swedish Meatballs I",
+    "description": "These meatballs are made with ground beef mixed with onion and dry cream of wheat. They're baked until browned, mixed with sauce, and baked until hot.",
+    "recipeCuisine": [
+        "Swedish"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "662 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "178 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "31 g",
+        "saturatedFatContent": "19 g",
+        "sodiumContent": "1193 mg",
+        "sugarContent": "12 g",
+        "fatContent": "48 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 egg",
+        "0.25 cup milk",
+        "1 pound ground beef",
+        "0.25 cup dry cream of wheat cereal",
+        "0.25 cup minced onion",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (12 fluid ounce) can evaporated milk",
+        "1 tablespoon chopped fresh parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, whisk together the egg and the milk. Add the beef, cream of wheat and onion and mix well. Shape into 1 inch balls. Place balls on a lightly greased baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake at 350 degrees F (175 degrees C) for about 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain meatballs on paper towels, if needed. Then place meatballs in a lightly greased 2 quart casserole dish. In a separate medium bowl, combine the soups with the evaporated milk, stirring until smooth. Pour over the meatballs."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oo1j0vt-lubmu3OdqaExg1BgkKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/327598-ff6c489ab1744968bb5f3a8507fb400e.jpg"
+                }
+            ],
+            "text": "Bake uncovered at 350 degrees F (175 degrees C) for another 40 minutes. Sprinkle with parsley before serving."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "headline": "Fabulous Cilantro Pesto",
+    "name": "Fabulous Cilantro Pesto",
+    "description": "This cilantro pesto made with walnuts, Parmesan, garlic, vinegar, and cayenne is a bright and zippy sauce to serve over your favorite pasta.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "386 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "3 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "55 mg",
+        "sugarContent": "2 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package farfalle pasta",
+        "1 bunch fresh cilantro",
+        "0.5 cup walnuts or pecans",
+        "0.25 cup grated Parmesan cheese",
+        "5 cloves garlic, minced",
+        "1 tablespoon white wine vinegar",
+        "0.5 teaspoon cayenne pepper",
+        "salt to taste",
+        "0.5 cup olive oil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of salted water to a boil. Cook pasta in boiling water until tender yet firm to the bite, 8 to 10 minutes; drain well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Blend cilantro, nuts, Parmesan, garlic, vinegar, cayenne pepper, and salt in a food processor or blender. Add 1/4 cup olive oil and blend until combined. Add remaining olive oil until pesto reaches desired consistency."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour pesto into a small saucepan and cook over low heat, stirring constantly, until pesto is warmed and begins to simmer. Pour over cooked pasta and toss to coat."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

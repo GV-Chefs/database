@@ -1,0 +1,56 @@
+{
+    "headline": "Bramboracky (Czech Savory Potato Pancakes)",
+    "name": "Bramboracky (Czech Savory Potato Pancakes)",
+    "description": "Bramboracky (bram-bor-atch-key) are traditional pan-fried Czech savory potato pancakes\u2014adjust the seasonings and add other ingredients to your liking.",
+    "recipeCuisine": [
+        "Czech"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "527 kcal",
+        "carbohydrateContent": "94 g",
+        "cholesterolContent": "110 mg",
+        "fiberContent": "12 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "74 mg",
+        "sugarContent": "4 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Breakfast",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "4 large potatoes",
+        "3 cloves garlic, crushed",
+        "2 teaspoons caraway seeds",
+        "1 pinch dried marjoram",
+        "salt and black pepper to taste",
+        "2 eggs",
+        "1 tablespoon milk",
+        "3 tablespoons all-purpose flour",
+        "oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Peel and coarsely grate potatoes; squeeze out as much liquid as you can. Transfer shredded potatoes to a mixing bowl; stir in garlic, caraway seeds, marjoram, salt, and black pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat eggs and milk together; stir into potato mixture until well combined. Gradually stir in flour until a thick but still pourable batter if formed."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat about 1/4-inch oil in a skillet over medium-high heat. Drop 1/4 cupful batter into skillet, flattening it slightly; fry until golden brown, about 3 minutes on each side. Drain on paper towels. Taste pancake; adjust seasoning if necessary. Repeat with remaining batter."
+        }
+    ],
+    "recipeYield": [
+        "3"
+    ]
+}

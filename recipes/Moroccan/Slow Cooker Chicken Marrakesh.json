@@ -1,0 +1,59 @@
+{
+    "headline": "Slow Cooker Chicken Marrakesh",
+    "name": "Slow Cooker Chicken Marrakesh",
+    "description": "This hearty chicken Marrakesh stew features chicken, sweet potatoes, garbanzo beans, tomatoes, and spices that simmer to perfection in the slow cooker.",
+    "recipeCuisine": [
+        "Moroccan"
+    ],
+    "totalTime": "PT260M",
+    "cookTime": "PT240M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "290 kcal",
+        "carbohydrateContent": "36 g",
+        "cholesterolContent": "66 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "31 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "625 mg",
+        "sugarContent": "8 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 pounds skinless, boneless chicken breast halves, cut into 2-inch pieces",
+        "2 large sweet potatoes, peeled and diced",
+        "1 (15 ounce) can garbanzo beans, drained and rinsed",
+        "1 onion, sliced",
+        "2 large carrots, peeled and diced",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried parsley",
+        "1 teaspoon salt",
+        "0.5 teaspoon ground cumin",
+        "0.5 teaspoon ground turmeric",
+        "0.5 teaspoon ground black pepper",
+        "0.25 teaspoon ground cinnamon",
+        "1 (14.5 ounce) can diced tomatoes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken, sweet potatoes, garbanzo beans, carrots, onion, and garlic into a slow cooker."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix parsley, salt, cumin, turmeric, cinnamon, and pepper together in a small bowl. Sprinkle over chicken and vegetables, then pour in tomatoes and stir to combine."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover and cook on High until sweet potatoes are tender and sauce has thickened, 4 to 5 hours."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

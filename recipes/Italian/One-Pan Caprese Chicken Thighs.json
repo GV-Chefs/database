@@ -1,0 +1,73 @@
+{
+    "headline": "One-Pan Caprese Chicken Thighs",
+    "name": "One-Pan Caprese Chicken Thighs",
+    "description": "These one-pan caprese chicken thighs feature all the flavors you love in a caprese salad, done as a main dish skillet meal with chicken.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "790 kcal",
+        "carbohydrateContent": "11 g",
+        "cholesterolContent": "385 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "76 g",
+        "saturatedFatContent": "16 g",
+        "sodiumContent": "816 mg",
+        "sugarContent": "6 g",
+        "fatContent": "51 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "8 boneless, skinless chicken thighs",
+        "Salt and pepper to taste",
+        "3 Tablespoons good quality balsamic vinegar",
+        "1/4 cup low-sodium chicken broth",
+        "1 Tablespoon tomato paste",
+        "1 lemon, zested and juiced",
+        "1 teaspoon honey",
+        "5 cloves garlic, minced",
+        "1 Tablespoon fresh minced basil",
+        "2 Tablespoons olive oil",
+        "2 cups cherry tomatoes",
+        "Pinch of salt",
+        "4 ounces shredded mozzarella",
+        "Additional torn fresh basil leaves for garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pat the chicken thighs dry with paper towels, and season both sides with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large mixing bowl, combine balsamic vinegar, chicken broth, tomato paste, lemon juice (reserve zest for later), honey, minced garlic, and 1 tablespoon minced basil. Add seasoned chicken thighs, toss to coat with balsamic mixture, and set aside, or, if time allows, cover mixture and refrigerate for up to 4 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place a 12-inch skillet over medium heat, and add chicken and marinade. When the liquid comes to a boil, cover, reduce heat to medium-low, and simmer 5 to 7 minutes. Turn chicken, increase heat to medium and cook, uncovered, until chicken is no longer pink at the center and juices run clear, 5 to 7 minutes more. An instant-read thermometer inserted near the center of chicken should read at least 165 degrees F (74 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove chicken and any accumulated juices from the skillet to a serving platter. Tent with foil to keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Wipe the skillet clean and over medium-high heat, add olive oil. When the oil is hot, carefully add tomatoes to the skillet. Cook undisturbed for 2 minutes, allowing the tomatoes to blister. Stir gently, and continue cooking for an additional 2 minutes. Sprinkle tomatoes with a pinch of salt."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove foil tent, pour tomatoes over chicken, and top with shredded mozzarella. Sprinkle reserved lemon zest and torn basil over all. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

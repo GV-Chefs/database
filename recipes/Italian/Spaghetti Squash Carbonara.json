@@ -1,0 +1,88 @@
+{
+    "headline": "Spaghetti Squash Carbonara",
+    "name": "Spaghetti Squash Carbonara",
+    "description": "This spaghetti squash carbonara is the best away to eat spaghetti squash, and this recipe has the best technique for prepping spaghetti squash, to give it a texture closest to pasta or spaghetti.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT70M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "468 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "144 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "437 mg",
+        "sugarContent": "8 g",
+        "fatContent": "38 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 large (4 to 5 pound) spaghetti squash",
+        "3 tablespoons olive oil, divided",
+        "salt to taste",
+        "8 ounces pancetta, cut into 1/4-inch dice",
+        "2 large egg yolks",
+        "1/2 cup water",
+        "1 tablespoon freshly ground black pepper",
+        "2 tablespoons unsalted butter, cubed",
+        "1/2 cup grated Parmigiano Reggiano\u00a0",
+        "1/2 cup grated pecorino",
+        "2 tablespoons chopped Italian parsley to garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut 1 inch off each end of squash. Carefully cut squash crosswise into 3 equal sections. Use a spoon to scrape out all the seeds.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place squash pieces on the prepared baking sheet. Coat both sides of each section with 1 tablespoon olive oil. Generously season both sides with salt."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast in the preheated oven until squash is tender, and strands can be easily pulled apart, 1 to 2 hours. Separate strands with two forks into \u201cspaghetti.\u201d"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, cook pancetta in remaining 2 tablespoons olive oil until lightly browned, or as browned as you like, 5 to 10 minutes. Remove from heat; set aside.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add egg yolks, water, and freshly ground black pepper to a large mixing bowl, and whisk thoroughly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer hot squash \u201cspaghetti\u201d into the bowl, and add butter and cooked pancetta, along with all rendered fat in the pan. Toss thoroughly with forks until evenly mixed. If desired, reserve a tablespoon or two of cooked pancetta to garnish the top once the final dish is baked.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the Parmigiano and pecorino cheeses, and toss again. Taste for salt and add more if needed. Transfer into a shallow baking dish, and top with a little more grated Parmigiano Reggiano.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1HdhWtqDXGxc9LJiG8IsKVBBEmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8728271_Spaghetti-Squash-Carbonara_John-Mitzewich_4x3-f9aff2745f0c4e0d90a528d20696582f.jpg"
+                }
+            ],
+            "text": "Return to the oven at 400 degrees F (200 degrees C) until heated through, about 15 minutes. To serve, scatter reserved pancetta over the top and sprinkle with a little more grated cheese and parsley."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "headline": "Garlic Salmon",
+    "name": "Garlic Salmon",
+    "description": "A large salmon fillet, steamed in foil and cooked either in the oven or barbecue. It's seasoned with minced garlic, fresh baby dill, lemon slices, fresh ground pepper, and green onions.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "169 kcal",
+        "carbohydrateContent": "2 g",
+        "cholesterolContent": "50 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "48 mg",
+        "sugarContent": "0 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds salmon fillet",
+        "salt and pepper to taste",
+        "3 cloves garlic, minced",
+        "1 sprig fresh dill, chopped",
+        "5 slices lemon",
+        "5 sprigs fresh dill weed",
+        "2 green onions, chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (230 degrees C). Spray two large pieces of aluminum foil with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place salmon fillet on top of one piece of foil. Sprinkle salmon with salt, pepper, garlic, and chopped dill. Arrange lemon slices on top of the fillet and place a sprig of dill on top of each slice. Sprinkle fillet with chopped scallions."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover salmon with the second piece of foil and pinch together the foil to seal tightly. Place on a baking sheet or in a large baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 20 to 25 minutes until salmon flakes easily."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "headline": "Easy One Pan Ramen Chicken Alfredo",
+    "name": "Easy One Pan Ramen Chicken Alfredo",
+    "description": "This easy one pan ramen chicken Alfredo takes minutes to assemble, and just under an hour to cook, using convenient rotisserie chicken, dry ramen packets, and jarred Alfredo sauce.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1180 kcal",
+        "carbohydrateContent": "20 g",
+        "cholesterolContent": "335 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "46 g",
+        "saturatedFatContent": "60 g",
+        "sodiumContent": "2092 mg",
+        "sugarContent": "4 g",
+        "fatContent": "103 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "6 (3 ounce) packages chicken flavored ramen noodles",
+        "2 (15 ounce) jars Alfredo sauce",
+        "3 cups shredded cooked chicken, from one rotisserie chicken",
+        "1 cup water",
+        "1 cup heavy cream",
+        "2 cups shredded Italian blend cheese",
+        "1/2 teaspoon pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Arrange uncooked ramen noodles in an even layer in the bottom of a large casserole dish, breaking noodle blocks as necessary to fit.\u00a0Sprinkle 1 packet of seasoning evenly over noodles; discard remaining seasoning packets."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour 1 jar of Alfredo sauce evenly over noodles. Spread chicken evenly over sauce. Pour second jar of Alfredo sauce over chicken. Add water to first Alfredo jar, shake it to rinse sauce from the jar, and pour mixture over noodles. Add cream to second jar, shake, and pour over the casserole.\u00a0 Top with cheese and pepper.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8kkgwrqrx58s1tuCu2zZAQP3xVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8695508_Ramen-Chicken-Alfredo-Bake_Dotdash-Meredith-Food-Studios_4x3-d82f5c4f2c2d47f0bf5b78a124ce9645.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until browned and bubbly and noodles are tender, 50 to 60 minutes. Add up to 1/2 cup more water as needed, if too much is absorbed before noodles are cooked."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

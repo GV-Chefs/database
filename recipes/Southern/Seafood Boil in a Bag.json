@@ -1,0 +1,93 @@
+{
+    "headline": "Seafood Boil in a Bag",
+    "name": "Seafood Boil in a Bag",
+    "description": "Seafood boil in a bag? Yes! Add shrimp, crab, corn, potatoes, smoked sausage, and spicy, seasoned butter to a cooking bag and bake it in the oven. It's the easiest, juiciest, most flavorful seafood boil ever.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1102 kcal",
+        "carbohydrateContent": "69 g",
+        "cholesterolContent": "654 mg",
+        "fiberContent": "10 g",
+        "proteinContent": "73 g",
+        "saturatedFatContent": "29 g",
+        "sodiumContent": "5873 mg",
+        "sugarContent": "15 g",
+        "fatContent": "61 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons salt, or as needed",
+        "2 pounds small red potatoes",
+        "3 ears corn, cut in thirds",
+        "1 head garlic, halved lengthwise",
+        "1 pound smoked sausage, cut in 2 inch pieces",
+        "1 small onion, chopped",
+        "1/3 cup white wine",
+        "1/2 cup water or stock",
+        "3 sticks butter",
+        "1/4 cup hot sauce, such as Crystal hot sauce",
+        "2 Tablespoons lemon pepper",
+        "2 Tablespoons seafood seasoning (such as Old Bay\u00ae Original)",
+        "1 1/2 Tablespoons Cajun seasoning",
+        "1 Tablespoon paprika",
+        "2 teaspoons granulated garlic",
+        "1 teaspoon cayenne pepper",
+        "Large oven or turkey cooking bags",
+        "4 snow crab clusters,\u00a0",
+        "2 pounds shrimp",
+        "2 lemons, cut in half, divided"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place potatoes in a large pot and cover with water by 3 inches.\u00a0 Add 2 teaspoons salt and bring to a boil; boil 5 minutes, then add corn and garlic. Return to a boil and cook until potatoes are tender, about 10 minutes. Drain and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a deep skillet or saucepan over medium heat, add sausage, increase heat to medium-high, and cook until sausage is browned on both sides, about 3 minutes. Remove sausage from pan and set aside.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C) with an oven rack set in the lower third of the oven."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onion to skillet with sausage drippings and cook, stirring constantly, until onion begins to soften, about 3 minutes. Stir in wine, and scrape the browned bits from the bottom of the pan; stir in water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add butter, hot sauce, lemon pepper, Old Bay, Cajun seasoning, paprika, granulated garlic, and cayenne to the skillet; reduce heat to medium and cook, stirring constantly, until butter is melted and everything is well combined. Remove from heat.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Open the oven bag in a large bowl or pot and hang the top edge over the top of the bowl to make filling easier. Place corn and potatoes in first. Add mushrooms, eggs, crab legs, shrimp, and sausage, and pour butter mixture over. Squeeze two lemon halves into the bag. Tie bag tightly at the top, allowing room for the bag to fill with steam. (Double bag if necessary to prevent punctures from the seafood.) Very carefully toss contents of bag to coat everything with sauce and place bag in a large baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the bag has filled with steam, shrimp is opaque, and crab is cooked through, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sAD1ugw8Pc9n2sfZZGV5-9fqHJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8630939_Seafood-Boil-In-A-Bag_Dotdash-Meredith-Food-Studios_4x3-d74787dae2a54738841c251ec31c6534.jpg"
+                }
+            ],
+            "text": "Carefully cut bag open; squeeze remaining lemon over the top and enjoy."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

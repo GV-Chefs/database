@@ -1,0 +1,66 @@
+{
+    "headline": "Broccoli Alfredo Pasta",
+    "name": "Broccoli Alfredo Pasta",
+    "description": "This broccoli Alfredo pasta with bright green broccoli florets and bow-tie pasta in a creamy Parmesan sauce, takes under a half hour.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "608 kcal",
+        "carbohydrateContent": "36 g",
+        "cholesterolContent": "130 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "27 g",
+        "sodiumContent": "906 mg",
+        "sugarContent": "4 g",
+        "fatContent": "45 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Side Dish",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "4 ounces farfalle pasta",
+        "2 cups fresh broccoli florets",
+        "2 tablespoons unsalted butter",
+        "1/2 cup heavy cream",
+        "3/4 cup freshly grated Parmesan cheese, see note",
+        "1/2 teaspoon finely minced garlic",
+        "Pinch of ground nutmeg, or to taste",
+        "Salt and pepper, to taste",
+        "Fresh parsley sprigs for optional garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook farfalle pasta at a boil, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Remove to a colander; reserve the pasta water for later use."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add broccoli to a microwave-safe container along with 1/4 cup water. Cover and cook on High\u00a0until bright green and tender with a bite, about 4 minutes. Drain; season with salt. Keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt butter in a skillet or saucepan over low heat. Stir in cream and allow to simmer, stirring often, 3 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add cheese and garlic, stirring continuously, until cheese is melted. Stir in nutmeg and remove from heat. sauce is too thick, stir in a bit of reserved pasta water. Season to taste with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To serve, combine cooked pasta, cooked broccoli, and sauce. Garnish with fresh parsley sprigs, if desired."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

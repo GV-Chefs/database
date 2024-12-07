@@ -1,0 +1,88 @@
+{
+    "headline": "Mini Philly Cheesesteaks",
+    "name": "Mini Philly Cheesesteaks",
+    "description": "Chef John's recipe for mini Philly cheesesteaks will be the hit of your next football party!",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "280 kcal",
+        "carbohydrateContent": "35 g",
+        "cholesterolContent": "18 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "489 mg",
+        "sugarContent": "3 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Lunch",
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter, or as needed",
+        "2 tablespoons all-purpose flour, or as needed",
+        "1 cup cold milk",
+        "2 ounces shredded provolone cheese, or more to taste",
+        "1 pinch ground nutmeg",
+        "1 pinch cayenne pepper",
+        "salt to taste",
+        "1 (12 ounce) skirt steak",
+        "salt and freshly ground black pepper to taste",
+        "3 tablespoons olive oil, divided, or as needed",
+        "0.25 cup water",
+        "0.33333334326744 cup diced onion",
+        "0.33333334326744 cup diced sweet peppers",
+        "2 baguettes, or as needed, cut into 48 1/2-inch thick slices",
+        "0.25 cup shredded provolone cheese, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Line baking sheets with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make sauce: Melt butter in a skillet over medium-high heat. Whisk flour into hot butter and cook, whisking constantly, until mixture is pale and flour taste cooks off, about 1 minute. Whisk milk into flour mixture until mixture is hot and thickened, 3 to 6 minutes. Add provolone cheese, nutmeg, cayenne pepper, and salt; stir until cheese is completely melted. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make mini cheesesteaks: Season steak with salt and black pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon olive oil in a skillet over medium-high heat. Cook steak in hot oil, turning occasionally, until meat is slightly firm and pink on the inside, 5 to 7 minutes. Transfer meat to a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Return the skillet to heat and pour in water; bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Pour liquid from the skillet over steak. Cool steak to room temperature; dice meat and place meat and accumulated juices from the plate into a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon oil in a skillet over medium-high heat; saut\u00e9 onion and peppers in hot oil until softened and slightly translucent, about 5 minutes. Stir onion and peppers into beef in the bowl; season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread bread slices out on the prepared baking sheets and drizzle with remaining 1 tablespoon olive oil. Flip slices over so the oiled sides face downward. Spread cheese sauce generously onto each slice. Spoon beef mixture on top. Sprinkle with provolone cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/F8kLag36Dd3JlEwxksaR59EM7Wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2805818-mini-philly-cheesesteaks-Chef-John-1x1-1-af36fd28446542acb85b72ee61324854.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until browned and cheese is melted, 12 to 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "headline": "Sweet and Sour Pork",
+    "name": "Sweet and Sour Pork",
+    "description": "Sweet and sour pork made with stir-fried tender cubed pork and veggies, coated in a delicious Chinese pineapple sauce made with apple cider vinegar.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT120M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "663 kcal",
+        "carbohydrateContent": "75 g",
+        "cholesterolContent": "43 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1085 mg",
+        "sugarContent": "52 g",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound pork butt, cut into 1 inch cubes",
+        "1 teaspoon soy sauce",
+        "1 teaspoon salt",
+        "0.25 teaspoon white sugar",
+        "1 egg white",
+        "2 green onions, chopped",
+        "1 quart vegetable oil for frying",
+        "0.5 cup cornstarch",
+        "1 tablespoon vegetable oil",
+        "3 stalks celery, cut into 1/2 inch pieces",
+        "1 medium green bell pepper, cut into 1 inch pieces",
+        "1 medium onion, cut into wedges",
+        "1 pinch white sugar, or to taste",
+        "salt to taste",
+        "1.25 cups water, divided",
+        "0.75 cup white sugar",
+        "0.33333334326744 cup apple cider vinegar",
+        "0.25 cup ketchup",
+        "0.5 teaspoon soy sauce",
+        "0.25 teaspoon salt",
+        "1 (8 ounce) can pineapple chunks, undrained",
+        "2 tablespoons cornstarch"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/3uH8KP1c22bi_AEG4K-rbRpzEPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-1-9a5442d2c4634ab392c2aaaca80e7561.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/LegktwDC4m8cjGjDcvro0RvrZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-2-e1a466cfc3684cab9ccae5f955f10434.jpg"
+                }
+            ],
+            "text": "Place cubed pork in a medium bowl and season with soy sauce, salt, and sugar for marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/C0m0O_Ia5FBUkitEjPgt_AKlzwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-3-5af869c54e6b42b1b5e6f51300db63ce.jpg"
+                }
+            ],
+            "text": "Add egg white and green onions and mix until well-combined. Cover and place in the refrigerator for at least 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8e3nxrCTQPBa4YipBt4LRk3vxRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-4-94aad209ae2c4824a2e53d36efc4dc44.jpg"
+                }
+            ],
+            "text": "Heat 1 quart oil to 365 degrees F (185 degrees C) in a large, heavy saucepan or deep fryer. Coat pork with cornstarch."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/w8jgrqjkwRHD08u1K7n2eJm-LuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-5-1-0d95e424c5164927a4dd630fc3355b30.jpg"
+                }
+            ],
+            "text": "Fry in hot oil until evenly browned, about 10 minutes. Drain on paper towels and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/P1yAhhJwwohtdQ5BcAMPj8PYneM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-7-f7e1765646f34d468c1b2875dd097729.jpg"
+                }
+            ],
+            "text": "Heat oil for vegetables in a wok over medium heat. Stir in celery, bell pepper, and onion; cook until tender, about 5 minutes. Season with pinch of sugar and salt. Remove from heat and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RpH11qFkw7VMLFUM_QPaca1BI1E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-8-2338288850824482bcc7249ee8f230c7.jpg"
+                }
+            ],
+            "text": "Mix 1 cup water, 3/4 cup sugar, apple cider vinegar, ketchup, soy sauce, and salt in a large saucepan; bring to a boil over high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/876G7_-vbwBsxutxzpWiS-ecRkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-Step-10-e0e4522b26d74477a53a2bb497bbdcef.jpg"
+                }
+            ],
+            "text": "Stir in cooked pork, celery mixture, and pineapple chunks with juice."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hUjtfPX9n7i9ahQjSy0mgCDQu3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-31144-sweet-and-sour-pork-iii-DDMFS-4x3-8e0f9fce11294e33a1f136d7eeb477a9.jpg"
+                }
+            ],
+            "text": "Return to a boil, then mix in remaining 1/4 cup water and cornstarch. Cook until thickened and warmed through, about 2 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

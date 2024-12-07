@@ -1,0 +1,54 @@
+{
+    "headline": "Cheddar Bratzenkraut",
+    "name": "Cheddar Bratzenkraut",
+    "description": "A sweet and zesty mustard sauce, sauerkraut, cheddar bratwurst, and frozen french fries combine for an unlikely but fantastic casserole.",
+    "recipeCuisine": [
+        "German"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "261 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "34 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1178 mg",
+        "sugarContent": "3 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeIngredient": [
+        "1 (14.5 ounce) can sauerkraut, liquid drained and reserved",
+        "2 tablespoons brown mustard",
+        "1 tablespoon brown sugar",
+        "0.125 teaspoon ground celery seed",
+        "0.125 teaspoon ground black pepper",
+        "12 ounces fully-cooked cheddar bratwurst sausages, cut into 1/4-inch slices",
+        "0.5 (16 ounce) package frozen shoestring french fries"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread sauerkraut into bottom of a 9-inch square glass baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir reserved liquid from sauerkraut, brown mustard, brown sugar, celery seed, and black pepper together in a bowl; drizzle over sauerkraut. Arrange sausage slices in a layer over the sauerkraut and sauce. Loosely pile frozen french fries atop the sausage."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven until the french fries are lightly browned, 20 to 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

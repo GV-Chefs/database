@@ -1,0 +1,56 @@
+{
+    "headline": "Elvis Presley Cake",
+    "name": "Elvis Presley Cake",
+    "description": "Are you lonesome tonight? This cake will have you itchin' like a bug on a fuzzy tree. Even your hound dog will like it. Thank you, thank you very much.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "337 kcal",
+        "carbohydrateContent": "56 g",
+        "cholesterolContent": "20 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "197 mg",
+        "sugarContent": "49 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (18.25 ounce) package white cake mix",
+        "1 (8 ounce) can crushed pineapple with juice",
+        "2 cups white sugar",
+        "1 (8 ounce) package cream cheese",
+        "0.5 cup butter, softened",
+        "4 cups confectioners' sugar",
+        "1 teaspoon vanilla extract",
+        "1 cup chopped pecans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Prepare cake according to instructions on package. Bake in a 9x13 inch pan. Allow to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine pineapple and sugar in saucepan. Bring to a boil. Spoon over cooled cake."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, cream butter and cream cheese until smooth. Add powdered sugar and beat until smooth. Add vanilla. Add pecans and mix well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread cream cheese frosting over cake."
+        }
+    ],
+    "recipeYield": [
+        "24"
+    ]
+}

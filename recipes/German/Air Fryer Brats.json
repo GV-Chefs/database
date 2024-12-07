@@ -1,0 +1,47 @@
+{
+    "headline": "Air Fryer Brats",
+    "name": "Air Fryer Brats",
+    "description": "Crispy, juicy, tender air fryer brats have the perfect texture without firing up the grill.",
+    "recipeCuisine": [
+        "German"
+    ],
+    "totalTime": "PT17M",
+    "cookTime": "PT12M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "246 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "16 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "494 mg",
+        "sugarContent": "4 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "Cooking spray",
+        "4 uncooked bratwursts (such as Johnsonville\u00ae)",
+        "4 sausage or brat buns"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the air fryer to 380 degrees F (193 degrees C). Spray the fryer basket with cooking spray or use an air fryer disposable parchment liner."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place brats in the air fryer basket, being sure not to overcrowd, leaving some room around them. Cook until browned, flipping halfway through cooking time, 12 to 15 minutes. An instant-read thermometer inserted near the center should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

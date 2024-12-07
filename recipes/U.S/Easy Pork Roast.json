@@ -1,0 +1,56 @@
+{
+    "headline": "Easy Pork Roast",
+    "name": "Easy Pork Roast",
+    "description": "Shallots, garlic, and fresh rosemary add lots of flavor to this simple, savory recipe for pork shoulder roast that you can put in the oven and forget about until it's time to eat.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT330M",
+    "cookTime": "PT310M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "487 kcal",
+        "carbohydrateContent": "39 g",
+        "cholesterolContent": "90 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "31 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "528 mg",
+        "sugarContent": "7 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (4 pound) pork shoulder roast",
+        "2 (16 ounce) cans cannellini beans",
+        "1 (12 fluid ounce) can beer",
+        "1 (28 ounce) can stewed tomatoes, drained",
+        "2 large onions, coarsely chopped",
+        "10 shallots, peeled",
+        "10 cloves garlic, peeled",
+        "salt and black pepper to taste",
+        "2 bay leaves",
+        "3 sprigs fresh rosemary"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 275 degrees F (135 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large skillet over medium-high heat, brown the roast on all sides, about 10 minutes. Place roast into a large roasting pan. Pour beans, beer, and tomatoes over roast. Arrange onions, shallots, garlic, bay leaves and sprigs of rosemary around the roast, and season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover, and bake for 4 hours. Raise the temperature to 425 degrees F (220 degrees C), and roast 1 hour more."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

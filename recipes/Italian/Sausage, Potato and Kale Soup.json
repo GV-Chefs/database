@@ -1,0 +1,96 @@
+{
+    "headline": "Sausage, Potato and Kale Soup",
+    "name": "Sausage, Potato and Kale Soup",
+    "description": "This sausage and kale soup combines pork sausage, nutritious kale, and potatoes to give a hearty, rich, bold flavor to a creamy Italian-inspired soup.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "266 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "50 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "391 mg",
+        "sugarContent": "3 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "1 pound bulk Italian sausage",
+        "4 cups half-and-half",
+        "3 cups cubed potatoes",
+        "2 cups low-sodium chicken broth",
+        "2 cups whole milk",
+        "1 medium onion, chopped",
+        "0.5 teaspoon dried oregano",
+        "0.5 teaspoon red pepper flakes, or more to taste",
+        "0.5 teaspoon ground black pepper",
+        "2 cups kale, torn into bite-sized pieces"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Kzj4yQKt2vlzqbFKxv9vPGkif3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231287-sausage-potato-kale-soup-DDMFS-4x3-step-01-70f900b47c1b42fba06b7c0f5714d241.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AqXK4oZIVFo5kLmCkQRiyNm1jsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231287-sausage-potato-kale-soup-DDMFS-4x3-step-02-5d2ce888862c4e4a8744738c5bb2bb39.jpg"
+                }
+            ],
+            "text": "Heat a large soup pot over medium-high heat. Crumble sausage into the pot; cook and stir until browned, about 10 minutes. Drain and discard grease."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dD0OTR361FD_OBIkJJZ88LsQf8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231287-sausage-potato-kale-soup-DDMFS-4x3-step-03-981910d900f043038ff5c94bb5573a50.jpg"
+                }
+            ],
+            "text": "Stir half-and-half, potatoes, chicken broth, milk, onion, oregano, and pepper flakes into sausage, and bring to a boil. Reduce heat to low and simmer until potatoes are tender, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/L-pwNUTUtl5_zJuh3SPsz2W1yKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231287-sausage-potato-kale-soup-DDMFS-4x3-step-04-c77442b2b4f0413a96e8187f12afdc4b.jpg"
+                }
+            ],
+            "text": "Season with black pepper. Stir in kale; simmer until kale is tender, 10 to 15 more minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0o7XkgApUcAWvFl0jzUc3mO00cA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231287-sausage-potato-kale-soup-DDMFS-4x3-Beauty-16a119bf3f3a47dd80d9b13e8b857ab6.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

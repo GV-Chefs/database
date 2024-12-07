@@ -1,0 +1,86 @@
+{
+    "headline": "Easy Slow Cooker Meatballs",
+    "name": "Easy Slow Cooker Meatballs",
+    "description": "This crockpot meatballs recipe is quick and easy to prep. Let your slow cooker do all the work for a comforting hot meal at the end of the day!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT500M",
+    "cookTime": "PT480M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "925 kcal",
+        "carbohydrateContent": "73 g",
+        "cholesterolContent": "149 mg",
+        "fiberContent": "11 g",
+        "proteinContent": "41 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "2012 mg",
+        "fatContent": "53 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds ground beef",
+        "1.25 cups Italian seasoned bread crumbs",
+        "1 medium yellow onion, chopped",
+        "2 cloves garlic, minced",
+        "0.25 cup chopped fresh parsley",
+        "1 egg, beaten",
+        "1 (28 ounce) jar spaghetti sauce",
+        "1 (16 ounce) can crushed tomatoes",
+        "1 (14.25 ounce) can tomato puree"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8UZZSNiNcmSA20cPQ9-wPWcS6YI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57981-easy-slow-cooker-meatball-ddmfs-step1-0006-4x3-c8af4d49a3c24a2eb149e0fc734ad5d3.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/uvlKOmO59RYAqlC9ntJS3zty7Rw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57981-easy-slow-cooker-meatball-ddmfs-step2-0007-4x3-b5946fafee854be7a9c84ba75282063c.jpg"
+                }
+            ],
+            "text": "Place ground beef, bread crumbs, onion, garlic, parsley, and egg in a large bowl. Mix well until evenly combined; shape into 16 meatballs."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ugV85g34Te0bWXNJFDFmBB3B-8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57981-easy-slow-cooker-meatball-ddmfs-step4-0014-4x3-3cd99004c25b4633ac51edeb5c03d046.jpg"
+                }
+            ],
+            "text": "Pour spaghetti sauce and crushed tomatoes into the slow cooker; stir in tomato puree. Place the meatballs into the sauce mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover and cook on Low for 6 to 8 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/v6BYEm50GJEWOfA6PaxtBNKBYbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57981-easy-slow-cooker-meatballs-DDMFS-4x3-3087bfaf0e17443da80d68737f104733.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

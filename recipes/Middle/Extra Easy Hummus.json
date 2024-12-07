@@ -1,0 +1,48 @@
+{
+    "headline": "Extra Easy Hummus",
+    "name": "Extra Easy Hummus",
+    "description": "Tahini-free hummus that only takes minutes, and is a favorite with my kids.",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "118 kcal",
+        "carbohydrateContent": "17 g",
+        "fiberContent": "3 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "502 mg",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Lunch",
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) can garbanzo beans, drained, liquid reserved",
+        "1 clove garlic, crushed",
+        "2 teaspoons ground cumin",
+        "0.5 teaspoon salt",
+        "1 tablespoon olive oil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hL9f5cCm7wDg90Q0WsBOGgXEoB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/588854-274b47807d6a4f09996f6c9a09c77293.jpg"
+                }
+            ],
+            "text": "In a blender or food processor combine garbanzo beans, garlic, cumin, salt and olive oil. Blend on low speed, gradually adding reserved bean liquid, until desired consistency is achieved."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

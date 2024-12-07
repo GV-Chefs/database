@@ -1,0 +1,68 @@
+{
+    "headline": "Copycat Wingstop Cajun Corn",
+    "name": "Copycat Wingstop Cajun Corn",
+    "description": "This copycat Wingstop Cajun corn is seasoned with garlic, cayenne, and herbs, exactly like your favorite restaurant version.",
+    "recipeCuisine": [
+        "Copycat"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "185 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "31 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "419 mg",
+        "sugarContent": "2 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "4 ears fresh yellow corn",
+        "2 tablespoons olive oil",
+        "11/4 teaspoon kosher salt",
+        "1/2 cup butter, melted, divided",
+        "1/2 teaspoon pepper",
+        "1 teaspoon onion powder",
+        "1 teaspoon garlic powder",
+        "1/4 teaspoon thyme",
+        "1/4 teaspoon oregano",
+        "1 teaspoon paprika",
+        "1/4 teaspoon cayenne pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cut corn into 2-inch thick pieces. Toss corn with olive oil, 1 teaspoon salt and 2 tablespoons melted butter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions. Add corn to air fryer and cook about 15 minutes, tossing occasionally, until partially golden brown.\u00a0\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, combine remaining salt and butter with remaining ingredients in a large bowl and mix well.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6pdUwcIMcUrO8kqs4DOmgkcI5Jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8681405_Copycat-Wingstop-Cajun-Corn_Dotdash-Meredith-Food-Studios_4x3-864341560eba46ddb72080e94b88c651.jpg"
+                }
+            ],
+            "text": "Add cooked corn to butter mixture\u00a0 and toss well to coat."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

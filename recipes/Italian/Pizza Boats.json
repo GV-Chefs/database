@@ -1,0 +1,66 @@
+{
+    "headline": "Pizza Boats",
+    "name": "Pizza Boats",
+    "description": "Pizza boats make pizza night easy. Using hoagie rolls for crusts, just choose your favorite pizza toppings.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT22M",
+    "cookTime": "PT12M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "291 kcal",
+        "carbohydrateContent": "23 g",
+        "cholesterolContent": "32 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "872 mg",
+        "sugarContent": "4 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 (8-inch) hoagie rolls",
+        "1 tablespoon olive oil",
+        "2 teaspoons Italian seasoning",
+        "1 cup pizza sauce",
+        "2 cups shredded mozzarella cheese",
+        "8 slices pepperoni, halved",
+        "8 grape tomatoes, halved",
+        "sprinkle of crushed red pepper flakes (optional)",
+        "salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C). Place a piece of aluminum foil on a baking sheet; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Slice each hoagie roll in half lengthwise to form two rolls, and using your fingertips, hollow out some of the bread inside, forming a well. Lightly brush each roll with olive oil, and sprinkle with Italian seasoning."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fill and spread each roll with 1/4 cup pizza sauce and then top with 1/2 cup mozzarella cheese. Layer pepperoni and grape tomatoes on top of the cheese, sprinkle with red pepper flakes, and season to taste with salt. Place rolls on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VAAKb1HMLjVYugLkDr3nBZaXq7c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7504226_Pizza-Boats_lutzflcat_4x3-7d9c3d9d72764058801bc1b9907902eb.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until the cheese is turning golden brown and starting to bubble, 12 to 14 minutes. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

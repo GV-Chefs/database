@@ -1,0 +1,53 @@
+{
+    "headline": "Grammy's Easy Blackberry Cobbler",
+    "name": "Grammy's Easy Blackberry Cobbler",
+    "description": "Three ingredients make this blackberry dump cobbler one of the easiest to put together.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "539 kcal",
+        "carbohydrateContent": "74 g",
+        "cholesterolContent": "42 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "676 mg",
+        "sugarContent": "41 g",
+        "fatContent": "26 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3 cups fresh blackberries",
+        "1 (15.25 ounce) package yellow cake mix",
+        "0.5 cup butter, softened"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread blackberries into a 9x13-inch glass baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place cake mix into a large bowl. Mix in butter until mixture resembles cornmeal. Sprinkle evenly over blackberries."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until blackberries are tender and topping is golden brown, about 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

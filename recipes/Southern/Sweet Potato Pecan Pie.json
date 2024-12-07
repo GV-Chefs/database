@@ -1,0 +1,70 @@
+{
+    "headline": "Sweet Potato Pecan Pie",
+    "name": "Sweet Potato Pecan Pie",
+    "description": "For this luscious pie's filling, sweet potatoes are mashed and combined with egg, sugar, salt, cinnamon, ginger, cloves and cream. Pecans are combined with brown sugar and butter to make a rich caramelized topping that's spooned onto the cooked pie before it's slipped under the broiler for a moment or two.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT110M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "519 kcal",
+        "carbohydrateContent": "61 g",
+        "cholesterolContent": "91 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "354 mg",
+        "sugarContent": "40 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (9 inch) unbaked pie crust",
+        "2 cups cooked and mashed sweet potatoes",
+        "2 eggs",
+        "0.75 cup white sugar",
+        "0.5 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "0.5 teaspoon ground ginger",
+        "0.25 teaspoon ground cloves",
+        "1.6666666269302 cups light cream",
+        "3 tablespoons butter, softened",
+        "0.66666668653488 cup packed brown sugar",
+        "0.66666668653488 cup chopped pecans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake sweet potatoes until fork-tender, 40 to 50 minutes. Cool until easily handled."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Peel and mash sweet potatoes. Make sure all lumps are removed, straining if necessary."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lightly beat eggs. Blend together eggs and sweet potatoes. Stir in sugar, salt, cinnamon, ginger, and cloves. Blend in cream. Pour into pie shell."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 45 to 55 minutes, or until knife inserted halfway between center and edge of pie comes out clean. Cool completely on a rack."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make the caramelized pecan topping. Combine butter or margarine, brown sugar, and pecans. Gently drop by spoonfuls over cooled pie to cover top. Broil 5 inches below heat until mixture begins to bubble, about 3 minutes. Watch carefully, if cooked too long, top will turn syrupy. Cool on rack."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

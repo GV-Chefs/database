@@ -1,0 +1,80 @@
+{
+    "headline": "Asian-Inspired Pork and Mushroom Sloppy Joes",
+    "name": "Asian-Inspired Pork and Mushroom Sloppy Joes",
+    "description": "These pork and mushroom Sloppy Joes are a fabulous fusion, a perfect balance of sweet, slightly spicy, and umami flavors, with a delectably crunchy, tangy slaw.",
+    "recipeCuisine": [
+        "Fusion"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "582 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "74 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "28 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "1032 mg",
+        "sugarContent": "12 g",
+        "fatContent": "33 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Sandwich"
+    ],
+    "recipeIngredient": [
+        "14 ounces bagged coleslaw mix",
+        "6 green onions, thinly sliced",
+        "1/4 cup cilantro leaves, any remaining tender stems thinly sliced",
+        "1/4 cup seasoned rice vinegar",
+        "1 1/2 tablespoons sesame oil",
+        "1 tablespoon Sriracha (or more to taste)",
+        "1 1/2 teaspoons soy sauce",
+        "1 teaspoon black sesame seeds"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Add coleslaw mix, green onions, and cilantro to a bowl. Whisk rice vinegar, 1 1/2 tablespoons sesame oil, 1 tablespoon Sriracha, 1 1/2\u00a0 teaspoons soy sauce, and 1 teaspoon sesame seeds together in a cup. Pour dressing over slaw and toss to coat. Set aside to marinate, tossing occasionally, at least 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk water, hoisin sauce, 1 tablespoon Sriracha, fish sauce, and 2 teaspoons sesame oil together in a large bowl; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a 12-inch skillet over medium heat. Cook and stir pork in the hot skillet with a generous pinch Kosher salt, breaking up pork with a spatula, until browned and crumbly and fat has rendered, 8 to 10\u00a0 minutes. Remove pork to the bowl with water-hoisin sauce mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pulse mushroom pieces in a food processor until the size of green peas, 8 to 10 times. Heat 1 teaspoon olive oil in the same skillet over medium heat. Cook and stir mushrooms with a generous pinch of salt until liquid has evaporated and mushrooms are beginning to turn golden brown, 8 to 10 minutes. Transfer mushrooms to the bowl with pork."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, pulse onion chunks, bell pepper chunks, and jalape\u00f1o together in the food processor until vegetable mixture resembles pico de gallo, about 15 times."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 teaspoon olive oil in the pan. Add onion mixture and a pinch of salt and cook until onions are translucent and most of the liquid has evaporated, 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Process garlic cloves in the food processor until small enough that all the bits are sticking to the sides, about 10 seconds. Stir garlic and ginger paste into the skillet with onion mixture and cook until fragrant, about 30 seconds. Return meat and mushroom mixture to the skillet. Stir to combine; simmer until meat is coated in a thick sauce and most liquid has evaporated, 10 to 12 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix mayonnaise and sesame oil in a small bowl. Spread a thin coat of mayonnaise mixture inside of both top and bottom buns. Add to a nonstick pan and toast over medium heat until golden, about 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Top prepared buns with sloppy joe mix, coleslaw, cilantro leaves, and a drizzle of Sriracha. Top with the other bun half."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

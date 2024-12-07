@@ -1,0 +1,68 @@
+{
+    "headline": "Thanksgiving Turkey Congee",
+    "name": "Thanksgiving Turkey Congee",
+    "description": "This turkey congee is a variation of a traditional Chinese rice porridge, eaten for breakfast or brunch, and is a great dish to create with turkey leftovers.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT150M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "201 kcal",
+        "carbohydrateContent": "35 g",
+        "cholesterolContent": "5 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "35 mg",
+        "sugarContent": "2 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "0.25 cup dried scallops",
+        "3 dried black mushrooms",
+        "1.5 cups uncooked short-grain white rice",
+        "0.5 leftover turkey carcass, broken into pieces",
+        "9 cups water",
+        "1 bunch fresh cilantro, chopped",
+        "1 bunch green onions, chopped",
+        "0.25 cup thinly sliced fresh ginger",
+        "0.25 cup raw peanuts",
+        "2 tablespoons dried red onion",
+        "8 dashes sesame oil",
+        "ground white pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place dried scallops and dried mushrooms in a bowl; pour in hot water to cover and let stand to rehydrate, about 10 minutes. Rinse and drain rice; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Separate any meat from bones of turkey carcass; set aside. Place bones and 9 cups hot water in a large stockpot and bring to a boil. Drain mushrooms and scallops; squeeze out any excess water. Break scallops into smaller pieces; slice mushrooms thinly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir scallops, mushrooms, rice, and turkey meat into the stockpot; reduce heat to allow congee to simmer, partially covered, stirring occasionally for a smooth congee, until rice is tender and congee is thick, about 2 hours. If you like a thinner congee, stir in hot water a few tablespoons at a time."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/IXTI_GfcKYLutRnmlJA6sZlYzf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2847708-9dc3e7793ce343d98596a5edf3f07555.jpg"
+                }
+            ],
+            "text": "Ladle congee into individual bowls; top each bowl with cilantro, green onions, ginger, peanuts, red onion, sesame oil, and white pepper as desired."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

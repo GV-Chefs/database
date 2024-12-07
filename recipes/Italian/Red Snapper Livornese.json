@@ -1,0 +1,60 @@
+{
+    "headline": "Red Snapper Livornese",
+    "name": "Red Snapper Livornese",
+    "description": "This delicious Italian-inspired livornese recipe features red snapper fillets baked with a zesty tomato, onion, caper, and black olive sauce.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "226 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "42 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "555 mg",
+        "sugarContent": "4 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "0.5 small onion, diced",
+        "2 cloves garlic, minced",
+        "5 whole canned tomatoes, drained and chopped",
+        "2 tablespoons capers, chopped",
+        "0.5 cup sliced black olives, drained",
+        "0.25 teaspoon crushed red pepper flakes",
+        "0.5 tablespoon chopped fresh parsley",
+        "1 pound red snapper fillets",
+        "1 tablespoon fresh lemon juice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium skillet, heat olive oil. Add onion and saut\u00e9 until tender, about 5 minutes. Add garlic and saut\u00e9 for 1 minute. Stir in tomatoes, capers, olives, pepper flakes, and parsley. Bring to a boil, then simmer for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread 1/2 cup sauce in an 11x7-inch baking dish. Arrange snapper fillets in a single layer over sauce. Drizzle fillets with lemon juice, then pour remaining sauce over top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 15 minutes for 1/2-inch thick fillets, or 30 minutes for 1-inch thick fillets. Baste once with the sauce while baking. Snapper is done when it flakes easily with a fork."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

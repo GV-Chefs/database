@@ -1,0 +1,59 @@
+{
+    "headline": "Quick Manhattan Clam Chowder",
+    "name": "Quick Manhattan Clam Chowder",
+    "description": "Manhattan clam chowder with plenty of clams, tomatoes, carrots, and potatoes is ready in under an hour for a quick weekday lunch or dinner.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "244 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "64 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "27 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "720 mg",
+        "sugarContent": "8 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "4 ribs celery, diced",
+        "1 onion, diced",
+        "0.5 (16 ounce) package baby carrots, diced",
+        "1 tablespoon chopped fresh basil, or to taste",
+        "1 clove garlic, minced, or more to taste",
+        "black pepper to taste",
+        "3 (14.5 ounce) cans stewed tomatoes",
+        "4 (6.5 ounce) cans minced clams, undrained",
+        "2 (8 ounce) bottles clam juice",
+        "1 (14.5 ounce) can whole potatoes, drained and diced",
+        "1 dash Worcestershire sauce, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large pot over medium heat. Add celery, onion, carrots, basil, garlic, and black pepper until tender, about 10 minutes. Transfer 1/2 vegetable mixture to a food processor."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain 1 can stewed tomatoes; add to the food processor; pulse until smooth. Stir mixture into pot."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir remaining 2 cans stewed tomatoes, clams, clam juice, and potatoes into pot; bring to a boil. Reduce heat and simmer soup until heated through, 15 to 20 minutes. Season soup with Worcestershire sauce."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

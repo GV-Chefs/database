@@ -1,0 +1,65 @@
+{
+    "headline": "Chanterelle Mushroom and Bacon Tartlets",
+    "name": "Chanterelle Mushroom and Bacon Tartlets",
+    "description": "Wild chanterelle mushrooms and bacon combine wonderfully in this impressive and elegant starter.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "109 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "25 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "132 mg",
+        "sugarContent": "1 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons olive oil",
+        "2 tablespoons minced shallots",
+        "1 clove garlic, minced",
+        "1.5 cups chanterelle mushrooms, finely chopped",
+        "1 tablespoon brandy",
+        "0.5 teaspoon minced fresh thyme",
+        "1 tablespoon minced fresh parsley",
+        "0.25 teaspoon salt and pepper to taste",
+        "1 egg",
+        "0.25 cup milk",
+        "0.25 cup shredded Swiss cheese",
+        "2 tablespoons cream cheese, softened",
+        "2 slices bacon, cooked and crumbled",
+        "24 mini phyllo tart shells"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large skillet over medium heat. Saute shallots until they begin to brown. Add garlic and mushrooms, and cook until tender. Deglaze pan with brandy, and season with thyme, parsley, salt, and pepper. Remove from heat, and allow to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, combine egg, milk, Swiss cheese, cream cheese, and bacon. Fold in mushroom mixture. Spoon evenly into phyllo cups, and place cups on baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven for 15 to 20 minutes, or until filling is set."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

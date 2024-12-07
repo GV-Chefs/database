@@ -1,0 +1,47 @@
+{
+    "headline": "Supremely Spicy Hummus",
+    "name": "Supremely Spicy Hummus",
+    "description": "This homemade spicy hummus is flavored with a generous amount of cayenne pepper and hot sauce for a smooth and creamy dip with a kick of heat.",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "120 kcal",
+        "carbohydrateContent": "10 g",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "276 mg",
+        "sugarContent": "0 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "0.25 cup tahini",
+        "2 tablespoons olive oil",
+        "1 tablespoon lemon juice",
+        "1 tablespoon minced garlic",
+        "1 teaspoon cayenne pepper",
+        "0.5 teaspoon ground cumin",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon sesame oil",
+        "5 dashes hot pepper sauce (such as Cholula\u00ae)",
+        "1 (15 ounce) can garbanzo beans, drained and rinsed",
+        "2 tablespoons cold water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine tahini, olive oil, lemon juice, garlic, cayenne pepper, cumin, salt, sesame oil, and hot sauce in a food processor or blender; blend until very smooth, about 3 minutes. Add garbanzo beans and blend for 2 minutes. Add water and blend for 3 minutes more. Chill in refrigerator."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

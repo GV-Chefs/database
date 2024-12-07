@@ -1,0 +1,66 @@
+{
+    "headline": "New Year Black-Eyed Peas",
+    "name": "New Year Black-Eyed Peas",
+    "description": "This hearty black-eyed peas recipe uses meaty ham hocks for smoky flavor and adds pepperoncini peppers for a subtle kick and touch of sweetness.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT675M",
+    "cookTime": "PT180M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "307 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "35 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1281 mg",
+        "sugarContent": "6 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 pound dry black-eyed peas",
+        "2 tablespoons olive oil",
+        "1 large yellow onion, diced",
+        "2 cloves garlic, minced",
+        "2 (32 ounce) cartons chicken broth",
+        "8 cups water",
+        "1 pound smoked ham hocks",
+        "1 (14.5 ounce) can diced tomatoes",
+        "5 pepperoncini peppers",
+        "1 bay leaf",
+        "0.5 teaspoon garlic powder",
+        "0.25 teaspoon ground thyme",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place black-eyed peas into a large container and cover with several inches of cool water; let soak at room temperature, 8 hours to overnight. Drain and rinse; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large stockpot over medium heat. Add onion and garlic; cook and stir until onion becomes translucent, about 5 minutes. Pour in broth and water; bring to a boil, then reduce heat to a simmer. Stir in black-eyed peas, ham hocks, tomatoes, pepperoncini, bay leaf, garlic powder, thyme, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sd_QUciHoPO63A_7izzTsyf8a3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2226841-8ec763e7d1ca4818887b130173fbe214.jpg"
+                }
+            ],
+            "text": "Cover and simmer until peas are tender, ham meat is falling off the bones, and broth is thickened, about 3 hours."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

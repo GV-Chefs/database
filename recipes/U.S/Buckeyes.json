@@ -1,0 +1,110 @@
+{
+    "headline": "Buckeyes",
+    "name": "Buckeyes",
+    "description": "Some call buckeyes a cookie, some call them a candy, but everyone calls them delicious. These easy chocolate-dipped peanut butter balls are even no-bake!",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "151 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "8 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "53 mg",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1.5 cups peanut butter",
+        "1 cup butter, softened",
+        "0.5 teaspoon vanilla extract",
+        "4 cups sifted confectioners' sugar, or more as needed",
+        "4 cups semisweet chocolate chips",
+        "toothpicks"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FWK9I18OH43rYTjz-IVhg4UxfS4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-9909-buckeyes-ddmfs-ingredients-3x4-2452-ef39d52b82e744889223dc182bdcbadb.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ALngKDZ821Y3jzWlgdTuf-Lau94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-9909-buckeyes-ddmfs-step1-3x4-2453-2bfcbbb6a05347158e63022f057f3b82.jpg"
+                }
+            ],
+            "text": "Beat peanut butter, butter, and vanilla together in a large bowl with an electric mixer until light and fluffy."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cPKE5a4oe8bJWmVz81_dzns9HUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-9909-buckeyes-ddmfs-step2-3x4-2459-2c180980750147bd9ce872a16545a59d.jpg"
+                }
+            ],
+            "text": "Beat in 4 cups sifted confectioners' sugar until dough is stiff, firm, and dry with no lumps; adding more sifted sugar as needed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/W0b6L2OZb1adUJuzsDWpXQB-Wx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-9909-buckeyes-ddmfs-step4-3x4-2461-92e9f6e924f34fc1a3be1387b4e97765.jpg"
+                }
+            ],
+            "text": "Roll dough into about sixty 1-inch balls and place on wax-lined cookie sheets. Press a toothpick into the top of each ball and chill in the freezer until firm, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/KcJhllN8onoWNtJnjJhf62eRTwQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-9909-buckeyes-ddmfs-step5-3x4-2494-07115e0cabf84d91ad0d5a157af73773.jpg"
+                }
+            ],
+            "text": "Place chocolate chips in a double boiler or in a bowl set over a pan of barely simmering water. Stir frequently until melted and smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/KeJ1l_iI1mJY1s1UnwV5twBlCws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-9909-buckeyes-ddmfs-step6-3x4-2495-ed24d535e8f94c0b9381c467b6cb13c9.jpg"
+                }
+            ],
+            "text": "Hold the toothpicks and dip frozen peanut butter balls into the melted chocolate, leaving a small portion of peanut butter showing at the top."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gVQQ9YepgKrIN5Trkzpe23h5TgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-9909-buckeyes-ddmfs-3x4-2516-c3177246fb764cb78384d1138fdaedcd.jpg"
+                }
+            ],
+            "text": "Return to the cookie sheet, remove and discard the toothpicks, and refrigerate until ready to serve. Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "60"
+    ]
+}

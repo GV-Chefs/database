@@ -1,0 +1,71 @@
+{
+    "headline": "Real Hummus",
+    "name": "Real Hummus",
+    "description": "A traditional recipe for hummus that includes tahini and lemon and makes a wonderful snack or appetizer. Serve with warm pita bread or veggies.",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "54 kcal",
+        "carbohydrateContent": "7 g",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "199 mg",
+        "sugarContent": "0 g",
+        "fatContent": "3 g",
+        "servingSize": "2 1/2 cups",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 cloves garlic",
+        "1 (19 ounce) can garbanzo beans, half the liquid reserved",
+        "4 tablespoons lemon juice",
+        "2 tablespoons tahini",
+        "1 teaspoon salt",
+        "2 tablespoons olive oil",
+        "black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FY4gXuDHG5H5v3rERQPhg10T5b8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26921-real-hummus-ddmfs-step-1-44-1742cef13130429182603f48ec3f1eaf.jpg"
+                }
+            ],
+            "text": "Chop garlic in a blender."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/eGsWUrqIYjoo9rV3O-wCMjPyEIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26921-real-hummus-ddmfs-step-2-46-168059a6754646ec958c18496b6ba84a.jpg"
+                }
+            ],
+            "text": "Pour garbanzo beans into the blender, reserving about 1 tablespoon for garnish. Add reserved liquid, lemon juice, tahini, and salt to the blender. Blend until creamy and well mixed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2YAWPbPTu5hrTr-ZMgaOc5GBplc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26921-real-hummus-DDMFS-4x3-6747fff2558e42619a7231eb397eab75.jpg"
+                }
+            ],
+            "text": "Transfer mixture to a medium serving bowl. Drizzle olive oil and sprinkle pepper over the top. Garnish with reserved garbanzo beans."
+        }
+    ],
+    "recipeYield": [
+        "20"
+    ]
+}

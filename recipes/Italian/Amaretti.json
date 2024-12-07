@@ -1,0 +1,47 @@
+{
+    "headline": "Amaretti",
+    "name": "Amaretti",
+    "description": "This is the classic Italian almond macaroon. When first baked they are crispy on the outside and chewy on the inside. As they sit, they get crunchy throughout. Delicious with any fruit dessert.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "266 kcal",
+        "carbohydrateContent": "30 g",
+        "fiberContent": "3 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "17 mg",
+        "sugarContent": "26 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3 cups blanched slivered almonds",
+        "1.5 cups white sugar",
+        "3 egg whites",
+        "1 teaspoon almond extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 300 degrees F (150 degrees C). Line baking sheets with parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a food processor, grind the almonds into a fine meal. Add the sugar and continue to process for another 15 seconds. Finally, add egg whites and almond extract, continue to process until a smooth dough forms around the blade."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Using a teaspoon, place well rounded spoonfuls of dough onto prepared baking sheets. Cookies should be at least 1 1/2 inches apart. Bake in preheated oven for 20 to 30 minutes. Cookies should be golden. Allow cookies to cool completely on the paper before removing. Store in a dry place."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

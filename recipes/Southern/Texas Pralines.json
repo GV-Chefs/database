@@ -1,0 +1,53 @@
+{
+    "headline": "Texas Pralines",
+    "name": "Texas Pralines",
+    "description": "Delicious chewy pecan pralines we make every year for Christmas. These make great gifts as well and are hard to resist treats to share and enjoy.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "255 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "29 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "57 mg",
+        "sugarContent": "11 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "nonstick cooking spray",
+        "2 cups white sugar",
+        "2 cups light corn syrup",
+        "1 pound butter",
+        "2 cups heavy cream",
+        "2 teaspoons vanilla extract",
+        "8 cups pecans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Line two baking sheets with aluminum foil. Coat with nonstick cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine sugar and corn syrup in a large saucepan over medium heat. Heat to 250 degrees F (120 degrees C). Remove from heat, and stir in butter until melted. Gradually stir in cream. Return to heat. Cook, stirring constantly until the temperature reaches 242 degrees F (116 degrees C). Remove from heat, and stir in vanilla and then pecans."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drop by spoonfuls onto the prepared pans. Cool completely, then wrap with plastic."
+        }
+    ],
+    "recipeYield": [
+        "56"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "headline": "Creamy Wild Mushroom Risotto",
+    "name": "Creamy Wild Mushroom Risotto",
+    "description": "Wild mushroom risotto with dried chanterelles, fresh mushrooms, garlic, white wine, and truffle oil; top with Gorgonzola for a rich and creamy main dish.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "321 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "23 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "413 mg",
+        "sugarContent": "9 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 ounces dried chanterelle mushrooms",
+        "1.5 teaspoons butter",
+        "1 teaspoon truffle oil",
+        "1 chopped onion",
+        "2 shallots, minced",
+        "1 clove garlic, minced",
+        "3 ounces sliced fresh button mushrooms",
+        "1 (12 ounce) package Arborio rice",
+        "0.5 cup dry white wine",
+        "1 quart hot chicken stock",
+        "2 tablespoons heavy cream",
+        "2 tablespoons crumbled Gorgonzola cheese, or to taste",
+        "ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cover chanterelle mushrooms with hot water, cover, and set aside to soften for 30 minutes. Once soft, remove mushrooms from water and chop; discard water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter along with truffle oil in a large saucepan over medium-high heat. Add onion, shallot, and garlic; cook and stir two minutes until the onion begins to soften. Add fresh mushrooms; continue cooking until mushroom softens and begin to release their liquid. Stir in chopped chanterelle mushrooms, and cook 3 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add Arborio rice; cook and stir for a few minutes until rice looks glossy and is well coated with onion mixture. Stir in white wine and cook until nearly evaporated."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat to medium; add 1/3 of the hot chicken stock. Cook and stir until chicken stock has been mostly absorbed, about 5 minutes. The risotto should be simmering gently while you stir in chicken stock. Add 1/2 of the remaining stock, and stir for 5 minutes more. Finally add remaining stock, and continue cooking until risotto is creamy and rice is tender, about 5 minutes more. The rice should not be completely soft, but still have a little firmness when you bite into it. You can add a little water if needed to cook the rice to this state."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove risotto from the heat, and stir in heavy cream and Gorgonzola cheese. Season to taste with salt and pepper, and serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

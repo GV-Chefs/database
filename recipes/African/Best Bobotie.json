@@ -1,0 +1,99 @@
+{
+    "headline": "Best Bobotie",
+    "name": "Best Bobotie",
+    "description": "Bobotie is a South African dish made with ground beef seasoned with curry and topped with a rich milk and egg custard for an aromatic savory meal.",
+    "recipeCuisine": [
+        "African"
+    ],
+    "totalTime": "PT110M",
+    "cookTime": "PT95M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "375 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "75 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "379 mg",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons vegetable oil",
+        "2 medium onions, minced",
+        "1.5 pounds ground beef",
+        "1 cup milk",
+        "2 slices Texas toast thick-sliced bread",
+        "0.5 cup raisins",
+        "1 tablespoon hot chutney",
+        "0.5 tablespoon curry powder",
+        "1 teaspoon apricot jam",
+        "1 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "1 large egg",
+        "1 pinch salt",
+        "1 bay leaf"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zx72d7RNoJe0zIZf6H_GrwWaz04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157881-best-bobotie-step1-530-f39b1cd03b9e4b81b32835fab6eb8886.jpg"
+                }
+            ],
+            "text": "Heat oil in a large skillet over medium-high heat. Cook onions in hot oil until soft, 2 to 3 minutes. Crumble ground beef into the skillet; cook and stir until brown, 8 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6ALQGpz9ef8dCVB2nfloL1Ndpns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157881-best-bobotie-step2-533-c193fa52e883454da060a8d8b2183aac.jpg"
+                }
+            ],
+            "text": "Pour milk in a shallow dish. Soak bread in milk. Squeeze excess milk from bread and set milk aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/72JzU4vqsC40ySjkvTtJOpYcEQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157881-best-bobotie-step3-535-4f7d4527890c4bd6af7f257c83d3cec9.jpg"
+                }
+            ],
+            "text": "Add bread to beef mixture. Stir in raisins, chutney, curry powder, apricot jam, salt, and black pepper. Pour mixture into the prepared baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/W0vOVJoWBLcJyRaP-rrHYhDh61E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157881-best-bobotie-step4-558-0e7893cbdc614ecd9687ee207dbc9017.jpg"
+                }
+            ],
+            "text": "Whisk together reserved milk, egg, and a pinch of salt. Pour over top of beef mixture. Lay bay leaf on top of milk mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Continue baking until top is golden brown, 25 to 30 minutes. Remove bay leaf before serving."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

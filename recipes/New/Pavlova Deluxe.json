@@ -1,0 +1,61 @@
+{
+    "headline": "Pavlova Deluxe",
+    "name": "Pavlova Deluxe",
+    "description": "A crisp white meringue is baked in a springform pan to make beautiful nest for this gorgeous dessert. It's filled with lightly sugared whipped cream topped with fresh fruit.",
+    "recipeCuisine": [
+        "New Zealand"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "254 kcal",
+        "carbohydrateContent": "30 g",
+        "cholesterolContent": "51 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "58 mg",
+        "sugarContent": "27 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "6 egg whites",
+        "0.125 teaspoon cream of tartar",
+        "1 cup white sugar",
+        "1 tablespoon cornstarch",
+        "2 teaspoons distilled white vinegar",
+        "1.25 cups heavy cream, chilled",
+        "1 teaspoon vanilla extract",
+        "2 teaspoons confectioners' sugar",
+        "4 passion fruits"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (205 degrees C). Grease interior of 8 inch springform pan and dust lightly with cornstarch."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat egg whites, preferably in a glass or ceramic bowl, until stiff and glossy. Make sure egg whites have absolutely no contact with grease (fresh or residual), or even a speck of yolk. Combine cream of tartar, white sugar, and cornstarch; gradually beat in to the egg whites. Sprinkle vinegar over egg white mixture, then fold it in very gently."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pile meringue into prepared pan. Spread to the sides leaving a slight depression in the center. Place in preheated oven. Close the oven door, and immediately turn oven down to 250 degrees F (120 degrees C). Bake for 75 to 90 minutes. Open oven door, but leave meringue in the oven for 15 more minutes. Remove meringue to a draft free spot. Very carefully remove rim of springform pan, and allow meringue to cool completely. There may be a slight sinking in the center. Carefully remove meringue from pan base, and place on serving platter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whip cream, vanilla extract, and confectioners' sugar until thick and firm. Gently spread over the meringue."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove the pulp from the passion fruit, and spoon over cream. If using kiwi, peel and slice the fruit; arrange slightly overlapping slices in a pleasing design. Chill until serving time."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "headline": "Hawaiian Chicken Pineapple Kabobs",
+    "name": "Hawaiian Chicken Pineapple Kabobs",
+    "description": "Chicken pineapple kabobs marinated in a sweet and delicious mixture of soy sauce, brown sugar, sherry, and spices before they're cooked on the grill.",
+    "recipeCuisine": [
+        "Hawaiian"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "203 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "61 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "413 mg",
+        "sugarContent": "15 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons soy sauce",
+        "3 tablespoons brown sugar",
+        "2 tablespoons sherry",
+        "1 tablespoon sesame oil",
+        "0.25 teaspoon ground ginger",
+        "0.25 teaspoon garlic powder",
+        "8 skinless, boneless chicken breast halves - cut into 2 inch pieces",
+        "1 (20 ounce) can pineapple chunks, drained",
+        "skewers"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix soy sauce, brown sugar, sherry, sesame oil, ginger, and garlic powder together in a shallow glass dish. Stir in chicken pieces and pineapple chunks until well coated. Cover and marinate in the refrigerator for 1 to 2 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the grill to medium-high heat and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Thread chicken and pineapple alternately onto skewers. Discard excess marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cSK3A01gkDP63H5O-eRv1qGmsdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1001317-hawaiian-chicken-kabobs-lauralovinglife-1x1-1-041f0462b70e489d902080e754361645.jpg"
+                }
+            ],
+            "text": "Cook on the preheated grill, turning occasionally, until chicken is longer pink in the center and the juices run clear, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).\u00a0"
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

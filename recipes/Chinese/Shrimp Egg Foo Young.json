@@ -1,0 +1,79 @@
+{
+    "headline": "Shrimp Egg Foo Young",
+    "name": "Shrimp Egg Foo Young",
+    "description": "This egg foo young recipe features golden egg patties with shrimp, bean sprouts, and green onions. Plus, a special sauce to spoon over the patties!",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "227 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "248 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "598 mg",
+        "sugarContent": "9 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "8 ounces fresh bean sprouts",
+        "1 cup cooked small shrimp",
+        "4 eggs",
+        "0.33333334326744 cup thinly sliced green onions",
+        "0.25 teaspoon garlic powder",
+        "2 tablespoons vegetable oil",
+        "3 cups chicken broth",
+        "2 tablespoons cornstarch",
+        "2 tablespoons sugar",
+        "2 tablespoons Chinese cooking wine",
+        "2 tablespoons soy sauce"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EsbLWe9Lxna0aUFRabwGW_qkkNw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/163370-ShrimpEggFooYoung-ddmfs-Step1-0699-4x3-bad0c2f0ac3148a89c103f946c103c61.jpg"
+                }
+            ],
+            "text": "Mix bean sprouts, shrimp, eggs, green onions, and garlic powder together in a large bowl until well combined."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VX40_-4oHiGemlX7FL_xjQNRdcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/163370-ShrimpEggFooYoung-ddmfs-Step2-0709-4x3-6718217e0a4c4209baedfa24ef279438.jpg"
+                }
+            ],
+            "text": "Heat oil in a skillet over medium heat. Add about 1/2 cup of egg mixture into the skillet to make a patty. Repeat to add more patties to the skillet. Working in batches, fry patties until golden brown, about 4 minutes per side."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GWROBusbWu19t0HRm4XzZRHwqdM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/163370-ShrimpEggFooYoung-ddmfs-Step3-0714-4x3-320a2c1aee244754844f4fb2e75cecd8.jpg"
+                }
+            ],
+            "text": "Meanwhile, make the sauce: Whisk chicken broth, cornstarch, sugar, cooking wine, and soy sauce together in a saucepan over medium-low heat; simmer until sauce thickens, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon sauce over patties."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

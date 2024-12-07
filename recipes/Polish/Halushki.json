@@ -1,0 +1,58 @@
+{
+    "headline": "Halushki",
+    "name": "Halushki",
+    "description": "This halushki recipe features hot, buttery egg noodles tossed with tender cabbage and chopped, juicy pork chop flavored with onion and garlic powder.",
+    "recipeCuisine": [
+        "Polish"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "280 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "92 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "100 mg",
+        "sugarContent": "1 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds pork chops",
+        "garlic powder to taste",
+        "salt and pepper to taste",
+        "1 onion, chopped",
+        "water",
+        "1 large head cabbage, cut into squares",
+        "1 pound large egg noodles",
+        "1 tablespoon butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Sprinkle pork chops with garlic powder, salt, and pepper. Grease a large saucepan or deep skillet and place over medium-high heat. Cook pork chops and onion in the hot saucepan until very brown and well cooked. It is ok if they stick a little, as the drippings are essential in this dish. Remove pork chops to a plate and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 1/4 cup water to the saucepan while scraping the browned bits of food off the bottom with a wooden spoon. Place cabbage into the saucepan and allow to cook down completely, stirring occasionally."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain and mix butter into cooked noodles."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Chop pork chops into bite-sized pieces. When cabbage has cooked down, add pork and noodles; mix until well combined."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

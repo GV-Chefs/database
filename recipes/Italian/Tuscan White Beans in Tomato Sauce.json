@@ -1,0 +1,57 @@
+{
+    "headline": "Tuscan White Beans in Tomato Sauce",
+    "name": "Tuscan White Beans in Tomato Sauce",
+    "description": "White beans in tomato sauce simmer to create a Tuscan side dish flavored with sage and garlic that makes a lovely addition to many meals.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT530M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "183 kcal",
+        "carbohydrateContent": "28 g",
+        "fiberContent": "1 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "558 mg",
+        "sugarContent": "2 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1.25 cups dry cannellini beans",
+        "1 teaspoon baking soda",
+        "2 tablespoons extra-virgin olive oil",
+        "2 cloves garlic, peeled and crushed",
+        "1 sprig fresh sage",
+        "1.5 cups tomato sauce",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place beans in a large pot. Cover with water and stir in baking soda. Soak at room temperature for 8 to 12 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain and rinse beans; return to the pot. Cover with water and bring to a boil over medium-high heat. Reduce heat and simmer until beans are tender yet firm to the bite, about 25 minutes. Drain beans, reserving water. Set beans and cooking water aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in the same pot over medium heat. Saut\u00e9 garlic and sage in hot oil until fragrant, about 2 minutes. Add beans; cook and stir until beans absorb the aroma of garlic and sage."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in tomato sauce; bring to a simmer. Cook, stirring occasionally, until beans are soft but not mushy, 10 to 15 minutes. Add reserved cooking water to keep sauce from burning if needed. Season with salt and pepper. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

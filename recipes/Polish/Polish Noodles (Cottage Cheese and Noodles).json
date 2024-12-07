@@ -1,0 +1,58 @@
+{
+    "headline": "Polish Noodles (Cottage Cheese and Noodles)",
+    "name": "Polish Noodles (Cottage Cheese and Noodles)",
+    "description": "This family-favorite recipe for pasta with cottage cheese, sour cream, and buttery saut\u00e9ed onions can be served as either a main course or a side dish.",
+    "recipeCuisine": [
+        "Polish"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "409 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "92 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "438 mg",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup butter",
+        "1 small onion, diced",
+        "1 (16 ounce) package egg noodles",
+        "1 (16 ounce) container cottage cheese",
+        "0.5 cup sour cream",
+        "0.5 teaspoon sea salt",
+        "0.25 teaspoon ground black pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a saucepan over medium heat. Cook and stir onion in melted butter until softened, 7 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Add egg noodles and cook, stirring occasionally, until partially cooked, about 5 minutes. Drain and return to the pot."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jOfulJw4c8wKb-1xECgvDL83TTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6478788-polish-noodles-cottage-cheese-and-noodles-LandOfOzzie-1x1-1-e49cbac8f8ea46a69a96bd34126cb3d7.jpg"
+                }
+            ],
+            "text": "Pour onion mixture over noodles, then stir in cottage cheese, sour cream, salt, and pepper. Cook over medium heat, stirring occasionally, until sauce is heated through and noodles are tender, yet firm to the bite, 5 to 8 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

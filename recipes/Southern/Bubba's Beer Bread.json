@@ -1,0 +1,53 @@
+{
+    "headline": "Bubba's Beer Bread",
+    "name": "Bubba's Beer Bread",
+    "description": "This bread is the best when baked in a black cast iron pan. Once the bread is in the oven, start 'cookin down' those collard greens, black eyed peas and hawg jaws. It's a New Years tradition. It'll change your luck !!!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "262 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "15 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "976 mg",
+        "sugarContent": "5 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 cups self-rising flour",
+        "3 tablespoons white sugar",
+        "1 teaspoon onion powder",
+        "1 teaspoon dried dill, or to taste",
+        "1 teaspoon salt",
+        "1 (12 fluid ounce) can beer, room temperature",
+        "4 ounces cubed Cheddar cheese, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9 or 10 inch cast iron skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, stir together the self-rising flour, sugar, onion powder, dill weed and salt. Pour in the beer, and stir until all of the dry is incorporated. Stir as lightly as possible so as not to deflate the beer. Fold in cheese cubes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 45 to 60 minutes, or until the top springs back when lightly touched. The bread should rise way above the edge of the pan."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

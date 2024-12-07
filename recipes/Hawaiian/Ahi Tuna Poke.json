@@ -1,0 +1,70 @@
+{
+    "headline": "Ahi Tuna Poke",
+    "name": "Ahi Tuna Poke",
+    "description": "This easy poke recipe is a Hawaiian salad of cubed ahi tuna tossed with soy sauce, sesame oil, and green onions for a dish full of umami flavor.",
+    "recipeCuisine": [
+        "Hawaiian"
+    ],
+    "totalTime": "PT130M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "396 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "102 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "58 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "3696 mg",
+        "sugarContent": "2 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 pounds fresh tuna steaks, cubed",
+        "1 cup soy sauce",
+        "0.75 cup chopped green onions",
+        "2 tablespoons sesame oil",
+        "2 tablespoons finely chopped macadamia nuts",
+        "1 tablespoon toasted sesame seeds",
+        "1 tablespoon crushed red pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cJdcsPT15w0l3ieFN5ySmgq3eGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-AhiPokeBasicRecipe-mfs-Step-1-4x3-2e6d7ecab450414789de0a48ab82e426.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2o9l8rqwLIvucOyjrPG-jN7LYHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-AhiPokeBasicRecipe-mfs-Step-3-4x3-a1787468867a4bbf84711e7d74de792e.jpg"
+                }
+            ],
+            "text": "Place tuna in a medium non-reactive bowl. Add soy sauce, green onions, sesame oil, sesame seeds, macadamia nuts, and red pepper flakes; mix well. Cover and refrigerate at least 2 hours before serving."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/K6R7Al6Yjd0clq9EcCYtXkW7_MA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-ahi-tuna-poke-beauty1-4x3-dea05e5e824b4b1987f78202887da37a.jpg"
+                }
+            ],
+            "text": "Serve over rice."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

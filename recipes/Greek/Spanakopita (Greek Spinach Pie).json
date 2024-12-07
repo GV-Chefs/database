@@ -1,0 +1,139 @@
+{
+    "headline": "Spanakopita (Greek Spinach Pie)",
+    "name": "Spanakopita (Greek Spinach Pie)",
+    "description": "This authentic Greek spanakopita pie features layers of crispy, flaky phyllo dough and a rich spinach and feta cheese filling. It's impressive but easy to make!",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "494 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "100 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "894 mg",
+        "sugarContent": "5 g",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons olive oil",
+        "1 large onion, chopped",
+        "1 bunch green onions, chopped",
+        "2 cloves garlic, minced",
+        "2 pounds spinach, rinsed and chopped",
+        "0.5 cup chopped fresh parsley",
+        "1 cup crumbled feta cheese",
+        "0.5 cup ricotta cheese",
+        "2 large eggs, lightly beaten",
+        "8 sheets phyllo dough",
+        "0.25 cup olive oil, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iCi7k7den6KWiYxc-F_e2vZ_yxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-1-217-20a41fa973334fb4914b5e3835ddcabd.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly oil a 9-inch square baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Gh5IwuKsyIRAcZ-ZJfFeNrJJLlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-2-219-0d25fb7e750e4246909103abc26556cf.jpg"
+                }
+            ],
+            "text": "Heat 3 tablespoons olive oil in a large skillet over medium heat. Saute chopped onion, green onions, and garlic in the hot oil until soft and lightly browned, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8W14-27aBRzIQpYTg5eENhfCYyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-3-223-c1700df16c234c499f4fda066179b8ed.jpg"
+                }
+            ],
+            "text": "Stir in spinach and parsley, and continue to saute until spinach is limp, about 2 minutes. Remove from the heat and set aside to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xbefvivw9j4r9XiwFofGZDLIRI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-5-234-0126099be60e420ca39ed028c8b6f470.jpg"
+                }
+            ],
+            "text": "Mix feta cheese, ricotta cheese, and eggs in a medium bowl until well combined. Stir in spinach mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VhJEXqywMDHSKhm_IXbaUGZ18NQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-6-239-6a782b1f71e94019987017889215125f.jpg"
+                }
+            ],
+            "text": "Lay one sheet of phyllo dough in the prepared baking pan, and brush lightly with olive oil. Lay another sheet of phyllo dough on top and brush with olive oil. Repeat the process with two more sheets of phyllo dough; the sheets will overlap the pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AQ12ED3oLS8P1jhrvIkGLdKfcf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-7-241-30b05a2a73b44a9a8d0249756f5c3f49.jpg"
+                }
+            ],
+            "text": "Spread spinach and cheese mixture into the pan. Fold any overhanging dough over the filling. Brush with oil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FRsRc3-5aw5SCEQJN3TP4W4GtMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-8-242-e4a3a24396144244823368d068f698de.jpg"
+                }
+            ],
+            "text": "Layer the remaining 4 sheets of phyllo dough, brushing each with oil. Tuck overhanging dough into the pan to seal the filling."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ePk3Ko-yxCPXdCyBezNVeWz-SGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-step-9-270-1d24e901ae1243f4ac109397bc6ffbae.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until golden brown, 30 to 40 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WEaJPQQRyNvZdmkChf8l16-fuxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18417-spanakopita-greek-spinach-pie-DDMFS-4x3-a20917fab80b44b29bcc3ca1123b6505.jpg"
+                }
+            ],
+            "text": "Cut into squares and serve while hot."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

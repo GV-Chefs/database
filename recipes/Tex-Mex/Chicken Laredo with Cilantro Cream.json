@@ -1,0 +1,64 @@
+{
+    "headline": "Chicken Laredo with Cilantro Cream",
+    "name": "Chicken Laredo with Cilantro Cream",
+    "description": "This chicken Laredo with cilantro cream is a southwestern treatment of grilled chicken breast with toppings to add flavor and eye appeal.",
+    "recipeCuisine": [
+        "Tex-Mex"
+    ],
+    "totalTime": "PT155M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "671 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "164 mg",
+        "fiberContent": "10 g",
+        "proteinContent": "49 g",
+        "saturatedFatContent": "15 g",
+        "sodiumContent": "1211 mg",
+        "sugarContent": "6 g",
+        "fatContent": "44 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "4 skinless, boneless chicken breasts, 6 to 8 ounces, each, lightly pounded to an even thickness",
+        "1/4 cup orange juice",
+        "2 tablespoons apple cider vinegar",
+        "1 1/2 Tablespoons Ancho chili powder",
+        "1 teaspoon Mexican oregano",
+        "2 garlic cloves, minced",
+        "1 teaspoon salt, or to taste",
+        "1/2 teaspoon black pepper, or to taste",
+        "Pinch of ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken breasts between 2 sheets of heavy plastic on a solid, level surface. Pound chicken with the smooth side of a meat mallet to an even thickness."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine orange juice, vinegar, chili powder, oregano, garlic, salt, black pepper, and cinnamon, in a 1-gallon resealable plastic bag. Carefully squeeze the bag until ingredients are well combined. Add chicken, remove as much air as possible from the bag, and seal. Gently move chicken around in the bag until coated with marinade. Marinate in the refrigerator a minimum of 2 hours or up to 4 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, make cilantro cream. Combine sour cream, cilantro, mayonnaise, lime juice, salt, and red pepper flakes in the bowl of a blender or small food processor. Pur\u00e9e until sauce is well blended and flecked with cilantro bits. Refrigerate, covered, until ready to use."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat (375 to 400 degrees F (190 to 200 degrees C)). Using tongs, lightly oil the grates with an oil-saturated paper towel. Place marinated chicken directly over the heat and grill until chicken is no longer pink at the center and juices run clear, 3 to 5 minutes per side, depending on thickness. An instant-read thermometer inserted near the center should read 165 degrees F (74 degrees C).\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove to a serving platter and top each chicken breast with a cheese slice; allow to melt from the heat of the chicken. To serve, ladle about 1/2 cup cilantro cream sauce on each plate. Add chicken; garnish with avocado, tomato, cilantro sprigs, and lime slices."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

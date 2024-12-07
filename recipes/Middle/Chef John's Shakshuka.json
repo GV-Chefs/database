@@ -1,0 +1,76 @@
+{
+    "headline": "Chef John's Shakshuka",
+    "name": "Chef John's Shakshuka",
+    "description": "This shakshuka recipe makes a spicy tomato and bell pepper sauce simmered with soft-poached eggs on top for a delicious breakfast or anytime meal.",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "185 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "189 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "670 mg",
+        "sugarContent": "3 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "1 large onion, diced",
+        "0.5 cup sliced fresh mushrooms",
+        "1 teaspoon salt, or more to taste",
+        "1 cup diced red bell pepper",
+        "1 jalapeno pepper, seeded and sliced",
+        "1 teaspoon cumin",
+        "0.5 teaspoon paprika",
+        "0.5 teaspoon ground turmeric",
+        "0.5 teaspoon freshly ground black pepper, plus more to taste",
+        "0.25 teaspoon cayenne pepper",
+        "1 (28 ounce) can crushed San Marzano tomatoes, or other high-quality plum tomatoes",
+        "0.5 cup water, or more as needed",
+        "6 large eggs",
+        "2 tablespoons crumbled feta cheese",
+        "2 tablespoons chopped fresh parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large, heavy skillet over medium-high heat. Add onion and mushrooms; season with salt. Cook and stir until mushrooms release all of their liquid and start to brown, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add bell pepper and jalape\u00f1o pepper. Cook and stir until peppers begin to soften, about 5 minutes. Season with cumin, paprika, turmeric, black pepper, and cayenne. Cook and stir to blend the flavors, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in tomatoes and water. Reduce heat to medium. Simmer uncovered, stirring occasionally, until vegetables are softened and sweet, 15 to 20 minutes. Add more water if sauce becomes too thick."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use a large spoon to make a depression in sauce for each egg. Crack an egg into a small ramekin and slide gently into an indentation; repeat with remaining eggs. Season eggs with salt and pepper. Cover and cook until eggs reach desired doneness."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/34V2oRs9SeuyXv_uV_4SjekGi2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245362-Chef-Johns-Shakshukai-DDMFS-1x1-1-9b8332eb939f40dea0c7739c5d1c44c4.jpg"
+                }
+            ],
+            "text": "Top with feta cheese and parsley to serve."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

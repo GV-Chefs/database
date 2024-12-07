@@ -1,0 +1,71 @@
+{
+    "headline": "Sheet Pan General Tso's Chicken and Broccoli",
+    "name": "Sheet Pan General Tso's Chicken and Broccoli",
+    "description": "This sheet pan General Tso\u2019s chicken and broccoli is for those days when you need a shortcut\u2014chicken nuggets to the rescue! Nuggets and broccoli roast together on a sheet pan, then are tossed with a sweet, spicy, savory sauce.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "553 kcal",
+        "carbohydrateContent": "54 g",
+        "cholesterolContent": "62 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1117 mg",
+        "sugarContent": "5 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 1/2 Tablespoons sambal oelek",
+        "1 Tablespoon rice vinegar",
+        "2 teaspoons hoisin sauce",
+        "2 teaspoons lite soy sauce",
+        "2 teaspoons toasted sesame oil",
+        "2 teaspoons light brown sugar",
+        "1 teaspoon minced garlic",
+        "4 cups fresh broccoli florets",
+        "1 teaspoon olive oil",
+        "pinch salt and ground pepper",
+        "1 pound frozen fully cooked chicken nuggets (24 nuggets)",
+        "Cooked white rice, for serving"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk sambal oelek, rice vinegar, hoisin sauce, soy sauce, sesame oil, brown sugar, and garlic together in a small saucepan. Heat over low heat until warm, about 5 minutes; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place broccoli florets in a microwave safe bowl. Microwave on High for 2 minutes. Add olive oil, salt, and pepper; toss to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place nuggets on one half of a large baking sheet. Spread broccoli on the other half of the baking sheet.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place nuggets in a large bowl. Drizzle sauce over the top, and toss until evenly coated. Serve chicken over rice with roasted broccoli. Garnish with green onions and sesame seeds."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

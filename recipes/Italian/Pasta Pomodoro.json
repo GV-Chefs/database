@@ -1,0 +1,63 @@
+{
+    "headline": "Pasta Pomodoro",
+    "name": "Pasta Pomodoro",
+    "description": "Easy and light pasta with tomatoes and garlic. Cooked chicken breast chunks or shrimp can also be added to sauce for a great main dish!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "500 kcal",
+        "carbohydrateContent": "70 g",
+        "cholesterolContent": "6 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "350 mg",
+        "sugarContent": "7 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package angel hair pasta",
+        "0.25 cup olive oil",
+        "0.5 onion, chopped",
+        "4 cloves garlic, minced",
+        "2 cups roma (plum) tomatoes, diced",
+        "2 tablespoons balsamic vinegar",
+        "1 (10.75 ounce) can low-sodium chicken broth",
+        "crushed red pepper to taste",
+        "freshly ground black pepper to taste",
+        "2 tablespoons chopped fresh basil",
+        "0.25 cup grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 minutes or until al dente; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour olive oil in a large deep skillet over high-heat. Saute onions and garlic until lightly browned. Reduce heat to medium-high and add tomatoes, vinegar and chicken broth; simmer for about 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/thbIW388vXnmMhB8CR5m0Wq7lFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/632125-bb5fad2c11dc4aaa95e24a333c2289e8.jpg"
+                }
+            ],
+            "text": "Stir in red pepper, black pepper, basil and cooked pasta, tossing thoroughly with sauce. Simmer for about 5 more minutes and serve topped with grated cheese."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

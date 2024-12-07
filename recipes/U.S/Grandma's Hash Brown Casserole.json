@@ -1,0 +1,94 @@
+{
+    "headline": "Grandma's Hash Brown Casserole",
+    "name": "Grandma's Hash Brown Casserole",
+    "description": "This hashbrown casserole is quick and easy comfort food made with oven-baked cheesy potatoes in cream of chicken with a crunchy cornflake topping.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "338 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "71 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "18 g",
+        "sodiumContent": "523 mg",
+        "sugarContent": "1 g",
+        "fatContent": "32 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (2 pound) package frozen hash brown potatoes, thawed",
+        "1 (10.5 ounce) can condensed cream of chicken soup",
+        "2 cups shredded Cheddar cheese",
+        "1 (8 ounce) container sour cream",
+        "1 cup butter, melted, divided",
+        "0.5 cup chopped onion",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "1 cup crushed cornflakes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tUqL66pzEByWItlFwjMgqlOLde0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-276505-grandmas-hash-brown-casserole-VAT-step-01-a71a06b75b694e4dac3c2cd359455629.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qHxndSALOyoOaKH0dhbG2VgnsCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-276505-grandmas-hash-brown-casserole-VAT-step-02-b0370e8a7ced40cda91c6336eb248f59.jpg"
+                }
+            ],
+            "text": "Mix hash browns, Cheddar cheese, condensed soup, sour cream, \u00bd of the melted butter, onion, salt, and pepper in a bowl. Transfer mixture to a 9x13-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/pZlasKYJL7GhCLtQB3Nvb1kXOYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-276505-grandmas-hash-brown-casserole-VAT-step-03-7570963fd05348ab9199ef14db3dfcbe.jpg"
+                }
+            ],
+            "text": "Sprinkle cornflakes on top, then drizzle with remaining melted butter."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/MTPxy6loAjDfRLyAB9TGM9P3xiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-276505-grandmas-hash-brown-casserole-VAT-step-04-813cbbc03cd049808adff4b87fd67d76.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until sauce is bubbly and top is golden brown, 1 to 1 \u00bd hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7N50cjPxYBydkHK9v1t4frmYerI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-276505-grandmas-hash-brown-casserole-hero-01-VAT-4x3-43e44934bde545ae8675c1f7d5aee8d0.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

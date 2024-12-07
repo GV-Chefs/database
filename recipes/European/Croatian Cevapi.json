@@ -1,0 +1,59 @@
+{
+    "headline": "Croatian Cevapi",
+    "name": "Croatian Cevapi",
+    "description": "Cevapi are delicious seasoned and grilled meat patties commonly found in Croatia and surrounding countries. You can use any combination of ground meats for the patties.",
+    "recipeCuisine": [
+        "European",
+        "Eastern European"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "263 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "126 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1226 mg",
+        "sugarContent": "2 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 pound lean ground beef",
+        "0.5 pound ground veal",
+        "0.5 cup dry bread crumbs",
+        "1 small onion, finely chopped",
+        "1 egg",
+        "2 tablespoons soda water",
+        "1 tablespoon seasoning blend (such as Vegeta\u00ae)",
+        "2 cloves garlic, minced",
+        "1 teaspoon baking soda",
+        "1 teaspoon paprika",
+        "1 pinch red pepper flakes",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Line a baking sheet with parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine beef, veal, bread crumbs, onion, egg, soda water, seasoning blend, garlic, baking soda, paprika, red pepper flakes, salt, and pepper in a large bowl. Mix well. Shape into small sausages and place on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high heat and lightly oil the grate. Grill sausages until browned, about 5 minutes per side."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

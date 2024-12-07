@@ -1,0 +1,58 @@
+{
+    "headline": "Dairy-Free Savory Sausage Gravy",
+    "name": "Dairy-Free Savory Sausage Gravy",
+    "description": "This dairy-free sausage gravy uses almond milk to create a smooth, rich gravy that's simple and easy to customize. Perfect for biscuits and gravy.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "155 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "26 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "618 mg",
+        "sugarContent": "2 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "2 pounds breakfast sausage",
+        "2.5 tablespoons Worcestershire sauce",
+        "1 cube beef bouillon, crushed",
+        "1 teaspoon ground nutmeg",
+        "1 cup all-purpose flour",
+        "4 cups almond milk, or as needed",
+        "3 teaspoons ground black pepper, or to taste",
+        "1 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Break sausage apart in a large skillet over medium-high heat. Cook until starting to brown, 3 to 5 minutes. Add Worcestershire sauce and let it heat up before adding beef bouillon and nutmeg. Stir and cook sausage until no longer pink, 3 to 5 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat to medium-low and sprinkle in flour gradually. Cook, stirring constantly, until flour coats sausage and is completely absorbed. Cook for 1 to 2 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in almond milk gradually, stirring constantly until gravy starts to thicken, up to 12 minutes. Add a little more almond milk if too thick. Season with pepper and salt. Continue stirring vigorously until gravy reaches desired thickness."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from heat and let cool. Taste and adjust seasoning as desired."
+        }
+    ],
+    "recipeYield": [
+        "20"
+    ]
+}

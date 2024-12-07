@@ -1,0 +1,69 @@
+{
+    "headline": "Caramelized Onion and Roasted Garlic Pasta",
+    "name": "Caramelized Onion and Roasted Garlic Pasta",
+    "description": "Caramelized onion and roasted garlic pasta is a great comfort food dish. Short pasta in a creamy roasted garlic and caramelized onion sauce hits all the cozy notes of fall.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT135M",
+    "cookTime": "PT105M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "765 kcal",
+        "carbohydrateContent": "34 g",
+        "cholesterolContent": "104 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "26 g",
+        "sodiumContent": "786 mg",
+        "sugarContent": "5 g",
+        "fatContent": "65 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Side Dish",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "1 large white onion, thinly sliced",
+        "2 tablespoons butter",
+        "3 tablespoons olive oil",
+        "1/4 cup of water",
+        "1 tablespoons balsamic vinegar",
+        "1/2\u00a0 teaspoon white sugar",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon freshly ground black pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "To roast garlic: Preheat the oven to 250 degrees F (120 degrees C). Place the garlic cloves in a shallow baking dish and cover with olive oil. Lay the sprigs of thyme on top of the oil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden brown, about 1 hour. Garlic should easily mash with a fork. Remove garlic from oil and set aside. Reserve oil for another use."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To caramelize onions: Heat a roomy skillet over medium heat. Add butter and olive oil. Add onions to the pan and stir to coat. Stir frequently and move onions around, ensuring they cook evenly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Once onions have started to color a bit (about 15 minutes or so), add in water, vinegar, sugar, salt, and pepper. Continue to stir regularly until onions are completely soft, a golden brown color, and reduced by at least half, about 15 minutes more. Turn down the heat to medium low."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add gemelli and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes.. Meanwhile, add cream, 4 to 5 cloves roasted garlic, 1 tablespoon parsley, and 1/2 cup Parmesan cheese\u00a0 to onions; stir to combine. Reserve remaining roasted garlic for another use."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain pasta; divide among 4 plates. Spoon about a 1/4 cup of sauce on top; sprinkle with more Parmesan cheese, parsley, and black pepper."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

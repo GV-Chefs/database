@@ -1,0 +1,57 @@
+{
+    "headline": "Ham Chowder",
+    "name": "Ham Chowder",
+    "description": "Ham and bacon lend a smoky taste, while cream gives rich texture to this ham and potato chowder. The recipe stars a supporting cast of leeks, onions, garlic, rosemary, and carrots.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "438 kcal",
+        "carbohydrateContent": "36 g",
+        "cholesterolContent": "76 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "1351 mg",
+        "sugarContent": "5 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT40M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "8 cups chicken or ham stock",
+        "4 cups cubed Country ham",
+        "4 tablespoons dried rosemary",
+        "2 pounds bacon, diced",
+        "6 green onions, diced",
+        "3 leeks, diced",
+        "2 large onions, diced",
+        "3 cloves garlic, minced",
+        "6 large potatoes, cubed",
+        "1 pound carrots, cubed",
+        "1.5 cups heavy cream"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat stock into a large pot set over medium heat to a simmer. Stir in ham and 2 tablespoons rosemary."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook bacon in a large skillet over medium heat, turning occasionally, until crisp. Transfer bacon, using a slotted spoon, to pot. Discard half the bacon grease, reserve remaining grease in skillet. Return skillet to medium heat. Stir in green onions, leeks, onions, and garlic; cook until tender, then add to pot."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add potatoes, carrots, and remaining 2 tablespoons rosemary to pot; simmer until vegetables tender, about 20 minutes. Off heat, stir in cream."
+        }
+    ],
+    "recipeYield": [
+        "15"
+    ]
+}

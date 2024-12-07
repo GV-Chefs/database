@@ -1,0 +1,68 @@
+{
+    "headline": "Creamy Lemon Shrimp Pasta",
+    "name": "Creamy Lemon Shrimp Pasta",
+    "description": "This lemon garlic shrimp pasta dish combines tender shrimp and spaghetti in a creamy lemon-herb sauce for a delicious dinner in just 30 minutes!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "248 kcal",
+        "carbohydrateContent": "20 g",
+        "cholesterolContent": "182 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "763 mg",
+        "sugarContent": "2 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.75 (16 ounce) package spaghetti",
+        "1 pound uncooked medium shrimp, peeled and deveined",
+        "salt and ground black pepper to taste",
+        "2 tablespoons finely chopped shallots",
+        "1 tablespoon crushed garlic",
+        "0.25 cup chicken broth",
+        "1 medium lemon, zested and juiced",
+        "0.5 cup heavy cream",
+        "5 large basil leaves, chopped",
+        "1 pinch red pepper flakes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 10 to 12 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the pasta is cooking, heat oil in a large skillet over medium heat. Season shrimp with salt and pepper; add to the pan and cook 30 seconds per side. Remove to a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add shallots to the skillet and cook for 2 minutes. Add garlic and cook until fragrant, about 1 minute. Stir in chicken broth, lemon zest, and 1/2 of the lemon juice; heat for 2 minutes. Reserve remaining lemon juice for another use."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add cream and bring to a simmer. Return shrimp to the skillet and cook until heated through and pink, 2 to 3 minutes. Add basil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain spaghetti, reserving 1/4 to 1/2 cup pasta water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add spaghetti to the skillet. Add pasta water as needed and pepper flakes; toss to coat. Season with pepper if desired."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

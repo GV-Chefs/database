@@ -1,0 +1,67 @@
+{
+    "headline": "Baked Polenta Marinara",
+    "name": "Baked Polenta Marinara",
+    "description": "This baked polenta marinara\u2014a layer of polenta, baked topped with marinara sauce, mozzarella, and prosciutto\u2014makes a unique and delicious side dish.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT70M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "132 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "28 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1315 mg",
+        "sugarContent": "3 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "3 1/2 cups of chicken broth",
+        "3/4 Cup yellow or white polenta",
+        "1/2 tsp salt",
+        "1/4 cup grated parmesan cheese",
+        "3/4 cup shredded low moisture mozzarella, divided",
+        "1 1/2 teaspoons butter",
+        "8 ounces marinara sauce",
+        "2 slices prosciutto, shredded"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C). Lightly oil a 9x13-inch baking dish; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring chicken broth to a boil in a saucepan, and whisk in polenta and salt. Immediately reduce temperature to medium, and cook polenta, stirring continuously, until most of the liquid is absorbed and polenta is thick, about 15 minutes. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir Parmesan cheese, 1/4 cup mozzarella, and butter into polenta. Pour mixture into the prepared baking dish and smooth the top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until polenta is fairly firm, about 40 minutes. It will firm a bit more on standing."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove polenta from the oven; let stand for 5 minutes. Spread marinara over the top, then sprinkle evenly with remaining 1/2 cup mozzarella. Sprinkle top with shredded prosciutto.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake polenta until cheese is bubbling and golden brown, about 15 minutes more. Let stand for 5 to 10 minutes before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

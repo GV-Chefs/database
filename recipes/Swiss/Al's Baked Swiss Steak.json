@@ -1,0 +1,71 @@
+{
+    "headline": "Al's Baked Swiss Steak",
+    "name": "Al's Baked Swiss Steak",
+    "description": "Al's baked Swiss steak features boneless beef round steak smothered in a melange of stewed tomatoes, carrot, celery, green bell pepper, garlic, and onion.",
+    "recipeCuisine": [
+        "Swiss",
+        "American"
+    ],
+    "totalTime": "PT125M",
+    "cookTime": "PT105M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "313 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "46 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "777 mg",
+        "sugarContent": "6 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound boneless beef round steak",
+        "0.5 teaspoon seasoned salt (such as LAWRY'S\u00ae)",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "1 tablespoon all-purpose flour, or as needed",
+        "0.25 cup vegetable oil",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "1 medium onion, chopped",
+        "1 green bell pepper, chopped",
+        "0.5 cup chopped carrots",
+        "0.25 cup chopped celery",
+        "0.25 cup beef broth",
+        "2 cloves garlic, minced",
+        "1 tablespoon all-purpose flour",
+        "0.25 teaspoon Worcestershire sauce",
+        "0.25 cup shredded sharp Cheddar cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a shallow baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut beef into four portions; pound each to 1/4-inch thickness. Season with seasoned salt, salt, and black pepper; coat evenly with about 1 tablespoon flour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over medium heat. Add beef; cook until browned completely, 3 to 5 minutes per side. Transfer to the prepared baking dish, reserving drippings in the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add tomatoes, onion, green bell pepper, carrots, celery, beef broth, garlic, 1 tablespoon flour, and Worcestershire sauce to the skillet. Bring to a boil; cook and stir for 2 minutes. Pour over beef. Cover baking dish with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until beef is completely tender, about 1 1/2 hours. Sprinkle cheese over beef; return to oven uncovered until cheese is melted, 3 to 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

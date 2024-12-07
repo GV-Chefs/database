@@ -1,0 +1,86 @@
+{
+    "headline": "Oxtails with Gravy",
+    "name": "Oxtails with Gravy",
+    "description": "This oxtail recipe is so flavorful from beef oxtail simmered slowly in a savory broth, then cooked in a delicious gravy until fall-of-the-bone tender.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT175M",
+    "cookTime": "PT165M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "391 kcal",
+        "carbohydrateContent": "5 g",
+        "cholesterolContent": "167 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "47 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1841 mg",
+        "sugarContent": "1 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 pounds beef oxtail",
+        "1 onion, chopped",
+        "1 clove garlic, minced",
+        "1 tablespoon Greek seasoning",
+        "1 tablespoon salt, or more to taste",
+        "1 teaspoon ground black pepper, or more to taste",
+        "1 teaspoon seasoning salt",
+        "4 cups water, or as needed",
+        "2 tablespoons bacon drippings or shortening",
+        "2 tablespoons all-purpose flour",
+        "2 dashes browning sauce",
+        "1 pinch garlic powder, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/IvwkE-vNUg5QaVuD1Jiz6zQbqeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/89612-oxtails-with-gravy-ddmfs-Step1-1354-005af8c8e2ae4030b60552a41210196a.jpg"
+                }
+            ],
+            "text": "Place oxtails, onion, garlic, Greek seasoning, 1 tablespoon salt, 1 teaspoon pepper, and seasoning salt in a large stockpot. Fill with enough water to cover oxtails and place over high heat. Bring to a boil. Cover and reduce heat to medium. Cook oxtails until tender, 2 1/2 to 3 hours. Remove from heat and reserve 2 cups broth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aPSiN0L92-JD_niU5MmMFQn5-TU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/89612-ovtails-with-gravy-ddmfs-step2-1366-d74c626135314df5b5c35d06eba09360.jpg"
+                }
+            ],
+            "text": "Warm bacon drippings or shortening in a skillet over medium heat. Add flour; cook and stir for 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sPsLCXVb__IitsPXmMQRjGIM0Vo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/89612-ovtails-with-gravy-ddmfs-step3-1367-b9c42c9d36264dd1ae05b44ef46ed267.jpg"
+                }
+            ],
+            "text": "Stir in 2 cups reserved broth and browning sauce. Season with salt, pepper, and garlic powder. Cook, stirring constantly, until gravy thickens."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sH9HE_FvFfSZKhedWum7yLlmiB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/89612-ovtails-with-gravy-ddmfs-step4-1368-2e9114b3f0974cd6902d2999ea3cbca1.jpg"
+                }
+            ],
+            "text": "Place oxtails in the skillet; stir to coat with gravy. Cook, stirring occasionally, over medium-low heat until warmed through, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "headline": "Saint Charles Mesa Sun-Kissed Chili",
+    "name": "Saint Charles Mesa Sun-Kissed Chili",
+    "description": "Roasted chile peppers and tomatillos from the sun-kissed Saint Charles Mesa flavor this hearty shredded pork chili made in a pressure cooker.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT166M",
+    "cookTime": "PT111M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "183 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "45 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "692 mg",
+        "sugarContent": "4 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT35M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 tablespoons ground cumin",
+        "0.5 teaspoon ground coriander",
+        "0.5 teaspoon dried cilantro",
+        "0.5 teaspoon garlic and herb seasoning",
+        "0.5 teaspoon Italian seasoning",
+        "0.5 teaspoon ground cayenne pepper",
+        "0.5 teaspoon fennel seed",
+        "2 pounds pork loin",
+        "2 tablespoons olive oil, divided",
+        "5 cups chicken broth, divided",
+        "0.5 cup rose wine",
+        "4 large red and green Pueblo chile peppers",
+        "6 tomatillos, husked and halved",
+        "1 onion, chopped",
+        "3 cloves garlic, chopped",
+        "1 (14.5 ounce) can diced tomatoes in juice",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "1 tablespoon potato starch",
+        "2 teaspoons cold water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix cumin, coriander, cilantro, garlic herb seasoning, Italian seasoning, cayenne pepper, and fennel in a bowl to make seasoning mixture. Rub 2/3 of the seasoning mixture over pork loin."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon oil in a stovetop pressure cooker over medium heat. Add pork loin; cook until browned, about 3 minutes per side. Transfer to a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour 2 cups chicken broth and rose wine into the pressure cooker. Bring to a boil, scraping the bottom to loosen browned bits. Return pork loin to the cooker. Cover and bring to high pressure according to manufacturer's instructions. Reduce heat to low and cook, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Release pressure carefully according to manufacturer's instructions. Transfer pork loin to a cutting board; let cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a baking sheet with aluminum foil; place chile peppers on top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast until peppers are blackened and blistered, 5 to 8 minutes. Place in a bowl and seal with plastic wrap. Allow peppers to cool, about 20 minutes. Stem, peel, and seed the peppers; dice."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a dry skillet over medium-high heat. Add some tomatillos in a single layer; cook, turning occasionally, until softened and skins are blistered, 5 to 10 minutes. Repeat with remaining tomatillos. Dice tomatillos."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine 1/2 of the tomatillos and 1/2 of the roasted peppers in a food processor; puree until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat remaining 1 tablespoon oil in a small skillet. Add onion; cook and stir until softened, about 3 minutes. Add garlic; cook until fragrant, about 1 minute. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Shred pork loin with 2 forks; add to the pressure cooker. Stir in remaining 3 cups chicken broth, diced peppers, diced tomatillos, tomatillo-pepper puree, onion mixture, and diced tomatoes. Add remaining seasoning mixture, salt, and pepper. Bring to a boil; cover."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring to high pressure according to manufacturer's instructions. Reduce heat and cook for 20 minutes. Release pressure according to manufacturer's instructions."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix potato starch and cold water in a small bowl until dissolved. Pour into the pressure cooker, stirring well to incorporate thoroughly."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

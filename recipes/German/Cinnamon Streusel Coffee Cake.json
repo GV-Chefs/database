@@ -1,0 +1,85 @@
+{
+    "headline": "Cinnamon Streusel Coffee Cake",
+    "name": "Cinnamon Streusel Coffee Cake",
+    "description": "This cinnamon streusel coffee cake is moist and buttery with a cinnamon swirl and a sweet and crumbly streusel topping loaded with cinnamon flavor.",
+    "recipeCuisine": [
+        "German"
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "652 kcal",
+        "carbohydrateContent": "92 g",
+        "cholesterolContent": "120 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "217 mg",
+        "sugarContent": "52 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.75 cup brown sugar",
+        "0.333 cup all-purpose flour",
+        "1.5 teaspoons ground cinnamon",
+        "1 cup brown sugar",
+        "1 cup all-purpose flour",
+        "2 teaspoons ground cinnamon",
+        "0.25 teaspoon kosher salt",
+        "0.5 cup unsalted butter, softened",
+        "3.5 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "0.25 teaspoon kosher salt",
+        "1.5 cups white sugar",
+        "1 cup unsalted butter, softened",
+        "3 large eggs",
+        "0.75 cup milk",
+        "1 (8 ounce) container sour cream",
+        "2 teaspoons vanilla extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To make the cinnamon layer: Stir brown sugar, flour, and cinnamon together in a small bowl until well combined; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To make the streusel topping: combine brown sugar, flour, cinnamon, and salt in a small bowl. Add butter and stir with a fork until mixture is crumbly; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To make the cake: Whisk flour, baking powder, and salt together in a medium bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat sugar and butter in a stand mixer fitted with the paddle attachment on medium speed until fluffy, about 3 minutes. Scrape the sides of the bowl, then turn the mixer on low speed and beat in eggs until well blended. Gradually mix in flour mixture and milk. Add sour cream and vanilla and beat for 30 seconds."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour 1/2 of the batter into the prepared baking dish. Sprinkle the cinnamon layer over batter, then pour the remaining batter over top. Spread streusel topping evenly over the cake, pressing very lightly so it adheres to the batter."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zSxypLb7JOhnr4c87-6mCm5rfRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AimeeBroussard-Old-FashionedCoffeeCakewithCinnamon-StreuselTopping-Horizontal-11ed114a03634ccabafe13405f4ef46e.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 40 to 50 minutes. Remove from the oven and let cool completely before serving, about 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "headline": "Irish Steaks",
+    "name": "Irish Steaks",
+    "description": "These tender Irish sirloin steaks are served with a tasty whiskey pan sauce, which you can light on fire at the table to wow everyone in attendance!",
+    "recipeCuisine": [
+        "Irish"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "363 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "83 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "107 mg",
+        "sugarContent": "3 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons butter",
+        "2 tablespoons vegetable oil",
+        "1 onion, chopped",
+        "4 (4 ounce) beef top sirloin steaks",
+        "1 clove garlic, cut in half lengthwise",
+        "0.25 cup Irish whiskey (such as Jameson\u00ae)",
+        "salt and ground black pepper to taste",
+        "2 tablespoons chopped fresh flat-leaf parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat butter and oil in a heavy skillet over medium heat until butter has melted. Add onion and saut\u00e9 until light golden brown, about 10 minutes. Push onion to the sides of the pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Rub steaks with cut sides of garlic, then place into the skillet. Increase the heat to medium-high and cook until steaks are browned but still light pink inside, 2 to 4 minutes per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C) for medium doneness."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from the heat. Slowly pour Irish whiskey into the hot skillet; be careful, whiskey fumes are flammable. Mix browned onions into the whiskey and bring to a simmer over medium-low heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sprinkle steaks with salt and pepper, then garnish with parsley. Turn steaks over to coat both sides with the pan sauce."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve steaks and drizzle pan sauce over top."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

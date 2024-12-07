@@ -1,0 +1,73 @@
+{
+    "headline": "Mediterranean Baked Fish",
+    "name": "Mediterranean Baked Fish",
+    "description": "Try this Mediterranean baked fish to add more fish to your diet\u2014fish filets are baked in a wonderful Mediterranean combination of tomatoes, olives, spinach, wine, and cream.",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "440 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "194 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "43 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "348 mg",
+        "sugarContent": "4 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "3 Tablespoons olive oil, divided",
+        "1/2 cup chopped onion\u00a0",
+        "4 garlic cloves, minced\u00a0",
+        "1 1/2 cups halved cherry tomatoes\u00a0",
+        "1/2 cup dry white wine\u00a0",
+        "Salt and freshly ground black pepper to taste\u00a0",
+        "1 1/2 teaspoons dried Italian herb seasoning, divided\u00a0",
+        "1/2 teaspoon crushed red pepper flakes, or to taste\u00a0",
+        "1/4 cup pitted and sliced Castelvetrano olives\u00a0",
+        "1 cup chopped fresh spinach\u00a0",
+        "1/2 cup heavy cream\u00a0",
+        "1 1/2 pounds fish fillets, about 1/2-inch thick, patted dry, see note\u00a0",
+        "Hot, cooked rice or pasta\u00a0",
+        "Fresh parsley for garnish (optional)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 2 tablespoons olive oil in an oven-safe nonstick skillet over medium heat. When oil shimmers, add onions and cook, stirring frequently, until onions are translucent, 3 to 4 minutes. Stir in garlic, and cook, stirring, about 30 seconds."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add cherry tomatoes and wine, and season with salt and pepper. Add 1 teaspoon Italian seasoning and red pepper flakes. Toss to combine, and cook about 1 minute. Remove from heat and stir in sliced olives, chopped spinach, and cream."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Nestle fillets into vegetable mixture, sprinkle each fillet with salt and pepper, and drizzle remaining olive oil over the entire dish. Brush the olive oil to cover the surface of each fillet. Sprinkle with remaining 1/2 teaspoon Italian seasoning."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until fish flakes easily with a fork, 20 to 25 minutes. An instant-read thermometer inserted near the center should read 145 degrees F (63 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve with hot, cooked pasta or rice, and garnish with fresh parsley."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

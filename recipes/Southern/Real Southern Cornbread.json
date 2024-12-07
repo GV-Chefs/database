@@ -1,0 +1,62 @@
+{
+    "headline": "Real Southern Cornbread",
+    "name": "Real Southern Cornbread",
+    "description": "Pure, unsweetened corn bread is first cooked over high heat in a cast-iron skillet before baking into the oven. This is a traditional Southern approach to making this popular bread.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "369 kcal",
+        "carbohydrateContent": "36 g",
+        "cholesterolContent": "34 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "621 mg",
+        "sugarContent": "4 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 cups cornmeal",
+        "2 cups all-purpose flour",
+        "0.5 teaspoon salt",
+        "2 tablespoons baking powder",
+        "2 eggs",
+        "1 cup margarine, melted",
+        "4 cups buttermilk",
+        "0.25 cup corn oil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl mix together the corn meal, flour, salt, and baking powder."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a separate bowl mix together the eggs, butter, and buttermilk. Add to the dry ingredients and stir until well blended."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a dry 12 inch cast iron skillet over high heat for 2 minutes. Add corn oil to skillet, swirl oil around to coat bottom and sides. Leave remaining oil in pan. Return to high heat for 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour the cornbread batter into the skillet and cook on high heat until bubbles start to form in the center. Remove from stove."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in a preheated 400 degree F (200 degree C) oven for 40 to 50 minutes, or until a knife inserted into the center comes out clean. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

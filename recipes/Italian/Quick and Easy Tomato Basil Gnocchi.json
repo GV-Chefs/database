@@ -1,0 +1,56 @@
+{
+    "headline": "Quick and Easy Tomato Basil Gnocchi",
+    "name": "Quick and Easy Tomato Basil Gnocchi",
+    "description": "These quick and easy tomato basil gnocchi are amazing as a speedy bite without much fuss.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "401 kcal",
+        "carbohydrateContent": "60 g",
+        "cholesterolContent": "62 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "666 mg",
+        "sugarContent": "6 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish",
+        "Entree",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "2 cups potato gnocchi",
+        "1 Tablespoon butter",
+        "2 cloves garlic, minced",
+        "1 pinch Italian seasoning",
+        "3/4 cup spaghetti sauce",
+        "1/4 cup freshly shredded Parmesan cheese, or to taste",
+        "6 fresh basil leaves, cut into very thin strips, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil over medium high heat. Drop in gnocchi, and cook until gnocchi float to the top, 3 to 5 minutes. Drain and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a skillet over medium heat, and saut\u00e9 garlic until fragrant, about 30 seconds. Stir in Italian seasoning and gnocchi. Pour in spaghetti sauce and cook until sauce is warmed through, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add gnocchi to two bowls. Garnish with freshly shredded Parmesan and basil strips."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

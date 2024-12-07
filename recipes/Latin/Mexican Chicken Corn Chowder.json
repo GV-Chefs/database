@@ -1,0 +1,60 @@
+{
+    "headline": "Mexican Chicken Corn Chowder",
+    "name": "Mexican Chicken Corn Chowder",
+    "description": "This creamy chicken and corn chowder, made spicy with ground cumin, green chilies, and hot pepper sauce, will warm you right through. Shredded Monterey jack cheese and half and half make this soup rich and delicious.",
+    "recipeCuisine": [
+        "Latin American"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "368 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "109 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "868 mg",
+        "sugarContent": "3 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds boneless skinless chicken breasts, cut into bite-size pieces",
+        "0.5 cup chopped onion",
+        "1 clove garlic, minced",
+        "3 tablespoons butter",
+        "2 cubes chicken bouillon",
+        "1 cup hot water",
+        "0.75 teaspoon ground cumin",
+        "2 cups half-and-half cream",
+        "2 cups shredded Monterey Jack cheese",
+        "1 (14.75 ounce) can cream-style corn",
+        "1 (4 ounce) can diced green chiles",
+        "1 dash hot pepper sauce",
+        "1 tomato, chopped",
+        "0.25 bunch fresh cilantro sprigs, for garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a Dutch oven, brown chicken, onion, and garlic in butter until chicken is no longer pink."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dissolve the bouillon in hot water; Pour into Dutch oven, and season with cumin. Bring to a boil. Reduce heat to low, cover, and simmer for 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in cream, cheese, corn, chilies, and hot pepper sauce. Cook, stirring frequently, until the cheese is melted. Stir in chopped tomato. Garnish with cilantro."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

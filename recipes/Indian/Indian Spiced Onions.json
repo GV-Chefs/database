@@ -1,0 +1,44 @@
+{
+    "headline": "Indian Spiced Onions",
+    "name": "Indian Spiced Onions",
+    "description": "This spicy onion relish is served with papadums at Indian restaurants and easily made at home with ketchup, chili, sugar, fenugreek, and cilantro.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT1445M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "28 kcal",
+        "carbohydrateContent": "7 g",
+        "fiberContent": "1 g",
+        "proteinContent": "1 g",
+        "sodiumContent": "36 mg",
+        "sugarContent": "6 g",
+        "fatContent": "0 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "1 onion, chopped",
+        "2 teaspoons ketchup",
+        "1 teaspoon lemon juice",
+        "1 tablespoon white sugar",
+        "1 teaspoon chopped fresh cilantro",
+        "1 teaspoon chopped fresh fenugreek leaves",
+        "1 teaspoon chili powder",
+        "1 pinch salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Stir together onion and ketchup in a medium bowl until onion is thinly and evenly coated. Mix in lemon juice. Stir in sugar, cilantro, fenugreek, chili powder, and salt until well combined. Cover and chill in the refrigerator for 24 hours to let the lemon juice neutralize the onion flavor slightly."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

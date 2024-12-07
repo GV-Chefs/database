@@ -1,0 +1,59 @@
+{
+    "headline": "Korean Marinated Flank Steak",
+    "name": "Korean Marinated Flank Steak",
+    "description": "Flank steak sits overnight in a sweet marinade before being grilled to perfection. This is a great marinade for flank steak, my mom got it from a Korean friend when my dad was stationed overseas in the Army 50 years ago.",
+    "recipeCuisine": [
+        "Korean"
+    ],
+    "totalTime": "PT510M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "417 kcal",
+        "carbohydrateContent": "47 g",
+        "cholesterolContent": "34 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "3661 mg",
+        "sugarContent": "37 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 cloves garlic",
+        "1 teaspoon minced fresh ginger",
+        "1 onion, roughly chopped",
+        "2.5 cups low sodium soy sauce",
+        "0.25 cup toasted sesame oil",
+        "3 tablespoons Worcestershire sauce",
+        "2 tablespoons unseasoned meat tenderizer",
+        "1 cup white sugar",
+        "2 pounds beef flank steak, trimmed of excess fat"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place garlic, ginger, and onion in the bowl of a blender. Add soy sauce, sesame oil, Worcestershire sauce, meat tenderizer, and sugar. Puree until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour the marinade into a resealable plastic bag or glass bowl. Score the flank steak and place into the marinade. Marinate overnight in the refrigerator."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat a grill for medium-high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill steak on preheated grill to desired doneness, about 7 minutes per side for medium."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

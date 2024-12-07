@@ -1,0 +1,58 @@
+{
+    "headline": "Chocolate Pecan Pie",
+    "name": "Chocolate Pecan Pie",
+    "description": "This chocolate pecan pie is like the original classic but adds chocolate chips to create a rich, fudgy texture as it bakes for a delicious holiday treat!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "736 kcal",
+        "carbohydrateContent": "92 g",
+        "cholesterolContent": "70 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "402 mg",
+        "sugarContent": "28 g",
+        "fatContent": "39 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup light corn syrup",
+        "0.66666698455811 cup white sugar",
+        "0.33333298563957 cup margarine, melted",
+        "3 large eggs",
+        "0.5 teaspoon salt",
+        "1.5 cups semisweet chocolate chips",
+        "1 cup pecan halves",
+        "1 (9 inch) unbaked pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine corn syrup, sugar, melted margarine, eggs, and salt in a mixing bowl; beat with an electric mixer until combined. Stir in chocolate chips and pecans. Pour mixture into pie crust."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until set, 40 to 50 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cool completely before serving."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

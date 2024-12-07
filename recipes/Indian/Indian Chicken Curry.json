@@ -1,0 +1,100 @@
+{
+    "headline": "Indian Chicken Curry",
+    "name": "Indian Chicken Curry",
+    "description": "This creamy Indian chicken curry has an unbeatable combination of flavors thanks to an array of aromatic warm spices, plain yogurt, and coconut milk.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "313 kcal",
+        "carbohydrateContent": "14 g",
+        "cholesterolContent": "38 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "268 mg",
+        "sugarContent": "7 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons olive oil",
+        "1 small onion, chopped",
+        "2 cloves garlic, minced",
+        "3 tablespoons curry powder",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon paprika",
+        "1 bay leaf",
+        "0.5 teaspoon grated fresh ginger root",
+        "0.5 teaspoon white sugar",
+        "salt to taste",
+        "2 skinless, boneless chicken breast halves - cut into bite-size pieces",
+        "1 tablespoon tomato paste",
+        "1 cup plain yogurt",
+        "0.75 cup coconut milk",
+        "0.5 lemon, juiced",
+        "0.5 teaspoon cayenne pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Pu0WzDEs4wX6eQ6ceZHprvtHIjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-Indian-Chicken-Curry-step-1-103232-e2ee06726c3e4555aa7a5ae3d96cc47d.jpg"
+                }
+            ],
+            "text": "Heat olive oil in a skillet over medium heat. Saut\u00e9 onion until lightly browned."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/YA_SPOpLwnF6CPfPCxbzpV_KrdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-Indian-Chicken-Curry-step-2-103239-5d895662cfeb4540ba6ae2b2ede841e6.jpg"
+                }
+            ],
+            "text": "Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar, and salt. Continue stirring for 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ROSQsHPEa0cPujiTE6DBtFwRVBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-Indian-Chicken-Curry-step-3-103245-f78c0ef54ca84642b4341a30da1e4967.jpg"
+                }
+            ],
+            "text": "Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/DYBPg0S_BshJ_Z1N4qYe3Fo-ssc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-Indian-Chicken-Curry-step-4-103267-749f3ad7a23b46cd90c35af9d343995a.jpg"
+                }
+            ],
+            "text": "Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FL-xnyAllLyHcKdkjUZkotVlHR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-indian-chicken-curry-ii-DDMFS-4x3-39160aaa95674ee395b9d4609e3b0988.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

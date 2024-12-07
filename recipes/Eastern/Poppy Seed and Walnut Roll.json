@@ -1,0 +1,77 @@
+{
+    "headline": "Poppy Seed and Walnut Roll",
+    "name": "Poppy Seed and Walnut Roll",
+    "description": "This poppy seed and walnut roll is a version of a popular and delicious Croatian sweet yeast bread with two fillings, poppy seed-raisin, and walnut-raisin.",
+    "recipeCuisine": [
+        "Eastern European"
+    ],
+    "totalTime": "PT250M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "443 kcal",
+        "carbohydrateContent": "52 g",
+        "cholesterolContent": "70 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "148 mg",
+        "sugarContent": "24 g",
+        "fatContent": "23 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT50M",
+    "recipeCategory": [
+        "Breakfast",
+        "Brunch",
+        "Side Dish",
+        "Bread"
+    ],
+    "recipeIngredient": [
+        "2.5 cups all-purpose flour",
+        "1 packet instant yeast",
+        "1/2 cup white sugar",
+        "2 egg yolks",
+        "1/4 teaspoon salt",
+        "1 lemon, zested",
+        "1/3 cup butter, melted",
+        "3/4 cup plus 1.5 tablespoons milk, warm but not hot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place flour in a microwave-safe bowl, and microwave on High for 30 seconds. Stir in dry yeast. Stir in the 1/2 cup sugar, egg yolks, salt, zest of 1 lemon, the 1/3 cup melted butter, and warm milk, until a dough forms. Turn dough out onto a lightly floured surface and knead until the surface is smooth and shiny, about 10 minutes. Alternately, use an electric mixer to knead dough until smooth and shiny, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Form dough into a ball; cover and put in a warm place to rise until doubled in volume, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, prepare the walnut filling: combine walnuts, the 1/2 cup sugar, 2/3 cup raisins, rum, 1/2 teaspoon vanilla extract, and pinch of cinnamon. Pour in the boiling\u00a0 milk and stir until all ingredients are combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For the poppy seed filling, place poppy seeds and milk in a small saucepan over medium heat, and cook until milk is steaming, about 5 minutes. Add 1/3 cup sugar, 1/3 cup raisins, lemon zest, 1/2 teaspoon vanilla, and cinnamon; stir to combine. Cool both fillings to room temperature, about 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Grease a large baking sheet or line with parchment."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll dough into a 3/8-inch thick rectangle. Brush rectangle with melted butter. Spread walnut filling on half of dough; spread poppy seed filling over remaining half of dough rectangle."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll each half of dough toward the middle, press the two halves together at the center, and carefully transfer the roll to the prepared baking sheet. Rest for 10 minutes before baking."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden brown on top and bottom and fillings are hot, about 50 minutes. Cool completely before slicing, about 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "14"
+    ]
+}

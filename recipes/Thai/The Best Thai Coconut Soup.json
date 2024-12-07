@@ -1,0 +1,107 @@
+{
+    "headline": "The Best Thai Coconut Soup",
+    "name": "The Best Thai Coconut Soup",
+    "description": "This Thai coconut soup made with red curry paste, lemongrass, lime juice, shrimp, and fish sauce is full of authentic, bold, and tasty Thai flavors.",
+    "recipeCuisine": [
+        "Thai"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "368 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "86 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "28 g",
+        "sodiumContent": "579 mg",
+        "sugarContent": "2 g",
+        "fatContent": "33 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon vegetable oil",
+        "2 tablespoons grated fresh ginger",
+        "2 teaspoons red curry paste",
+        "1 stalk lemon grass, minced",
+        "4 cups chicken broth",
+        "3 tablespoons fish sauce",
+        "1 tablespoon light brown sugar",
+        "3 (13.5 ounce) cans coconut milk",
+        "0.5 pound fresh shiitake mushrooms, sliced",
+        "1 pound medium shrimp - peeled and deveined",
+        "2 tablespoons fresh lime juice",
+        "salt to taste",
+        "0.25 cup chopped fresh cilantro"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-64ZG9W5jTLD-M3qi939qADRsOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-146035-the-best-thai-coconut-soup-ddmfs-ingredients-3x4-1661-c1c7604597a3477da7bc0ea0c8c08758.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Q3DQVenboL9r3PDh4ToyPQcGog8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-146035-the-best-thai-coconut-soup-ddmfs-step1-3x4-1665-d76e586bbfee401690cf731bdfc8a3f3.jpg"
+                }
+            ],
+            "text": "Heat oil in a large pot over medium heat. Add ginger, curry paste, and lemongrass; cook and stir in the hot oil for 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Pj9a9nIqLtwleKUWkB8tcGD3N4k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-146035-the-best-thai-coconut-soup-ddmfs-step2-3x4-1676-63776d5f0b624fcbbc2eb55e4539599c.jpg"
+                }
+            ],
+            "text": "Gradually stir in chicken broth, then stir in fish sauce and brown sugar; reduce heat to low and simmer for 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/BJdQ7IWnzTHykoMxlxqVRlybCu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-146035-the-best-thai-coconut-soup-ddmfs-step3-3x4-1685-6cdb534536b547afbc20248525eac7b9.jpg"
+                }
+            ],
+            "text": "Add coconut milk and mushrooms; cook and stir until mushrooms are soft, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/4i5hxzlgGtNHSp6qxHvZUge4bs4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-146035-the-best-thai-coconut-soup-ddmfs-step5-3x4-1704-ad5557fa3bb44c23b5b4ec1bf74d261f.jpg"
+                }
+            ],
+            "text": "Add shrimp; cook until no longer translucent, about 5 minutes. Stir in lime juice; season with salt and garnish with cilantro."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/kPvSC54TM7mio78ADIO3TBncrR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-146035-the-best-thai-coconut-soup-ddmfs-3x4-1741-96cd61c69f0b442392f629a0c65809b7.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

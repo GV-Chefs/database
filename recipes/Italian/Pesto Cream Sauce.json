@@ -1,0 +1,88 @@
+{
+    "headline": "Pesto Cream Sauce",
+    "name": "Pesto Cream Sauce",
+    "description": "Rich and creamy pesto sauce with shrimp, mushrooms, tomatoes, and basil is served over hot linguine pasta for a delicious weeknight meal.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "677 kcal",
+        "carbohydrateContent": "52 g",
+        "cholesterolContent": "155 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "34 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "738 mg",
+        "sugarContent": "7 g",
+        "fatContent": "38 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package linguine pasta",
+        "2 tablespoons olive oil",
+        "1 small onion, chopped",
+        "8 cloves garlic, sliced",
+        "0.5 cup butter",
+        "2 tablespoons all-purpose flour",
+        "2 cups milk",
+        "1 pinch salt",
+        "1 pinch pepper",
+        "1.5 cups grated Romano cheese",
+        "1 cup prepared basil pesto",
+        "1 pound cooked shrimp, peeled and deveined",
+        "20 mushrooms, chopped",
+        "3 roma (plum) tomato, diced"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sAnTcSHyxtaRkQb37p_phs7GoTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40186-pesto-cream-sauce-ddmfs-step-1-5484-44b77bec11eb4add9957820b900a3d41.jpg"
+                }
+            ],
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in linguine and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/opDL3xpgduyOe8aNT8N502_h9K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40186-pesto-cream-sauce-ddmfs-step-2-5482-1a4d029225c44df3917d2c44532e2469.jpg"
+                }
+            ],
+            "text": "Heat olive oil in a large skillet over medium heat. Saut\u00e9 onion until tender and translucent. Stir in garlic and butter; saut\u00e9 until garlic is soft and fragrant, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UNcf6DcAH72xbYcv6S7Rg7dWAAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40186-pesto-cream-sauce-ddmfs-step-3-5483-d686a546effe456197b8fa296c5064ee.jpg"
+                }
+            ],
+            "text": "Dissolve flour in milk; stir into onion mixture. Season with salt and pepper; simmer for 4 minutes, stirring constantly. Add cheese and stir until melted. Stir in pesto. Add shrimp, mushrooms, and tomatoes; cook for 4 minutes, or until heated through."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2xdK5JfbMEgu3YwuRuwX1Z7nnsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40186-pesto-cream-sauce-ddmfs-step-4-5485-a5e6dbb6dbd6412fa969e6cf5a8ee495.jpg"
+                }
+            ],
+            "text": "Add pasta and toss until evenly coated."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

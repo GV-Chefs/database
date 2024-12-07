@@ -1,0 +1,55 @@
+{
+    "headline": "Eggless Pasta",
+    "name": "Eggless Pasta",
+    "description": "This eggless pasta recipe is easy to make at home with just three ingredients. It's sure to be a favorite for anyone on a low-cholesterol or vegan diet.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "301 kcal",
+        "carbohydrateContent": "61 g",
+        "fiberContent": "3 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "292 mg",
+        "sugarContent": "2 g",
+        "fatContent": "1 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT40M",
+    "recipeIngredient": [
+        "2 cups semolina flour",
+        "0.5 teaspoon salt",
+        "0.5 cup warm water, or more as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix flour and salt together in a large bowl. Add warm water and stir to make a stiff dough; add more water if dough seems too dry."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pat dough into a ball and turn out onto a lightly floured surface. Knead for 10 to 15 minutes. Cover and let rest for 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Working with 1/4 of the dough at a time and keeping the rest covered to prevent it from drying out, roll dough by hand to a thickness of 1/16 inch. If using a pasta machine, stop at the third to the last setting. Cut pasta into desired shapes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/j3TrN6gKf41aP-jjiCcCtIKd38Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7981764-1bd31a5873174b5bbd663a6eb2a03b38.jpg"
+                }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Cook pasta in the boiling water until tender yet firm to the bite, 3 to 5 minutes. Drain."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

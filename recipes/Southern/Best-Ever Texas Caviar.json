@@ -1,0 +1,87 @@
+{
+    "headline": "Best-Ever Texas Caviar",
+    "name": "Best-Ever Texas Caviar",
+    "description": "This cowboy caviar recipe for Texas salad is made with beans, corn, bell peppers, and chiles in garlic vinaigrette for a delicious party appetizer.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "262 kcal",
+        "carbohydrateContent": "36 g",
+        "fiberContent": "6 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "564 mg",
+        "sugarContent": "8 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Snack",
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "2 (15 ounce) cans black beans, rinsed and drained",
+        "2 (15 ounce) cans pinto beans, rinsed and drained",
+        "2 (15 ounce) cans white corn, rinsed and drained",
+        "1 (4 ounce) can chopped green chiles, undrained",
+        "1 red bell pepper - cored, seeded and finely chopped",
+        "1 green bell pepper - cored, seeded and finely chopped",
+        "1 small red onion, finely chopped",
+        "1 jalapeno chile pepper, seeded and finely chopped",
+        "1 bunch cilantro leaves, finely chopped",
+        "0.5 cup rice vinegar",
+        "0.5 cup olive oil",
+        "0.33333334326744 cup white sugar",
+        "0.5 teaspoon garlic powder"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/m05T8bzFLYc6UReVExT7q0RW-h4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152270-BestEverTexasCavier-ddmfs-Step1-0013-70f0e08f5f42455592c852c82e3dda52.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NKj2o-L2pXhyfo7usRNSolQjNB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152270-BestEverTexasCavier-ddmfs-Step2-0015-a29bf03b6ce64a65be09c104abee9f0c.jpg"
+                }
+            ],
+            "text": "Mix together black beans, pinto beans, white corn, green chiles, red and green bell peppers, red onion, jalape\u00f1o pepper, and cilantro in a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FUdijo6i8pwYNyDkLZkPbOLXKfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152270-BestEverTexasCavier-ddmfs-Step3-0016-c85c2e952c214744a5c50c15ceef07a6.jpg"
+                }
+            ],
+            "text": "Combine rice vinegar, olive oil, sugar, and garlic powder in a pan. Bring to a boil, then remove from heat. Let cool for at least 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/HkDTA-O_j76MxCwtmMHFKtQkQJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/152270-BestEverTexasCavier-ddmfs-4X3-0032-6436cc2078554f1d896b4e37b2503e51.jpg"
+                }
+            ],
+            "text": "Pour dressing over bean mixture; toss to coat."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

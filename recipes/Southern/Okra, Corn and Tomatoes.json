@@ -1,0 +1,48 @@
+{
+    "headline": "Okra, Corn and Tomatoes",
+    "name": "Okra, Corn and Tomatoes",
+    "description": "Okra and onions are fried with bacon, then simmered with canned tomatoes and corn in this delicious side dish that is especially good served with cornbread. Fresh or frozen vegetables can be used.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "167 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "6 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "189 mg",
+        "sugarContent": "7 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 slices bacon, chopped",
+        "1 medium onion, chopped",
+        "1 (10 ounce) package frozen cut okra",
+        "1 (14.5 ounce) can diced tomatoes, drained",
+        "1 (20 ounce) package frozen corn",
+        "1 tablespoon file powder",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place bacon in a large skillet over medium-high heat. Cook and stir to release some of the juices, then add the onion and okra. Fry until tender and browned, stirring constantly. Be careful, as this tends to brown quickly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in the tomatoes, and simmer over medium heat for 20 minutes. Mix in the corn, and simmer for another 10 minutes. Season with file powder, salt and pepper, and serve."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "headline": "Meat and Veggie Stromboli",
+    "name": "Meat and Veggie Stromboli",
+    "description": "This homemade meat and veggie stromboli is made with refrigerated bread dough and is filled with pepperoni, Virginia ham, veggies, and two cheeses.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "649 kcal",
+        "carbohydrateContent": "59 g",
+        "cholesterolContent": "152 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "1523 mg",
+        "sugarContent": "6 g",
+        "fatContent": "30 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (1 pound) loaf frozen bread dough, thawed",
+        "2 egg yolks",
+        "2 tablespoons grated Parmesan cheese",
+        "2 tablespoons vegetable oil",
+        "1 teaspoon dried parsley",
+        "1 teaspoon dried oregano",
+        "0.5 teaspoon garlic powder",
+        "0.25 teaspoon ground black pepper",
+        "5 slices pepperoni",
+        "5 slices Virginia baked ham",
+        "5 slices provolone cheese",
+        "2 teaspoons vegetable oil, or as needed",
+        "0.25 cup chopped green bell pepper",
+        "0.25 cup chopped onion",
+        "0.25 cup sliced fresh mushrooms",
+        "1 teaspoon grated Parmesan cheese",
+        "0.25 teaspoon Italian seasoning"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place thawed bread dough in a bowl in a warm area; let rise until doubled in size, 30 to 60 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread dough into a large rectangle on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine egg yolks, 2 tablespoons Parmesan cheese, 2 tablespoons vegetable oil, parsley, oregano, garlic powder, and black pepper in a bowl; spread mixture onto dough. Top with pepperoni, ham, and provolone."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 2 teaspoons vegetable oil in a skillet over medium heat. Add bell pepper, onion, and mushrooms; cook and stir until tender, 5 to 10 minutes. Spoon over provolone layer."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll dough around filling; place stromboli, seam side-down, onto the baking sheet. Brush stromboli top with beaten egg whites; sprinkle with 1 teaspoon Parmesan cheese and Italian seasoning."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until dough is golden brown, 30 to 40 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

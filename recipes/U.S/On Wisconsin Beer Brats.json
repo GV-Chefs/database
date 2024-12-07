@@ -1,0 +1,53 @@
+{
+    "headline": "On Wisconsin Beer Brats",
+    "name": "On Wisconsin Beer Brats",
+    "description": "Bratwurst simmers in a slow cooker with beer, onions, spices, and sauerkraut. Prepare them in the morning and they will be ready for game time.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT320M",
+    "cookTime": "PT300M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "731 kcal",
+        "carbohydrateContent": "51 g",
+        "cholesterolContent": "107 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "18 g",
+        "sodiumContent": "1524 mg",
+        "sugarContent": "8 g",
+        "fatContent": "46 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Drink"
+    ],
+    "recipeIngredient": [
+        "2 (19.8 ounce) packages fresh bratwurst links",
+        "0.5 cup butter",
+        "3 (12 ounce) cans light beer",
+        "4 onions, chopped",
+        "0.5 teaspoon cayenne pepper",
+        "1 tablespoon garlic powder",
+        "2 cloves garlic, minced",
+        "2 tablespoons brown sugar",
+        "1 cup sauerkraut, drained",
+        "10 (6 inch) bratwurst buns"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a slow cooker, combine the bratwurst links, butter, beer, onions, cayenne pepper, garlic powder, garlic and brown sugar. Cover and set to High. Cook for 4 hours, stirring once per hour. Add sauerkraut and continue cooking for another hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve bratwurst on buns with onions and top with your favorite condiments."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

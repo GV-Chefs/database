@@ -1,0 +1,96 @@
+{
+    "headline": "Grits a Ya Ya",
+    "name": "Grits a Ya Ya",
+    "description": "Grits a ya ya brings bacon, spinach, and mushrooms together with jumbo shrimp in a creamy sauce \u2014 served over a platter of smoked Gouda cheese grits.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "839 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "322 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "39 g",
+        "sodiumContent": "1109 mg",
+        "sugarContent": "2 g",
+        "fatContent": "71 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "3.5 cups chicken stock",
+        "0.75 cup old fashioned grits",
+        "0.25 cup heavy cream, plus more as needed",
+        "1 cup shredded smoked Gouda cheese, or more to taste",
+        "0.25 cup butter",
+        "8 slices bacon, chopped",
+        "1 tablespoon minced shallot",
+        "1 tablespoon minced garlic",
+        "1 splash white wine",
+        "3 tablespoons butter",
+        "1 pound jumbo shrimp, peeled and deveined",
+        "2 cups chopped spinach",
+        "1 cup chopped portobello mushrooms",
+        "0.25 cup sliced green onions",
+        "2 cups heavy cream",
+        "1 dash hot pepper sauce, or to taste",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Prepare the grits: Bring chicken stock to a boil in a saucepan over high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Slowly pour grits into stock while stirring constantly. Reduce heat to low; simmer until grits are tender and thick, 15 to 20 minutes, stirring occasionally."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in heavy cream to thin out the grits. Stir in Gouda cheese and butter until melted and smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While grits are cooking, make the shrimp sauce: Place bacon in a large, deep skillet over medium heat; cook until bacon fat is rendered, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in shallot and garlic; cooking and stirring until shallots are tender, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in white wine and stir in butter, cooking and stirring until butter has melted."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drop shrimp in the skillet; cook and stir until they are bright pink on the outside and the meat is no longer transparent in the center, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in spinach, mushrooms, and green onions; cook and stir until the spinach wilts, about 2 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove shrimp with a slotted spoon."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in heavy cream to the sauce. Simmer until the cream is reduced by about a third, about 10 minutes. Season with hot sauce, salt, and pepper. Return shrimp to the skillet to heat through."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve shrimp with sauce over the prepared grits."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

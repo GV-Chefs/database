@@ -1,0 +1,58 @@
+{
+    "headline": "Easy Chicken and Broccoli Alfredo",
+    "name": "Easy Chicken and Broccoli Alfredo",
+    "description": "This creamy chicken and broccoli Alfredo pasta dish with fresh broccoli, tender chunks of chicken breast, Parmesan cheese, and basil is sure to please!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "511 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "139 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "47 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "514 mg",
+        "sugarContent": "10 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "8 ounces fettuccine or spaghetti, uncooked",
+        "2 cups fresh broccoli florets",
+        "0.25 cup KRAFT Zesty Italian Dressing",
+        "1 pound boneless skinless chicken breasts, cut into bite-sized pieces",
+        "1.6666667461395 cups milk",
+        "4 ounces PHILADELPHIA Cream Cheese, cubed",
+        "0.25 cup KRAFT Grated Parmesan Cheese",
+        "0.5 teaspoon dried basil leaves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cook pasta as directed on package, adding broccoli to the boiling water for the last 2 minutes of the pasta cooking time. Drain pasta mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat dressing in large nonstick skillet on medium-high heat. Add chicken and cook until no longer pink in the center, stirring occasionally, about 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in milk, cream cheese, Parmesan cheese, and basil. Bring to a boil, stirring constantly. Cook until sauce is well blended and heated through, about 1 to 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken mixture to pasta mixture; mix lightly."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "headline": "Southern Possum Pie",
+    "name": "Southern Possum Pie",
+    "description": "This possum pie has a graham cracker crust, a layer of sweetened cream cheese, pecans, creamy pudding, and whipped topping for a no-bake summer treat.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT150M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "448 kcal",
+        "carbohydrateContent": "51 g",
+        "cholesterolContent": "39 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "496 mg",
+        "sugarContent": "38 g",
+        "fatContent": "26 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert",
+        "Pie"
+    ],
+    "recipeIngredient": [
+        "2 (3 ounce) packages cream cheese, softened",
+        "0.75 cup confectioners' sugar",
+        "1 (9 inch) prepared graham cracker crust",
+        "0.25 cup chopped pecans",
+        "0.33333334326744 cup instant chocolate pudding mix",
+        "0.25 cup instant vanilla pudding mix",
+        "2 cups cold milk",
+        "0.75 teaspoon vanilla extract",
+        "0.5 cup heavy cream, whipped",
+        "30 pecan halves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Ldc6Pl92oCQMOsgLOT2hT189FCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-218440-southern-possum-pie-step-01-d8eaf82e9d464e49a56ae6c0509cfc44.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dHf532RrOVnvaoelyomIX99xSjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-218440-southern-possum-pie-step-02-6d1221a489fd48319044c9b9f690b7fd.jpg"
+                }
+            ],
+            "text": "Beat softened cream cheese and confectioners' sugar together in a large bowl with an electric mixer until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/uv9t3t3KibXe9duDpKbDgm3ekfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-218440-southern-possum-pie-step-03-aafd4193a33d404289dc09006f907bcc.jpg"
+                }
+            ],
+            "text": "Spread mixture into the bottom of prepared graham cracker crust. Sprinkle chopped pecans over mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/542v5W_2M1F6wP_hy6ilbXyF1IU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-218440-southern-possum-pie-step-04-efe87c73829a457280179cb79bad2fd9.jpg"
+                }
+            ],
+            "text": "Stir chocolate and vanilla pudding mixes together in a separate large bowl; pour in milk and vanilla extract. Beat on low speed for 2 minutes; spoon into the pie pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_HVMdS4joy1D4dwF75NsSJCS830=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-218440-southern-possum-pie-step-05-f004466eab004c61ae5219c70833f5c8.jpg"
+                }
+            ],
+            "text": "Cover the pie and refrigerate for at least 2 hours. Top with prepared whipped cream and pecan halves."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

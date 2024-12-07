@@ -1,0 +1,81 @@
+{
+    "headline": "Country Cooking Slow Cooker Neck Bones",
+    "name": "Country Cooking Slow Cooker Neck Bones",
+    "description": "Pork neck bones are cooked country-style in the slow cooker with onion, garlic, thyme, and vinegar in this Southern recipe that's easy on the wallet.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT250M",
+    "cookTime": "PT240M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "518 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "101 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "352 mg",
+        "sugarContent": "0 g",
+        "fatContent": "48 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 pounds pork neck bones",
+        "1 small onion, chopped",
+        "3 cloves garlic, minced, or more to taste",
+        "1 teaspoon salt",
+        "1 teaspoon dried thyme leaves",
+        "4 cups water",
+        "1 tablespoon distilled white vinegar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OXKrOkZsXclfHuGBKNPmiLblPiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-181017-Country-Cooking-Slow-Cooker-Neck-Bones-ddmfs-gw-4x3-step-01-1f8c06d9c5a94ef2bb709453ac19b20c.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AAGB86jWjjwYTDo4dpDZggz9OdE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-181017-Country-Cooking-Slow-Cooker-Neck-Bones-ddmfs-gw-4x3-step-02-8efbf1ff35a447629284ba31ad068cf4.jpg"
+                }
+            ],
+            "text": "Place neck bones, onion, and garlic into a slow cooker."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/N2HspoSpj936pWDXdnkJtvnPTaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-181017-Country-Cooking-Slow-Cooker-Neck-Bones-ddmfs-gw-4x3-step-04-826efea7cf6944d7851753bf845274df.jpg"
+                }
+            ],
+            "text": "Sprinkle with salt and thyme, then pour in water and vinegar."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jS9dGcDAAkqee62D1arbEVDTONQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-181017-Country-Cooking-Slow-Cooker-Neck-Bones-ddmfs-gw-4x3-step-05-19e37f5d74cf44c2a83de04f8f8ea2ec.jpg"
+                }
+            ],
+            "text": "Cover and cook on High until the meat is tender, about 4 hours."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

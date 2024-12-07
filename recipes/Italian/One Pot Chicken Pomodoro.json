@@ -1,0 +1,106 @@
+{
+    "headline": "One Pot Chicken Pomodoro",
+    "name": "One Pot Chicken Pomodoro",
+    "description": "This one pot chicken pomodoro features boneless chicken, a bright, fresh-flavored tomato sauce, and pasta, cooked all in one deep skillet. It is a fabulous weeknight dish.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "356 kcal",
+        "carbohydrateContent": "38 g",
+        "cholesterolContent": "66 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "31 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "1104 mg",
+        "sugarContent": "9 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "1 shallot, minced",
+        "4 cloves garlic, minced",
+        "1 (28 ounce) can crushed tomatoes",
+        "1/2 teaspoon salt",
+        "1 teaspoon white sugar",
+        "1/2 teaspoon crushed red pepper flakes",
+        "1 tablespoon chopped fresh basil",
+        "1 3/4 cup chicken broth",
+        "1/4 cup pinot grigio",
+        "16 ounce conchiglie pasta"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PzBDQj8xxyCDuMGunpYGsdTK9VI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730087-one-pot-chicken-pomodoro-recipe-VAT-step-01-043904ab850148b18b7d69b227aff3d6.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Heat a deep cast iron skillet over medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/X7FFHEhVyK5ynJQ_hYUkvfArdss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730087-one-pot-chicken-pomodoro-recipe-VAT-step-02-cfd406ea0fa846189c82b7affacd35f4.jpg"
+                }
+            ],
+            "text": "Season chicken breasts with salt, garlic, and Italian seasoning."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zbagX5RNoG__Cdl22UF2jabuz4A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730087-one-pot-chicken-pomodoro-recipe-VAT-step-03-d8eaa5c3def944a591593f7323793fbc.jpg"
+                }
+            ],
+            "text": "Pour 2 teaspoons oil into the skillet. Once hot, add chicken. Cook until golden, turning once, about 4 minutes per side. Move chicken to one side of the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gbG5KrBZz7BbD0DrwvQGSooBpYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730087-one-pot-chicken-pomodoro-recipe-VAT-step-04-2-b8457bea871743189deb31ce542c7c6d.jpg"
+                }
+            ],
+            "text": "Pour remaining oil into the skillet. Add minced shallot; cook until softened, about 3 minutes. Add the garlic, stir until fragrant, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wXthykvVXCUK9eN1pfpgYxEpN50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730087-one-pot-chicken-pomodoro-recipe-VAT-step-05-1-930becb4606947ee91a47fb492a8591f.jpg"
+                }
+            ],
+            "text": "Add the crushed tomatoes, salt, sugar, red pepper flakes, and basil. Pour in chicken broth and wine. Stir to combine."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dhduAevVVjJtBW8GpmO18fwGhfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730087-one-pot-chicken-pomodoro-recipe-VAT-step-06-7e41f96578784ffab271b725ea539f1b.jpg"
+                }
+            ],
+            "text": "Add pasta to the skillet. Nestle chicken pieces on top of pasta. Reduce heat to medium-low. Cover, and cook until pasta is tender with a bite, about 8 minutes. Taste and adjust seasoning; serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

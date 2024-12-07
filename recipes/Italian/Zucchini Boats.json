@@ -1,0 +1,101 @@
+{
+    "headline": "Zucchini Boats",
+    "name": "Zucchini Boats",
+    "description": "These zucchini boats, with fork-tender zucchini halves piled to the brim with a delicious meaty tomato filling, are a perfect carb-free dinner. Italian seasoning ties the flavors together, and the golden-brown cheese crust adds a nice tang.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "649 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "100 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "38 g",
+        "saturatedFatContent": "18 g",
+        "sodiumContent": "2016 mg",
+        "sugarContent": "13 g",
+        "fatContent": "44 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "4 (8 ounce) zucchini",
+        "1 teaspoon dried Italian seasoning",
+        "1/4 teaspoon ground black pepper",
+        "1 teaspoon kosher salt, divided",
+        "1 pound mild Italian pork sausage",
+        "1/2 cup finely chopped yellow onion",
+        "2 teaspoon finely chopped garlic",
+        "1/2 teaspoon crushed red pepper",
+        "1 1/2 cups marinara sauce",
+        "6 ounces shredded low-moisture whole-milk mozzarella cheese",
+        "1 ounce grated Parmesan cheese",
+        "1 tablespoon finely chopped mixed fresh tender herbs, such as flat-leaf parsley and basil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Gi_kvLKDoeJxB38wNvv6AfeQRhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654815-zucchini-boats-ddmfs-5512-01-3x4-aa6c9abb2b99413599aa1eb430787bda.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (175 degrees C). Spray a 13-x9-inch baking dish with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FZ64pEWMLrSJrkRO1lQUg3qLNxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654815-zucchini-boats-ddmfs-5518-02-3x4-725763adc9434d778f0d75b0507959b5.jpg"
+                }
+            ],
+            "text": "Cut zucchini in half lengthwise; cut off and discard stem ends. Using a spoon, scoop and scrape out pulp from center of each zucchini half, creating a 1/2-inch-thick shell. Measure out 3/4 cup zucchini pulp, and discard or reserve remaining pulp for another use. Arrange zucchini halves, cut side up, in prepared baking dish. Sprinkle evenly with Italian seasoning, black pepper, and 1/2 teaspoon of the salt."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NVUuYNkiF3E3iccdFDjXTX5bLng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654815-zucchini-boats-ddmfs-5524-03-3x4-4ce477bfe25f4be199422cab4b57650b.jpg"
+                }
+            ],
+            "text": "Heat a large skillet over medium-high heat. Add Italian sausage; cook, stirring and breaking up with a spatula, until browned and crumbly, about 5 minutes. Stir in onion, garlic, crushed red pepper, the 3/4 cup zucchini pulp, and remaining 1/2 teaspoon salt; cook, stirring occasionally, until vegetables are softened and liquid is absorbed, about 5 minutes. Stir in marinara, and bring to a simmer over medium-high heat. Simmer, undisturbed, until slightly thickened, 3 to 5 minutes. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EaWZlm93t-PZthVSMb4Sz8a5IB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654815-zucchini-boats-ddmfs-5526-04-3x4-b547cd1f27de490e8a7cba931c322080.jpg"
+                }
+            ],
+            "text": "Spoon about 1/2 cup pork mixture into each zucchini half; sprinkle evenly with mozzarella and Parmesan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/efwgKGyaHAwmxQd6ORB76QIsAwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654815-zucchini-boats-ddmfs-5536-05-3x4-e38998b921a64a4f870ec09b04c04ae2.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until zucchini is tender and cheese is melted and golden brown, 20 to 25 minutes. Sprinkle evenly with herbs; serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

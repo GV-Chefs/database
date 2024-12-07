@@ -1,0 +1,54 @@
+{
+    "headline": "Prize-Winning Chili",
+    "name": "Prize-Winning Chili",
+    "description": "Hearty and spicy, this chili is made with hot Italian sausage, ground beef, and pinto beans.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "341 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "66 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "924 mg",
+        "sugarContent": "4 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "1 green bell pepper, chopped",
+        "1 small jalapeno pepper, finely chopped",
+        "1 pound hot Italian sausage",
+        "1 pound ground beef",
+        "1 tablespoon chili powder",
+        "0.5 teaspoon cayenne pepper",
+        "0.5 teaspoon salt",
+        "2 (15 ounce) cans pinto beans, undrained",
+        "1 (28 ounce) can diced tomatoes",
+        "1 cup water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large stock pot over medium heat; cook and stir onion, bell pepper, and jalapeno pepper until onion is translucent, about 10 minutes. Add sausage and ground beef; continue to cook and stir until meat is browned and crumbly, about 7 minutes. Drain and discard grease."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season meat mixture with chili powder, cayenne pepper, and salt. Add pinto beans, tomatoes, and water and bring to a simmer over medium heat. Reduce heat to medium-low and continue to simmer for 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

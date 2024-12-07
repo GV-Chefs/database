@@ -1,0 +1,61 @@
+{
+    "headline": "Homemade Spaghetti-O's",
+    "name": "Homemade Spaghetti-O's",
+    "description": "These homemade Spaghetti-O's are an elevated version of the childhood classic, enhanced with a tasty sauce and Italian-style meatballs.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "539 kcal",
+        "carbohydrateContent": "50 g",
+        "cholesterolContent": "77 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "1837 mg",
+        "sugarContent": "12 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "16 ounce ring-shaped pasta (Anellini Siciliani)",
+        "30 ounce tomato sauce",
+        "1 Tablespoon Cantanzaro herbs",
+        "2 teaspoon sugar",
+        "1 teaspoon salt, optional",
+        "1/2 teaspoon pepper",
+        "16 ounces Italian style meatballs",
+        "Freshly shaved Parmesan cheese for garnish",
+        "Fresh basil for garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook, uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Reserve 1/2 cup pasta water, drain pasta, and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add tomato sauce, Cantanzaro herbs, sugar, salt. and pepper to the pot; bring to a simmer over medium-low heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, cut each meatball into 4 pieces. Roll each piece into a mini meatball. Drop meatballs into sauce; simmer until heated through, about 10 minutes. If sauce seems too thick, thin out by adding pasta water, 1 tablespoon at a time.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in cooked pasta rings. Garnish with basil leaves and Parmesan shavings and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

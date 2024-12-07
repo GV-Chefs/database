@@ -1,0 +1,45 @@
+{
+    "headline": "Creamy Baked Ziti",
+    "name": "Creamy Baked Ziti",
+    "description": "Ziti pasta bakes with layers of creamy tomato sauce and mozzarella cheese in an easy and comforting dish that's ready in less than an hour.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT20M",
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 cups ziti pasta, uncooked",
+        "1 (26 ounce) jar marinara sauce",
+        "1 (14.5 ounce) can diced tomatoes, undrained",
+        "6 ounces PHILADELPHIA Cream Cheese, cubed",
+        "0.75 cup BREAKSTONE'S or KNUDSEN Sour Cream",
+        "1 (8 ounce) package KRAFT Shredded Mozzarella Cheese with a TOUCH OF PHILADELPHIA",
+        "0.33333334326744 cup KRAFT Grated Parmesan Cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oven to 375 degrees F."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook pasta in large saucepan as directed on package, omitting salt. Remove from pan; drain. Meanwhile, add marinara sauce, tomatoes and cream cheese to same pan; cook on medium heat 5 min. or until cream cheese is melted and mixture is well blended, stirring frequently. Return pasta to pan; mix well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Layer half the pasta mixture in 13x9-inch baking dish; cover with layers of sour cream, 1 cup mozzarella and remaining pasta mixture. Top with remaining mozzarella and Parmesan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake 20 min. or until heated through."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

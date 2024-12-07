@@ -1,0 +1,58 @@
+{
+    "headline": "Bacon Mushroom Swiss Meatloaf",
+    "name": "Bacon Mushroom Swiss Meatloaf",
+    "description": "Bacon, onion, mushrooms, and Swiss cheese are added to ground beef in this bacon, mushrooms, Swiss cheese meatloaf for a twist on an old favorite.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT75M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "696 kcal",
+        "carbohydrateContent": "11 g",
+        "cholesterolContent": "177 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "38 g",
+        "saturatedFatContent": "22 g",
+        "sodiumContent": "683 mg",
+        "sugarContent": "3 g",
+        "fatContent": "55 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "12 ounces chopped raw bacon",
+        "1 small white onion, chopped",
+        "5 button mushrooms, chopped",
+        "1.5 pounds extra-lean ground beef",
+        "1 egg",
+        "0.25 cup evaporated milk",
+        "6 ounces shredded Swiss cheese, divided",
+        "0.5 cup corn flake crumbs"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook 12 ounces bacon in a skillet over medium heat, turning occasionally, until browned. Transfer to a paper-towel-lined plate with a slotted spoon; set 1 tablespoon aside. Discard all but 1 tablespoon bacon grease. Add onion and mushrooms to skillet; cook until soft. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine beef, egg, and milk in a large bowl. Stir in onion and mushrooms. Add about 4 ounces Swiss cheese, and all but 1 tablespoon bacon; stir to combine. Stir in cornflake crumbs until well blended. Shape into a loaf; place in a meatloaf pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 hour. Drain fat; sprinkle with remaining 2 ounces Swiss cheese and reserved 1 tablespoon bacon. Continue baking until cheese is melted, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

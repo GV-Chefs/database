@@ -1,0 +1,66 @@
+{
+    "headline": "Cajun-Style Red Bean and Rice Soup",
+    "name": "Cajun-Style Red Bean and Rice Soup",
+    "description": "This highly seasoned kidney bean and rice soup with ham and andouille sausage is served garnished with cooked white rice and chopped green onions.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT120M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "671 kcal",
+        "carbohydrateContent": "55 g",
+        "cholesterolContent": "68 mg",
+        "fiberContent": "11 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "1240 mg",
+        "sugarContent": "4 g",
+        "fatContent": "36 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "8 ounces bacon, cooked and cubed",
+        "1.5 cups chopped onion",
+        "0.25 cup chopped green bell pepper",
+        "1 tablespoon minced garlic",
+        "4 bay leaves",
+        "6 ounces sliced andouille sausage",
+        "1 small smoked ham hock",
+        "2 cups dry kidney beans, soaked overnight",
+        "1 teaspoon Cajun seasoning",
+        "1 teaspoon Worcestershire sauce",
+        "8 cups chicken broth",
+        "1 teaspoon salt",
+        "1.5 cups cooked rice",
+        "6 tablespoons thinly sliced green onion"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large pot over high heat, heat oil. Add bacon and saut\u00e9 for 2 minutes. Add onions, bell pepper, garlic, bay leaves, sausage, and ham hock and saut\u00e9 for 2 more minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add beans and saut\u00e9 for 2 more minutes. Stir in Cajun-style seasoning, Worcestershire sauce, and stock. Bring to a boil, reduce heat to low and simmer for 1 hour, stirring occasionally."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add salt, cover the pot and simmer for an additional 15 minutes. Turn off the heat and allow the pot to sit, covered, for about 20 minutes. Discard ham hock."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Ladle soup into individual bowls. Top each serving with 1/4 cup rice and 1 tablespoon green onion."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

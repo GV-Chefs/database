@@ -1,0 +1,67 @@
+{
+    "headline": "Country Ham and Biscuits",
+    "name": "Country Ham and Biscuits",
+    "description": "Dolly Parton and Rachel Parton George's famous biscuit recipe is the perfect addition to any party. Just don't skimp on the bacon grease!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "656 kcal",
+        "carbohydrateContent": "57 g",
+        "cholesterolContent": "104 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "22 g",
+        "sodiumContent": "1038 mg",
+        "sugarContent": "5 g",
+        "fatContent": "40 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1/4 cup shortening, plus morefor greasing",
+        "3 cups flour, plus more for dusting",
+        "1 Tbsp. sugar",
+        "1 Tbsp. baking powder",
+        "1/2 tsp. salt",
+        "1/2 tsp. cream of tartar",
+        "1/2 cup cold butter, cut into1/2-inch pieces",
+        "1 1/4 cups whole buttermilk",
+        "1 tsp. bacon grease or shortening",
+        "3 slices country ham",
+        "Softened butter, for serving"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 425 degrees F (220 degrees C). Grease an 8-inch cast-iron skillet with shortening."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large mixing bowl or the bowl of a food processor, sift together flour, sugar, baking powder, salt, and cream of tartar. Mix or pulse a few times to combine."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut butter and 1/4 cup shortening into flour mixture just until you get a crumbly consistency. Add buttermilk to flour mixture. Gently stir until just combined, being careful not to overmix."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Turn out dough onto a floured surface. With floured hands, pat dough to approximately 2-inch thickness. Using a 2 1/2-inch biscuit cutter, cut out 6 to 8 biscuits. Transfer to greased skillet. Bake until golden brown, about 30 minutes. Remove biscuits from oven and let cool 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While biscuits are baking, cook ham: Add bacon grease to a cast-iron skillet over medium heat. Add ham slices and fry until edges are brown, a few minutes per side. Remove ham from skillet and place on a paper towel\u2013lined plate to drain. Cut each slice in half."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To serve, split each biscuit in half, spread with softened butter, and sandwich with a piece of ham."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

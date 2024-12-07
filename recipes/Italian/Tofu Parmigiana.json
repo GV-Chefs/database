@@ -1,0 +1,65 @@
+{
+    "headline": "Tofu Parmigiana",
+    "name": "Tofu Parmigiana",
+    "description": "Breaded tofu a la parmigiana. You'll just about swear this is eggplant or veal! One of my husband's favorites, and he doesn't even suspect! Serve with a simple crisp green salad, angel hair pasta and garlic bread.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "357 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "24 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "841 mg",
+        "sugarContent": "4 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup seasoned bread crumbs",
+        "5 tablespoons grated Parmesan cheese",
+        "2 teaspoons dried oregano, divided",
+        "salt to taste",
+        "ground black pepper to taste",
+        "1 (12 ounce) package firm tofu",
+        "2 tablespoons olive oil",
+        "1 (8 ounce) can tomato sauce",
+        "0.5 teaspoon dried basil",
+        "1 clove garlic, minced",
+        "4 ounces shredded mozzarella cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a small bowl, combine bread crumbs, 2 tablespoons Parmesan cheese, 1 teaspoon oregano, salt, and black pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Slice tofu into 1/4 inch thick slices, and place in bowl of cold water. One at a time, press tofu slices into crumb mixture, turning to coat all sides."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a medium skillet over medium heat. Cook tofu slices until crisp on one side. Drizzle with a bit more olive oil, turn, and brown on the other side."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine tomato sauce, basil, garlic, and remaining oregano. Place a thin layer of sauce in an 8 inch square baking pan. Arrange tofu slices in the pan. Spoon remaining sauce over tofu. Top with shredded mozzarella and remaining 3 tablespoons Parmesan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake at 400 degrees F (205 degrees C) for 20 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

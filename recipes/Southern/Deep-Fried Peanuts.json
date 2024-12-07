@@ -1,0 +1,45 @@
+{
+    "headline": "Deep-Fried Peanuts",
+    "name": "Deep-Fried Peanuts",
+    "description": "Try these deep-fried peanuts that are easy to make for a Southern delicacy and an excellent crowd-pleasing snack or appetizer.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT10M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "100 kcal",
+        "carbohydrateContent": "2 g",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "2 mg",
+        "sugarContent": "0 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "oil, or as needed",
+        "1 cup shelled raw peanuts",
+        "salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook peanuts in preheated oil until fragrant and hot, about 2 minutes. Transfer to paper towel-lined plates to drain. Season peanuts with salt."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

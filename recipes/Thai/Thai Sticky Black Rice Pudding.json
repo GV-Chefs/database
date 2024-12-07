@@ -1,0 +1,50 @@
+{
+    "headline": "Thai Sticky Black Rice Pudding",
+    "name": "Thai Sticky Black Rice Pudding",
+    "description": "Black rice is simmered with water, sugar, and coconut milk to make this sticky Thai pudding, a lovely Asian dessert.",
+    "recipeCuisine": [
+        "Thai"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "375 kcal",
+        "carbohydrateContent": "62 g",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "455 mg",
+        "sugarContent": "25 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3.5 cups water",
+        "1 cup black rice",
+        "0.75 teaspoon salt",
+        "1 cup unsweetened coconut milk",
+        "0.5 cup white sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine water, black rice, and salt in a saucepan. Bring to a boil. Reduce heat and cover; simmer for 40 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add coconut milk and sugar. Bring back to a boil. Reduce heat and simmer, uncovered, until rice reaches a sticky consistency, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from heat and allow mixture to cool. Stir and serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

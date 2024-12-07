@@ -1,0 +1,57 @@
+{
+    "headline": "Mawmaw's Simple Fried Green Tomatoes",
+    "name": "Mawmaw's Simple Fried Green Tomatoes",
+    "description": "Vegan fried green tomatoes are lightly coated in cornmeal and cooked to a perfect light brown crispness. They are a quick and easy appetizer for any gathering.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "280 kcal",
+        "carbohydrateContent": "54 g",
+        "fiberContent": "3 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "15 mg",
+        "sugarContent": "3 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Snack",
+        "Appetizer",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 quart ice water, or as needed",
+        "4 firm green tomatoes, cut into 1/4-inch slices",
+        "1 cup canola oil, or as needed",
+        "2 cups self-rising cornmeal",
+        "2 cups all-purpose flour",
+        "salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pour ice water into a large bowl and add tomatoes; soak for 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat 1/2 inch oil in a large skillet over medium-low heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine cornmeal and flour in a medium bowl. Remove tomatoes from ice water, one at a time, and coat lightly in cornmeal mixture; shake off any excess."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Working in batches, cook coated tomatoes in hot oil until edges are golden brown, about 4 minutes per side. Use a slotted spoon to remove tomatoes to a paper towel-lined plate. Sprinkle lightly with salt and serve hot."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

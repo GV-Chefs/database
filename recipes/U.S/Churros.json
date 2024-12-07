@@ -1,0 +1,114 @@
+{
+    "headline": "Churros",
+    "name": "Churros",
+    "description": "Churros, sweet Mexican fritters rolled in cinnamon sugar, are easy to make. They're excellent as-is, or serve them with chocolate sauce for dipping.",
+    "recipeCuisine": [
+        "U.S.",
+        "Mexican"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "364 kcal",
+        "carbohydrateContent": "57 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "268 mg",
+        "sugarContent": "33 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Snack",
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup water",
+        "2.5 tablespoons white sugar",
+        "0.5 teaspoon salt",
+        "2 tablespoons vegetable oil",
+        "1 cup all-purpose flour",
+        "2 quarts oil for frying",
+        "0.5 cup white sugar, or to taste",
+        "1 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/MIveOMoJ64J3GPv4MT1idyI3_dI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-24700-churros-VAT-step-01-f000c7683f2141a9bf29aa480a373791.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VVcqkLhfRfFDazofGhL-1WNrZvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-24700-churros-VAT-step-02-bcbbe479617c459fa6109acd12abd6af.jpg"
+                }
+            ],
+            "text": "Combine water, 2 \u00bd tablespoons sugar, salt, and 2 tablespoons vegetable oil in a small saucepan and place over medium heat. Bring to a boil and remove from the heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/m9TGM3tEnF2SexDlwSRakMZ1rD8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-24700-churros-VAT-step-03-6f15e13df48d4b73bd166d6349e950d1.jpg"
+                }
+            ],
+            "text": "Stir in flour, stirring until mixture forms a ball."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ZFmiIhs2f19oZksvNm0mbtAA7VY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-24700-churros-VAT-step-04-b28be73b25ee43faa739d2c68d370e7b.jpg"
+                }
+            ],
+            "text": "Heat oil for frying in a deep fryer or deep pot to 375 degrees F (190 degrees C). Transfer dough to a sturdy pastry bag fitted with a medium star tip."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TzAhHyZk-BB1f8P22eQcsucUAzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-24700-churros-VAT-step-05-b064a2c4a096423d8aa48f240002e142.jpg"
+                }
+            ],
+            "text": "Carefully pipe a few 5- to 6-inch strips of dough into the hot oil; work in batches so you don't crowd the fryer."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Kxs_dmg5ad6iYY-d2KGt4yzbiQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-24700-churros-VAT-step-06-dc93d4d120f94cd88a907a76cd6ba6b5.jpg"
+                }
+            ],
+            "text": "Cook until golden; use a spider or slotted spoon to transfer churros to paper towels to drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qq9s8jlKplKUDEo3Gtk15EAJpHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-24700-churros-VAT-hero-03-4x3-a7f6af1860934b0385f84ab9f13f2613.jpg"
+                }
+            ],
+            "text": "Combine 1/2 cup sugar and cinnamon. Roll drained churros in cinnamon and sugar mixture."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

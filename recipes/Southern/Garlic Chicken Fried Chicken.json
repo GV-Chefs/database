@@ -1,0 +1,62 @@
+{
+    "headline": "Garlic Chicken Fried Chicken",
+    "name": "Garlic Chicken Fried Chicken",
+    "description": "This actually uses my breading for Chicken Fried Steak---my husband suggested we try it with chicken breasts, and it was delicious!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "391 kcal",
+        "carbohydrateContent": "37 g",
+        "cholesterolContent": "116 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "33 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "935 mg",
+        "sugarContent": "3 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons garlic powder, or to taste",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon salt",
+        "1 teaspoon paprika",
+        "0.5 cup seasoned bread crumbs",
+        "1 cup all-purpose flour",
+        "0.5 cup milk",
+        "1 egg",
+        "4 skinless, boneless chicken breast halves - pounded thin",
+        "1 cup oil for frying, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a shallow dish, mix together the garlic powder, pepper, salt, paprika, bread crumbs and flour. In a separate dish, whisk together the milk and egg."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the oil in an electric skillet set to 350 degrees F (175 degrees C). Dip the chicken into the egg and milk, then dredge in the dry ingredients until evenly coated."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AalxQlIAcGzwyONFjXzAzCtho6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8349113-garlic-chicken-fried-chicken-Tacita-Lady_T-Beautiful-1x1-1-434fa1b59efc48db9a0a351322e3f45a.jpg"
+                }
+            ],
+            "text": "Fry chicken in the hot oil for about 5 minutes per side, or until the chicken is cooked through and juices run clear. Remove from the oil with a slotted spatula, and serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

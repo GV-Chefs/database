@@ -1,0 +1,108 @@
+{
+    "headline": "Hoppin\u2019 John",
+    "name": "Hoppin\u2019 John",
+    "description": "Hoppin' John is a hearty dish made by slowly simmering black-eyed peas with pork and vegetables, thought to bring luck and prosperity for the upcoming year. Our version has been simplified to use frozen black eyed peas.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "212 kcal",
+        "carbohydrateContent": "33 g",
+        "cholesterolContent": "9 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "515 mg",
+        "sugarContent": "4 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "6 slices bacon, chopped",
+        "1/2 cup chopped onion",
+        "1/2 cup chopped celery",
+        "1/2 cup chopped green bell pepper",
+        "3 cloves garlic, minced",
+        "1/2 teaspoon kosher salt",
+        "1/2 teaspoon ground black pepper",
+        "1/2 teaspoon dried thyme",
+        "1/4 teaspoon cayenne pepper",
+        "2 (12-ounce) packages frozen black-eyed peas",
+        "4 cups reduced-sodium chicken broth",
+        "2 cups cooked long grain rice",
+        "Chopped green onions"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UUvaeddbl7xS32BYCBV8a-nsEjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8415805-hoppin-john-ddmfs-4x3-step-01-2245-6d6a0c722d3946fc85fdc1185e4be3ac.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/fD4n8XcGebo_W1czn3FN8ISOjms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8415805-hoppin-john-ddmfs-4x3-step-02-2247-e0a72adfdc724276bf00ee392d604a1f.jpg"
+                }
+            ],
+            "text": "Cook bacon in a 6-quart Dutch oven over medium heat until crisp, about 5 minutes. Transfer bacon to a paper towel-lined plate to drain. Drain all but 1 tablespoon drippings from the Dutch oven."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WmnIq6vWQtVeNfPnwGBc1SfV-rU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8415805-hoppin-john-ddmfs-4x3-step-04-2252-caa7e23d83584da7ac1fcc71d2d0a827.jpg"
+                }
+            ],
+            "text": "Add onion, celery, green pepper, garlic, salt, black pepper, thyme, and cayenne pepper to the Dutch oven. Cook and stir until tender and starting to brown, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/e_0aba6MOHvx0HM35-ZKyLgfKBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8415805-hoppin-john-ddmfs-4x3-step-05-2288-2c243fbc5e9c49e3a47455c274552256.jpg"
+                }
+            ],
+            "text": "Add black-eyed peas and broth. Bring to a boil. Reduce heat, cover, and simmer until tender but not mushy, about 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7__OnkI8Ws_ulwGDT_4fRzSBZxg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8415805-hoppin-john-ddmfs-4x3-step-06-2289-904a8ee94bb64ec29df6728d47c56223.jpg"
+                }
+            ],
+            "text": "Drain; reserving cooking liquid."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/inbdrVW669FxIKYGwbqwCWOqklc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8415805-hoppin-john-ddmfs-4x3-step-08-2292-77aec379cedf45d2903d6f903e4383e8.jpg"
+                }
+            ],
+            "text": "Stir in rice, bacon, and enough reserved liquid to make a saucy consistency. Season to taste with additional salt, if needed. Garnish with green onions."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

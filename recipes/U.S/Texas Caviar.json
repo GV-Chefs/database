@@ -1,0 +1,58 @@
+{
+    "headline": "Texas Caviar",
+    "name": "Texas Caviar",
+    "description": "This Texas caviar with zesty Italian dressing is loaded with black-eyed peas, black beans, and veggies for a delicious dip served with tortilla chips.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT135M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "107 kcal",
+        "carbohydrateContent": "12 g",
+        "fiberContent": "4 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "415 mg",
+        "sugarContent": "1 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "1 pint cherry tomatoes, quartered",
+        "1 (15 ounce) can black-eyed peas, drained",
+        "1 (15 ounce) can black beans, drained",
+        "1 (8 ounce) bottle zesty Italian dressing",
+        "1 green bell pepper, chopped",
+        "0.5 onion, chopped",
+        "1 bunch green onions, chopped",
+        "2 jalapeno peppers, chopped",
+        "1 tablespoon minced garlic",
+        "0.5 teaspoon ground coriander",
+        "1 bunch chopped fresh cilantro, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix together tomatoes, black-eyed peas, black beans, Italian dressing, bell pepper, onion, green onions, jalape\u00f1o peppers, garlic, and coriander in a large bowl. Cover and chill salad in the refrigerator for about 2 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Ui8y602tKwPJFonw31VFkAYsgwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/669625-1497f7fdeb924813abb10abdb8798b1c.jpg"
+                }
+            ],
+            "text": "Toss salad with desired amount of cilantro to serve."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

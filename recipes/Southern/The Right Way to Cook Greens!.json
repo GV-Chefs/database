@@ -1,0 +1,47 @@
+{
+    "headline": "The Right Way to Cook Greens!",
+    "name": "The Right Way to Cook Greens!",
+    "description": "Learn how to cook greens using bacon drippings, salt, and a cast iron skillet to saut\u00e9 collards briefly or simmer with water for extra tenderness.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "217 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "14 mg",
+        "fiberContent": "10 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "84 mg",
+        "sugarContent": "1 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "0.25 cup bacon drippings",
+        "4 bunches collard greens, tough stems removed",
+        "salt to taste",
+        "3 cups water, or more as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat bacon drippings in a cast iron skillet over medium heat. Cook and stir greens in hot drippings until limp, tender, and significantly reduced in size, 1 to 4 minutes, depending on how tough the greens are. Season with salt and serve straight from the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "If you prefer extra-tender greens, add 3 cups water to greens in the skillet; season with salt. Bring to a boil and cook for 1 hour, adding more water as needed."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

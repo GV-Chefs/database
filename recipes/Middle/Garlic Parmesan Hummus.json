@@ -1,0 +1,61 @@
+{
+    "headline": "Garlic Parmesan Hummus",
+    "name": "Garlic Parmesan Hummus",
+    "description": "This garlic hummus is made with a whole head of roasted garlic and Parmesan cheese for a richer flavor and extra creaminess. Great for garlic lovers!",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "79 kcal",
+        "carbohydrateContent": "5 g",
+        "cholesterolContent": "1 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "139 mg",
+        "sugarContent": "1 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "1 head garlic, top third sliced off and discarded",
+        "1 teaspoon olive oil",
+        "salt and ground black pepper to taste",
+        "1 (15 ounce) can chickpeas (garbanzo beans), drained and rinsed",
+        "0.25 cup tahini",
+        "0.25 cup grated Parmesan cheese",
+        "3 tablespoons extra-virgin olive oil",
+        "2 tablespoons lemon juice",
+        "0.5 teaspoon freshly ground black pepper",
+        "0.25 teaspoon cumin",
+        "0.25 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place garlic head on a piece of aluminum foil. Drizzle olive oil over garlic and season with salt and pepper. Wrap foil around garlic to fully enclose and place on a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until roasted and tender, about 40 minutes. Remove garlic from aluminum foil; set aside until cool enough to handle, about 10 to 20 minutes. Remove garlic cloves from the peels."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine roasted garlic, chickpeas, tahini, Parmesan cheese, olive oil, lemon juice, 1/2 teaspoon black pepper, cumin, and salt in a food processor or blender until smooth."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

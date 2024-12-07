@@ -1,0 +1,74 @@
+{
+    "headline": "Rose Petal Pound Cake",
+    "name": "Rose Petal Pound Cake",
+    "description": "Two flavors are swirled together in this rich pound cake: an almond batter and a pink-tinted rosewater-scented batter. It's dusted with confectioners' sugar before serving.",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "359 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "118 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "236 mg",
+        "sugarContent": "29 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups all-purpose flour",
+        "0.5 teaspoon salt",
+        "1 cup butter, room temperature",
+        "1.6666667461395 cups white sugar",
+        "5 eggs, room temperature",
+        "1 teaspoon almond extract",
+        "3 tablespoons ground almonds",
+        "1 teaspoon rosewater",
+        "2 drops red food coloring",
+        "1 tablespoon confectioners' sugar, for dusting"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Grease one 9-inch tube pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift together flour and salt; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat butter in a mixing bowl until light and fluffy; it should be noticeably lighter in color. In a separate bowl, beat sugar and eggs together until doubled in volume. Mixture should be thick and lemon-colored."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add sifted flour and salt gradually to the egg mixture, mixing until fully combined. Fold in creamed butter and mix thoroughly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide batter into two equal parts. Into one part, add the almond extract and the ground almonds. To the other part, add the rosewater and the red food coloring. Spoon batters alternately into the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zvyQ7TxqVBx9ePxXVkT_DMvr69U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RosePetalPoundCake2-2d10a465db994658b76692d7880f75cc.jpg"
+                }
+            ],
+            "text": "Bake in preheated oven until a cake tester comes out clean, 50 to 60 minutes. Let cake cool for 15 minutes; then remove from pan to cool completely. Dust with confectioner's sugar before serving."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

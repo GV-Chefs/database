@@ -1,0 +1,43 @@
+{
+    "headline": "Simple Pesto Pasta",
+    "name": "Simple Pesto Pasta",
+    "description": "Simply noodles with a pesto and butter sauce.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "392 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "36 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "205 mg",
+        "sugarContent": "2 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeIngredient": [
+        "0.5 (16 ounce) box dry fettuccine pasta",
+        "0.25 cup butter, or to taste",
+        "3 tablespoons minced garlic",
+        "0.25 cup pesto"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a pot of lightly salted water to a rolling boil; cook the fettuccini at a boil until cooked through yet firm to the bite, about 8 minutes; drain. Transfer the fettuccini to a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt the butter in a saucepan over medium heat. Cook the garlic and pesto in the melted butter until warmed, 2 to 3 minutes; pour over the fettuccini and toss to coat."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

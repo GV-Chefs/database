@@ -1,0 +1,62 @@
+{
+    "headline": "Elk Steak Marinade",
+    "name": "Elk Steak Marinade",
+    "description": "This marinade recipe for elk steak is a savory blend of soy sauce, garlic, Worcestershire, and lemon juice, perfect for your next grilled dinner.",
+    "recipeCuisine": [
+        "Canadian"
+    ],
+    "totalTime": "PT255M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "259 kcal",
+        "carbohydrateContent": "3 g",
+        "cholesterolContent": "78 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "33 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "333 mg",
+        "sugarContent": "1 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons canola oil",
+        "2 tablespoons minced onion",
+        "1 tablespoon lemon juice",
+        "1 tablespoon Worcestershire sauce",
+        "1 tablespoon soy sauce",
+        "1 teaspoon garlic powder",
+        "0.5 teaspoon ground black pepper",
+        "1.5 pounds elk steak"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together canola oil, onion, lemon juice, Worcestershire sauce, soy sauce, garlic powder, and pepper in a small bowl until combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place elk steak in a large resealable plastic bag and pour in Worcestershire mixture. Coat steak with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 4 hours, turning occasionally."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the grill for medium heat and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain steak and discard marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook steaks on the preheated grill until they begin to firm up and are hot and slightly pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 140 degrees F (60 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

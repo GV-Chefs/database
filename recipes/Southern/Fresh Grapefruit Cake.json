@@ -1,0 +1,60 @@
+{
+    "headline": "Fresh Grapefruit Cake",
+    "name": "Fresh Grapefruit Cake",
+    "description": "When citrus is at its peak flavor in Florida, I pull out this grapefruit cake recipe. The tangy fruit adds a refreshing flavor to each bite.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "358 kcal",
+        "carbohydrateContent": "59 g",
+        "cholesterolContent": "59 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "263 mg",
+        "sugarContent": "30 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3 cups sifted cake flour",
+        "2.5 teaspoons baking powder",
+        "0.5 teaspoon salt",
+        "1.75 cups white sugar",
+        "0.66666668653488 cup butter, softened",
+        "2 large eggs",
+        "1.5 teaspoons vanilla extract",
+        "1 teaspoon grated grapefruit zest",
+        "0.75 cup milk",
+        "0.5 cup fresh grapefruit juice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two (9-inch) pans."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift together flour, baking powder and salt in a medium bowl. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cream together sugar and butter in a large bowl with an electric mixer until light and fluffy. Beat in eggs one at a time, mixing well after each addition. Stir in vanilla and grapefruit zest. Add flour mixture alternately with milk and grapefruit juice, beating briefly after each addition. Pour batter into the prepared pans."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center of the cakes comes out clean, 25 to 30 minutes. Let cool in the pans for 10 minutes, then turn out onto a wire rack to cool completely."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

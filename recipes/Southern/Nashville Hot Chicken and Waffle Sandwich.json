@@ -1,0 +1,103 @@
+{
+    "headline": "Nashville Hot Chicken and Waffle Sandwich",
+    "name": "Nashville Hot Chicken and Waffle Sandwich",
+    "description": "When you want to impress dinner guests in the most delicious way, try this Nashville fried hot chicken recipe--served on waffles!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT105M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "990 kcal",
+        "carbohydrateContent": "114 g",
+        "cholesterolContent": "143 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "38 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "2387 mg",
+        "sugarContent": "16 g",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "4 (5 ounce) boneless, skinless chicken thighs",
+        "2 cups buttermilk",
+        "2 tablespoons hot sauce",
+        "2 cups oil for frying, or as needed",
+        "1.5 cups all-purpose flour",
+        "2 tablespoons paprika, divided",
+        "2 teaspoons garlic powder, divided",
+        "2 teaspoons kosher salt, divided",
+        "1 teaspoon ground black pepper, divided",
+        "0.25 cup cayenne pepper",
+        "2 tablespoons brown sugar",
+        "2 tablespoons maple syrup",
+        "1 cup coleslaw",
+        "1.5 cups Belgian waffle mix (such as Krusteaz\u00ae)",
+        "0.66666668653488 cup water",
+        "1 large egg",
+        "3 tablespoons vegetable oil",
+        "cooking spray"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Begin preparing chicken: place chicken thighs in a medium bowl. Add buttermilk and hot sauce and stir to coat. Cover and refrigerate for at least 1 hour, or overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Prepare waffles: combine waffle mix, water, egg, and oil in a medium bowl; whisk until well combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 250 degrees F (120 degrees C). Preheat a mini waffle maker according to manufacturer's instructions."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spray waffle maker with cooking spray. Cook waffles one at a time until golden brown. Place cooked waffles on a baking sheet and place in the oven to keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Finish preparing chicken: heat 3 inches of oil to 350 degrees F (175 degrees C) in a deep cast iron skillet or Dutch oven."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While oil heats, combine flour, 2 teaspoons paprika, 1 teaspoon garlic powder, 1 teaspoon salt, and 1/2 teaspoon pepper in a shallow dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove chicken thighs from the buttermilk mixture one at a time and allow excess to drip off. Coat chicken lightly in flour mixture and shake off any excess. Repeat the process once more, dipping chicken back in the buttermilk mixture and flour mixture, and shaking off any excess. Place chicken on a wire rack set inside a rimmed baking sheet. Repeat to coat remaining chicken."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fry 2 chicken thighs at a time in the hot oil until an instant-read thermometer inserted into the center reads 170 degrees F (77 degrees F), turning 2 to 3 times, about 8 minutes per batch. Drain chicken on a clean wire rack set inside a paper towel-lined baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine remaining paprika, garlic powder, salt, and pepper with cayenne pepper and brown sugar in a medium bowl. Carefully whisk in 1 cup of the hot frying oil. Brush each fried chicken thigh with the spicy oil mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir maple syrup into the remaining spice mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oMPOahltjg3aaVRZZa97DMmIGFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8988769-nashville-hot-chicken-and-waffle-sandwich-AllrecipesPhoto-1x1-1-ad580bf0c862437a9940568792430ed0.jpg"
+                }
+            ],
+            "text": "Place 1 piece of chicken on a waffle and top with 1/4 cup coleslaw. Drizzle with 2 teaspoons of the spicy maple mixture and place a second waffle on top. Repeat with remaining ingredients and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

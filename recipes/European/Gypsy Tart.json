@@ -1,0 +1,48 @@
+{
+    "headline": "Gypsy Tart",
+    "name": "Gypsy Tart",
+    "description": "Dark muscovado sugar gives this simple tart a rich and complex flavor. A tart that defies its ingredients! One that's got to be tried. A dessert for any occasion - your guests will not be able to describe the taste, and will beg you for the recipe.",
+    "recipeCuisine": [
+        "European"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "338 kcal",
+        "carbohydrateContent": "61 g",
+        "cholesterolContent": "12 mg",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "170 mg",
+        "sugarContent": "51 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (12 ounce) can evaporated milk",
+        "1.5 cups dark muscovado sugar",
+        "1 (10 inch) prepared shortbread pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, beat the evaporated milk and sugar with a whisk or electric mixer for 10 to 15 minutes, or until fluffy and mocha colored. Pour into the shortbread crust."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 10 minutes in the preheated oven. The Gypsy Tart will have a sticky surface, and will not set completely until left to cool. Serve chilled."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

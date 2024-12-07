@@ -1,0 +1,109 @@
+{
+    "headline": "Hamburger Steak with Onions and Gravy",
+    "name": "Hamburger Steak with Onions and Gravy",
+    "description": "These tasty hamburger &#34;steaks&#34; are smothered in gravy and onions. It's a great way to dress up a pound of ground beef using easy ingredients.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "319 kcal",
+        "carbohydrateContent": "14 g",
+        "cholesterolContent": "115 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "597 mg",
+        "sugarContent": "3 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "0.25 cup bread crumbs",
+        "1 egg",
+        "1 teaspoon Worcestershire sauce",
+        "0.5 teaspoon seasoned salt",
+        "0.5 teaspoon onion powder",
+        "0.5 teaspoon garlic powder",
+        "0.125 teaspoon ground black pepper",
+        "1 tablespoon vegetable oil",
+        "1 cup thinly sliced onion",
+        "2 tablespoons all-purpose flour",
+        "1 cup beef broth",
+        "1 tablespoon cooking sherry",
+        "0.5 teaspoon seasoned salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/y1bQ05Sl0oTROGfZTETngY8g2g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/78370-hamburger-steak-with-onions-with-gravy-step1-4x3-0135064414802121-d75ca0fcf572423d9c52eaf966d94c49.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RfHiEXCI0v96l72I-fOTGVgFDco=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/78370-hamburger-steak-with-onions-with-gravy-step3-4x3-0135064414802129-f9df52289861488199cad995d1b31ba8.jpg"
+                }
+            ],
+            "text": "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined. Form into 8 balls and flatten into patties."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qS4KHqNreMOuNWs1rGca1rlpNIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/78370-hamburger-steak-with-onions-with-gravy-step4-4x3-0135064414802136-93277c7ebb424363b9436ee66e1a2499.jpg"
+                }
+            ],
+            "text": "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iQ14RJCO9SNyPpmDnwuo6CwsTFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/78370-hamburger-steak-with-onions-with-gravy-step6-4x3-0135064414802155-2edfa52354864a138c987d3f6bd8c549.jpg"
+                }
+            ],
+            "text": "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8RB89PI3aHUCPlWaRtob8R1k8TU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/78370-hamburger-steak-with-onions-with-gravy-step7-4x3-0135064414802157-06e31e2fc6f74ee28f659091bcba635f.jpg"
+                }
+            ],
+            "text": "Reduce heat to low, return patties to the gravy, cover, and simmer until cooked through, about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oT9qspfX32urYTBsZSDp7dC7ThQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/78370-hamburger-steak-with-onions-with-gravy-beauty-3x4-0135064414802173-1-302529d36e724191ae64837e09c45266.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

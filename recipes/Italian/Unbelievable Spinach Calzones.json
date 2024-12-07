@@ -1,0 +1,58 @@
+{
+    "headline": "Unbelievable Spinach Calzones",
+    "name": "Unbelievable Spinach Calzones",
+    "description": "Delicious, satisfying, and very easy to make. My kids will even eat spinach this way! We serve them with warmed spaghetti sauce to dip them in and a salad. Yum!",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "584 kcal",
+        "carbohydrateContent": "61 g",
+        "cholesterolContent": "101 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "36 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "1200 mg",
+        "sugarContent": "6 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT60M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) container ricotta cheese",
+        "2 eggs",
+        "2 tablespoons dried Italian seasoning",
+        "3 cups shredded mozzarella cheese",
+        "1 cup freshly grated Parmesan cheese",
+        "1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry",
+        "salt and pepper to taste",
+        "1 (32 ounce) package frozen white bread dough, thawed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, mix together the ricotta cheese, eggs, Italian seasoning, mozzarella cheese, Parmesan cheese and spinach. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide the bread dough into 8 pieces and roll each piece out to about an 8 inch circle. Spoon about 1/2 cup of the ricotta filling onto each circle, fold over and seal the edges. Place onto a greased cookie sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 30 minutes in the preheated oven, or until nicely browned on the tops and bottoms."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

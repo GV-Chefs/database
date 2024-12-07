@@ -1,0 +1,66 @@
+{
+    "headline": "Fish Chowder",
+    "name": "Fish Chowder",
+    "description": "This fish chowder recipe makes a rich and comforting soup with fresh cod, clam juice, potatoes, and crispy bacon in a delicious creamy broth.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "386 kcal",
+        "carbohydrateContent": "34 g",
+        "cholesterolContent": "84 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "748 mg",
+        "sugarContent": "12 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "2 cups chopped onion",
+        "4 fresh mushrooms, sliced",
+        "1 stalk celery, chopped",
+        "4 cups chicken stock",
+        "4 cups diced potatoes",
+        "2 pounds cod, diced into 1/2 inch cubes",
+        "1 cup clam juice",
+        "0.5 cup all-purpose flour",
+        "0.125 teaspoon Old Bay Seasoning TM, or to taste",
+        "salt and ground black pepper to taste",
+        "2 (12 fluid ounce) cans evaporated milk",
+        "0.25 cup cooked crumbled bacon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large stockpot over medium heat. Saut\u00e9 onions, mushrooms, and celery in butter until tender. Add chicken stock and potatoes; simmer for 10 minutes. Add fish; simmer for another 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix together clam juice and flour in a small bowl until smooth; stir into soup and simmer for 1 minute. Season with Old Bay, salt, and pepper. Remove from heat and stir in evaporated milk."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/bM3uNErvTDsg43XvFDhYU1K6CwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8960649-fish-chowder-Bobby-Bats-1x1-1-3e0caa8995a44d67852fcdb532bf101c.jpg"
+                }
+            ],
+            "text": "Portion into soup bowls and top with crumbled bacon."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

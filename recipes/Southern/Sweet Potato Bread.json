@@ -1,0 +1,57 @@
+{
+    "headline": "Sweet Potato Bread",
+    "name": "Sweet Potato Bread",
+    "description": "This sweet potato bread with pecans is lightly spiced with cinnamon and nutmeg for a moist, flavorful loaf that will remind you of pumpkin bread.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "303 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "31 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "171 mg",
+        "sugarContent": "26 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1.5 cups white sugar",
+        "0.5 cup vegetable oil",
+        "2 large eggs",
+        "1.75 cups sifted all-purpose flour",
+        "1 teaspoon baking soda",
+        "0.5 teaspoon ground cinnamon",
+        "0.5 teaspoon ground nutmeg",
+        "0.25 teaspoon salt",
+        "0.33333331346512 cup water",
+        "1 cup cooked and mashed sweet potatoes",
+        "0.5 cup chopped pecans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine sugar and oil in a large bowl; beat well. Add eggs and beat until well combined. Combine flour, baking soda, cinnamon, nutmeg, and salt in a separate bowl. Stir flour mixture into egg mixture alternately with water. Stir in sweet potatoes and chopped nuts. Pour batter into the prepared loaf pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

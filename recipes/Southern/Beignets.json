@@ -1,0 +1,108 @@
+{
+    "headline": "Beignets",
+    "name": "Beignets",
+    "description": "Beignets are donut-like deep-fried square pastries. Try this New Orleans\u2013style recipe for these famous fritters that are surprisingly easy to make!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT180M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "543 kcal",
+        "carbohydrateContent": "83 g",
+        "cholesterolContent": "45 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "12 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "277 mg",
+        "sugarContent": "16 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1 (.25 ounce) package active dry yeast",
+        "1.5 cups warm water (110 degrees F/45 degrees C)",
+        "1 cup evaporated milk",
+        "0.5 cup white sugar",
+        "2 eggs",
+        "1 teaspoon salt",
+        "7 cups all-purpose flour, divided",
+        "0.25 cup shortening",
+        "1 quart vegetable oil for frying",
+        "0.25 cup confectioners' sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zVihS63oYJi2jOE2d3b_3pfmvGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-ddmfs-0357-3x4-ingredients-fd3d41625d9745179c794678b787beaa.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nY5Zu3IEexwfit-v_eWis6c955w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-ddmfs-0359-3x4-step-01-3c8afc88a65345d08b4c7b8f7040b3eb.jpg"
+                }
+            ],
+            "text": "Dissolve yeast in warm water. Pour into a large bowl and stir in evaporated milk, white sugar, eggs, and salt. Add 4 cups flour and beat until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dZqVN9MzmRoRokZbYlChFWIcQII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-ddmfs-0360-3x4-step-02-2042888942884aee9c55e2f85f3634b3.jpg"
+                }
+            ],
+            "text": "Mix in shortening. Mix in remaining 3 cups flour. Cover and refrigerate for at least 2 hours, or up to 24 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qcpjjfYvyM5pVZOtQk69rsR6taw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-ddmfs-0457-3x4-step-03-87d5dd4ce0624e1d8bbcb106aa51b5f4.jpg"
+                }
+            ],
+            "text": "Roll dough out on floured surface to 1/8-inch thick. Cut into 2 1/2-inch squares."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep pot to 360 degrees F (180 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/D5PZLgE2DPw9zszmdavYxcHuXBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-ddmfs-0464-3x4-step-04-2f48a440a0834353b1e8141349817d4c.jpg"
+                }
+            ],
+            "text": "Fry beignets in batches until browned and puffed. (If beignets sink and do not pop up, oil is not hot enough.) Remove from oil with a slotted spoon and drain on paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aGZsHJTzaGELoXwJNZJRf1ppchM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7179-beignets-ddmfs-0556-3x4-hero-66ad2c0c816e45ebbc92c6bd79cb704f.jpg"
+                }
+            ],
+            "text": "Shake confectioners' sugar over hot beignets. Serve immediately. Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

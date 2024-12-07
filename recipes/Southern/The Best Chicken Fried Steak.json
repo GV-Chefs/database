@@ -1,0 +1,128 @@
+{
+    "headline": "The Best Chicken Fried Steak",
+    "name": "The Best Chicken Fried Steak",
+    "description": "This chicken fried steak recipe is a Southern favorite! Featuring crispy, breaded cube steaks drenched in a creamy gravy, it will be a sure hit with everyone at your table.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "832 kcal",
+        "carbohydrateContent": "71 g",
+        "cholesterolContent": "206 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "68 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "1273 mg",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 (1/2 pound) beef cube steaks",
+        "2.25 cups all-purpose flour, divided",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon black pepper",
+        "0.75 teaspoon salt",
+        "1.5 cups buttermilk",
+        "1 tablespoon hot pepper sauce (e.g. Tabasco\u2122)",
+        "1 large egg",
+        "2 cloves garlic, minced",
+        "3 cups vegetable shortening for frying",
+        "4 cups milk",
+        "kosher salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/3B_jFZJ3oX6P7EQYsCAqf4vumao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150306-TheBestFriedChickenSteak-mfs-Step-1-a2f89ebc30dc40998030a91d258097bc.jpg"
+                }
+            ],
+            "text": "Place steaks between 2 layers of plastic and pound to a thickness of 1/4 inch."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place 2 cups flour in a shallow bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-1Wrwz8O4v_oYAvBUWBW-JywuCg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150306-TheBestFriedChickenSteak-mfs-Step-3-d956d219fce44969b66b0fe6a6201db6.jpg"
+                }
+            ],
+            "text": "Stir together baking powder, baking soda 1 teaspoon pepper, and 3/4 teaspoon salt in second shallow bowl. Add buttermilk, Tabasco sauce, egg, and garlic; stir to combine."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat shortening in a deep cast-iron skillet to 325 degrees F (165 degrees C). Place a wire rack over a sheet of parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vcIwNAluO0TAEMNnldyB5_znDhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150306-TheBestFriedChickenSteak-mfs-Step-5-60f1d88ce199441fa5c6437a7084d994.jpg"
+                }
+            ],
+            "text": "While the shortening is heating, dredge a steak in flour to coat; shake off excess. Dip into buttermilk batter; lift up so excess batter drips back into the bowl. Press in flour again to coat both sides completely. Place breaded steak on the wire rack and repeat to bread remaining steaks."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qPoCgwj2sJzzPGRe-bx7VtXxM94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150306-TheBestFriedChickenSteak-mfs-Step-6-67306150066646aa893e73331eadcf8d.jpg"
+                }
+            ],
+            "text": "Fry steaks, in batches if necessary, until evenly golden brown, 3 to 5 minutes per side. Remove steaks to a paper towel-lined plate to drain. Cover with foil to keep warm while you make the gravy."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain fat from the skillet, reserving 1/4 cup of the liquid and as much of the solid remnants as possible."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-zKMFmDDymk_f0Sbtd-3wLYN6VI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150306-TheBestFriedChickenSteak-mfs-Step-7-4e6a1c2e54fa489388c799025dc31de7.jpg"
+                }
+            ],
+            "text": "Return the skillet to medium-low heat; add the reserved oil. Whisk the remaining 1/4 cup flour into the oil. Scrape the bottom of the pan with a spatula to release solids into the gravy."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/l8es_pNGWkZnjqZWRhdsnIaVcP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150306-TheBestFriedChickenSteak-mfs-Step-8-ca6d96d844b24fbe838358ab21f8f4f1.jpg"
+                }
+            ],
+            "text": "Stir in milk, increase the heat to medium, and bring the gravy to a simmer. Cook, stirring often, until thick, 6 to 7 minutes. Season with kosher salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/3hN7uCQpPhYlm-K1QlxPB-Z5ato=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150306-the-best-chicken-fried-steak-DDMFS-4x3-22a44d8658c24fd6880232cc2cbf9c65.jpg"
+                }
+            ],
+            "text": "Transfer steaks to a platter and pour gravy over top."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

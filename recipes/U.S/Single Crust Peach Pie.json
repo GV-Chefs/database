@@ -1,0 +1,47 @@
+{
+    "headline": "Single Crust Peach Pie",
+    "name": "Single Crust Peach Pie",
+    "description": "Lovely, juicy peach slices are heaped over a nutmeg-butter crumble in a pastry shell, and topped with more crumble. Then it 's baked for an hour until the peaches are tender, glistening and scrumptious. Serve this pie with scoops of peach ice cream.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "250 kcal",
+        "carbohydrateContent": "38 g",
+        "cholesterolContent": "8 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "140 mg",
+        "sugarContent": "23 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.75 cup white sugar",
+        "2 tablespoons butter, softened",
+        "0.33333334326744 cup all-purpose flour",
+        "0.25 teaspoon ground nutmeg",
+        "6 fresh peaches - pitted, skinned, and sliced",
+        "1 recipe pastry for a 9 inch single crust pie"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cream sugar and butter or margarine together. Add flour and nutmeg; mix until mealy. Spread 1/2 of mixture in pie crust. Arrange peaches on top of crumb mixture. Sprinkle remaining crumb mixture on top of peaches."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake at 450 degrees F (230 degrees C) for ten minutes. Reduce heat to 350 degrees F (175 degrees C). Continue baking for 40 minutes, or until brown."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

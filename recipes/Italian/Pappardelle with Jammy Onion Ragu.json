@@ -1,0 +1,70 @@
+{
+    "headline": "Pappardelle with Jammy Onion Ragu",
+    "name": "Pappardelle with Jammy Onion Ragu",
+    "description": "Tuscan pappardelle is a wide, egg-enriched wheat pasta usually served under a blanket of thick, rich sauce (like this caramelized onion rag\u00f9).",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "530 kcal",
+        "carbohydrateContent": "78 g",
+        "cholesterolContent": "94 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "476 mg",
+        "sugarContent": "16 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "7 Tablespoon butter",
+        "2 1/2 pounds yellow onions, halved lengthwise and thinly sliced (about 8 cups)",
+        "3/4 teaspoon salt",
+        "4 cloves garlic, minced",
+        "3 Tablespoons tomato paste",
+        "1/3 cup dry white wine",
+        "3 cups low-sodium chicken broth or vegetable broth",
+        "2 bay leaves",
+        "1 teaspoon chopped fresh thyme, plus more for garnish",
+        "1/4 teaspoons crushed red pepper",
+        "1/8 teaspoon ground cloves",
+        "2 Tablespoons finely chopped oil-packed sun-dried tomatoes",
+        "2 teaspoons balsamic vinegar",
+        "1/4 teaspoon black pepper",
+        "16 ounces dried pappardelle or tagliatelle pasta",
+        "Shaved Parmesan cheese, for serving"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt 5 tablespoons butter in a very large, deep, heavy-bottomed skillet or an 8-quart Dutch oven over medium heat. Add onions and 1/4 teaspoon salt. Toss to coat in butter. Cook, covered, stirring occasionally, until onions are tender, about 15 minutes. Increase heat to high. Cook, stirring constantly, until onions start to brown, 3 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat to medium and add garlic; cook, stirring, until fragrant, about 1 minute. Add tomato paste. Cook, stirring constantly, until mixture begins to darken, 1 to 2 minutes.\u00a0Add wine to skillet, then use a wooden spoon or spatula to scrape up any browned bits from bottom of pot. Simmer for 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add broth, bay leaves, thyme, crushed red pepper, and cloves. Bring to a boil. Reduce heat to low; simmer, stirring occasionally, until liquid is reduced and onions are jammy, with just a bit of liquid at the edges of skillet, about 25 minutes.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While sauce simmers, cook pasta according to package directions. Drain, reserving 1/2 cup cooking water. Remove sauce from heat.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove\u00a0 and discard bay leaves. Stir in sun-dried tomatoes, vinegar, black pepper, and remaining 2 tabelspoons butter and 1/2 teaspoon salt. Stir cooked pasta into warm sauce, adding reserved pasta cooking water a little at a time until sauce is desired thickness. Serve with Parmesan cheese and garnish with thyme."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

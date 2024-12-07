@@ -1,0 +1,72 @@
+{
+    "headline": "Creamy Cajun Shrimp and Sausage Pasta",
+    "name": "Creamy Cajun Shrimp and Sausage Pasta",
+    "description": "This creamy Cajun shrimp and sausage pasta dish was inspired by the flavors of gumbo. Serve with crusty bread and a simple green salad.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "408 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "114 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1095 mg",
+        "sugarContent": "4 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1/4 cup unsalted butter",
+        "1/4 cup all-purpose flour",
+        "1 medium onion, chopped",
+        "1 cup chopped celery",
+        "2/3 cup chopped red bell pepper",
+        "2/3 cup chopped green bell pepper",
+        "2 cloves garlic, minced",
+        "2 teaspoons Cajun seasoning",
+        "1/2 cup chicken broth",
+        "1/2 pound thinly-sliced, fully-cooked smoked sausage",
+        "1/4 teaspoon crushed red pepper flakes",
+        "1/2 teaspoon ground black pepper",
+        "Salt, to taste, see Note",
+        "1/2 pound raw shrimp, peeled, deveined, see Note",
+        "1/2 cup cream",
+        "12 ounces spaghetti, cooked",
+        "Fresh parsley for optional garnish",
+        "Lemon slices for optional garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large, heavy saucepan over medium heat until foamy, about 2 minutes. Stir in flour to foamy butter, whisking quickly to make sure there are no lumps. Continue stirring until roux turns a dark, reddish brown, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in onion, celery, bell peppers, and garlic. Cook and stir until the vegetables have begun to be tender, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in Cajun seasoning and chicken broth and bring to a boil. Add sliced smoked sausage and season with red pepper flakes, black pepper, and salt to taste. Cover, reduce heat to low, and simmer about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove cover, increase heat to medium high, and return to a boil. Add shrimp and cream, and cookuntil shrimp turn pink and are curled into a C-shape, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve warm over cooked spaghetti. Garnish with fresh parsley and lemon slices, if desired."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

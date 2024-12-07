@@ -1,0 +1,62 @@
+{
+    "headline": "Lemon Caper Pasta",
+    "name": "Lemon Caper Pasta",
+    "description": "This zesty lemon caper pasta makes a beautiful side dish and pairs beautifully with poultry or white fish to make a simple yet elegant meal.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "219 kcal",
+        "carbohydrateContent": "27 g",
+        "cholesterolContent": "25 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "233 mg",
+        "sugarContent": "1 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "1 pound rotini pasta",
+        "5 tablespoon Unsalted Butter",
+        "2 cloves of garlic, minced",
+        "1 tablespoon all-purpose flour",
+        "1 tsp chicken soup base such as better than bouillon",
+        "1/2 cup reserved pasta water",
+        "1 lemon, juiced",
+        "2 tablespoon finely diced Fresh Parsley",
+        "3 tablespoon capers",
+        "Salt and freshly ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Reserve 1/2 cup pasta water. Drain pasta and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt 1 tablespoon butter in a skillet over medium heat. Add garlic; fry until fragrant, about 1 minute. Add remaining butter and melt, then sprinkle in flour. Whisk to combine; cook for about 1\u00a0 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk chicken soup base into reserved pasta water; pour into skillet. Whisk to make a smooth sauce. Whisk in lemon juice, 1 tablespoon at a time, to taste. Stir in parsley and capers. Season with salt and pepper. Allow to simmer until sauce thickens, about 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Toss sauce with drained pasta."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

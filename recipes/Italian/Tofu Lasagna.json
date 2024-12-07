@@ -1,0 +1,65 @@
+{
+    "headline": "Tofu Lasagna",
+    "name": "Tofu Lasagna",
+    "description": "Tofu is combined with eggs, spaghetti sauce, mozzarella cheese and spices. The mixture is layered with lasagna noodles and topped with more cheese.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "324 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "81 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "569 mg",
+        "sugarContent": "5 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 (12 ounce) package uncooked lasagna noodles",
+        "1 (12 ounce) package firm tofu, crumbled",
+        "2 eggs",
+        "0.25 teaspoon salt",
+        "0.25 teaspoon black pepper",
+        "0.25 teaspoon ground nutmeg",
+        "2 tablespoons milk",
+        "1 cup spaghetti sauce",
+        "1 tablespoon dried parsley",
+        "2 cups shredded mozzarella cheese, divided",
+        "0.5 cup grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add lasagna and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl combine tofu, eggs, salt, pepper, nutmeg, milk, spaghetti sauce, parsley and 1 cup of mozzarella cheese. Spread a layer in the bottom of a 9x13 inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Layer lasagna noodles with the sauce mixture, ending with sauce. Sprinkle with remaining mozzarella and Parmesan cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven for 25 to 35 minutes."
+        }
+    ],
+    "recipeYield": [
+        "7"
+    ]
+}

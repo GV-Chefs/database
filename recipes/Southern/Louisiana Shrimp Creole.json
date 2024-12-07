@@ -1,0 +1,90 @@
+{
+    "headline": "Louisiana Shrimp Creole",
+    "name": "Louisiana Shrimp Creole",
+    "description": "In this tasty shrimp Creole recipe, shrimp are simmered in a tomato and green bell pepper sauce. Add as much chili and hot sauce as you can handle!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "253 kcal",
+        "carbohydrateContent": "21 g",
+        "cholesterolContent": "210 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "2054 mg",
+        "sugarContent": "9 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons butter",
+        "0.5 cup finely diced onion",
+        "0.5 cup chopped green bell pepper",
+        "0.5 cup chopped celery",
+        "2 cloves garlic, minced",
+        "2 tablespoons cornstarch",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "1 (8 ounce) can tomato sauce",
+        "1 cup water",
+        "1 tablespoon Worcestershire sauce",
+        "2 teaspoons Cajun seasoning",
+        "1 teaspoon chili powder",
+        "1 dash hot pepper sauce",
+        "1 pound medium shrimp - peeled and deveined",
+        "1 tablespoon lemon juice",
+        "2 teaspoons chopped fresh thyme"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/h6xGxGfak7sX42A_3tFTVkKwZiQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12776-Louisiana-Shrimp-Creole-II-ddmfs-step-1-085-4x3-d51748c48c094015983610ae787b2430.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cQ1Utf0AJE2ELg-IsKgaeWhK3_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12776-Louisiana-Shrimp-Creole-II-ddmfs-step-2-089-4x3-c3276bbaa2594626bbfae823b7cb4ae5.jpg"
+                }
+            ],
+            "text": "Melt butter in a 2-quart saucepan over medium heat; stir in onion, green pepper, celery, and garlic. Cook and stir until onion has softened and bell pepper is tender, about 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/CReuh2Mx5SqpgAi5nOuj1aI9Z6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12776-Louisiana-Shrimp-Creole-II-ddmfs-step-3-092-4x3-c920767628fb4e8daf01080cfa9df2b1.jpg"
+                }
+            ],
+            "text": "Mix in cornstarch. Stir in stewed tomatoes, tomato sauce, water, Worcestershire sauce, chili powder, Cajun seasoning, and hot pepper sauce. Bring to a boil, stirring frequently."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qwF_ZFcJ7rswa-Ost1ZW7Dvv_n4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6651-Louisiana-Shrimp-Creole-II-ddmfs-4x3-114-b15ac8c027114d7da814b6706db80778.jpg"
+                }
+            ],
+            "text": "Stir in shrimp, lemon juice, and fresh thyme; cook until shrimp are bright pink on the outside and the meat is opaque, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

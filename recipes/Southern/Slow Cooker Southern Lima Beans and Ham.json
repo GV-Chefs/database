@@ -1,0 +1,52 @@
+{
+    "headline": "Slow Cooker Southern Lima Beans and Ham",
+    "name": "Slow Cooker Southern Lima Beans and Ham",
+    "description": "Dry baby lima beans soak overnight before simmering for hours in the slow cooker with a ham bone and Cajun seasoning. Serve this budget-friendly dish with Mexican corn bread and a side salad for a complete meal.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT915M",
+    "cookTime": "PT420M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "133 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "9 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "346 mg",
+        "sugarContent": "4 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound dried baby lima beans",
+        "2 quarts water",
+        "2 onions, coarsely chopped",
+        "1 meaty ham bone",
+        "1 cup leftover ham meat from bone, chopped",
+        "3 cups water, or as needed to cover",
+        "1 teaspoon Cajun seasoning",
+        "0.25 teaspoon freshly ground black pepper",
+        "0.25 teaspoon garlic salt, or to taste",
+        "1 pinch cayenne pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Soak lima beans in 2 quarts of water in a large bowl for 8 hours or overnight. The next day, drain the lima beans and place into a slow cooker with onions, ham bone, and ham. Pour in 3 cups of water or as needed to cover. Place lid on the cooker, set to High, and cook for 3 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in Cajun seasoning, black pepper, garlic salt, and cayenne pepper; set cooker to Low and cook until the beans and meat are very tender, about 4 more hours."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

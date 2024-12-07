@@ -1,0 +1,70 @@
+{
+    "headline": "Curried Pork Chops and Cauliflower with Basmati Rice",
+    "name": "Curried Pork Chops and Cauliflower with Basmati Rice",
+    "description": "This curried pork chops and cauliflower with basmati rice recipe features pork chops and tender cauliflower flavored with curry and apple chutney.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "463 kcal",
+        "carbohydrateContent": "76 g",
+        "cholesterolContent": "37 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "98 mg",
+        "sugarContent": "10 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 cups water",
+        "1.5 cups uncooked basmati rice",
+        "4 cups cauliflower florets",
+        "4 (4 ounce) pork chops, trimmed",
+        "4 teaspoons curry powder, divided",
+        "salt and ground black pepper to taste",
+        "1 teaspoon olive oil",
+        "2 teaspoons all-purpose flour",
+        "0.5 cup low-sodium chicken broth",
+        "0.5 cup buttermilk",
+        "0.25 cup apple chutney",
+        "6 green onions, chopped, divided"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring 3 cups water and rice to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add cauliflower, cover, and steam until just tender, 4 to 5 minutes depending on thickness. Transfer cauliflower to a bowl; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season pork chops with 1 1/2 teaspoons curry powder, salt, and black pepper. Heat olive oil in a large skillet over medium-high heat. Add pork chops; cook until no longer pink in the center, about 3 minutes per side. Transfer pork chops to a platter; cover to keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sprinkle remaining 2 1/2 teaspoons curry powder and flour into the skillet. Whisk in chicken broth, buttermilk, and apple chutney; cook until sauce has thickened."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in cauliflower and 1/2 green onions; cook until heated through."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place 3/4 cup cooked rice on each plate; top each with 1 pork chop. Spoon curry-cauliflower sauce over pork chops; sprinkle remaining 1/2 green onions."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

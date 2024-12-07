@@ -1,0 +1,119 @@
+{
+    "headline": "Bacon Gravy for Biscuits",
+    "name": "Bacon Gravy for Biscuits",
+    "description": "This bacon gravy recipe is quick and easy to make. Nothing makes biscuits better than being smothered in a Southern-style bacon gravy. Delightful!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "282 kcal",
+        "carbohydrateContent": "31 g",
+        "cholesterolContent": "16 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "842 mg",
+        "sugarContent": "6 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1 (10 ounce) can refrigerated biscuit dough",
+        "4 thick slices bacon",
+        "0.25 cup all-purpose flour",
+        "1 cup milk, or as needed",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/I_f7dYdYOHk5RiR0RkRD3j-486Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-1a-60fe90d91a37417eb7bef36621e30023.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yUctIYsyWXOMwGKCMOphdAarHBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-1-e547c075c2b24750af33c19a10aef667.jpg"
+                }
+            ],
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Place biscuits in an ungreased baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Sk3kSpja8RH-1M8nZhYL0BRennA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-2-bbc4db2e327f4f48ba51185991ef1da4.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until golden brown, 10 to 13 minutes or as directed on the package instructions."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dT2yoHGHjgPlzvtb-KE4Ps2pkA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-3-7655ec9b4f8f4dc88dcceb18a8ce1530.jpg"
+                }
+            ],
+            "text": "While the biscuits are baking, cook bacon in a deep skillet over medium heat until crisp, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TT88nCtzP8FJYN9wlwIcao7rOhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-4-bc97d38919df469e873b50d0ffdf8ca3.jpg"
+                }
+            ],
+            "text": "Transfer bacon to a paper towel-lined plate, reserving bacon grease in the skillet. Whisk flour into bacon grease until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Bc8SPekxiWJSB1lTdyUXKncqSjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-5-a97fee8916284e3da9aa39c22b84a2e8.jpg"
+                }
+            ],
+            "text": "Add milk and continue to stir over medium heat until thickened."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/B1JyIora-oRdThsLHufMUHmE7Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-6-ae28ee8380d84864be6373ffca884f8c.jpg"
+                }
+            ],
+            "text": "Crumble bacon into gravy and season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ofxejteSnMVCFplr8DShp9M1lNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-161819-Bacon-Gravy-Biscuits-Step-7-3d4ae8c351c94065b710e35462a46c69.jpg"
+                }
+            ],
+            "text": "Split biscuits in half and top with gravy."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

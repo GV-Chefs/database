@@ -1,0 +1,88 @@
+{
+    "headline": "Chef John's Swedish Meatballs",
+    "name": "Chef John's Swedish Meatballs",
+    "description": "These Swedish meatballs from Chef John's feature oven-baked balls of seasoned ground beef and pork, served in a luscious and savory pan gravy.",
+    "recipeCuisine": [
+        "Swedish"
+    ],
+    "totalTime": "PT135M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "479 kcal",
+        "carbohydrateContent": "10 g",
+        "cholesterolContent": "194 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "28 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "1206 mg",
+        "sugarContent": "2 g",
+        "fatContent": "36 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "0.5 yellow onion, finely chopped",
+        "1.5 teaspoons fine salt",
+        "2 large eggs",
+        "0.33333334326744 cup plain bread crumbs",
+        "0.25 cup milk",
+        "0.75 teaspoon freshly ground black pepper",
+        "0.25 teaspoon ground nutmeg",
+        "0.25 teaspoon ground allspice",
+        "1 pinch cayenne pepper, or to taste",
+        "1 pound ground beef chuck",
+        "1 pound ground pork",
+        "2 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "3.25 cups beef broth",
+        "0.5 cup heavy cream",
+        "0.5 teaspoon white sugar",
+        "0.25 teaspoon Worcestershire sauce",
+        "salt and freshly ground black pepper to taste",
+        "cooking spray"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Make meatballs: Melt butter in a large skillet over medium heat. Cook and stir onion and salt in hot butter until onion turns translucent, about 6 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer onion mixture to a large bowl. Stir in eggs, bread crumbs, milk, black pepper, nutmeg, allspice, and cayenne. Mix in ground beef and pork until well combined. Cover the bowl with plastic wrap and refrigerate for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make gravy: Melt butter in a large skillet over medium heat; whisk in flour and cook until golden brown, 4 to 5 minutes. Slowly whisk in beef broth. Increase heat to medium-high, whisk in cream, and bring to a simmer. Stir in sugar and Worcestershire. Simmer until slightly thickened, 6 to 7 minutes. Season with salt and black pepper. Remove from heat and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil and lightly coat with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll 2 to 3 tablespoons meatball mixture into a ball using wet hands; repeat with remaining meatball mixture. Place meatballs on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until browned and cooked through, about 20 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/svbjez1nemSypY5D7_sMPPe3Wro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/967989-70da5faf504142a4a559104609797253.jpg"
+                }
+            ],
+            "text": "Transfer meatballs to gravy and cook over medium-low heat until warmed through, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

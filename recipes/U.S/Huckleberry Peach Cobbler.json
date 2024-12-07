@@ -1,0 +1,64 @@
+{
+    "headline": "Huckleberry Peach Cobbler",
+    "name": "Huckleberry Peach Cobbler",
+    "description": "This cobbler combines huckleberries and peaches. Blueberries can be substituted if huckleberries aren't available. It's great served warm with vanilla ice cream.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "385 kcal",
+        "carbohydrateContent": "66 g",
+        "cholesterolContent": "32 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "314 mg",
+        "sugarContent": "41 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups huckleberries",
+        "3 cups sliced peaches",
+        "0.25 cup cornstarch",
+        "0.66666668653488 cup white sugar",
+        "2 tablespoons butter",
+        "1 cup all-purpose flour",
+        "2 teaspoons baking powder",
+        "0.25 cup white sugar",
+        "0.25 teaspoon salt",
+        "0.25 cup rolled oats",
+        "1 teaspoon grated lemon zest",
+        "0.25 teaspoon ground cinnamon",
+        "0.25 cup butter",
+        "0.5 cup milk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "If you're using frozen fruit, thaw and drain it before proceeding. Combine fruit in an ungreased 2-quart casserole dish. Mix the cornstarch and 2/3 cup sugar, and toss with fruit mixture. Dot with 2 tablespoons butter and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift the flour, baking powder, sugar, and salt into a bowl. Stir in the oats, lemon zest, and cinnamon. Cut in 1/4 cup butter until it's the size of small peas. Stir in milk to form a stiff batter. Spoon dollops of cobbler batter over the fruit in the casserole dish; the batter may not entirely cover the fruit."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the fruit is bubbling and the topping is golden brown, about 30 minutes. Allow to cool about 15 minutes. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "headline": "Fresh Fruit Cobbler",
+    "name": "Fresh Fruit Cobbler",
+    "description": "This fresh fruit cobbler recipe features fresh peaches, pears, plums, and cherries piled into a large casserole dish and covered with a sweet batter.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "272 kcal",
+        "carbohydrateContent": "54 g",
+        "cholesterolContent": "42 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "320 mg",
+        "sugarContent": "35 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup sliced fresh peaches",
+        "0.75 cup peeled, cored and sliced apple",
+        "0.75 cup peeled, cored and sliced pear",
+        "0.5 cup blueberries",
+        "0.5 cup pitted and sliced cherries",
+        "0.5 cup pitted and sliced plums",
+        "0.75 cup white sugar",
+        "0.25 cup milk",
+        "1 egg",
+        "1 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon vanilla extract",
+        "2 tablespoons butter, melted"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange peaches, apple, pear, blueberries, cherries, and plums in the prepared baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk sugar, milk, and egg together in a medium bowl. Sift flour, baking powder, and salt together into a separate bowl. Stir dry ingredients into wet ingredients, then stir in melted butter and vanilla. Pour batter over fruit in the baking dish to cover."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until bubbly and lightly browned on top, about 30 minutes. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

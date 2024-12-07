@@ -1,0 +1,80 @@
+{
+    "headline": "Super Easy Hummus",
+    "name": "Super Easy Hummus",
+    "description": "This easy hummus recipe simply combines chickpeas, garlic, cumin, salt, olive oil, and lemon juice to make a delicious homemade dip for pita chips.",
+    "recipeCuisine": [
+        "Mediterranean Inspired",
+        "Middle Eastern"
+    ],
+    "totalTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "121 kcal",
+        "carbohydrateContent": "17 g",
+        "fiberContent": "3 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "501 mg",
+        "sugarContent": "0 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) can garbanzo beans, drained, liquid reserved",
+        "1 tablespoon lemon juice",
+        "1 tablespoon olive oil",
+        "1 clove garlic, crushed",
+        "0.5 teaspoon ground cumin",
+        "0.5 teaspoon salt",
+        "2 drops sesame oil, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5Xc29hZwacNBzqjNY-tvMHLOvos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232962-super-easy-hummus-ddmfs-Step1-0290-a2c7b54dd076471c8ef38165c4d8fa13.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cYFKAQfKwoZh3VH7NcxDGxNXInU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232962-super-easy-hummus-ddmfs-Step2-0292-e0c8794b770f4c4aa4299e307b00ddff.jpg"
+                }
+            ],
+            "text": "Blend chickpeas, lemon juice, olive oil, garlic, cumin, salt, and sesame oil in a food processor."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Vj0wdjniMjf9U9TEAe51irFOhTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232962-super-easy-hummus-ddmfs-Step3-0303-36e0e4b5daf3497d88d40c994186cf1d.jpg"
+                }
+            ],
+            "text": "Stream reserved chickpea liquid into the mixture as it blends until desired consistency is achieved."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7W5LnKp7zVh-tHZ1CufFzAzxAvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232962-super-easy-hummus-ddmfs-3X4-0314-7a98966c532646769f91a51812e50e41.jpg"
+                }
+            ],
+            "text": "Serve with pita chips or veggies."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "headline": "Country Fried Squash",
+    "name": "Country Fried Squash",
+    "description": "This fried squash recipe is simple comfort food. Fresh yellow squash slices are dipped in batter and fried until golden, crispy, and delicious!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "829 kcal",
+        "carbohydrateContent": "66 g",
+        "cholesterolContent": "48 mg",
+        "fiberContent": "12 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "107 mg",
+        "sugarContent": "19 g",
+        "fatContent": "61 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "0.5 cup milk",
+        "1 egg, beaten",
+        "0.5 cup all-purpose flour",
+        "0.5 cup cornmeal",
+        "1 pinch garlic salt",
+        "1 pinch ground black pepper",
+        "1 pinch salt",
+        "1 cup oil for frying",
+        "6 pounds butternut squash - peeled, seeded and sliced"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hg8sKjITiUn8MDZnxigqOKKRnhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14126-country-fried-squash-DDMFS-step-01-7ca419b0c6424b1cab5f02701810979f.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/3oodA7157Kaacawz9syEtaGj-EA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14126-country-fried-squash-DDMFS-step-02-8308c320e3974fc8990bb115310280a1.jpg"
+                }
+            ],
+            "text": "Whisk milk and egg together in a small bowl. Combine flour, cornmeal, garlic salt, pepper, and salt together in a separate bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/KtzFeiK_gEGDWdTHocepD9GL8pE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14126-country-fried-squash-DDMFS-step-03-0e4a957156bc43cd9e6b92f84ec64124.jpg"
+                }
+            ],
+            "text": "Heat oil in a deep skillet over medium-high heat to 350 to 375 degrees F (180 to 190 degrees C). Dip each squash slice into egg mixture, then dredge in flour mixture to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7vsrRw2CcZoGSlLlvgRJW0TFzYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14126-country-fried-squash-DDMFS-step-04-54631b87cee743bea1b70687ebcc01c3.jpg"
+                }
+            ],
+            "text": "Fry coated squash slices in hot oil, a few at a time, until crisp and golden brown on both sides. Drain on paper towel and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

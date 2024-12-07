@@ -1,0 +1,92 @@
+{
+    "headline": "Vietnamese Lemongrass Chicken",
+    "name": "Vietnamese Lemongrass Chicken",
+    "description": "This lemongrass chicken recipe features grilled chicken thighs flavored with a sweet and fragrant Vietnamese marinade bursting with citrusy flavor.",
+    "recipeCuisine": [
+        "Vietnamese"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "308 kcal",
+        "carbohydrateContent": "4 g",
+        "cholesterolContent": "105 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "29 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "339 mg",
+        "sugarContent": "2 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons canola oil",
+        "2 tablespoons finely chopped lemongrass",
+        "1 tablespoon lemon juice",
+        "2 teaspoons soy sauce",
+        "2 teaspoons light brown sugar",
+        "2 teaspoons minced garlic",
+        "1 teaspoon fish sauce",
+        "1.5 pounds chicken thighs, or more to taste, pounded to an even thickness"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PG-9pw2wEpEp2BuNgX2AQ_uEIwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-241607-Vietnamese-Grilled-Lemongrass-Chicken-DDMFS-Step-01a-e7f07adcd63946d3a1651c52d98e87a1.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vUuTQc8AgnaUBjPuMaDJkAPu8Fw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-241607-Vietnamese-Grilled-Lemongrass-Chicken-DDMFS-Step-01b-b704cf67544842cca747439b21357430.jpg"
+                }
+            ],
+            "text": "Mix together canola oil, lemongrass, lemon juice, soy sauce, brown sugar, garlic, and fish sauce in a glass bowl until sugar is dissolved"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_NrCJwRfBso8Rgc8Cpj9e_3awjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-241607-Vietnamese-Grilled-Lemongrass-Chicken-DDMFS-Step-02-67395da8582f46dbb34c29435663a835.jpg"
+                }
+            ],
+            "text": "Add chicken and turn to coat in marinade. Marinate chicken in the refrigerator for 20 minutes to 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Xyl6rG60yg7vf3-f7MLR8KVTkrk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-241607-Vietnamese-Grilled-Lemongrass-Chicken-DDMFS-Step-03-2503117c1d504ed5b450ce3b2d563b33.jpg"
+                }
+            ],
+            "text": "Preheat grill for medium heat and lightly oil the grate. Remove chicken thighs from marinade; shake to remove excess. Discard remaining marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oOXQt20gForU70bXy-bQKeUlL0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6827213-vietnamese-grilled-lemongrass-chicken-AllrecipesPhoto-1x1-1-36e69cd06cd646e3b380675e7f0c5a43.jpg"
+                }
+            ],
+            "text": "Cook chicken on the preheated grill until no longer pink in the center and juices run clear, 3 to 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

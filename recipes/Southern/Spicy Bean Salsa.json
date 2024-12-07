@@ -1,0 +1,51 @@
+{
+    "headline": "Spicy Bean Salsa",
+    "name": "Spicy Bean Salsa",
+    "description": "This spicy bean dip is a nice variation of traditional tomato salsa, enlivened with black beans, corn, and black-eyed peas.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT495M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "58 kcal",
+        "carbohydrateContent": "8 g",
+        "fiberContent": "2 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "356 mg",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) can black-eyed peas",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 (15 ounce) can whole kernel corn, drained",
+        "1 (14.5 ounce) can diced tomatoes, drained",
+        "0.5 cup chopped onion",
+        "0.5 cup chopped green bell pepper",
+        "1 (4 ounce) can diced jalapeno peppers",
+        "0.5 teaspoon garlic salt",
+        "1 cup Italian-style salad dressing"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7xi8YShhaYbJO4FxZ7cfWBgxRxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/792466-8585f4ef524248a783087b0d0a699898.jpg"
+                }
+            ],
+            "text": "Combine peas, beans, corn, tomatoes, onion, bell pepper, jalape\u00f1os, and garlic salt in a bowl. Stir in salad dressing and mix until well combined. Cover and refrigerate until flavors have blended, 8 hours to overnight."
+        }
+    ],
+    "recipeYield": [
+        "32"
+    ]
+}

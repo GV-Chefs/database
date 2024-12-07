@@ -1,0 +1,57 @@
+{
+    "headline": "Big Ed's Cajun Shrimp Soup",
+    "name": "Big Ed's Cajun Shrimp Soup",
+    "description": "This hearty Cajun soup is easy! It's loaded with flavor, featuring plump shrimp, white rice, aromatics, and spices simmered in a tomato-based broth.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "163 kcal",
+        "carbohydrateContent": "20 g",
+        "cholesterolContent": "93 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "722 mg",
+        "sugarContent": "5 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon butter",
+        "0.5 cup chopped green bell pepper",
+        "0.25 cup sliced green onions",
+        "1 clove garlic, minced",
+        "3 cups tomato-vegetable juice cocktail",
+        "1 (8 ounce) bottle clam juice",
+        "0.5 cup water",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon dried thyme",
+        "0.25 teaspoon dried basil",
+        "0.25 teaspoon red pepper flakes",
+        "1 bay leaf",
+        "0.5 cup uncooked long-grain white rice",
+        "0.75 pound fresh shrimp, peeled and deveined",
+        "hot pepper sauce to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large pot over medium heat. Add bell pepper, onions, and garlic; saut\u00e9 until tender. Stir in vegetable juice, clam juice, water, salt, thyme, basil, red pepper flakes, and bay leaf; bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in rice, then reduce the heat, cover, and simmer until rice is tender, about 15 minutes. Stir in shrimp and cook until opaque, about 5 minutes. Discard bay leaf. Season with hot sauce to serve."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

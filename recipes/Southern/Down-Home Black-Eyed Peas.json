@@ -1,0 +1,56 @@
+{
+    "headline": "Down-Home Black-Eyed Peas",
+    "name": "Down-Home Black-Eyed Peas",
+    "description": "Black-eyed peas and okra are simmered with smoked ham hocks in this comforting Southern-style side dish. Perfect for New Year's Day!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT180M",
+    "cookTime": "PT100M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "435 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "77 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "28 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "277 mg",
+        "sugarContent": "5 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "3 cups dry black-eyed peas",
+        "12 cups water",
+        "3 pounds smoked ham hocks",
+        "1.25 cups chopped onion",
+        "1 cup chopped celery",
+        "1 teaspoon salt",
+        "0.125 teaspoon cayenne pepper",
+        "1 bay leaf",
+        "1 (10 ounce) package frozen sliced okra, thawed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pick over peas, rinse, and place in a large Dutch oven or soup pot with water; bring to a boil for 2 minutes. Remove from heat, cover, and let stand for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in ham hocks, onion, celery, salt, cayenne pepper, and bay leaf; bring to a boil, cover the pot, and simmer until ham hocks are tender, about 1 \u00bd hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in okra and simmer until tender, 10 to 15 minutes. Remove and discard bay leaf before serving."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

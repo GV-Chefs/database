@@ -1,0 +1,57 @@
+{
+    "headline": "Cream Cheese Alfredo Sauce",
+    "name": "Cream Cheese Alfredo Sauce",
+    "description": "This homemade Alfredo sauce with cream cheese and saut\u00e9ed mushrooms is easy to make for a smooth, creamy white pasta sauce, perfect for fettuccini.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "464 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "122 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "26 g",
+        "sodiumContent": "708 mg",
+        "sugarContent": "4 g",
+        "fatContent": "42 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "2 portobello mushroom caps, thinly sliced",
+        "1 (8 ounce) package cream cheese",
+        "0.5 cup butter",
+        "1.5 cups milk",
+        "6 ounces grated Parmesan cheese, or to taste",
+        "1 tablespoon minced fresh basil leaves",
+        "1 clove garlic, crushed",
+        "ground white pepper, to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat 2 tablespoons butter in a skillet over medium heat. Stir in mushrooms; cook and stir until softened, about 5 minutes. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt cream cheese and 1/2 cup butter in a saucepan, stirring occasionally, over medium heat. Stir in milk and Parmesan cheese until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add basil, garlic, and white pepper. Simmer until flavors blend, about 5 minutes; stir in mushrooms."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

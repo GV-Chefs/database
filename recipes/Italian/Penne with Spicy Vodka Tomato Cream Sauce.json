@@ -1,0 +1,70 @@
+{
+    "headline": "Penne with Spicy Vodka Tomato Cream Sauce",
+    "name": "Penne with Spicy Vodka Tomato Cream Sauce",
+    "description": "This spicy vodka pasta is made with Italian sausage saut\u00e9ed with garlic and red pepper flakes, simmered with tomato, and thickened with vodka cream.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "435 kcal",
+        "carbohydrateContent": "53 g",
+        "cholesterolContent": "29 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "544 mg",
+        "sugarContent": "1 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound uncooked penne pasta",
+        "0.25 cup extra virgin olive oil",
+        "2 (3.5 ounce) links sweet Italian sausage",
+        "4 cloves garlic, minced",
+        "0.5 teaspoon crushed red pepper flakes",
+        "1 (28 ounce) can crushed tomatoes",
+        "0.75 teaspoon salt",
+        "0.5 cup heavy whipping cream",
+        "2 tablespoons vodka",
+        "0.25 cup chopped fresh parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet over medium heat. Remove casing from sausage and add to the skillet. Cook and stir until crumbly and brown, 5 to 7 minutes. Add garlic and red pepper flakes; cook and stir until garlic is golden brown."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add tomatoes and salt; bring to boil. Reduce heat and simmer for 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/X34W0eJg8I5qNg34flnQNeDxaVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5929454-penne-with-spicy-vodka-tomato-cream-sauce-fabeveryday-1x1-1-89055243a18842329d212fb4175595a1.jpg"
+                }
+            ],
+            "text": "Add cream and vodka; bring to boil. Reduce heat to low and add pasta; toss for 1 minute. Stir in parsley; serve warm."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

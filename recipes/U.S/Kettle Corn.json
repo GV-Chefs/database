@@ -1,0 +1,54 @@
+{
+    "headline": "Kettle Corn",
+    "name": "Kettle Corn",
+    "description": "This kettle corn recipe is made on the stovetop with just three ingredients and tastes deliciously old-fashioned and straight from the county fair.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "209 kcal",
+        "carbohydrateContent": "25 g",
+        "fiberContent": "3 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "1 mg",
+        "sugarContent": "10 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "0.25 cup vegetable oil",
+        "0.5 cup unpopped popcorn kernels",
+        "0.25 cup white sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat vegetable oil in a large pot over medium heat. Stir in popcorn kernels and sugar."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover and shake the pot constantly to prevent sugar from burning. When popping has slowed to once every 2 to 3 seconds, remove the pot from the heat and shake for a few minutes until popping stops."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2cJPQnjtTuazcNGMS4I8BKNSJIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kettle-Corn-6bdbc1c52e5842039b9006f1cb168a67.jpg"
+                }
+            ],
+            "text": "Pour popcorn into a large bowl and allow to cool, stirring occasionally to break up large clumps."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

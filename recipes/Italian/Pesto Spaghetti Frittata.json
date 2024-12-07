@@ -1,0 +1,73 @@
+{
+    "headline": "Pesto Spaghetti Frittata",
+    "name": "Pesto Spaghetti Frittata",
+    "description": "This pesto spaghetti frittata is a terrific way to use leftover spaghetti. Easily made with frozen mixed vegetables and prepared pesto, it is perfect for breakfast, brunch or a light supper.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "236 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "304 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "449 mg",
+        "sugarContent": "3 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Entree",
+        "Breakfast",
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "6 duck eggs",
+        "1/2 cup shredded Parmesan cheese",
+        "1/4 cup half and half",
+        "1/4 cup ricotta cheese",
+        "2 tablespoon pesto, plus more for garnish",
+        "1 teaspoon thyme",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1 pound frozen mixed carrots, broccoli, zucchini, and cauliflower (such as Normandy\u00ae",
+        "\u00a0blend)",
+        "1 tablespoon unsalted butter",
+        "2 garlic cloves minced",
+        "4 ounces leftover cooked spaghetti pasta"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk eggs, Parmesan cheese, half and half, ricotta, pesto, thyme, salt, and pepper together in a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place vegetables in a microwave-safe bowl; cook on High in the microwave until thawed, 4 to 5 minutes. Drain well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in an ovenproof nonstick skillet. Add garlic and saute until fragrant, about 1 minute. Add steamed vegetables, and toss to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour half of egg mixture into the skillet. Toss cooked spaghetti with remaining egg mixture. Pour egg-coated pasta into the skillet. Cook 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the skillet in the preheated oven until eggs are firm, about 25 minutes. Remove, cut into wedges, and serve with more pesto if desired."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

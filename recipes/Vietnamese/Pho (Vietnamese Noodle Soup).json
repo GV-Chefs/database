@@ -1,0 +1,132 @@
+{
+    "headline": "Pho (Vietnamese Noodle Soup)",
+    "name": "Pho (Vietnamese Noodle Soup)",
+    "description": "Pho is a delicious Vietnamese noodle soup with beef that you can make at home with this authentic recipe that includes a flavorsome homemade broth.",
+    "recipeCuisine": [
+        "Vietnamese"
+    ],
+    "totalTime": "PT505M",
+    "cookTime": "PT425M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "509 kcal",
+        "carbohydrateContent": "66 g",
+        "cholesterolContent": "74 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "3519 mg",
+        "sugarContent": "9 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 pounds beef soup bones (shank and knee)",
+        "1 medium onion, unpeeled and cut in half",
+        "5 slices fresh ginger",
+        "1 tablespoon salt",
+        "2 pods star anise",
+        "2.5 tablespoons fish sauce",
+        "4 quarts water",
+        "1 (8 ounce) package dried rice noodles",
+        "1.5 pounds beef top sirloin, thinly sliced",
+        "0.5 cup chopped cilantro",
+        "1 tablespoon chopped green onion",
+        "1.5 cups bean sprouts",
+        "1 bunch Thai basil",
+        "1 medium lime, cut into 4 wedges",
+        "0.25 cup hoisin sauce",
+        "0.25 cup chile-garlic sauce (such as Sriracha\u00ae)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0jfPNZGA1zYJKsEquI7rseCqnUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-step1-0420-b3e61a400cb644e8a413b142386dad63.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EpR2FtkyHGMNldYcOzxtdpBgb5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-step2-0442-1c1d88cd76c64f069c82185e5f8ab798.jpg"
+                }
+            ],
+            "text": "Place beef bones on a baking sheet and roast in the preheated oven until browned, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/4lKn_lu0UU69723TTcbeFfd-snw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-step3-0443-9cbcfca84a9e4a3f9fa79ffda9d489c8.jpg"
+                }
+            ],
+            "text": "Place onion halves on a second baking sheet and roast on another rack until blackened and soft, about 45 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OFyOXbdYEO-K3R7wvdlCHQFM5D8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-step5-0467-a8e0d1239156481882f8baf3da552604.jpg"
+                }
+            ],
+            "text": "Transfer beef bones and onion halves to a large stockpot. Add ginger, salt, star anise, fish sauce, and 4 quarts water; bring to a boil. Reduce heat to low and simmer for 6 to 10 hours. Strain the broth into a saucepan and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ADOqQtuWsB-C6onOUT4NXYNZqI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-step6-0470-fa0efc287dcf40a18eb4943b9b23646b.jpg"
+                }
+            ],
+            "text": "Place rice noodles in a large bowl filled with room temperature water. Let soak for 1 hour. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When noodles have soaked for 1 hour, heat up the reserved broth by bringing it to a simmer."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of water to a boil. Cook the noodles in the boiling water for 1 minute. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/I7mw1GbKOhKURn7Xn_PaV9gI9rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-AuthenticPho-mfs-step7-0476-83bb91d062c04599af3c84ad50f4e2f1.jpg"
+                }
+            ],
+            "text": "Divide noodles among 4 serving bowls; top with sirloin, cilantro, and green onion. Ladle hot broth over the top. Stir and let sit until beef is partially cooked and no longer pink, 1 to 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SZjdgaXhmkrRNLoOvdxuAktwk3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-authentic-pho-DDMFS-4x3-0523f6531ccf4dbeb4b5bde52e007b1e.jpg"
+                }
+            ],
+            "text": "Serve with bean sprouts, Thai basil, lime wedges, hoisin sauce, and chile-garlic sauce on the side."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

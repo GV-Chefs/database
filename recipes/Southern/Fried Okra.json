@@ -1,0 +1,91 @@
+{
+    "headline": "Fried Okra",
+    "name": "Fried Okra",
+    "description": "Crispy fried okra, coated with seasoned cornmeal, is a Southern classic and an easy, tasty summer appetizer!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "394 kcal",
+        "carbohydrateContent": "29 g",
+        "cholesterolContent": "47 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "167 mg",
+        "sugarContent": "1 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "10 pods okra, sliced in 1/4 inch pieces",
+        "1 egg, beaten",
+        "1 cup cornmeal",
+        "0.25 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "0.5 cup vegetable oil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rvZpuN48LaScNmJ12y2SWYWGXxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22176-fried-okra-ddmfs-step1-4x3-0198-07b441eb891d45fe98dee4abb3a15a22.jpg"
+                }
+            ],
+            "text": "In a small bowl, soak okra in egg for 5 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EF6PSZ0wvPCYzrtZmfG3XoyQrDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22176-fried-okra-ddmfs-step2-4x3-0199-c71eee9b09334b3084b834e8d4d59288.jpg"
+                }
+            ],
+            "text": "In a medium bowl, combine cornmeal, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7Ok_trBPsNSvyTAj4b-ypT5UGpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22176-fried-okra-ddmfs-step3-4x3-0200-623b795b28de4d128cd2253a6cf9c2c1.jpg"
+                }
+            ],
+            "text": "Heat oil in a large skillet over medium-high heat. Dredge okra in the cornmeal mixture, coating evenly."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/uVmsfk1Wne0LO4vC3Q_3Vj9i7Do=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22176-fried-okra-ddmfs-step5-4x30204-9339fef296424b7eab17f861e2953134.jpg"
+                }
+            ],
+            "text": "Carefully place okra in hot oil; stir continuously. Reduce heat to medium when okra first starts to brown, and cook until golden. Drain on paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NesTC37xSKqeuKJyaKwTRg0fHQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22176-fried-okra-DDMFS-4x3-8260207ab62b4a63bd3b6754e1501509.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

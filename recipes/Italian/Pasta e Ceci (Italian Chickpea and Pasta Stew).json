@@ -1,0 +1,76 @@
+{
+    "headline": "Pasta e Ceci (Italian Chickpea and Pasta Stew)",
+    "name": "Pasta e Ceci (Italian Chickpea and Pasta Stew)",
+    "description": "Pasta e Ceci, or Italian chickpea and pasta stew, is classic Italian comfort food. If you can't find ditalini pasta, use spaghetti that have been broken into pieces.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT585M",
+    "cookTime": "PT75M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "378 kcal",
+        "carbohydrateContent": "59 g",
+        "cholesterolContent": "2 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1172 mg",
+        "sugarContent": "10 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1 cup dry chickpeas",
+        "1 tablespoon baking soda",
+        "1 yellow onion",
+        "1 stalk celery",
+        "1 small zucchini",
+        "1 carrot",
+        "2 tablespoon olive oil",
+        "1 sprig fresh sage leaves",
+        "1 sprig fresh rosemary",
+        "1 sprig fresh thyme",
+        "3 to 5 cups chicken broth, as needed",
+        "2 stewed, peeled tomatoes",
+        "240g pasta ditalini, such as Barilla\u00ae Gluten Free Ditalini",
+        "Salt and pepper to taste",
+        "1 fresh cayenne pepper, seeded and minced, or more to taste",
+        "1 tablespoon extra-virgin olive oil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Rinse chickpeas under cool water. Pick up handfuls of chickpeas and rub them together with your hands under the water to wash chickpeas. Place chickpeas in a large stew pot, cover with water and add baking soda; swirl chickpeas and water to distribute baking soda. Leave to soak for 8 hours or overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "The next day, pour chickpeas through a strainer and rinse well under cold running water, eliminating any skins or discolored chickpeas; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grate onion, celery, zucchini, and carrot on the large teeth of a cheese grater, This step is very important as grated vegetables give a different flavor than diced.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 2 tablespoons olive oil in the stew pot over medium heat, and saut\u00e9 grated vegetables for 1 minute. Mix in sage, rosemary, and thyme and saut\u00e9, stirring occasionally, until onions are soft and translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 3 cups broth, all the chickpeas, and tomatoes. Bring to a boil, reduce heat, and simmer until chickpeas are tender, about 1 hour. Stir in pasta. Add more broth only as needed to achieve a thick, stew-like consistency."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook until pasta is tender with a bite, 8 to 10 minutes. Taste and season with salt and black pepper. Remove from heat and divide amongst serving bowls. Top each bowl with minced cayenne pepper and a drizzle of extra-virgin olive oil."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

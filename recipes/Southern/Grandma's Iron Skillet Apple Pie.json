@@ -1,0 +1,64 @@
+{
+    "headline": "Grandma's Iron Skillet Apple Pie",
+    "name": "Grandma's Iron Skillet Apple Pie",
+    "description": "This cast iron apple pie is a modern version of an old-time Southern favorite that uses premade pie crusts to make this three-layer apple pie.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "734 kcal",
+        "carbohydrateContent": "108 g",
+        "cholesterolContent": "49 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "396 mg",
+        "sugarContent": "70 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.5 cup butter",
+        "1 cup brown sugar",
+        "5 Granny Smith apples -- peeled, cored, quartered, and thinly sliced",
+        "3 (9 inch) refrigerated prerolled pie crusts",
+        "1 cup white sugar, divided",
+        "2 teaspoons ground cinnamon, divided",
+        "0.25 cup white sugar",
+        "1 tablespoon butter, cut into small chunks"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place 1/2 cup butter into a 9-inch cast iron skillet; place the skillet in the preheated oven until butter is melted. Remove the skillet and sprinkle with brown sugar; return to the oven to heat while you prepare the apples."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove the skillet from the oven; arrange 1 refrigerated pie crust on top of brown sugar. Top pie crust with 1/2 of the sliced apples. Sprinkle 1/2 cup of white sugar and 1 teaspoon of cinnamon on top. Place second pie crust over apples; top second crust with remaining apples and sprinkle with 1/2 cup sugar and 1 teaspoon cinnamon. Top with third crust; sprinkle with 1/4 cup sugar and dot with 1 tablespoon of butter. Cut 4 slits into the top crust for steam to escape."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vOa8FKl2mfm4RQgHLV-G3ovp7z0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4573341-542f23f8e42646af8b391b3babc73f3c.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until the apples are tender and the crust is golden brown, about 45 minutes. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

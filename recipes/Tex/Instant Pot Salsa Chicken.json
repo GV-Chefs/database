@@ -1,0 +1,60 @@
+{
+    "headline": "Instant Pot Salsa Chicken",
+    "name": "Instant Pot Salsa Chicken",
+    "description": "This salsa chicken Instant Pot recipe uses frozen chicken breasts rubbed with taco seasoning, then cooked in salsa and broth for an easy Tex-Mex meal.",
+    "recipeCuisine": [
+        "Tex Mex"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "300 kcal",
+        "carbohydrateContent": "14 g",
+        "cholesterolContent": "118 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "46 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1546 mg",
+        "sugarContent": "5 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound frozen skinless, boneless chicken breast halves",
+        "1 (1 ounce) packet taco seasoning mix",
+        "0.5 cup salsa",
+        "0.5 cup low-sodium chicken broth"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken breasts in a multi-functional cooker (such as Instant Pot). Sprinkle all sides with taco seasoning. Pour salsa and chicken broth on top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Close and lock the lid. Select Poultry setting; set the timer for 15 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Release pressure using the natural-release method according to manufacturer's instructions, about 20 minutes. Unlock and remove the lid."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GbjAlcfOP2VPhxRSC6NW39GguxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4604057-instant-pot-salsa-chicken-Buckwheat-Queen-1x1-1-6f508c5da1074fcaa3a12c2e1ecb1b01.jpg"
+                }
+            ],
+            "text": "Shred chicken and serve as desired."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

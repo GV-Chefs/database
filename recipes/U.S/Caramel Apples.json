@@ -1,0 +1,80 @@
+{
+    "headline": "Caramel Apples",
+    "name": "Caramel Apples",
+    "description": "Caramel apples are a Halloween delight: Crunchy red apples on sticks, bathed in gooey caramel. Decorate with chopped nuts, melted chocolate, or candy.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT2M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "350 kcal",
+        "carbohydrateContent": "76 g",
+        "cholesterolContent": "5 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "166 mg",
+        "sugarContent": "62 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT8M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "6 apples",
+        "6 wooden craft sticks",
+        "cooking spray",
+        "1 (14 ounce) package individually wrapped caramels, unwrapped",
+        "2 tablespoons milk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8CgDCrMoTICl9mtdTJPWtligT6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-21130-caramel-apples-ddmfs-step01_7861-07d5ffc0e55242f69ea089a4dbd4d773.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WuO5sLQy0mu34z7iZc3H-SRTQ8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-21130-caramel-apples-ddmfs-step02_7865-5b66a204d0264c0fac4d1d50126ef7bc.jpg"
+                }
+            ],
+            "text": "Remove the stem from each apple and press a craft stick into the top. Spray a baking sheet with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/54Mox-XxbwLC0BH5Y5wO6FQQbc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-21130-caramel-apples-ddmfs-step03_7866-0682954f6a094911a420178aa2b41500.jpg"
+                }
+            ],
+            "text": "Place caramels and milk in a microwave-safe bowl; microwave for 2 minutes, stirring once. Set aside to cool briefly."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FIRqdFksxQrUz2iz27IsydBHFMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-21130-caramel-apples-ddmfs-step04_7868-7b1057dc66ff4f1388dbdc5b863f4586.jpg"
+                }
+            ],
+            "text": "Roll each apple quickly in caramel sauce until well coated. Place on prepared sheet to set."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

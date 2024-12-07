@@ -1,0 +1,77 @@
+{
+    "headline": "Wazzu Tailgate Chili",
+    "name": "Wazzu Tailgate Chili",
+    "description": "This simple cornmeal chili is full of flavor and plenty spicy. It's best made a day ahead, refrigerated overnight, then reheated right before the big game.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT655M",
+    "cookTime": "PT145M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "529 kcal",
+        "carbohydrateContent": "46 g",
+        "cholesterolContent": "94 mg",
+        "fiberContent": "12 g",
+        "proteinContent": "36 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "2182 mg",
+        "sugarContent": "12 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "1 pound ground pork",
+        "2 tablespoons olive oil",
+        "1 large onion, chopped, divided",
+        "1 green bell pepper, chopped",
+        "1 habanero peppers, seeded and minced",
+        "2 jalapeno pepper, seeded and minced",
+        "3 cloves garlic, minced",
+        "3 tablespoons chopped green onion",
+        "3 (15 ounce) cans chili beans",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 (6 ounce) can tomato paste",
+        "1 (8 ounce) can tomato sauce",
+        "1 (12 ounce) bottle lager-style beer",
+        "1 cup water",
+        "2 tablespoons cornmeal",
+        "0.25 cup chili powder",
+        "1 tablespoon ground cumin",
+        "1 teaspoon garlic powder",
+        "0.5 teaspoon cayenne pepper",
+        "1 tablespoon salt",
+        "1.5 teaspoons ground black pepper",
+        "1 cup shredded Cheddar cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cook ground beef and pork in a large skillet over medium-high heat until the meat is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat olive oil in a large pot over medium heat. Stir in 3/4 of the onion plus the green pepper, habanero pepper, jalape\u00f1o pepper, and garlic. Cook and stir until onion has softened and turned translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir drained meat into onion mixture along with green onion, chili beans, diced tomatoes, tomato paste, tomato sauce, beer, and water. Sprinkle with cornmeal, then season with chili powder, cumin, garlic powder, cayenne pepper, salt, and black pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring to a simmer over medium heat, then reduce heat to medium-low. Simmer at least 2 hours, stirring occasionally. Refrigerate overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reheat the chili over medium heat until it begins to simmer again. Top individual servings of chili with cheese and remaining chopped onion."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

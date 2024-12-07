@@ -1,0 +1,73 @@
+{
+    "headline": "Lemon Garlic Butter Chicken Spiedini",
+    "name": "Lemon Garlic Butter Chicken Spiedini",
+    "description": "These lemon garlic butter chicken spiedini are air-fried crispy, golden breaded chicken skewers with a light lemon garlic butter drizzle.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "636 kcal",
+        "carbohydrateContent": "21 g",
+        "cholesterolContent": "212 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "43 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1170 mg",
+        "sugarContent": "2 g",
+        "fatContent": "41 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1/2 cup extra-virgin olive oil",
+        "1/4 cup white wine, such as pinot grigio",
+        "3 Tablespoons lemon juice, plus 1 teaspoon zest, divided",
+        "4 cloves garlic, finely minced, divided",
+        "1/4 teaspoon crushed red pepper flakes",
+        "1/4 teaspoon oregano",
+        "2 teaspoons kosher salt, divided",
+        "1 teaspoon pepper, divided",
+        "2 pounds boneless skinless chicken thighs, cut into 1 1/2 inch pieces",
+        "2/3 cup italian breadcrumbs",
+        "2/3 cup panko",
+        "1/2 cup grated parmesan cheese",
+        "1/2 teaspoon garlic powder",
+        "6 6-8 inch skewers",
+        "4 Tablespoons butter",
+        "2 teaspoons finely chopped fresh parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together olive oil, wine, 2 tablespoons lemon juice, lemon zest, 1/2 of the garlic, crushed red pepper, oregano, 1 teaspoon salt, and 1/2 teaspoon pepper in a bowl. Add chicken and toss to coat. Cover and refrigerate 30 minutes to 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir together remaining salt and pepper with bread crumbs, panko, Parmesan cheese, and garlic powder in a shallow dish. Remove chicken from marinade and toss to coat in breadcrumb mixture, pressing to adhere as necessary. Thread chicken onto skewers and coat with olive oil cooking spray.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an air fryer to 390 degrees F (198 degrees C).\u00a0 Air fry until chicken is no longer pink at the center and juices run clear, and is until lightly golden brown and crisp, about 12 minutes. An instant read thermometer, inserted near the center, should read 165 degrees F (74 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/bzHzGHhwOzbf40hVyScNwQJJ0Hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8727930_Lemon-Garlic-Butter-Chicken-Spiedini_Dotdash-Meredith-Food-Studios_4x3-f8f792a2cbd346399b183da4729fbe19.jpg"
+                }
+            ],
+            "text": "Meanwhile, melt butter with remaining garlic in a microwave-safe dish on High in the microwave, about 10 seconds.\u00a0 Stir in remaining lemon juice and parsley. Drizzle butter mixture over chicken just before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "headline": "Falafel Dough Pizza",
+    "name": "Falafel Dough Pizza",
+    "description": "A red-lentil dough is topped with a yogurt-tahini sauce, cheese, parsley, and olives in this fun vegetarian pizza inspired by falafel.",
+    "recipeCuisine": [
+        "Middle Eastern Inspired"
+    ],
+    "totalTime": "PT175M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "556 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "72 mg",
+        "fiberContent": "17 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "428 mg",
+        "sugarContent": "8 g",
+        "fatContent": "33 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT35M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup red lentils",
+        "2 teaspoons oil",
+        "1 onion, quartered",
+        "3 cloves garlic, peeled",
+        "0.5 bunch fresh parsley",
+        "0.5 bunch fresh cilantro",
+        "0.25 cup chopped green onions",
+        "0.33333334326744 cup oil",
+        "1 egg",
+        "0.5 teaspoon baking powder",
+        "0.25 teaspoon ground black pepper",
+        "0.25 teaspoon chile powder",
+        "0.25 teaspoon ground cumin",
+        "0.25 teaspoon ground coriander",
+        "salt to taste",
+        "1 cup yogurt",
+        "4 teaspoons lemon juice",
+        "1 tablespoon tahini",
+        "salt to taste",
+        "0.75 cup shredded Cheddar cheese",
+        "1 tomato, cubed",
+        "0.25 cup sliced olives",
+        "1 tablespoon minced fresh parsley",
+        "2 teaspoons minced green onion"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place red lentils in a bowl and cover with water. Let soak until softened, about 2 hours. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper and grease with 2 teaspoons oil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place lentils in a food processor with onion, garlic, 1/2 bunch parsley, cilantro, and 1/4 cup green onions; pulse until finely ground."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer lentil mixture to a large bowl. Add 1/3 cup oil, egg, baking powder, black pepper, chile powder, cumin, coriander, and salt; mix until well-blended. Spread dough to 1/4-inch thickness onto prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden and firm, about 15 minutes. Remove from oven."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine yogurt, lemon juice, tahini, and salt in a small bowl; mix well until sauce is smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Layer sauce, Cheddar cheese, tomato, olives, 1 tablespoon parsley, and 2 teaspoons green onion on top of baked dough."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Return to the oven and bake until cheese is melted, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

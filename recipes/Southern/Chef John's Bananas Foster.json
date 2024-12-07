@@ -1,0 +1,65 @@
+{
+    "headline": "Chef John's Bananas Foster",
+    "name": "Chef John's Bananas Foster",
+    "description": "Chef John's bananas Foster is a show-stopping dessert that is surprisingly quick and easy to make for special occasions or tonight's dessert!",
+    "recipeCuisine": [
+        "Southern",
+        "American"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "497 kcal",
+        "carbohydrateContent": "59 g",
+        "cholesterolContent": "55 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "27 mg",
+        "sugarContent": "45 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons unsalted butter",
+        "3 tablespoons packed brown sugar",
+        "2 bananas, peeled and halved lengthwise and crosswise",
+        "2 fluid ounces rum",
+        "1 fluid ounce banana liqueur",
+        "2 pinches ground cinnamon",
+        "2 scoops vanilla ice cream",
+        "2 small sprigs of mint"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat butter and brown sugar in a skillet over medium-high heat until butter melts and mixture begins to bubble, 3 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place bananas, cut-side down, into the brown sugar mixture. Cook until just golden, about 30 seconds; flip and cook until golden on the other side, about 30 seconds. Turn off the heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "With the heat off, pour rum and banana liqueur into the skillet. Turn the heat to medium-high or high; cook until alcohol ignites and flames, 1 to 3 minutes. Carefully add cinnamon. When the flames die, remove from the heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0dibm4JNjDkUFpn4iMy69xUryvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1666647-231a2d084f5d4319a391e9ff3462f5df.jpg"
+                }
+            ],
+            "text": "Scoop vanilla ice cream into two bowls. Divide banana mixture between the bowls and garnish with mint sprigs."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

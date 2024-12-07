@@ -1,0 +1,54 @@
+{
+    "headline": "Easy Sweet Potato Pie",
+    "name": "Easy Sweet Potato Pie",
+    "description": "This sweet potato pie is made very creamy with evaporated milk and gets a bit of a kick with rum. Along with sugar, salt, cinnamon, nutmeg, eggs and butter, all the ingredients are put into a food processor and blended until very smooth. Then the filling goes into a pie crust and bakes for less than an hour.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "326 kcal",
+        "carbohydrateContent": "34 g",
+        "cholesterolContent": "73 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "380 mg",
+        "sugarContent": "17 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups cooked and mashed sweet potatoes",
+        "2 eggs",
+        "1.25 cups evaporated milk",
+        "0.375 cup white sugar",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground cinnamon",
+        "0.5 teaspoon ground nutmeg",
+        "2 tablespoons rum",
+        "4 tablespoons melted butter",
+        "1 (9 inch) unbaked pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Into food processor, put sweet potatoes, evaporated milk, sugar, salt, cinnamon, nutmeg, rum, eggs and butter or margarine. Blend until smooth. Pour into pie shell."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 10 minutes in preheated oven. Reduce heat to 300 degrees F (150 degrees C). Bake for about 50 minutes more, or until the filling is firm."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

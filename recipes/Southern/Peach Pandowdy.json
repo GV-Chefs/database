@@ -1,0 +1,64 @@
+{
+    "headline": "Peach Pandowdy",
+    "name": "Peach Pandowdy",
+    "description": "Lightly sweetened peaches peek through the top crust in this adorable pandowdy. Old Fashioned Southern Cookin' - Perfect Desert for covered dish dinners.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "280 kcal",
+        "carbohydrateContent": "47 g",
+        "cholesterolContent": "32 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "192 mg",
+        "sugarContent": "29 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "6 cups thickly sliced peaches",
+        "1 tablespoon lemon juice",
+        "0.5 cup white sugar",
+        "1 tablespoon cornstarch",
+        "1 cup all-purpose flour",
+        "2 tablespoons white sugar",
+        "1 teaspoon baking powder",
+        "0.25 teaspoon salt",
+        "1 tablespoon unsalted butter",
+        "0.5 cup heavy cream"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place the peaches in a medium bowl. Sprinkle lemon juice over them. Mix together 1/2 cup of sugar and cornstarch. Sprinkle over the peaches, and stir to coat. Spoon into a 2 to 2 1/2 quart casserole dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, stir together the flour, 2 tablespoons of sugar, baking powder and salt. Cut in butter with a fork or pastry cutter until it is in fine crumbs. Make a well in the center, and pour in the cream. Stir with a fork until the dough pulls away from the sides of the bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll out dough on a floured surface until it is just big enough to cover the baking dish. Cut a 2 inch cross in the center. Place over the peaches, and tuck in the dough around the sides. Turn back the corners of the cross to reveal the filling."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 40 to 45 minutes in the preheated oven, until filling is bubbly, and top is golden brown."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

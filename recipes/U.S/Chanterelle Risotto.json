@@ -1,0 +1,55 @@
+{
+    "headline": "Chanterelle Risotto",
+    "name": "Chanterelle Risotto",
+    "description": "This savory chanterelle risotto with garlic and Parmesan cheese is a delicious vegetarian dish for a special meal or fall dinner party.",
+    "recipeCuisine": [
+        "U.S.",
+        "Italian"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "308 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "49 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "12 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "1219 mg",
+        "sugarContent": "1 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "2 cloves chopped fresh garlic",
+        "2 cups sliced chanterelle mushrooms",
+        "2 tablespoons butter",
+        "2 cups Arborio rice",
+        "5 cups vegetable broth",
+        "2 cups freshly grated Parmesan cheese",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt 2 tablespoons butter in a large skillet over medium-high heat. Cook and stir garlic and mushrooms in melted butter until mushrooms are slightly browned, about 3 minutes. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt 2 tablespoons butter in a large saucepan over medium heat. Stir in rice; cook for 1 to 2 minutes. Slowly add vegetable broth 1/2 cup at a time, stirring frequently and allowing liquid to be absorbed completely before adding more broth. Continue cooking until rice is tender to the tooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in mushroom mixture and cook until heated through, about 1 minute. Stir in Parmesan cheese; season with salt and pepper."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

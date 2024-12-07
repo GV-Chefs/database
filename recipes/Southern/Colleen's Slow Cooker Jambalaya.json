@@ -1,0 +1,97 @@
+{
+    "headline": "Colleen's Slow Cooker Jambalaya",
+    "name": "Colleen's Slow Cooker Jambalaya",
+    "description": "This slow cooker jambalaya is made by simmering shrimp, chicken, sausage, and rice in a spicy broth for an easy-to-prep, crowd-pleasing dinner.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT200M",
+    "cookTime": "PT180M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "235 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "99 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "688 mg",
+        "sugarContent": "3 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (28 ounce) can diced tomatoes with juice",
+        "1 pound skinless, boneless chicken breast halves - cut into 1 inch cubes",
+        "1 pound andouille sausage, sliced",
+        "1 large onion, chopped",
+        "1 large green bell pepper, chopped",
+        "1 cup chopped celery",
+        "1 cup chicken broth",
+        "2 teaspoons dried oregano",
+        "2 teaspoons dried parsley",
+        "2 teaspoons Cajun seasoning",
+        "1 teaspoon cayenne pepper",
+        "0.5 teaspoon dried thyme",
+        "1 pound frozen cooked shrimp without tails"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xsCEbBASzkvOD8ejr6UIStm0Dhk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73634-collens-slow-cooker-jambalaya-ddmfs-4x3-step1-0974-d058c3f2daee45a9a1f9e242058a63d9.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/XCqwpSN2GPgWHQtuejTvDFXQVJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73634-collens-slow-cooker-jambalaya-ddmfs-4x3-step2-0975-e665a8bbd07a420185b0663312489317.jpg"
+                }
+            ],
+            "text": "Mix tomatoes with juice, chicken, sausage, onion, green bell pepper, celery, and broth in a slow cooker."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-JFDClSUQxl2XPGRS1KGgzpdgX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73634-collens-slow-cooker-jambalaya-ddmfs-4x3-step3-0976-29f2d4af62ae452cbd7484cfa13567fc.jpg"
+                }
+            ],
+            "text": "Season with oregano, parsley, Cajun seasoning, cayenne pepper, and thyme."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RvYAh9LbGZOgZ1ajiN9Kdtm77Q0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73634-collens-slow-cooker-jambalaya-ddmfs-4x3-step4-0985-e003ebbc72284ef58e956e8e6b791c37.jpg"
+                }
+            ],
+            "text": "Cover and cook on Low for 7 to 8 hours, or on High for 3 to 4 hours. Stir in shrimp during the last 30 minutes of cook time."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1wSO42EkJEErOlNg_95cuUl76Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73634-colleens-slow-cooker-jambalaya-DDMFS-4x3-7c6d551579454fbf9a7d569763077f99.jpg"
+                }
+            ],
+            "text": "Serve over rice."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

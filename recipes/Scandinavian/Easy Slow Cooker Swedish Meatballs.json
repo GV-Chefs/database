@@ -1,0 +1,95 @@
+{
+    "headline": "Easy Slow Cooker Swedish Meatballs",
+    "name": "Easy Slow Cooker Swedish Meatballs",
+    "description": "This Swedish meatball crockpot recipe uses frozen meatballs simmered with mushroom soup, beef broth, and sour cream in a slow cooker for an easy meal.",
+    "recipeCuisine": [
+        "Scandinavian"
+    ],
+    "totalTime": "PT280M",
+    "cookTime": "PT270M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "429 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "127 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "1072 mg",
+        "sugarContent": "2 g",
+        "fatContent": "28 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 cups beef broth",
+        "1 (10.5 ounce) can condensed cream of mushroom soup",
+        "2 tablespoons steak sauce",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon garlic powder",
+        "0.5 teaspoon paprika",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "1 (28 ounce) package frozen cooked meatballs, thawed",
+        "1 onion, diced",
+        "1 cup sour cream"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-Mj-pfS6dPl6iV-nnGQkmwzwO8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-Easy-Slow-Cooker-Swedish-Meatballs-DDMFS-Step-01-08a66dcaaa314f1d9b3882c3371462f5.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/M4oKpjCRFSZEeoQvrMtEwEGxNGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-Easy-Slow-Cooker-Swedish-Meatballs-DDMFS-Step-02-dcec46c0894f4251bb3d925b4f5d722d.jpg"
+                }
+            ],
+            "text": "Whisk together beef broth and condensed soup in a slow cooker. Add steak sauce, Worcestershire sauce, garlic powder, paprika, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/HeXwy5mgsu21Hs36HjQzIvSxq2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-Easy-Slow-Cooker-Swedish-Meatballs-DDMFS-Step-03-6158d1264f1a4bb68f5b90f8ec4da03e.jpg"
+                }
+            ],
+            "text": "Stir in meatballs and onion. Cook on High for 4 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AU-90qmPbxqIjEPq4noigDJDGJY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-Easy-Slow-Cooker-Swedish-Meatballs-DDMFS-Step-04-88845b3683d84e809e99cf9830122dcd.jpg"
+                }
+            ],
+            "text": "Stir in sour cream. Continue cooking until sauce is heated through, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nyMFqOL0Pqd-BMwDaC1DaAyn_9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-Easy-Slow-Cooker-Swedish-Meatballs-DDMFS-4x3-acbc3065fb6c43dda0090b91b5e378eb.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

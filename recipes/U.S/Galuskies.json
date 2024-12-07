@@ -1,0 +1,75 @@
+{
+    "headline": "Galuskies",
+    "name": "Galuskies",
+    "description": "These galuskies feature a savory filling of ground beef, pork sausage, rice, and sauerkraut rolled up in cabbage for a tasty German-Russian dish.",
+    "recipeCuisine": [
+        "U.S.",
+        "German",
+        "Eastern European"
+    ],
+    "totalTime": "PT210M",
+    "cookTime": "PT150M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "181 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "41 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "527 mg",
+        "sugarContent": "3 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT60M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 heads cabbage, cored",
+        "1 cup apple cider vinegar",
+        "3 cups water",
+        "1.5 cups long grain rice",
+        "5 pounds ground beef",
+        "1 (16 ounce) package bulk pork sausage",
+        "0.25 cup diced onion",
+        "4 teaspoons salt",
+        "1.5 teaspoons garlic salt",
+        "1 teaspoon fresh-ground black pepper",
+        "1 (16 ounce) jar sauerkraut, drained and pureed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place cabbage in a large stockpot filled halfway with water; add vinegar. Cover and steam over low heat until leaves are tender, 1 to 1 1/2 hours. Remove cabbage, reserving vinegar cooking water. Rinse cabbage with cold water to chill, then separate leaves."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While cabbage is cooking, bring 3 cups water and rice to a boil in a saucepan over high heat, then reduce heat to low, cover, and simmer until rice is tender, about 20 minutes. Remove from heat and fluff with a fork; set aside to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a large skillet over medium heat. Cook and stir ground beef, pork sausage, onion, salt, garlic salt, and pepper until meat is browned and crumbly, 7 to 10 minutes. Drain and set aside to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover the bottom of a large roasting pan with a single layer of cabbage leaves."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir together cooked rice, meat mixture, and sauerkraut in a large bowl until well blended. Place 1/3 cup rice-meat filling into each remaining cabbage leaf and roll into a cylinder, tucking in the ends. Arrange rolls over cabbage leaves in the roasting pan. Pour in enough reserved vinegar cooking water to reach halfway up the sides of cabbage rolls. Cover the pan with a tight-fitting lid or aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 1/2 hours. Serve warm or at room temperature."
+        }
+    ],
+    "recipeYield": [
+        "40"
+    ]
+}

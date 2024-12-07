@@ -1,0 +1,91 @@
+{
+    "headline": "Pesto Pasta with Chicken",
+    "name": "Pesto Pasta with Chicken",
+    "description": "Easy chicken pesto pasta recipe made with saut\u00e9ed garlic chicken tossed with bow tie pasta, sun-dried tomatoes, and pesto sauce, ready in 30 minutes.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "328 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "22 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "154 mg",
+        "sugarContent": "2 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package bow tie pasta",
+        "1 teaspoon olive oil",
+        "2 cloves garlic, minced",
+        "2 skinless, boneless chicken breasts, cut into bite-sized pieces",
+        "1 pinch crushed red pepper flakes, or to taste",
+        "0.5 cup pesto sauce",
+        "0.33333334326744 cup oil-packed sun-dried tomatoes, drained and cut into strips"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VKGV2yvidzxshwWGbZ_UGdEkHOo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-46982-pesto-pasta-with-chicken-DDMFS-4x3-step-01-83531db656a74528b959e8811680ff5c.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5uYvcgITYuRw6FmbV2HknRyu3NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-46982-pesto-pasta-with-chicken-DDMFS-4x3-step-02-93da748e6d824704a203945ed47feab0.jpg"
+                }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tjG5601KoxtrskeC7XhbLLz4WuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-46982-pesto-pasta-with-chicken-DDMFS-4x3-step-03-c3ce86f94c5244b889c032af5f81107c.jpg"
+                }
+            ],
+            "text": "Heat oil in a large skillet over medium heat. Saut\u00e9 garlic until tender."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/4krP_4OcVRQDlZ8I-f9xR_uUPdk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-46982-pesto-pasta-with-chicken-DDMFS-4x3-step-04-f93848c5ee664c2c93be2f8ea589ae23.jpg"
+                }
+            ],
+            "text": "Stir in chicken and season with red pepper flakes. Cook until chicken is golden and cooked through."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ALYcbI-A_YYn5jiboWYPE2rt310=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-46982-pesto-pasta-with-chicken-DDMFS-4x3-5e043df9d5174cf4ac53612ee0f5b56e.jpg"
+                }
+            ],
+            "text": "Combine pasta, chicken, pesto, and sun-dried tomatoes in a large bowl; toss to coat evenly."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

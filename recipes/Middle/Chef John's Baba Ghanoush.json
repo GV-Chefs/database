@@ -1,0 +1,71 @@
+{
+    "headline": "Chef John's Baba Ghanoush",
+    "name": "Chef John's Baba Ghanoush",
+    "description": "A classic eggplant dip with a perfect balance of seasonings, Chef John's Baba Ghanoush is great for a summer party. Serve with pita chips and fresh veggies.",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT235M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "111 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "331 mg",
+        "sugarContent": "6 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "4 large Italian eggplants",
+        "2 cloves crushed garlic",
+        "2 teaspoons kosher salt, or to taste",
+        "1 lemon, juiced, or more to taste",
+        "3 tablespoons tahini, or more to taste",
+        "3 tablespoons extra-virgin olive oil",
+        "2 tablespoons plain Greek yogurt",
+        "1 pinch cayenne pepper, or to taste",
+        "1 leaf fresh mint, minced",
+        "2 tablespoons chopped fresh Italian parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Prick the surface of the skin of eggplants several times with the tip of a knife."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place eggplants directly on grill. Turn frequently with tongs while skin chars. Cook until eggplants have collapsed and are very soft, 25 to 30 minutes. Transfer to a bowl and cover tightly with aluminum foil and allow to cool, about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When eggplants are cool enough to handle, split them in half and scrape flesh into a colander placed over a bowl. Drain 5 or 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer eggplant to mixing bowl. Add crushed garlic and salt; mash until creamy but with a little texture, about 5 minutes. Whisk in lemon juice, tahini, olive oil, and cayenne pepper. Stir in yogurt."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/o_hVdAo7d8Up9fWhtV-Qov1uHYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2410297-chef-johns-baba-ghanoush-Chef-John-1x1-1-07c52bce99a04451be474541182bdee0.jpg"
+                }
+            ],
+            "text": "Cover bowl with plastic wrap and refrigerate until completely chilled, 3 or 4 hours. Taste to adjust seasonings. Stir in mint and parsley."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

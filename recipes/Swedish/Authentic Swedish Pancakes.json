@@ -1,0 +1,111 @@
+{
+    "headline": "Authentic Swedish Pancakes",
+    "name": "Authentic Swedish Pancakes",
+    "description": "This Swedish pancakes recipe makes stacks of small, authentic crepe-like pancakes that are soft, ready in minutes, and made with simple ingredients.",
+    "recipeCuisine": [
+        "Swedish",
+        "Dutch"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "66 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "47 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "122 mg",
+        "sugarContent": "2 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "3 eggs",
+        "1.25 cups milk",
+        "0.75 cup all-purpose flour",
+        "1 tablespoon white sugar",
+        "0.5 teaspoon salt",
+        "1 tablespoon butter, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8DxRqfIVNnkm7H4sUTbwg2qXne4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-246952-authentic-swedish-pancakes-DDMFS-4x3-step-01-97eb79c65738434aba59242872fa54a4.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oWacP53xg4hTt2ejt-eIkGPMx2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-246952-authentic-swedish-pancakes-DDMFS-4x3-step-02-117a09f3d6b440bcb8b114f145089607.jpg"
+                }
+            ],
+            "text": "Beat eggs in a bowl with an electric mixer until thick and lemon-colored, 3 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dKH3BxYxLfyiWqp7BOy0Q9oroXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-246952-authentic-swedish-pancakes-DDMFS-4x3-step-03-a2bbae23b26246c7912457a35f58c30c.jpg"
+                }
+            ],
+            "text": "Stir in milk."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/o0iNaxFCquGrdtE_MSsaExMc01U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-246952-authentic-swedish-pancakes-DDMFS-4x3-step-04-c6ac06e365814a188eb68393a0658bbc.jpg"
+                }
+            ],
+            "text": "Sift together flour, sugar, and salt in a separate bowl. Add to egg mixture; mix until batter is smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nznIn8KFmcRZ3T9q84-GC8k29m8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-246952-authentic-swedish-pancakes-DDMFS-4x3-step-05-7766848fe41b49bf9913f76c9e4ccfd4.jpg"
+                }
+            ],
+            "text": "Grease a griddle with butter; heat over medium heat. Drop tablespoonfuls of batter on the griddle; spread to make thin pancakes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vDEOg84Yl_JN7ulSGzZdGR8wPb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-246952-authentic-swedish-pancakes-DDMFS-4x3-step-06-48391f1717e244acb771fed0fbab7a99.jpg"
+                }
+            ],
+            "text": "Cook until light brown on bottom, 1 to 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/L19Qhu9ZL-yAc_1PlwhMO77MjGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-246952-authentic-swedish-pancakes-DDMFS-4x3-020-f3026a9f5ade4e8689713047c82916bb.jpg"
+                }
+            ],
+            "text": "Flip and continue cooking until second side is light brown, 1 to 2 minutes more. Repeat with remaining batter."
+        }
+    ],
+    "recipeYield": [
+        "13"
+    ]
+}

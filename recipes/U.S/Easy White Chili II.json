@@ -1,0 +1,52 @@
+{
+    "headline": "Easy White Chili II",
+    "name": "Easy White Chili II",
+    "description": "This slow cooker recipe uses chicken bouillon cubes and navy beans with chicken to make a hearty white chili.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT250M",
+    "cookTime": "PT240M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "352 kcal",
+        "carbohydrateContent": "49 g",
+        "cholesterolContent": "43 mg",
+        "fiberContent": "12 g",
+        "proteinContent": "34 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1771 mg",
+        "sugarContent": "2 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 skinless, boneless chicken breasts, cut into 1-inch pieces",
+        "1 (4 ounce) can chopped green chilies, undrained",
+        "0.5 (8 ounce) jar salsa",
+        "2 cubes chicken bouillon",
+        "1 (48 ounce) jar navy beans, rinsed and drained",
+        "2 cups water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine the chicken, green chilies, salsa, chicken bouillon, navy beans, and water in a slow cooker."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook on High until the chicken falls apart, about 4 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mash the chili with a potato masher to give a thicker texture, if desired."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "headline": "Bermuda Fish Chowder",
+    "name": "Bermuda Fish Chowder",
+    "description": "A deliciously spicy Bermuda fish chowder with red snapper fillets and chunks of russet potatoes in a brothy soup made with clam juice, jalape\u00f1os, and aromatics.",
+    "recipeCuisine": [
+        "Caribbean"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "227 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "33 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "657 mg",
+        "sugarContent": "7 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons vegetable oil",
+        "3 stalks celery, chopped",
+        "2 carrots, chopped",
+        "1 onion, chopped",
+        "1 green bell pepper, chopped",
+        "3 cloves garlic, minced",
+        "3 tablespoons tomato paste",
+        "4 cups clam juice",
+        "2 potatoes, peeled and cubed",
+        "1 (14.5 ounce) can peeled and diced tomatoes",
+        "2 tablespoons Worcestershire sauce",
+        "1 jalapeno pepper, seeded and minced",
+        "1 teaspoon ground black pepper",
+        "1 bay leaf",
+        "1 pound red snapper fillets, cut into 1 inch pieces"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large soup pot over medium heat. Add celery, carrots, onion, green pepper, and garlic; saut\u00e9 about 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in tomato paste, and cook for 1 minute. Add clam juice, potatoes, canned tomatoes with juice, Worcestershire sauce, jalape\u00f1o pepper, bay leaf, and ground black pepper. Simmer until potatoes are tender, stirring about every 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add fish. Simmer until snapper is easily flaked with fork, about 10 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

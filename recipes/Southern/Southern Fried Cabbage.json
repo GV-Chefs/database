@@ -1,0 +1,81 @@
+{
+    "headline": "Southern Fried Cabbage",
+    "name": "Southern Fried Cabbage",
+    "description": "Fried cabbage with crispy bacon and onion \u2014 delicious! This recipe is quick and easy to make for a superb side dish to serve with your favorite roast.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "189 kcal",
+        "carbohydrateContent": "14 g",
+        "cholesterolContent": "5 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "528 mg",
+        "sugarContent": "7 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "0.33333334326744 cup vegetable oil",
+        "3 slices bacon, cut into thirds",
+        "1 teaspoon salt, or to taste",
+        "1 teaspoon ground black pepper, or to taste",
+        "1 head cabbage, cored and sliced",
+        "1 white onion, chopped",
+        "1 pinch white sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iUYeK2_71hHQ828cQ0a04SSEPIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73833-southern-fried-cabbage-ddmfs-0625-3x4-ingredients-46062c25c3744be5bac29b9b68697fdf.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rbYjLmbXeeQxKrFMW63WLfBLOLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73833-southern-fried-cabbage-ddmfs-0630-3x4-step-02-0708410cf909423c98f955236c895a5d.jpg"
+                }
+            ],
+            "text": "Heat oil in a large pot over medium heat; add bacon and season with salt and pepper. Cook until bacon is crisp, 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/G0KYeyr5ytxCu9IcAVWze2bEILw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73833-southern-fried-cabbage-ddmfs-0631-3x4-step-03-c9818be401c346ce8db87ee7462a08e5.jpg"
+                }
+            ],
+            "text": "Add cabbage, onion, and sugar; cook and stir continuously until cabbage and onion are tender, about 5 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/BJqd7QYgxB6sHGeT0XwSAIBW9tU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73833-southern-fried-cabbage-ddmfs-0637-3x4-hero-88eda35b446a48f4a97f890ef1f2e366.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

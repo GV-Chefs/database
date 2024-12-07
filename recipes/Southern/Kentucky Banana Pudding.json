@@ -1,0 +1,50 @@
+{
+    "headline": "Kentucky Banana Pudding",
+    "name": "Kentucky Banana Pudding",
+    "description": "This banana pudding is made with evaporated milk and features a crust of vanilla wafers topped with creamy pudding and a layer of sliced bananas.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT100M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "461 kcal",
+        "carbohydrateContent": "79 g",
+        "cholesterolContent": "41 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "207 mg",
+        "sugarContent": "39 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (12 fluid ounce) can evaporated milk",
+        "1.5 cups milk",
+        "1 cup white sugar",
+        "0.25 cup cornstarch",
+        "1 egg, beaten",
+        "2 teaspoons vanilla extract",
+        "1 (12 ounce) package vanilla wafers",
+        "4 banana, sliced"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine evaporated milk, milk, sugar, cornstarch, and egg in a saucepan over medium heat. Cook and stir until thick. Remove pudding from heat; add vanilla and mix well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange a layer of wafers in a large bowl or casserole dish. Pour pudding over wafers and top with banana slices. Refrigerate until chilled, about 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

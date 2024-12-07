@@ -1,0 +1,62 @@
+{
+    "headline": "Authentic Italian Rice Pudding",
+    "name": "Authentic Italian Rice Pudding",
+    "description": "Treat your taste buds to this authentic Italian rice pudding made with a silky-smooth combo of cream and real custard.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT180M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "394 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "157 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "177 mg",
+        "sugarContent": "27 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "6 cups whole milk",
+        "0.75 cup Arborio rice",
+        "0.75 cup white sugar, divided",
+        "1 teaspoon vanilla extract",
+        "0.25 teaspoon salt",
+        "2 eggs",
+        "2 egg yolks",
+        "1 cup heavy whipping cream"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix milk, rice, 1/2 of the sugar, vanilla extract, and salt together in a saucepan over medium-high heat. Bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Blend remaining sugar with whole eggs and yolks in a bowl to make a creamy custard."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat of the milk mixture. Let simmer, uncovered, until thickened, 30 to 40 minutes. Fold in the custard. Heat until thickened again, about 5 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove the milk and custard mixture from heat. Let cool, about 10 minutes. Fold in the whipped cream. Pour pudding into a serving dish, cover, and refrigerate until chilled, at least 2 hours."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

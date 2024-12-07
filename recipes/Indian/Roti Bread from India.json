@@ -1,0 +1,49 @@
+{
+    "headline": "Roti Bread from India",
+    "name": "Roti Bread from India",
+    "description": "For durability, this version of roti bread, a delicate Indian flatbread, is made with durum wheat flour (semolina), the kind often used to make pasta.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "119 kcal",
+        "carbohydrateContent": "23 g",
+        "fiberContent": "4 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "98 mg",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Snack",
+        "Bread"
+    ],
+    "recipeIngredient": [
+        "2 cups durum wheat flour",
+        "0.75 cup water",
+        "1 tablespoon vegetable oil",
+        "0.5 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Stir flour, water, oil, and salt together in a medium bowl until well combined and pulling away from the sides. Turn dough out onto a well-floured surface and knead until smooth and pliable, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide dough into 12 equal pieces. Form each piece into a round. Working with one round at a time while all others are covered with a damp cloth, flatten with the palm of your hand, then use a rolling pin to roll into 6- to 8-inch diameter circle."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a dry skillet or tava over medium-high heat. Cook one roti at a time in the hot skillet until golden with some darker brown spots, about 1 minute per side, As it cooks, roll the next roti. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

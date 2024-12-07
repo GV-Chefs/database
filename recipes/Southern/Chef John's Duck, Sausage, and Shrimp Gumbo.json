@@ -1,0 +1,89 @@
+{
+    "headline": "Chef John's Duck, Sausage, and Shrimp Gumbo",
+    "name": "Chef John's Duck, Sausage, and Shrimp Gumbo",
+    "description": "Chef John's sumptuous duck gumbo is made with pork, sausage, shrimp, and crawfish meat. Serve it with a scoop of cooked rice for a Louisiana treat.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT405M",
+    "cookTime": "PT375M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "485 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "221 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "37 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "717 mg",
+        "sugarContent": "2 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon vegetable oil, or more as needed",
+        "2 duck legs",
+        "1 cup all-purpose flour",
+        "2 tablespoons all-purpose flour",
+        "6 cups chicken broth",
+        "1 pound andouille sausage, thickly sliced",
+        "1 large onion, chopped",
+        "1 cup diced peppers",
+        "1 cup chopped celery",
+        "4 green onions, chopped",
+        "1 teaspoon ground black pepper",
+        "0.5 teaspoon dried thyme",
+        "0.25 teaspoon cayenne pepper, or to taste",
+        "1 bay leaf",
+        "1 cup diced fresh tomatoes",
+        "1 smoked ham hock",
+        "2 cups water, or as needed",
+        "1 cup pickled okra, rinsed and sliced",
+        "1 pound gulf shrimp",
+        "1 pound crawfish tail meat",
+        "1 tablespoon chopped green onion"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over medium heat. Cook duck legs in hot oil, skin-side down, until browned and fat has rendered, about 10 minutes. Flip and cook until the other side is browned, 3 to 4 minutes. Transfer to a plate, leaving rendered fat in the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk 1 cup flour into fat in the skillet, adding enough oil to make a thick and smooth roux. Reduce heat to medium-low and cook, stirring constantly, until roux turns a rich, reddish-brown color, about 40 minutes. Whisk in 2 more tablespoons flour and cook for 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk in broth, 1 cup at a time, until incorporated. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook sausage in a large Dutch oven over medium heat until browned, about 8 minutes. Stir in onion, peppers, celery, and chopped green onions; cook and stir until onion is translucent, about 10 minutes. Stir in black pepper, thyme, cayenne pepper, and bay leaf, followed by diced tomatoes until combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place ham hock into the center of the Dutch oven. Pour roux mixture over ham hock along with enough water to cover. Place duck legs into mixture. Bring to a simmer, then reduce heat to low. Cover with a lid set at an angle to let steam out. Simmer slowly, stirring occasionally, until duck and ham hock meat are tender, about 4 hours. Skim as much fat as possible off the top as it simmers."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer duck legs and ham hock to a large bowl and let cool. Stir pickled okra into gumbo. Pick meat from duck legs and ham hock and return meat to gumbo. Simmer gumbo for 45 more minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/3S9YErh4x2aJsf_sPCVZthqGlxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1787584-b868c43318d34374b6fc6c9f4197d598.jpg"
+                }
+            ],
+            "text": "Increase heat to medium-high and bring to a boil. Stir in shrimp and crawfish tails; cook until both are bright pink, about 3 minutes. Stir in remaining 1 tablespoon sliced green onions. Taste and adjust for seasoning."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

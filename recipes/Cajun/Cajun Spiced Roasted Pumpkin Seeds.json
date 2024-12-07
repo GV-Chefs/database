@@ -1,0 +1,53 @@
+{
+    "headline": "Cajun Spiced Roasted Pumpkin Seeds",
+    "name": "Cajun Spiced Roasted Pumpkin Seeds",
+    "description": "A hint of Cajun seasoning spices up these savory pumpkin seeds. Wash away as much pulp as possible from your seeds and dry them beforehand.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "80 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "6 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "122 mg",
+        "sugarContent": "0 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "1 cup raw whole pumpkin seeds, washed and dried",
+        "1 teaspoon paprika",
+        "0.75 teaspoon Cajun seasoning, or to taste",
+        "salt to taste",
+        "2 dashes Worcestershire sauce",
+        "1 tablespoon butter, melted"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 300 degrees F (150 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Toss pumpkin seeds with paprika, Cajun seasoning, and salt until coated. Mix Worcestershire sauce with melted butter in a small bowl, pour over seeds, and stir to to combine. Spread seeds onto a baking sheet in a single layer."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast seeds in the preheated oven until browned and crunchy, 45 minutes to 1 hour; stir and turn seeds several times during roasting."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

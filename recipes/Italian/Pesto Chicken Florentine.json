@@ -1,0 +1,65 @@
+{
+    "headline": "Pesto Chicken Florentine",
+    "name": "Pesto Chicken Florentine",
+    "description": "Spinach, chicken and pasta are smothered in a glorious creamy pesto sauce.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "572 kcal",
+        "carbohydrateContent": "57 g",
+        "cholesterolContent": "84 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "42 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1707 mg",
+        "sugarContent": "2 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "2 cloves garlic, finely chopped",
+        "4 skinless, boneless chicken breast halves - cut into strips",
+        "2 cups fresh spinach leaves",
+        "1 (4.5 ounce) package dry Alfredo sauce mix",
+        "2 tablespoons pesto",
+        "1 (8 ounce) package dry penne pasta",
+        "1 tablespoon grated Romano cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet over medium high heat. Add garlic, saute for 1 minute; then add chicken and cook for 7 to 8 minutes on each side. When chicken is close to being cooked through (no longer pink inside), add spinach and saute all together for 3 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, prepare Alfredo sauce according to package directions. When finished, stir in 2 tablespoons pesto; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large pot of salted boiling water, cook pasta for 8 to 10 minutes or until al dente. Rinse under cold water and drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/apgN4dJwilJnXiVIOghQpnfg30s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16723pesto-chicken-florentineMyHotSouthernMess4x3-9d5976d8f1254334bec08284d897cb3a.jpg"
+                }
+            ],
+            "text": "Add chicken/spinach mixture to pasta, then stir in pesto/Alfredo sauce. Mix well, top with cheese and serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

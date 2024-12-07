@@ -1,0 +1,68 @@
+{
+    "headline": "Gluten-Free Italian Meatballs",
+    "name": "Gluten-Free Italian Meatballs",
+    "description": "If you love Italian food, but cannot tolerate the gluten you will enjoy these meatballs made with gluten-free breadcrumbs. They are delicious!!",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "324 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "104 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "786 mg",
+        "sugarContent": "7 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup milk",
+        "1 egg",
+        "1 cup gluten-free Italian bread crumbs",
+        "1.5 pounds ground beef",
+        "0.25 onion, minced",
+        "1 clove garlic, minced",
+        "1 sprig fresh parsley, chopped",
+        "cooking spray",
+        "1 (28 ounce) jar tomato sauce, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Beat milk and egg together in a large bowl. Mix bread crumbs in until a paste forms. Add ground beef, onion, garlic, and parsley, and mix with your hands until just combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Coat a baking sheet with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Measure meatballs using an ice cream scoop. Roll balls with dampened hands and place on the prepared baking sheet"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until meatballs are no longer pink in the center and an instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C), about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While meatballs bake, heat tomato sauce in saucepan over medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add baked meatballs to the sauce and simmer, uncovered, for 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

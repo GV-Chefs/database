@@ -1,0 +1,54 @@
+{
+    "headline": "Bite-Sized Salmon Tikka",
+    "name": "Bite-Sized Salmon Tikka",
+    "description": "Salmon is versatile, highly nutritious, and can be bought fresh or frozen. This 'Indianised' recipe is quick, tasty, and ideal as a short snack or a meal eaten with a salad.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "229 kcal",
+        "carbohydrateContent": "4 g",
+        "cholesterolContent": "50 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "629 mg",
+        "sugarContent": "0 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons ground red pepper (cayenne)",
+        "0.5 teaspoon ground turmeric",
+        "0.5 teaspoon salt",
+        "0.5 pound wild Pacific salmon fillets, cut into 1-inch cubes",
+        "2 teaspoons cornstarch",
+        "0.5 cup oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix together the cayenne, turmeric, and salt in a bowl. Add the salmon to the bowl and toss to coat. Allow to sit 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the oil in a skillet over medium-high heat. While the oil is heating, sprinkle the cornstarch over the salmon and again toss to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook the salmon in the heated oil until golden brown, about 1 minute per side."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

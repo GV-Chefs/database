@@ -1,0 +1,78 @@
+{
+    "headline": "Southern Fried Apples",
+    "name": "Southern Fried Apples",
+    "description": "These fried apples made with just 3 ingredients are cooked in butter and sweetened with sugar and cinnamon for an easy dessert or ice cream topping.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "369 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "61 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "15 g",
+        "sodiumContent": "165 mg",
+        "sugarContent": "39 g",
+        "fatContent": "23 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "0.5 cup butter",
+        "0.5 cup white sugar",
+        "2 tablespoons ground cinnamon",
+        "4 Granny Smith apples - peeled, cored, and sliced"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/s4PBq9CZPrQBFhsm92K1qtrL2lQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-Step-1-57a3531f4d1f4bc892bc412be4d06b54.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0ymOAHQzaD_NKDBQcUy6ThySPTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-Step-3-4ce76e82228d4f108e7c5d9f75480930.jpg"
+                }
+            ],
+            "text": "Melt butter in a large skillet over medium heat. Add sugar and cinnamon; stir until sugar dissolves."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RzeBfKfxBMMt9OL9NUD3jnGHb1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-Step-4-c2b6c49f8b254384bb1f403b60e6340f.jpg"
+                }
+            ],
+            "text": "Add apples and cook until softened, 5 to 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/10UHXv4hY-wRtgKNN8adjfGrQuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-4x3-4faad17732c741fc957deb7a2ef849ec.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

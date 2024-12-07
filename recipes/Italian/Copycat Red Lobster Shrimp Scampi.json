@@ -1,0 +1,105 @@
+{
+    "headline": "Copycat Red Lobster Shrimp Scampi",
+    "name": "Copycat Red Lobster Shrimp Scampi",
+    "description": "This copycat Red Lobster shrimp scampi is my recreation of the scampi served by the familiar seafood restaurant known for lobster, crab legs, and shrimp. Jumbo shrimp in a lemon, wine, and garlic sauce comes together quickly, and is truly restaurant-worthy.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "2276 kcal",
+        "carbohydrateContent": "50 g",
+        "cholesterolContent": "3838 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "417 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "17285 mg",
+        "sugarContent": "8 g",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 pound (12 to 16 per pound) jumbo shrimp, peeled and deveined",
+        "2 tablespoon pinot grigio",
+        "1 tablespoon melted butter",
+        "2 teaspoon fresh squeezed lemon juice",
+        "2 garlic cloves, minced",
+        "Pinch salt",
+        "Pinch crushed red pepper flakes",
+        "2 tablespoon finely shredded Parmesan cheese",
+        "Chopped parsley for garnish",
+        "Lemon wedges for garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wbDNY7_LhnGKN2YQcngJDZeIMHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730066-copycat-red-lobster-shrimp-scampi-recipe-VAT-step-01-336e10725e634e6d85259b0996cc883d.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Preheat the oven\u2019s broiler to 500 degrees F (260 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/pei0cHlCS2Hcbn5PJ3cgfiWvIwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730066-copycat-red-lobster-shrimp-scampi-recipe-VAT-step-02-eef462e5074e4848bf48041f3aae1079.jpg"
+                }
+            ],
+            "text": "Place shrimp in a pinwheel fashion in an oven-safe dish, such as a glass pie plate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ukhTCTKyLyGfV00JeDYis4MjAn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730066-copycat-red-lobster-shrimp-scampi-recipe-VAT-step-03-2-edc162facb504cab9b75a35530aee7fb.jpg"
+                }
+            ],
+            "text": "Stir pinot grigio, melted butter, lemon juice, garlic, salt, and crushed red pepper flakes together in a cup."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qLXavQUgdHOpe2HnTygZzQp8ddE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730066-copycat-red-lobster-shrimp-scampi-recipe-VAT-step-04-569db493f3394cfaa9539d54fa273e4e.jpg"
+                }
+            ],
+            "text": "Poor mixture over shrimp. Sprinkle Parmesan over shrimp."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SozUD-ltJu6Ow3x0Jt8tV3rfgPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730066-copycat-red-lobster-shrimp-scampi-recipe-VAT-step-05-f715465b44b94f22a458d50ff53e333b.jpg"
+                }
+            ],
+            "text": "Broil until shrimp is pink and tails curl inward, about 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/t81uRBmFvIym5hSzrNUqKX3VeUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-8730066-copycat-red-lobster-shrimp-scampi-recipe-VAT-step-06-9d4da0d4442d450f9c6261a24bf8a74b.jpg"
+                }
+            ],
+            "text": "Sprinkle with chopped parsley and serve with lemon wedges."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

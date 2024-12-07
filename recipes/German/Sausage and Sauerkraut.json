@@ -1,0 +1,62 @@
+{
+    "headline": "Sausage and Sauerkraut",
+    "name": "Sausage and Sauerkraut",
+    "description": "Sauerkraut and sausage are cooked with bacon, brown sugar, and apple for balanced flavors in this hearty German-inspired dish that will warm you up.",
+    "recipeCuisine": [
+        "German"
+    ],
+    "totalTime": "PT215M",
+    "cookTime": "PT200M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "777 kcal",
+        "carbohydrateContent": "29 g",
+        "cholesterolContent": "128 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "26 g",
+        "sodiumContent": "2702 mg",
+        "sugarContent": "20 g",
+        "fatContent": "62 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 pounds sauerkraut, rinsed and drained",
+        "1 tablespoon caraway seeds",
+        "0.25 cup brown sugar",
+        "1 apple, diced",
+        "cooking spray",
+        "0.5 pound bacon, cut into 1-inch pieces",
+        "1 large onion, chopped",
+        "1.5 pounds kielbasa sausage, cut into 1-inch thick slices"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place sauerkraut, caraway seeds, brown sugar, and apple into a large saucepan over medium-low heat, and bring to a simmer. Reduce heat to low, and cook for 2 hours, stirring occasionally."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking dish. Place bacon and onion into a skillet over medium heat, and cook until bacon is almost crisp and onion is beginning to brown, about 10 minutes. Stir the bacon mixture into the sauerkraut."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Brown kielbasa sausage in remaining bacon grease in the same skillet until sausage begins to brown, 10 to 15 minutes; stir into the sauerkraut mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon the sauerkraut and sausage mixture into the prepared baking dish. Bake in the preheated oven until bubbling, about 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

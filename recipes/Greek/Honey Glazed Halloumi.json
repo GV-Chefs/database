@@ -1,0 +1,64 @@
+{
+    "headline": "Honey Glazed Halloumi",
+    "name": "Honey Glazed Halloumi",
+    "description": "This honey glazed halloumi is sliced, marinated in a tangy, flavorful honey sesame sauce, then browned quickly in a skillet. Greek in origin, and with a high melting point, this is classic fried halloumi with a twist.",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "214 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "26 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "209 mg",
+        "sugarContent": "12 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Appetizer",
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "7 ounce block of halloumi cheese",
+        "1/4 cup honey",
+        "1 tablespoon sesame oil",
+        "1 tablespoon freshly-squeezed lime juice",
+        "2 teaspoons dried minced garlic (such as McCormick\u00ae)",
+        "1 teaspoon sesame seeds",
+        "1/2 teaspoon red pepper chili flakes or to taste",
+        "2 tablespoons olive oil",
+        "fresh lime wedges"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Slice halloumi lengthwise into 6 equal slices and pat dry with a paper towel. Add halloumi slices to a shallow container."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For glaze, combine honey, sesame oil, lime juice, minced garlic, sesame seeds, and chili flakes in a small bowl. Spoon glaze over halloumi, cover, and marinate in the refrigerator for at least 1 hour or up to overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a skillet over medium heat. Place halloumi in the pan, leaving plenty of space between slices. Cook until slices are a nice golden brown, 1 to 2 minutes per side. They will brown quickly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lower the heat to a simmer, add any remaining glaze to the skillet to quickly warm up. Spoon glaze over halloumi until well coated."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place halloumi slices on a plate with some fresh lime wedges, drizzle with any leftover glaze in the skillet, and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

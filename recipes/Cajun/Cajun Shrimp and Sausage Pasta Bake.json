@@ -1,0 +1,73 @@
+{
+    "headline": "Cajun Shrimp and Sausage Pasta Bake",
+    "name": "Cajun Shrimp and Sausage Pasta Bake",
+    "description": "This Cajun shrimp and sausage pasta bake is fast to assemble featuring andouille sausage and shrimp in a creamy Cajun Alfredo sauce.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "635 kcal",
+        "carbohydrateContent": "35 g",
+        "cholesterolContent": "219 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "19 g",
+        "sodiumContent": "2457 mg",
+        "sugarContent": "5 g",
+        "fatContent": "39 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon butter",
+        "1 tablespoon flour",
+        "2 cloves minced garlic",
+        "1 tablespoon cajun seasoning",
+        "1/2 cup 2% milk",
+        "1/2 cup half and half",
+        "1/2 cup reserved pasta water",
+        "4 ounces alouette garlic and herb cheese",
+        "1 cup grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch casserole dish. Bring a pot of lightly salted water to a boil.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt 1 tablespoon butter in a heavy skillet. Add onion and bell pepper, and cook until softened, 3 to 5 minutes. Stir in sausage and shrimp. Turn off heat; the residual heat will cook the shrimp and warm the sausage. Remove skillet from heat after a few minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir penne into boiling water and return to a boil. Cook pasta uncovered, stirring occasionally, for 6 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Using a slotted spoon, transfer about half of pasta to the skillet. Transfer remaining pasta to prepared casserole. Reserve 1/2 cup pasta water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a saucepan, melt 1 tablespoon butter over medium heat and whisk in flour. Add garlic and Cajun seasoning. Whisking constantly, slowly pour in milk, half and half, and reserved pasta water until sauce is smooth and bubbly, 2 to 3 minutes. Stir in Parmesan cheese and allow it to melt, 1 to 2 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour half of sauce over pasta in the casserole. Transfer sausage mixture to the casserole, and use a spoon to gently blend all ingredients. Pour remaining sauce over pasta mixture. Cover casserole with foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until heated through and bubbly, about 25 minutes. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

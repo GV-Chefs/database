@@ -1,0 +1,43 @@
+{
+    "headline": "Lime Fluff",
+    "name": "Lime Fluff",
+    "description": "A Georgia favorite! Great with everything! Make a lot for large gatherings, it disappears quickly! You can use any kind of nuts you like; adjust the amount to suit your preference.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "532 kcal",
+        "carbohydrateContent": "76 g",
+        "cholesterolContent": "22 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "152 mg",
+        "sugarContent": "57 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (6 ounce) package lime flavored Jell-O\u00ae mix",
+        "1 (8 ounce) container frozen whipped topping, thawed",
+        "1 (20 ounce) can crushed pineapple with juice",
+        "1 (16 ounce) container sour cream",
+        "1 (16 ounce) package miniature marshmallows",
+        "1 cup chopped pecans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, mix together gelatin, whipped topping, pineapple with juice, sour cream, marshmallows, and pecans. Cover and chill in refrigerator for at least 1 hour. Serve cold."
+        }
+    ],
+    "recipeYield": [
+        "9"
+    ]
+}

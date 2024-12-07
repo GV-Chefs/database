@@ -1,0 +1,82 @@
+{
+    "headline": "Italian White Bean and Sausage Stew",
+    "name": "Italian White Bean and Sausage Stew",
+    "description": "Bursting with beans, greens, and sausage, Chef John's white bean and sausage stew is comforting and nutritious and warms you from the inside out.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT585M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "669 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "75 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "36 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1989 mg",
+        "sugarContent": "3 g",
+        "fatContent": "39 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 cups dry cannellini beans",
+        "4 (6 ounce) Italian sausage links with garlic and fennel",
+        "1 cup chopped yellow onion",
+        "0.33333334326744 cup dry white wine",
+        "1 teaspoon freshly ground black pepper",
+        "0.25 teaspoon red pepper flakes",
+        "1 bay leaf",
+        "6 cups water, or to taste",
+        "1 teaspoon salt, plus more to taste",
+        "4 cups chopped kale",
+        "1 tablespoon extra-virgin olive oil, or to taste",
+        "6 tablespoons grated Parmigiano-Reggiano cheese, or to taste",
+        "6 pinches red pepper flakes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Soak beans in cold water, 8 hours to overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain beans and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make a cut down the center of each sausage and peel off the casing. Transfer sausage into a dry soup pot over medium-high heat. Brown sausage, while breaking it up into small pieces with a wooden spoon, 5 to 7 minutes. Cook and stir until juices start to caramelize and stick to the bottom of the pan, creating a fond, 3 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onion and stir to coat in the rendered sausage fat. Cook until onion starts to turn translucent, about 5 minutes. Add white wine to deglaze the pot. Add black pepper, red pepper flakes, bay leaf, and water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add drained beans, increase heat to high, and bring to a boil. Once boiling, reduce heat to medium-low and simmer for 30 minutes. Add salt and continue to simmer until beans are tender, about 30 more minutes. Taste beans to be certain they are perfectly cooked."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Smash about 1/4 of the beans with a potato masher to give the stew a creamy texture if desired. Stir in chopped kale, increase heat to medium, and cook until tender, 10 to 15 minutes. Taste and adjust salt."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Ang4gBpcZqNLDbh1LRWrPxoFU3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8016927-413f2748d0254e27a1acfe7a70c91fe4.jpg"
+                }
+            ],
+            "text": "Ladle hot soup into bowls, drizzle with olive oil, and sprinkle with Parmigiano-Reggiano cheese and a pinch of red pepper flakes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

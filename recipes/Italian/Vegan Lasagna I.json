@@ -1,0 +1,84 @@
+{
+    "headline": "Vegan Lasagna I",
+    "name": "Vegan Lasagna I",
+    "description": "A thick tomato-based sauce is cooked up with hints of garlic, onion, parsley, and basil, and layered with a tofu and spinach filling.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT150M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "511 kcal",
+        "carbohydrateContent": "70 g",
+        "fiberContent": "11 g",
+        "proteinContent": "33 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "1074 mg",
+        "sugarContent": "12 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "1.5 cups chopped onion",
+        "3 tablespoons minced garlic",
+        "4 (14.5 ounce) cans stewed tomatoes",
+        "0.33333334326744 cup tomato paste",
+        "0.5 cup chopped fresh basil",
+        "0.5 cup chopped parsley",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1 (16 ounce) package lasagna noodles",
+        "2 pounds firm tofu",
+        "2 tablespoons minced garlic",
+        "0.25 cup chopped fresh basil",
+        "0.25 cup chopped parsley",
+        "0.5 teaspoon salt",
+        "ground black pepper to taste",
+        "3 (10 ounce) packages frozen chopped spinach, thawed and drained"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Make the sauce: In a large, heavy saucepan, over medium heat, heat the olive oil. Place the onions in the saucepan and saute them until they are soft, about 5 minutes. Add the garlic; cook 5 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place the tomatoes, tomato paste, basil and parsley in the saucepan. Stir well, turn the heat to low and let the sauce simmer covered for 1 hour. Add the salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the sauce is cooking bring a large kettle of salted water to a boil. Boil the lasagna noodles for 9 minutes, then drain and rinse well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place the tofu blocks in a large bowl. Add the garlic, basil and parsley. Add the salt and pepper, and mash all the ingredients together by squeezing pieces of tofu through your fingers. Mix well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Assemble the lasagna: Spread 1 cup of the tomato sauce in the bottom of a 9x13 inch casserole pan. Arrange a single layer of lasagna noodles, sprinkle one-third of the tofu mixture over the noodles. Distribute the spinach evenly over the tofu. Next ladle 1 1/2 cups tomato sauce over the tofu, and top it with another layer of the noodles. Then sprinkle another 1/3 of the tofu mixture over the noodles, top the tofu with 1 1/2 cups tomato sauce, and place a final layer of noodles over the tomato sauce. Finally, top the noodles with the final 1/3 of the tofu, and spread the remaining tomato sauce over everything."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/LAmqMTDB7WzwSX9RJ0vXxe_SLBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4547703-4da0dc5e9afd4076b1f1cdbb1e38f386.jpg"
+                }
+            ],
+            "text": "Cover the pan with foil and bake the lasagna for 30 minutes. Serve hot and enjoy."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

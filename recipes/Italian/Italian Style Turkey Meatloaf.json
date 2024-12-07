@@ -1,0 +1,60 @@
+{
+    "headline": "Italian Style Turkey Meatloaf",
+    "name": "Italian Style Turkey Meatloaf",
+    "description": "Turkey meatloaf gets an Italian flair through the use of Italian-style bread crumbs and Italian seasoning.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "163 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "87 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "651 mg",
+        "sugarContent": "4 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "cooking spray",
+        "1 pound ground turkey",
+        "1 egg",
+        "0.25 cup Italian seasoned bread crumbs",
+        "1 teaspoon Italian seasoning",
+        "0.5 clove garlic, minced",
+        "0.5 teaspoon ground black pepper, or to taste",
+        "0.25 teaspoon salt, or to taste",
+        "2 cups tomato sauce, divided"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C). Prepare a baking dish with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix turkey, egg, bread crumbs, Italian seasoning, garlic, black pepper, and salt in a large bowl; shape into a loaf and put into prepared baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven for 40 minutes. Spoon about half the tomato sauce over the loaf and continue baking until the meatloaf is no longer pink in the center, 10 to 15 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Rest meatloaf 5 to 10 minutes before slicing to serve."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the meatloaf rests, warm remaining tomato sauce in a small saucepan over medium-low heat; serve with the sliced meatloaf."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

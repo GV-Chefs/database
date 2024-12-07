@@ -1,0 +1,53 @@
+{
+    "headline": "Okra and Tomatoes",
+    "name": "Okra and Tomatoes",
+    "description": "Okra and tomatoes are saut\u00e9ed with onion, green pepper, and celery in this easy recipe; garnish with crumbled bacon for a tasty side dish.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "65 kcal",
+        "carbohydrateContent": "11 g",
+        "cholesterolContent": "4 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "282 mg",
+        "sugarContent": "6 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 slices bacon",
+        "1 pound frozen okra, thawed and sliced",
+        "1 small onion, chopped",
+        "0.5 green bell pepper, chopped",
+        "2 celery, chopped",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly browned and crisp. Drain; crumble bacon onto a plate and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add okra, onion, pepper, and celery to the pan; saut\u00e9 until tender. Add tomatoes, salt, and pepper; cook and stir until tomatoes are heated through."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Garnish with crumbled bacon."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

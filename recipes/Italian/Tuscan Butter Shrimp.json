@@ -1,0 +1,102 @@
+{
+    "headline": "Tuscan Butter Shrimp",
+    "name": "Tuscan Butter Shrimp",
+    "description": "These Tuscan butter shrimp, in a delightful cherry tomato and sun-dried tomato cream sauce, can be served over pasta or polenta, or with a salad and toasted sourdough bread.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "540 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "238 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "21 g",
+        "sodiumContent": "1279 mg",
+        "sugarContent": "5 g",
+        "fatContent": "41 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 pound peeled, deveined large raw shrimp, patted dry",
+        "1 teaspoon kosher salt",
+        "1/2 teaspoon ground black pepper",
+        "2 tablespoon unsalted butter, divided",
+        "2 tablespoons oil from jar of oil-packed sun-dried tomatoes, divided",
+        "1 1/2 cups cherry tomatoes, halved",
+        "1/2 cup drained and finely chopped oil-packed sun-dried tomatoes",
+        "1/2 cup thinly sliced shallot",
+        "3 medium garlic cloves, thinly sliced",
+        "1 cup packed fresh baby spinach",
+        "1/2 cup loosely packed fresh basil leaves, sliced, plus more for garnish",
+        "1/2 cup dry white wine",
+        "1 teaspoon grated lemon zest",
+        "1/4 teaspoon crushed red pepper",
+        "1 cup heavy cream",
+        "2 ounce Parmesan cheese, grated, plus more for garnish",
+        "1 teaspoon fresh lemon juice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Gaet-i6TTleRb2N1KP-N4hseWbo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654858-tuscan-butter-shrimp-ddmfs-5801-01-3x4-385e3ee9c6e74244bae7ae6327e86c2a.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/DliV7uwLXKp1M64oSygydnPFoz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654858-tuscan-butter-shrimp-ddmfs-5805-02-3x4-51983160ab4043619b490798c8b4d347.jpg"
+                }
+            ],
+            "text": "Toss shrimp with salt and pepper in a large bowl until well combined. Heat a large high-sided skillet over medium heat. Add 1 tablespoon butter and 1 tablespoon sun-dried tomato oil; heat until shimmering, about 2 minutes. Add shrimp in an even layer, and cook until opaque and pink, 3 to 4 minutes, flipping shrimp halfway through cooking time. Transfer shrimp to a large plate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Fm-zRwnmqhlJucISUr1WtXhjO9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654858-tuscan-butter-shrimp-ddmfs-5807-03-3x4-f0b27e9489154912bf88a23cf7dbb6d8.jpg"
+                }
+            ],
+            "text": "Melt remaining 1 tablespoon butter with remaining 1 tablespoon sun-dried tomato oil in the same skillet; stir in cherry tomatoes, shallot, garlic, and sun-dried tomatoes. Cook, stirring occasionally, until tomatoes are soft and shallot is translucent, about 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rhF_R_4Xo-OEGEjRIxVkilKvjaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654858-tuscan-butter-shrimp-ddmfs-5810-04-3x4-546cf100a07c454a9355ab5d33a07c47.jpg"
+                }
+            ],
+            "text": "Stir spinach, basil, wine, lemon zest, and crushed red pepper into mixture in skillet; cook over medium, scraping up any browned bits from bottom of skillet, until wine mixture is reduced by half, about 2 minutes. Stir in heavy cream. Reduce heat to low, and add Parmesan cheese; cook, stirring constantly, until mixture is slightly thickened and simmering, about 2 minutes. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iu08mxfdD-mAIAFjRFZYbD8OL40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654858-tuscan-butter-shrimp-ddmfs-5811-05-3x4-0c31340ab7ff4537bedce60d30263449.jpg"
+                }
+            ],
+            "text": "Stir in lemon juice; add cooked shrimp along with any juices from plate. Garnish with additional basil and Parmesan cheese."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

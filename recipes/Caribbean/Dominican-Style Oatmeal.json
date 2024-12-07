@@ -1,0 +1,45 @@
+{
+    "headline": "Dominican-Style Oatmeal",
+    "name": "Dominican-Style Oatmeal",
+    "description": "While living in the Dominican Republic, I discovered their creamy, easy, and flavorful way of preparing oatmeal. Such a comforting way to begin the day!",
+    "recipeCuisine": [
+        "Caribbean"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "220 kcal",
+        "carbohydrateContent": "35 g",
+        "cholesterolContent": "15 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "154 mg",
+        "sugarContent": "21 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1.5 cups milk",
+        "0.5 cup quick cooking oats",
+        "2 tablespoons white sugar",
+        "0.25 teaspoon ground cinnamon",
+        "1 pinch ground nutmeg",
+        "1 pinch salt",
+        "0.25 teaspoon lemon zest"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine milk, oats, sugar, cinnamon, nutmeg, and salt in a saucepan. Add lemon zest, if using. Bring to a boil, stirring constantly, until oats are tender, about 2 minutes."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "headline": "Sheet Pan Summer Gnocchi",
+    "name": "Sheet Pan Summer Gnocchi",
+    "description": "This sheet pan summer gnocchi highlights colorful, vibrant summer vegetables. Adding tomato basil chicken sausage makes it a complete dinner.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "550 kcal",
+        "carbohydrateContent": "46 g",
+        "cholesterolContent": "129 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "36 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "844 mg",
+        "sugarContent": "7 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "12 ounces prepared gnocchi",
+        "1 zucchini, sliced into 1/2-inch thick coins",
+        "1 summer squash, halved lengthwise, and sliced into 1/2-inch thick half-moons",
+        "1 small onion, cut into chunks",
+        "1 pint cherry tomatoes, halved",
+        "1 pound tomato basil chicken sausage, cut into 1/2-inch thick coins",
+        "2 tablespoon olive oil",
+        "3 garlic cloves, minced",
+        "1/2 teaspoon Italian seasoning",
+        "3 tablespoon freshly prepared pesto"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place gnocchi, zucchini, summer squash, onion, tomatoes, and sausage on a rimmed sheet pan. Drizzle olive oil evenly over mixture. Add garlic and Italian seasoning; toss to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until vegetables are tender, about 35 minutes. Dollop pesto over the mixture, toss to combine, and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

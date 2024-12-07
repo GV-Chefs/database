@@ -1,0 +1,122 @@
+{
+    "headline": "Chicken Makhani (Indian Butter Chicken)",
+    "name": "Chicken Makhani (Indian Butter Chicken)",
+    "description": "This butter chicken recipe, or chicken makhani, is a favorite Indian dish that features a full-flavored sauce with spices that complement chicken.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "408 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "107 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "523 mg",
+        "sugarContent": "5 g",
+        "fatContent": "28 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons peanut oil, divided",
+        "1 shallot, finely chopped",
+        "0.25 white onion, chopped",
+        "2 tablespoons butter",
+        "1 tablespoon ginger garlic paste",
+        "2 teaspoons lemon juice",
+        "2 teaspoons garam masala, divided",
+        "1 teaspoon chili powder",
+        "1 teaspoon ground cumin",
+        "1 bay leaf",
+        "1 cup tomato puree",
+        "1 cup half-and-half",
+        "0.25 cup plain yogurt",
+        "1 pinch salt and ground black pepper to taste",
+        "1 pound boneless, skinless chicken thighs, cut into bite-size pieces",
+        "0.25 teaspoon cayenne pepper, or to taste",
+        "1 tablespoon cornstarch",
+        "0.25 cup water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ALo-_GCgAfs2U9CCLZb6iqxLhxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45957-ChickenMakhaniIndianButterChicken-mfs-Step1-0016-028c1e94e23d4387aff0b606dfee0b52.jpg"
+                }
+            ],
+            "text": "Heat 1 tablespoon oil in a large saucepan over medium-high heat. Saut\u00e9 shallot and onion until soft and translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EW91XFazIJ7DfFMT7dK-WdHpn-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45957-ChickenMakhaniIndianButterChicken-mfs-Step2-0017-48e3218ab32a46be85d3a8ad4a347233.jpg"
+                }
+            ],
+            "text": "Stir in butter, ginger-garlic paste, lemon juice, 1 teaspoon garam masala, chili powder, cumin, and bay leaf. Cook and stir for 1 minute. Add tomato sauce, and cook for 2 minutes, continuing to frequently stir."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/uu6dTy8Xch_IriXpqiSypXKxh54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45957-ChickenMakhaniIndianButterChicken-mfs-Step3-0025-c994e98183444a8fb52860632cf9c1cb.jpg"
+                }
+            ],
+            "text": "Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, frequently stirring. Season with salt and pepper. Remove from heat and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/njTQqoDcvqLaWhD8GqwAAcgtk3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45957-ChickenMakhaniIndianButterChicken-Step4-0022-67d91823c76d40219d03ae51bc3ac576.jpg"
+                }
+            ],
+            "text": "Heat remaining 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UNqpNGAZeRAm1LO6LVvvv8Xl198=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45957-ChickenMakhaniIndianButterChicken-mfs-Step6-0030-194934e58e6b4815b80034ab94bccde0.jpg"
+                }
+            ],
+            "text": "Reduce heat, and season with remaining 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Add cooked chicken into sauce and stir together."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ivp7ry9w4SzrKARdCLmd_hTKIb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45957-ChickenMakhaniIndianButterChicken-mfs-Step5-0026-24149cafdae948c4acf5ae7c0441b9b5.jpg"
+                }
+            ],
+            "text": "Dissolve cornstarch into water, then mix into the sauce. Cook for 5 to 10 minutes, or until thickened."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Icn_f4w0fMLbRrV78v8bMSkwfhs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45957-ChickenMakhaniIndianButterChicken-mfs-4X3-0037-7aa9a555bf3943baae20c5c3b0921375.jpg"
+                }
+            ],
+            "text": "Serve over rice with naan."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

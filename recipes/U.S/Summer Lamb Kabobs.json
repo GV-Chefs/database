@@ -1,0 +1,74 @@
+{
+    "headline": "Summer Lamb Kabobs",
+    "name": "Summer Lamb Kabobs",
+    "description": "Lamb and garlic go so well together. In this recipe, the combination of herbs and spices complement the meat and make an awesome treat for friends and family.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT512M",
+    "cookTime": "PT12M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "406 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "90 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "266 mg",
+        "sugarContent": "5 g",
+        "fatContent": "30 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "5 pounds boneless lamb shoulder, cut into 1 inch pieces",
+        "6 tablespoons Dijon mustard",
+        "4 tablespoons white wine vinegar",
+        "4 tablespoons olive oil",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon black pepper",
+        "0.5 teaspoon chopped fresh rosemary",
+        "0.5 teaspoon crumbled dried sage",
+        "4 cloves garlic, chopped",
+        "4 green bell peppers, cut into large chunks",
+        "1 (10 ounce) package whole fresh mushrooms",
+        "1 (16 ounce) can pineapple chunks, drained with juice reserved",
+        "1 pint cherry tomatoes",
+        "4 onions, quartered",
+        "1 (10 ounce) jar maraschino cherries, drained and juice reserved",
+        "0.33333334326744 cup melted butter or margarine"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place lamb in a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a separate bowl, stir together mustard, vinegar, olive oil, salt, pepper, rosemary, sage, and garlic. Pour over lamb, and mix to coat meat. Cover, and refrigerate overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat outdoor grill for direct heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add marinated lamb, fruit, and vegetables to stainless steel or bamboo skewers. Reserve some of the juice from pineapple chunks and cherries."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a small bowl, stir together melted butter and splashes of juice from the pineapples and cherries to create a basting sauce."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place skewers on preheated grill, and cook about 12 minutes, turning and brushing with butter sauce."
+        }
+    ],
+    "recipeYield": [
+        "20"
+    ]
+}

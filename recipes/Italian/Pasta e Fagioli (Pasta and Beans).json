@@ -1,0 +1,110 @@
+{
+    "headline": "Pasta e Fagioli (Pasta and Beans)",
+    "name": "Pasta e Fagioli (Pasta and Beans)",
+    "description": "Pasta fagioli is a traditional Italian soup with pasta and cannellini beans in a tomato broth. Serve with garlic bread for a hearty, comforting meal.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "225 kcal",
+        "carbohydrateContent": "37 g",
+        "cholesterolContent": "2 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "758 mg",
+        "sugarContent": "6 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Side Dish",
+        "Dinner",
+        "Lunch",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "1 medium onion, chopped",
+        "2 stalks celery, chopped",
+        "3 cloves garlic, minced",
+        "2 teaspoons dried parsley",
+        "1 teaspoon Italian seasoning",
+        "0.25 teaspoon crushed red pepper flakes",
+        "salt to taste",
+        "1 (14.5 ounce) can chicken broth",
+        "2 medium tomatoes, peeled and chopped",
+        "1 (8 ounce) can tomato sauce",
+        "0.5 cup ditalini or other small pasta",
+        "1 (15 ounce) can cannellini beans, with liquid"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jixA7fnIj9viKR6yHP9dj-K-MDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13009-PastaFagioliRecipe-ddmfs-step1-4x3-0124-5293aed641cc4d41abd608aafed35ece.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zdKbNAhgQXN31E6ez7zlFwkEshE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13009-PastaFagioliRecipe-ddmfs-step2-4x3-0131-a5f67d1fc38f47558fdb4cdd0ea088df.jpg"
+                }
+            ],
+            "text": "Heat olive oil in a large saucepan over medium heat. Add onion, celery, garlic, parsley, Italian seasoning, pepper flakes, and salt; cook and stir until onion is translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/e1tRg2syClVUdTGgkGzHMuZhz8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13009-PastaFagioliRecipe-ddmfs-step3-4x3-0136-52588d86f2f947d7a0826db2ffc72932.jpg"
+                }
+            ],
+            "text": "Stir in chicken broth, tomato sauce, and tomatoes. Reduce the heat to low and simmer for 15 to 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qcEcYEF9MW2hsEqth_WMqhUW4Jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13009-PastaFagioliRecipe-ddmfs-step4-4x3-0138-a1206cf629c147dc814f5b6f43df3b6d.jpg"
+                }
+            ],
+            "text": "Add pasta and cook until tender, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/eJQTUFbpAt70ia4W0VnoM6m9vMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13009-PastaFagioliRecipe-ddmfs-step5-4x3-0140-aa912dff45d6454589d7cb00f98735cf.jpg"
+                }
+            ],
+            "text": "Stir in undrained beans and cook until heated through, 3 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Qrj1Ipe1gtdwB68iX2cTb25J2TM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13009-PastaFagioliRecipe-ddmfs-4x3-0155-4c1c3721460347718bf181c63491d795.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

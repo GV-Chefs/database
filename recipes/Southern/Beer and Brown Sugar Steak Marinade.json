@@ -1,0 +1,57 @@
+{
+    "headline": "Beer and Brown Sugar Steak Marinade",
+    "name": "Beer and Brown Sugar Steak Marinade",
+    "description": "I concocted this marinade on a lark and it turned out great. The flavors complement and do not overwhelm the natural taste of beef.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "390 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "121 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "38 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "547 mg",
+        "sugarContent": "8 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 (16 ounce) beef sirloin steaks",
+        "0.25 cup dark beer",
+        "2 tablespoons teriyaki sauce",
+        "2 tablespoons brown sugar",
+        "0.5 teaspoon seasoned salt",
+        "0.5 teaspoon black pepper",
+        "0.5 teaspoon garlic powder"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat grill for high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use a fork to poke holes all over the surface of the steaks, and place steaks in a large baking dish. In a bowl, mix together beer, teriyaki sauce, and brown sugar. Pour sauce over steaks, and let sit about 5 minutes. Sprinkle with 1/2 the seasoned salt, pepper, and garlic powder; set aside for 10 minutes. Turn steaks over, sprinkle with remaining seasoned salt, pepper, and garlic powder, and continue marinating for 10 more minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove steaks from marinade. Pour marinade into a small saucepan, bring to a boil, and cook for several minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lightly oil the grill grate. Grill steaks for 7 minutes per side, or to desired doneness. During the last few minutes of grilling, baste steaks with boiled marinade to enhance the flavor and ensure juiciness."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

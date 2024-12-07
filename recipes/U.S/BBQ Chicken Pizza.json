@@ -1,0 +1,92 @@
+{
+    "headline": "BBQ Chicken Pizza",
+    "name": "BBQ Chicken Pizza",
+    "description": "This BBQ chicken pizza is loaded with diced chicken, spicy barbecue sauce, pepperoncini peppers, onion, and cilantro, topped with Colby-Jack cheese.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "385 kcal",
+        "carbohydrateContent": "38 g",
+        "cholesterolContent": "58 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1666 mg",
+        "sugarContent": "9 g",
+        "fatContent": "16 g",
+        "servingSize": "1 (12-inch) pizza",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (12 inch) pre-baked pizza crust",
+        "1 cup spicy barbeque sauce",
+        "2 skinless boneless chicken breast halves, cooked and cubed",
+        "1 cup sliced pepperoncini peppers",
+        "1 cup chopped red onion",
+        "0.5 cup chopped fresh cilantro",
+        "2 cups shredded Colby-Jack cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/J6UJ8o1rrKVLatzcaIGWPiJc5Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-Step-01-a3c980faf5d94864aa1294f95dbbce37.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/K1KyIp6rGpIsiXn8evX6btg6hgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-Step-02-936b226f1b6848e38220a995e42b6482.jpg"
+                }
+            ],
+            "text": "Place pizza crust on a baking sheet. Spread barbeque sauce on crust."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PJ4uuXbJvqZ2sQWD7VsnLRLWFWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-Step-03-47adc4b5ff4548ce91cc2f3c2c965bdb.jpg"
+                }
+            ],
+            "text": "Top with chicken, pepperoncini peppers, onion, and cilantro."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cltokRfr2iY1crQJ57-3TJUrxUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-Step-04-65096ce935624719b66be6571b342369.jpg"
+                }
+            ],
+            "text": "Cover with Colby-Jack cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qZ7LKGV1_RYDCgYGSgfMn40nmks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until cheese is melted and bubbly, about 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "headline": "Ham and Butternut Squash Spaghetti",
+    "name": "Ham and Butternut Squash Spaghetti",
+    "description": "Smoked ham, butternut squash, and mascarpone cheese combine to create a decadent yet light sauce in Chef John's delicious pasta dish.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "808 kcal",
+        "carbohydrateContent": "87 g",
+        "cholesterolContent": "90 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "18 g",
+        "sodiumContent": "1063 mg",
+        "sugarContent": "5 g",
+        "fatContent": "41 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "4 ounces smoked ham, thinly sliced",
+        "3 cloves garlic, thinly sliced",
+        "1.5 cups chicken broth",
+        "3 cups peeled, seeded, and diced butternut squash",
+        "1 pinch crushed red pepper flakes, or to taste",
+        "salt, or to taste",
+        "1 teaspoon ground black pepper, or to taste",
+        "1 cup mascarpone cheese",
+        "1 tablespoon chopped Italian flat leaf parsley",
+        "14 ounces spaghetti",
+        "finely grated Parmigiano-Reggiano cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil over medium heat in a large skillet. Stir in ham and cook until the edges are slightly browned, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in garlic; cook until fragrant and edges are barely golden, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour chicken broth over ham and garlic; bring to a simmer. Stir in butternut squash, red pepper flakes, and salt. Cook until squash is tender, about 15 minutes. Stir in black pepper and reduce heat to low."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Gently stir mascarpone cheese into squash mixture until completely incorporated. Stir in Italian parsley. Remove from heat and cover."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain and return to pot."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/geylz456WzIQXo99EjzJmlqKhbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060188-3a390fe428f7407ca66a33918dc7ef3d.jpg"
+                }
+            ],
+            "text": "Pour butternut-mascarpone sauce over spaghetti, stirring until combined. Sprinkle Parmigiano-Reggiano cheese over spaghetti and serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

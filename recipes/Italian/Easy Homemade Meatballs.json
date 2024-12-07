@@ -1,0 +1,59 @@
+{
+    "headline": "Easy Homemade Meatballs",
+    "name": "Easy Homemade Meatballs",
+    "description": "These homemade meatballs are easy to make with ground beef and simple Italian-inspired ingredients and take less than 30 minutes to cook.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "526 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "126 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "1180 mg",
+        "sugarContent": "20 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "1 egg",
+        "0.5 cup Italian-seasoned bread crumbs",
+        "0.25 cup grated Parmesan cheese",
+        "4 teaspoons garlic powder",
+        "2 tablespoons Italian seasoning",
+        "2 teaspoons olive oil",
+        "1 (28 ounce) jar marinara sauce"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine beef and egg in a large bowl. Add bread crumbs, Parmesan cheese, garlic powder, and Italian seasoning. Mix together, but do not overmix, as it will get tough."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Shape into 1- to 2-inch balls."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over medium heat. Cook meatballs in the hot skillet until browned and no longer pink in the centers, 3 to 5 minutes per side."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat marinara sauce in a pot over medium-low heat. Add cooked meatballs to sauce and let simmer for added flavor, about 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

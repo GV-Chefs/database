@@ -1,0 +1,104 @@
+{
+    "headline": "Vermicelli Noodle Bowl",
+    "name": "Vermicelli Noodle Bowl",
+    "description": "This vermicelli bowl combines rice noodles, cucumber, bean sprouts, herbs, shrimp, and a sweet-and-sour sauce for a very delicious Vietnamese salad.",
+    "recipeCuisine": [
+        "Vietnamese"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "659 kcal",
+        "carbohydrateContent": "112 g",
+        "cholesterolContent": "36 mg",
+        "fiberContent": "9 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "2565 mg",
+        "sugarContent": "20 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT35M",
+    "recipeCategory": [
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "0.25 cup white vinegar",
+        "0.25 cup fish sauce",
+        "2 tablespoons white sugar",
+        "2 tablespoons lime juice",
+        "1 clove garlic, minced",
+        "0.25 teaspoon red pepper flakes",
+        "0.5 teaspoon canola oil",
+        "2 tablespoons chopped shallots",
+        "2 skewers",
+        "8 medium shrimp, with shells",
+        "1 (8 ounce) package rice vermicelli noodles",
+        "1 cup finely chopped lettuce",
+        "1 cup bean sprouts",
+        "1 English cucumber, cut into 2-inch matchsticks",
+        "0.25 cup finely chopped pickled carrots",
+        "0.25 cup finely chopped diakon radish",
+        "0.25 cup crushed peanuts",
+        "3 tablespoons chopped cilantro",
+        "3 tablespoons finely chopped Thai basil",
+        "3 tablespoons chopped fresh mint"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VgUq1LX2C0eG_EaYb4J9gPMRD6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223529-vermicelli-noodle-bowl-step-1-95-bc0526302feb482d9e3333d03ef14bdf.jpg"
+                }
+            ],
+            "text": "Whisk vinegar, fish sauce, sugar, lime juice, garlic, and red pepper flakes together in a small bowl; set sauce aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tYVQoCLyHmM7irzzpwTOcIxGZM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223529-vermicelli-noodle-bowl-step-2-96-72d0be9c4705456eb4230014bc7b6eec.jpg"
+                }
+            ],
+            "text": "Heat oil in a small skillet over medium heat. Add shallots; cook and stir until softened and lightly caramelized, about 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/m2gqyX-t0KPdJcov-ZhzOyZg8Co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223529-vermicelli-noodle-bowl-step-3-97-9b4c31020b8e4704a7424d60db4dfbbe.jpg"
+                }
+            ],
+            "text": "Preheat an outdoor grill for medium heat and lightly oil the grate. Skewer 4 shrimp on each skewer and grill until they turn pink and are charred on the outside, 1 to 2 minutes per side. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/JrKIv0KEr6Ip_4qB8tzYf4lCL7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223529-vermicelli-noodle-bowl-step-4-99-904390a36c2c4065a922065de6e5a1f6.jpg"
+                }
+            ],
+            "text": "Bring a large pot of water to a boil. Add vermicelli noodles and cook until softened, 12 minutes. Drain noodles and rinse with cold water, stirring to separate noodles."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NwESjU7QrCbiwWrdaSmIniew8sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223529-vermicelli-noodle-bowl-DDMFS-4x3-11148ac743da4d74a270600a775c75a2.jpg"
+                }
+            ],
+            "text": "Assemble vermicelli bowl by placing cooked noodles in one half of each serving bowl; place lettuce and bean sprouts in the other half. Top each bowl with cucumbers, carrots, daikon, peanuts, cilantro, Thai basil, mint, and caramelized shallots. Serve with shrimp skewers and sauce on the side. Pour sauce on top and toss thoroughly to coat before eating."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "headline": "Roasted Garlic Mashed Potatoes",
+    "name": "Roasted Garlic Mashed Potatoes",
+    "description": "Roasted garlic mashed potatoes are creamy, full of flavor, and easy to make. Serve them alongside any meat or fish, or layer them over a casserole.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "172 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "17 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "295 mg",
+        "sugarContent": "2 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 medium head garlic, top of bulbs trimmed off so tops of cloves are exposed",
+        "1 tablespoon olive oil",
+        "2 pounds russet potatoes, peeled and quartered",
+        "4 tablespoons butter, softened",
+        "0.5 cup milk",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drizzle oil over garlic head, then wrap in aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When the garlic has baked for about 35 minutes, bring a large pot of salted water to a boil. Add potatoes and cook until tender, about 15 minutes. Drain and let cool for a few minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Chop potatoes and place into a mixing bowl. Add milk, butter, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/z-6BtQRPLpUI6SswNGp8IVKWct0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/662862-a99298bc4d7f4a888d12c7aa76cf5b93.jpg"
+                }
+            ],
+            "text": "Remove garlic from the oven. Cut garlic head in half and squeeze softened cloves into the mixing bowl. Mix with an electric mixer until ingredients are well combined and desired consistency is achieved."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

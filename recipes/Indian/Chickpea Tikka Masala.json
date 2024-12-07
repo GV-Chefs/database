@@ -1,0 +1,123 @@
+{
+    "headline": "Chickpea Tikka Masala",
+    "name": "Chickpea Tikka Masala",
+    "description": "Chickpea tikka masala is a classic Indian curry where chickpeas are cooked in a flavorful creamy sauce. Serve over rice or with naan.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "485 kcal",
+        "carbohydrateContent": "80 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "19 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "486 mg",
+        "sugarContent": "16 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "1 medium onion, thinly sliced",
+        "2 carrots, thinly sliced",
+        "1 teaspoon garam masala",
+        "1/4 teaspoon ground cumin",
+        "1/8 teaspoon black pepper",
+        "1 tablespoon tomato paste",
+        "1 1/2 teaspoons ginger paste",
+        "1/2 teaspoon garlic paste",
+        "1/2 of a medium fresh jalape\u00f1o chile pepper, finely chopped*",
+        "2 (15-ounce) cans chickpeas, rinsed and drained",
+        "1 (8-ounce) can tomato sauce",
+        "1/4 teaspoon sugar",
+        "1/4 teaspoon salt",
+        "1/8 teaspoon cayenne pepper, optional",
+        "3/4 cup water, or as needed",
+        "1/4 cup half-and-half",
+        "1/4 cup snipped fresh cilantro",
+        "4 cups hot cooked basmati rice and/or naan"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ICEAQiTp33xW5_lfqyihTK8Y_8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497387-chickpea-tikka-masala-ddmfs-step-1-1752-b6d361881b5148f29f99cd09bde68424.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/m-xhxHOoyBXGADSmk8D86JKAT-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497387-chickpea-tikka-masala-ddmfs-step-3-1759-dadd42cb7b1f4244ba27388b2cb95106.jpg"
+                }
+            ],
+            "text": "Heat oil in a large skillet over medium-high. Add onion and carrots and cook until tender, 5 to 6 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/m-xhxHOoyBXGADSmk8D86JKAT-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497387-chickpea-tikka-masala-ddmfs-step-3-1759-dadd42cb7b1f4244ba27388b2cb95106.jpg"
+                }
+            ],
+            "text": "Stir in garam masala, cumin, and black pepper; cook and stir until mixture is fragrant, about 30 seconds."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cT95h5UZqzJMrdK7nAskvhWCdX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497387-chickpea-tikka-masala-ddmfs-step-4-1760-46279c097a594b62bb3153616e2460f5.jpg"
+                }
+            ],
+            "text": "Add tomato paste, ginger paste, garlic paste, and jalape\u00f1o pepper; cook and stir for 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_pblOEWHbFWcU7lvdlC38JFRR_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497387-chickpea-tikka-masala-ddmfs-step-5-1763-c403cafcc5754b08afaf143875c622c8.jpg"
+                }
+            ],
+            "text": "Stir in chickpeas, tomato sauce, sugar, salt, and cayenne pepper. Cook over medium-high heat until mixture is hot. Reduce heat to low. Cover and simmer for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gmouzfBCr9QoEgusGCaLnrdG4pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497387-chickpea-tikka-masala-ddmfs-step-6-1764-430c02d1f0d14e0e88b15ce4397929c1.jpg"
+                }
+            ],
+            "text": "Stir in 3/4 cup water and half-and-half. Continue cooking on low until heated through, about 1 minute. For a saucier mixture, add more water if desired. Remove from heat; cover and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aQC_VrEdO5qYSTnBJKvS7Gz4WEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497387-chickpea-tikka-masala-ddmfs-step-7-1765-6b68bf3d53174ad88b2a9151389a28a6.jpg"
+                }
+            ],
+            "text": "Top with cilantro and serve with hot cooked basmati rice and/or naan."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

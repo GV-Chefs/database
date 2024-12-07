@@ -1,0 +1,79 @@
+{
+    "headline": "Giant Lazy Meatballs",
+    "name": "Giant Lazy Meatballs",
+    "description": "These giant lazy meatballs, made with beef and pork, need no slicing and dicing, precooking, or long simmer. Despite the lazy method, they have the incredible taste and texture of a properly made meatball.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT140M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "445 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "163 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "37 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "980 mg",
+        "sugarContent": "3 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "4 large slices stale white bread, crusts removed",
+        "1/2 cup milk",
+        "1 pound ground beef",
+        "1 pound ground pork",
+        "2 1/2 teaspoons kosher salt",
+        "1 teaspoon freshly ground black pepper\u00a0",
+        "1/4 teaspoon dried oregano",
+        "1 teaspoon onion powder",
+        "1 teaspoon garlic powder",
+        "pinch cayenne",
+        "1 tablespoon olive oil",
+        "1/4 cup grated Parmesan cheese",
+        "1/3 cup chopped Italian parsley",
+        "2 large eggs"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Crumble bread into a bowl and mix in milk thoroughly using a fork. Let stand for 10 to 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine beef and pork in a large bowl and mix well using 2 forks. Add salt, black pepper, oregano, onion powder, garlic powder, cayenne, olive oil, Parmesan, parsley, eggs, and the breadcrumb mixture. Mix using 2 forks until everything is evenly combined.\u00a0Wrap and chill in the refrigerator for 1 hour.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a roasting pan or baking dish.\u00a0Using damp hands, roll 4 giant meatballs, and place in the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until an instant read thermometer inserted near the center of meatballs reads 160 to 165 degrees F (71 to 74 degrees C), 40 to 45 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove meatballs from the oven, and spoon tomato sauce evenly over meatballs. Sprinkle first with Monterey Jack cheese, and then with Parmigiano-Reggiano."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WD4xn_OJn4ghsPd4UjYidWC51rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8715240_Giant-Lazy-Meatballs_John-Mitzewich_4x3-a8d448979aab4a2087057bf3381bfa9b.jpg"
+                }
+            ],
+            "text": "Return meatballs to the oven, and bake until sauce is hot and cheese is melted, 5 to 10 minutes more. Top with parsley and serve."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

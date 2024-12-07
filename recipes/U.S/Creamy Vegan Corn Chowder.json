@@ -1,0 +1,55 @@
+{
+    "headline": "Creamy Vegan Corn Chowder",
+    "name": "Creamy Vegan Corn Chowder",
+    "description": "A great low-fat corn chowder. It's vegan, so it uses soy milk, olive oil, and vegetable bouillon cubes. It's great for a meal starter or even as a main course.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "153 kcal",
+        "carbohydrateContent": "21 g",
+        "fiberContent": "3 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "476 mg",
+        "sugarContent": "7 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "1 small onion, chopped",
+        "1 cup celery, chopped",
+        "1 cup carrots, chopped",
+        "1 clove garlic, minced",
+        "2.5 cups water",
+        "2 cubes vegetable bouillon",
+        "2 cups corn",
+        "2 cups soy milk",
+        "1 tablespoon flour",
+        "1 teaspoon dried parsley",
+        "1 teaspoon garlic powder",
+        "1 teaspoon salt",
+        "1 teaspoon pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet over medium heat. Stir in onions and celery; cook until just slightly golden. Stir in carrots and garlic; cook until garlic is slightly golden."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, bring water to a boil over high heat. Stir in bouillon, and reduce heat to medium. When bouillon cubes have dissolved, add corn and the vegetables from the skillet. Cook until vegetables are tender. Add water, if necessary. Reduce heat to low, and pour in 1 cup soy milk. Stir soup well, then stir in remaining 1 cup soy milk. Quickly whisk in flour. Stir in parsley, garlic powder, salt, and pepper. Cook, stirring constantly, until chowder thickens, about 15 to 20 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

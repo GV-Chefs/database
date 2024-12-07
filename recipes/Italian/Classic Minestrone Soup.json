@@ -1,0 +1,56 @@
+{
+    "headline": "Classic Minestrone Soup",
+    "name": "Classic Minestrone Soup",
+    "description": "Follow this easy minestrone soup recipe for a hearty pot of soup with fresh vegetables, pasta, cannellini beans, and herbs in a savory tomato-based broth.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "159 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "1 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "827 mg",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "1 cup diced onion",
+        "0.75 cup diced carrot",
+        "0.75 cup sliced celery",
+        "1 teaspoon minced garlic",
+        "1.5 teaspoons minced fresh rosemary",
+        "1 (15 ounce) can Contadina\u00ae Tomato Sauce",
+        "1 (15 ounce) can cannellini beans, rinsed and drained",
+        "2.5 cups water",
+        "2 cups College Inn\u00ae Chicken Broth",
+        "1 cup diced zucchini",
+        "0.5 cup dry ditalini pasta",
+        "0.25 teaspoon black pepper",
+        "0.25 cup chopped fresh Italian parsley",
+        "1 tablespoon shredded Parmesan cheese, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large saucepan over medium-high heat. Saut\u00e9 onion, carrot, celery, garlic, and rosemary until vegetables begin to soften, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in tomato sauce, beans, water, broth, zucchini, pasta, and pepper; bring to a simmer. Cook, uncovered and stirring occasionally, until pasta is tender, 10 minutes. Stir in parsley. Serve topped with Parmesan and additional parsley if desired."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

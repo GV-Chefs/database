@@ -1,0 +1,54 @@
+{
+    "headline": "Slow Cooker BBQ Chicken Thighs",
+    "name": "Slow Cooker BBQ Chicken Thighs",
+    "description": "These simple slow cooker BBQ chicken thighs made with basic condiments and spices are full of flavor with super tender, fall-off-the-bone meat.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT305M",
+    "cookTime": "PT300M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "409 kcal",
+        "carbohydrateContent": "27 g",
+        "cholesterolContent": "182 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "34 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "867 mg",
+        "sugarContent": "23 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 cups barbecue sauce",
+        "0.25 cup honey",
+        "2 teaspoons Creole mustard",
+        "0.25 teaspoon Worcestershire sauce",
+        "0.25 teaspoon hot pepper sauce",
+        "9 Tyson\u00ae Fresh Boneless, Skinless Chicken Thighs",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Stir barbecue sauce, honey, mustard, Worcestershire sauce, and hot pepper sauce together in a bowl until well combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season chicken all over with salt and pepper. Place into a slow cooker and pour barbecue mixture over top; stir to until well coated."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover and cook on Low until chicken is no longer pink inside and the juices run clear, about 5 hours. An instant-read thermometer inserted into the middle should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "9"
+    ]
+}

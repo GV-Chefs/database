@@ -1,0 +1,103 @@
+{
+    "headline": "Chef John's American Goulash",
+    "name": "Chef John's American Goulash",
+    "description": "This American goulash is a one-pot, cafeteria-style mix of ground beef, macaroni, and a seasoned tomato sauce. It's the comfort food of your childhood!",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT65M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "336 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "58 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1169 mg",
+        "sugarContent": "7 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "2 pounds ground beef",
+        "1 large onion, diced",
+        "4 cloves garlic, minced",
+        "2 large bay leaves",
+        "2 tablespoons paprika",
+        "2 teaspoons Italian seasoning",
+        "2 teaspoons kosher salt",
+        "0.5 teaspoon ground black pepper",
+        "1 pinch cayenne pepper, or to taste",
+        "1 quart chicken broth",
+        "1 (24 ounce) jar marinara sauce",
+        "1 (15 ounce) can diced tomatoes",
+        "1 cup water",
+        "2 tablespoons soy sauce",
+        "2 cups elbow macaroni",
+        "0.25 cup chopped Italian parsley",
+        "1 cup shredded white Cheddar cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ryKQjB_scRi7fQz3j3XD4GLJLoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_275489_ChefJohnsAmericanGoulash_Shot1_13244-f855c745dbc248ef80ebc1cf6e694b78.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SpwVKlTkYvDO6synYPLuC_KGxGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_275489_ChefJohnsAmericanGoulash_Shot_2_13261-520aeb486152481cb0656d06bb053aaa.jpg"
+                }
+            ],
+            "text": "Heat oil in a pot over medium-high heat. Add ground beef and onion; cook and stir until beef is browned and crumbly and onion is translucent, about 5 minutes. Continue to cook and stir until liquid is evaporated, 3 to 5 minutes. Add garlic, bay leaves, paprika, Italian seasoning, salt, black pepper, and cayenne."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/lcBXPv2Hpg7CV-grRfHf_hTXRlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_275489_ChefJohnsAmericanGoulash_Shot_4_13315-8fbdd88a32164495a23e073b10383e8a.jpg"
+                }
+            ],
+            "text": "Cook, stirring occasionally, until flavors come together, about 3 minutes. Pour in broth, marinara sauce, and diced tomatoes. Pour water into the sauce jar, swirl, and pour into the pot. Stir in soy sauce; bring to a simmer. Reduce the heat to medium and simmer until flavors intensify, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2LkXVIlkyVUacZaJEqwfq0Wx27w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_275489_ChefJohnsAmericanGoulash_Shot_5_13327-d1ae9e6e66a34389a7ab1ca225452b08.jpg"
+                }
+            ],
+            "text": "Increase the heat to medium-high and bring to a rapid simmer. Stir in macaroni; cook, stirring occasionally, until just barely tender, about 12 minutes. Check for doneness after 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/T3rL7cHaraOUKxjIfqSx6GcjvGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_275489_ChefJohnsAmericanGoulash_4x3_13361-0bec55d8f2ea474a9bf4af7fb0a01ec1.jpg"
+                }
+            ],
+            "text": "Remove from the heat and discard bay leaves. Stir in Cheddar and parsley. Cover and let rest for 5 minutes. Taste and season as desired."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

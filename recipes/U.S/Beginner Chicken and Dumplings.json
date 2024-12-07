@@ -1,0 +1,56 @@
+{
+    "headline": "Beginner Chicken and Dumplings",
+    "name": "Beginner Chicken and Dumplings",
+    "description": "It's easy to make chicken and dumplings with this recipe using boneless breast and thigh meat. Baking mix dumplings quickly add the finishing touch.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "317 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "76 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1396 mg",
+        "sugarContent": "3 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "1 small onion, diced",
+        "3 skinless, boneless chicken thighs, cut into cubes",
+        "1 skinless, boneless chicken breast half, cut into cubes",
+        "6 cups water",
+        "1 (10.5 ounce) can condensed cream of chicken soup",
+        "3 cubes chicken bouillon",
+        "1 teaspoon poultry seasoning",
+        "0.75 cup milk",
+        "1.5 cups all-purpose baking mix (such as Bisquick\u00ae)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large pot over medium heat. Add onions; cook and stir until they begin to soften, about 3 minutes. Add chicken; cook and stir until no longer pink in the center, about 10 minutes. Add water, condensed soup, bouillon cubes, and poultry seasoning; stir to combine. Increase the heat to medium-high and bring to a simmer."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, pour milk into a mixing bowl. Add baking mix and stir until a dough forms."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drop spoonfuls of dumpling mix into simmering soup. Reduce the heat to medium-low, cover, and simmer for 10 minutes. Turn dumplings over and continue to simmer until no longer doughy in the center, about 10 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

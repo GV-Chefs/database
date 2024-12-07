@@ -1,0 +1,45 @@
+{
+    "headline": "Jimmy Dean Sausage Stuffing",
+    "name": "Jimmy Dean Sausage Stuffing",
+    "description": "Jimmy Dean\u00ae sausage is the secret ingredient in this flavorful stuffing dish seasoned with rosemary and garlic.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT0M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 (16 ounce) packages Regular Flavor Jimmy Dean Pork Sausage",
+        "8 ounces fresh mushrooms, sliced",
+        "1.5 cups diced onions",
+        "0.75 cup diced or coarsely grated carrots",
+        "1.5 cups diced celery",
+        "3 cloves garlic, minced",
+        "1 (10 ounce) package frozen spinach, thawed and drained",
+        "2 teaspoons dried rosemary",
+        "2 teaspoons poultry seasoning",
+        "1 teaspoon black pepper",
+        "1 (15 ounce) package herbed dry bread cubes",
+        "2 cups chicken broth",
+        "1 egg, lightly beaten"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 325 F."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large saucepan or stockpot, cook sausage over medium-high heat, stirring frequently until thoroughly cooked and no longer pink. Add mushrooms, onion, carrots, celery and garlic; cook 10-12 minutes or until onion is translucent, stirring frequently. Transfer mixture to a large bowl; add remaining ingredients and stir well. Pour into a buttered 4-quart casserole."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake covered for 60 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

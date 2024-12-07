@@ -1,0 +1,68 @@
+{
+    "headline": "Original Nestle Toll House Chocolate Chip Cookies",
+    "name": "Original Nestle Toll House Chocolate Chip Cookies",
+    "description": "The original Toll House cookie recipe has been used for generations. These sweet, chewy cookies are a true American treat no matter what the occasion.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "108 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "14 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "85 mg",
+        "sugarContent": "9 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2.25 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 cup butter, softened",
+        "0.75 cup white sugar",
+        "0.75 cup packed brown sugar",
+        "1 teaspoon vanilla extract",
+        "2 large eggs",
+        "2 cups semisweet chocolate chips (such as Nestl\u00e9 Toll House)",
+        "1 cup chopped nuts"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine flour, baking soda and salt in small bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat butter, white sugar, brown sugar and vanilla in a large mixing bowl until creamy. Add eggs, one at a time, beating well after each addition. Gradually beat in flour mixture. Stir in chocolate morsels and nuts."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drop by rounded tablespoon onto ungreased baking sheets."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden brown, 9 to 11 minutes, switching racks halfway through."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cool on the baking sheets for 2 minutes, then transfer to wire racks to cool completely."
+        }
+    ],
+    "recipeYield": [
+        "60"
+    ]
+}

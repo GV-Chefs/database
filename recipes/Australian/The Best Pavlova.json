@@ -1,0 +1,65 @@
+{
+    "headline": "The Best Pavlova",
+    "name": "The Best Pavlova",
+    "description": "This Australian dessert is a showstopper with sweetened whipped cream spread over a baked meringue crust and fresh, juicy berries spread over top.",
+    "recipeCuisine": [
+        "Australian"
+    ],
+    "totalTime": "PT115M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "186 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "34 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "24 mg",
+        "sugarContent": "23 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup white sugar, divided",
+        "1 tablespoon cornstarch",
+        "3 large egg whites",
+        "1 teaspoon lemon juice",
+        "1.25 cups heavy whipping cream",
+        "0.5 cup confectioners' sugar",
+        "1 pint fresh strawberries"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 300 degrees F (150 degrees C). Line a rimmed baking sheet with parchment paper; draw a 9-inch circle in the center of the paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk 1/4 cup sugar and cornstarch together in a small bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat egg whites in a glass, metal, or ceramic bowl until soft peaks form. Gradually add remaining 3/4 cup sugar, continuing to beat until sugar is completely dissolved and stiff peaks form. Gently fold in cornstarch mixture and lemon juice."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread a 1/4-inch-thick layer of meringue onto the prepared baking sheet to fill the circle. Pipe or spoon remaining meringue to form a taller edge around the circle to create a shallow bowl, making decorative swirls if desired."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 hour. Turn the oven off. Let meringue sit in the oven for 30 minutes; do not open the door. After 30 minutes, remove meringue from the oven; it should be hard on the outside and slightly moist on the inside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat cream and confectioners sugar in a mixing bowl with an electric mixer until thick. Spread onto meringue base and arrange strawberries over top."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

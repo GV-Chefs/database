@@ -1,0 +1,67 @@
+{
+    "headline": "Mediterranean Baked Cod with Lemon",
+    "name": "Mediterranean Baked Cod with Lemon",
+    "description": "This Mediterranean baked cod with lemon is deliciously seasoned with fresh Mediterranean herbs, garlic, and lemon, and is ready in 25 minutes, start to finish.",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "388 kcal",
+        "carbohydrateContent": "29 g",
+        "cholesterolContent": "116 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "42 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "404 mg",
+        "sugarContent": "12 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "3 Tablespoons softened unsalted butter",
+        "1 Tablespoon finely minced fresh garlic",
+        "1 Tablespoon minced fresh parsley",
+        "2 teaspoons minced fresh oregano",
+        "1 teaspoon minced fresh thyme or rosemary",
+        "1/2 teaspoon finely ground pink salt, or to taste",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/2 teaspoon paprika",
+        "1 lemon, cut into 8 thin slices",
+        "4 cod filets, about 6 ounces each",
+        "1 Tablespoon extra virgin olive oil",
+        "Fresh parsley springs for optional garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place softened butter, minced garlic, parsley, oregano, and thyme or rosemary on a cutting board. Using a sharp knife, cut herbs and garlic into each other and the butter, cutting and mixing as you go. Add pink salt, black pepper, and paprika, and mix until well blended."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pat cod filets dry. In a 12x18-inch casserole or baking pan, place each filet on top of 2 lemon slices. Evenly divide herb butter mixture among the filets; use a fork or offset spatula to spread herb butter over filets. Top each filet with 2 remaining lemon slices."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until cod flakes easily with a fork, 13 to 15 minutes. See note."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To serve, drizzle each filet with extra virgin olive oil, and garnish with fresh parsley, if desired."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

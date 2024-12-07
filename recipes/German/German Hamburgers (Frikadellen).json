@@ -1,0 +1,60 @@
+{
+    "headline": "German Hamburgers (Frikadellen)",
+    "name": "German Hamburgers (Frikadellen)",
+    "description": "This frikadellen recipe with ground pork and beef, onion, parsley, egg, and hot paprika makes a batch of delicious pan-fried German meat patties.",
+    "recipeCuisine": [
+        "German"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "272 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "117 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "138 mg",
+        "sugarContent": "2 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 Kaiser roll",
+        "0.66666668653488 pound ground beef",
+        "0.33333334326744 pound ground pork",
+        "1 onion, finely chopped",
+        "0.25 cup chopped fresh parsley",
+        "1 egg",
+        "1 teaspoon Hungarian hot paprika",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Soak kaiser roll in a medium bowl of water for 10 minutes. Drain and squeeze out excess water; crumble into a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add ground meats, onion, parsley, egg, paprika, salt, and black pepper to crumbled roll; mix until well blended. Shape mixture into large flattened meatballs."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/9jJ--7tmKsRMBiVUWCZT8ybPidw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221351-German-Hamburgers-mfs_003-c67327e9edf5453193b8d398aaf4236e.jpg"
+                }
+            ],
+            "text": "Heat a large nonstick skillet over medium heat. Fry meatballs in the hot skillet until browned and no longer pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center of a patty should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

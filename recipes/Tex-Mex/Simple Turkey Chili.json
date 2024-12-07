@@ -1,0 +1,98 @@
+{
+    "headline": "Simple Turkey Chili",
+    "name": "Simple Turkey Chili",
+    "description": "This turkey chili recipe is made with ground turkey, tomatoes, kidney beans, and spices that make it super flavorful. Even better on the second day!",
+    "recipeCuisine": [
+        "Tex-Mex"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "185 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "42 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "450 mg",
+        "sugarContent": "1 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 teaspoons olive oil",
+        "1 pound ground turkey",
+        "1 onion, chopped",
+        "2 cups water",
+        "1 (28 ounce) can canned crushed tomatoes",
+        "1 (16 ounce) can canned kidney beans - drained, rinsed, and mashed",
+        "1 tablespoon garlic, minced",
+        "2 tablespoons chili powder",
+        "0.5 teaspoon paprika",
+        "0.5 teaspoon dried oregano",
+        "0.5 teaspoon ground cayenne pepper",
+        "0.5 teaspoon ground cumin",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/INYWBIEVqRhizI0GQ46jzvxFNF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-80969-Simple-Turkey-Chili-DDMFS-4x3-Ingredients-399a8771b3d1467d86f8e430b9a7be3a.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oQQBpMojiw88sQx7MBR06JI-UMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-80969-Simple-Turkey-Chili-DDMFS-4x3-Step-02-1975217bed5149cf882db0c6db391256.jpg"
+                }
+            ],
+            "text": "Heat oil in a large pot over medium heat. Add turkey; cook and stir until evenly browned, 6 to 8 minutes. Stir in onion and cook until tender."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/kk_NV7DaWCUCBMmJ_YXQqvLBAWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-80969-Simple-Turkey-Chili-DDMFS-4x3-Step-03-1e69cb8ce1554cf891eb98fdb224d4b5.jpg"
+                }
+            ],
+            "text": "Add water; mix in tomatoes, kidney beans, and garlic."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FMYDX2EOgv3mmeW-TeyJs70Z_i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-80969-Simple-Turkey-Chili-DDMFS-4x3-Step-04-db785fe3333140faa0e30ded3352f168.jpg"
+                }
+            ],
+            "text": "Stir in chili powder, paprika, oregano, cayenne pepper, cumin, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ju2O-duDvp8GvLyV9b51q8Zk5PI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-80969-Simple-Turkey-Chili-DDMFS-4x3-Beauty-ba0a9ebe86374afb987a9170f87c7c97.jpg"
+                }
+            ],
+            "text": "Bring to a boil. Reduce heat to low, cover, and simmer for 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "headline": "Pecan Pie VI",
+    "name": "Pecan Pie VI",
+    "description": "Nobody can resist a sweet and nutty pecan pie! This pecan pie is made with brown sugar and light corn syrup and is even more delicious when served with whipped cream.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "455 kcal",
+        "carbohydrateContent": "57 g",
+        "cholesterolContent": "85 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "250 mg",
+        "sugarContent": "25 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (9 inch) unbaked pie crust",
+        "4 tablespoons butter",
+        "0.5 cup brown sugar",
+        "1 cup light corn syrup",
+        "3 eggs",
+        "0.125 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1 cup coarsely chopped pecans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 450 degrees F (230 degrees C.)"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, cream the butter and brown sugar. Beat in the corn syrup, eggs, salt and vanilla. Stir in the chopped pecans. Pour filling into pie shell."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 10 minutes. Reduce temperature to 325 degrees F (165 degrees C) and bake for 30 to 40 minutes, or until golden brown."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

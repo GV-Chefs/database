@@ -1,0 +1,106 @@
+{
+    "headline": "Sweet and Spicy Gochujang Chicken",
+    "name": "Sweet and Spicy Gochujang Chicken",
+    "description": "Sauteed chicken is cooked in a sweet and spicy sauce featuring Korean gochujang sauce and honey in this quick and easy wok dish. Serve over rice.",
+    "recipeCuisine": [
+        "Korean"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "574 kcal",
+        "carbohydrateContent": "66 g",
+        "cholesterolContent": "183 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "42 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1640 mg",
+        "sugarContent": "17 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1/3 cup gochujang (Korean hot pepper paste)",
+        "4 tablespoons less sodium soy sauce",
+        "2 tablespoons sweet rice wine (mirin)",
+        "2 tablespoons honey",
+        "3 cloves garlic, grated",
+        "1 to 2 teaspoons sesame oil",
+        "1 teaspoon grated fresh ginger",
+        "1 tablespoon canola oil",
+        "2 pounds skinless, boneless chicken thighs,cut into bite-size pieces",
+        "1 1/2 teaspoons toasted sesame seeds",
+        "3 tablespoons thinly bias-sliced green onions",
+        "6 cups hot cooked rice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EYHtm_Ks0s4u2XaOSZoQT5yrE9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497391-sweet-and-spicy-gochujang-chicken-DDMFS-step-1-BG-4172-d663cd2cb2f64abd8f8da8be3b8dd6a1.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-XzSSudh_Elt3XG2IYXy4_uoiCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497391-sweet-and-spicy-gochujang-chicken-DDMFS-step-2-BG-4173-d3fa276f1a1b46f7b28cce76ae266231.jpg"
+                }
+            ],
+            "text": "Stir together gochujang, soy sauce, sweet rice wine, honey, garlic, sesame oil, and ginger in a small bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RkxEz7gmqJqGHH8BqAc5sw180Ms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497391-sweet-and-spicy-gochujang-chicken-DDMFS-step-3-BG-4186-87ce2852a8e3416fa1017565eb2418e4.jpg"
+                }
+            ],
+            "text": "Heat oil over medium-high in a wok or large skillet. Add half of the chicken to the wok; cook and stir over medium-high until chicken is no longer pink, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/G4qyoM6az5pyK2VsUIIrogsAsbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497391-sweet-and-spicy-gochujang-chicken-DDMFS-step-4-BG-4192-75793a4f2b6b490c8ff98bf5cd39e763.jpg"
+                }
+            ],
+            "text": "Remove chicken from the wok. Repeat with remaining chicken. Return all cooked chicken pieces to the wok."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Jiard0c-kpTLR8hKkbxI-JY9Kw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497391-sweet-and-spicy-gochujang-chicken-DDMFS-step-5-BG-4196-5ac62060fa094fa9aead5e917b828541.jpg"
+                }
+            ],
+            "text": "Stir sauce well. Add to the wok; cook and stir until sauce has thickened and is bubbly, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GTN4IyrPNOoiq9bMF76m9O9-7x8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7497391-sweet-and-spicy-gochujang-chicken-DDMFS-step-6-BG-4199-764cbcfc65354b6ca393df691bf32a87.jpg"
+                }
+            ],
+            "text": "Top with sesame seeds and green onions. Serve immediately with rice."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

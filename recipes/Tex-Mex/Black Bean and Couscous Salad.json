@@ -1,0 +1,63 @@
+{
+    "headline": "Black Bean and Couscous Salad",
+    "name": "Black Bean and Couscous Salad",
+    "description": "This couscous salad recipe with green onions, red peppers, corn, cilantro, and black beans boasts the Southwest tang of a lime-cumin vinaigrette.",
+    "recipeCuisine": [
+        "Tex-Mex"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "253 kcal",
+        "carbohydrateContent": "41 g",
+        "fiberContent": "10 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "415 mg",
+        "sugarContent": "2 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "1.25 cups chicken broth",
+        "1 cup uncooked couscous",
+        "3 tablespoons extra virgin olive oil",
+        "2 tablespoons fresh lime juice",
+        "1 teaspoon red wine vinegar",
+        "0.5 teaspoon ground cumin",
+        "2 (15 ounce) cans black beans, drained",
+        "8 green onions, chopped",
+        "1 red bell pepper, seeded and chopped",
+        "1 cup frozen corn kernels, thawed",
+        "0.25 cup chopped fresh cilantro",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring broth to a boil in a 2-quart or larger saucepan. Stir in couscous, cover the pot, and remove from heat. Let stand for 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together olive oil, lime juice, vinegar, and cumin in a large bowl. Add beans, green onions, red bell pepper, corn, and cilantro; toss to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PU6ANI2azkmb8Oy39Ec9ak-UO38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3359485-a2789de3b5534ee49a9ee91167b81873.jpg"
+                }
+            ],
+            "text": "Fluff couscous well, breaking up any chunks. Add to vegetables in the bowl and mix well. Season with salt and pepper. Serve at once or refrigerate until ready to serve."
+        }
+    ],
+    "recipeYield": [
+        "9"
+    ]
+}

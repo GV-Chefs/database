@@ -1,0 +1,58 @@
+{
+    "headline": "Turkey Kofta Kebabs",
+    "name": "Turkey Kofta Kebabs",
+    "description": "This turkey kofta kebab recipe for giant Persian meatballs boasts flavors of cilantro, chili, coriander, and paprika and is great for summer grilling.",
+    "recipeCuisine": [
+        "Persian"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "65 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "42 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "41 mg",
+        "sugarContent": "0 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Lunch",
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "vegetable oil for grill",
+        "1 pound ground turkey",
+        "1 small onion, minced",
+        "0.25 cup chopped fresh cilantro",
+        "1 large egg",
+        "2 cloves garlic, minced",
+        "0.25 teaspoon chopped green chile pepper",
+        "0.25 teaspoon ground coriander",
+        "0.25 teaspoon ground paprika",
+        "0.25 teaspoon chili powder",
+        "salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the grill for medium heat and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine turkey, onion, cilantro, egg, garlic, chile pepper, coriander, paprika, chili powder, and salt in a large bowl; mix thoroughly. Divide mixture into twelve 1/4-cup portions; roll into log-shaped ovals and place on a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill ovals over indirect heat, turning occasionally, until no longer pink in the center, 25 to 30 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "headline": "Starbucks Caramel Frappuccino Copycat Recipe",
+    "name": "Starbucks Caramel Frappuccino Copycat Recipe",
+    "description": "See how to make a caramel frappuccino at home by blending coffee with milk, caramel sauce, and ice. Top with whipped cream and even more caramel if desired!",
+    "recipeCuisine": [
+        "Copycat",
+        "American"
+    ],
+    "totalTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "271 kcal",
+        "carbohydrateContent": "60 g",
+        "cholesterolContent": "10 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "242 mg",
+        "sugarContent": "24 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dessert",
+        "Beverage",
+        "Coffee"
+    ],
+    "recipeIngredient": [
+        "2 cups ice",
+        "1 cup strongly brewed black coffee, cooled",
+        "1 cup low-fat milk",
+        "0.33333334326744 cup caramel sauce",
+        "3 tablespoons white sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6_4x99d8WXnMQ35ToOUkA6ltmFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235850-starbucks-caramel-frappuccino-copycat-step-2-131-67d49fff151d4f8080d174b9aea9f511.jpg"
+                }
+            ],
+            "text": "Blend ice, coffee, milk, caramel sauce, and sugar together in a blender on high speed until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cb1Zf7kTp5QkiMA0GBj8ppsrZx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235850-starbucks-caramel-frappuccino-copycat-recipe-DDMFS-4x3-227a1e47f46643dcb4708e775a250bca.jpg"
+                }
+            ],
+            "text": "Pour into two 16-ounce glasses."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

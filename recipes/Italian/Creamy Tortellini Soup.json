@@ -1,0 +1,60 @@
+{
+    "headline": "Creamy Tortellini Soup",
+    "name": "Creamy Tortellini Soup",
+    "description": "This creamy tortellini soup combines fresh broccoli, stuffed tortellini pasta, and shredded cheese in a rich broth for a cozy meal in just 30 minutes.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "497 kcal",
+        "carbohydrateContent": "38 g",
+        "cholesterolContent": "107 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "19 g",
+        "sodiumContent": "717 mg",
+        "fatContent": "32 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "0.25 cup butter",
+        "0.5 cup finely chopped onion",
+        "3 cloves garlic, minced",
+        "0.25 cup all-purpose flour",
+        "3 cups low-sodium chicken broth",
+        "3 cups chopped broccoli",
+        "1 medium carrot, julienned",
+        "1 (9 ounce) package cheese tortellini",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon freshly ground black pepper",
+        "0.25 teaspoon smoked paprika",
+        "0.25 teaspoon turmeric",
+        "0.5 cup heavy whipping cream",
+        "1 cup shredded Colby cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a Dutch oven over medium-high heat. Add onion cook until soft and translucent, about 5 minutes. Add garlic and cook until fragrant, about 30 seconds. Sprinkle flour over onion-garlic mixture. Stir to combine, until flour is incorporated."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Slowly pour in chicken broth, stirring to combine. Add broccoli, carrot, and tortellini. Season with salt, pepper, paprika, and turmeric. Stir to combine and reduce heat to medium. Cover and simmer until broccoli is tender and tortellini are cooked through, about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in cream and cheese until melted. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

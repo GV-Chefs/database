@@ -1,0 +1,97 @@
+{
+    "headline": "Sweet Potato Pie",
+    "name": "Sweet Potato Pie",
+    "description": "This homemade sweet potato pie is a Southern recipe that's easy to make with boiled sweet potatoes. Try it, it may just be the best you've ever tasted!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT115M",
+    "cookTime": "PT100M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "389 kcal",
+        "carbohydrateContent": "48 g",
+        "cholesterolContent": "78 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "254 mg",
+        "sugarContent": "28 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (1 pound) sweet potato, with skin",
+        "0.5 cup butter, softened",
+        "1 cup white sugar",
+        "0.5 cup milk",
+        "2 large eggs",
+        "0.5 teaspoon ground nutmeg",
+        "0.5 teaspoon ground cinnamon",
+        "1 teaspoon vanilla extract",
+        "1 (9 inch) unbaked pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/l4SVkBmLECLKUnYChyUjynxPI4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12142-Sweet-Potato-Pie-mfs-Step1_001-0e9467350dc4439c903e5785d3997806.jpg"
+                }
+            ],
+            "text": "Place whole sweet potato in pot and cover with water; bring to a boil. Boil until tender when pierced with a fork, 40 to 50 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/S1575gOCibMRTNYdZ8CpUkEMGGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12142-Sweet-Potato-Pie-mfs-Step2_003-38d078698aba469f819cca4540c87b3c.jpg"
+                }
+            ],
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Remove sweet potato from the pot and run under cold water. Remove and discard skin. . Break sweet potato flesh apart and place in a bowl. Add butter and mix with an electric mixer until well combined."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aeg6t7rBI8nmV08nswur2yDtHt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12142-Sweet-Potato-Pie-mfs-Step5_006-36db27b547874bb383ff3d48bde75886.jpg"
+                }
+            ],
+            "text": "Add sugar, milk, eggs, nutmeg, cinnamon, and vanilla; beat on medium speed until mixture is smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ixkyYDF14Jt9ZPrZmFBTefW2ZUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12142-Sweet-Potato-Pie-mfs-Step6_008-784acb5374f049c0a67adadbc71b4d5d.jpg"
+                }
+            ],
+            "text": "Pour filling into unbaked pie crust."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WSdzNE-ey-ffe8oOXlRgpU4SDJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12142-sweet-potato-pie-i-DDMFS-4x3-a63b16cf54f14c2481b114f00428f84d.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until a knife inserted in the center comes out clean, 55 to 60 minutes. Remove from the oven and let cool before serving."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "headline": "Tomato and Mozzarella Bites",
+    "name": "Tomato and Mozzarella Bites",
+    "description": "These tomato and mozzarella bites with fresh basil and a balsamic dip are a great way to serve Italian caprese salad as a fun party appetizer!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "58 kcal",
+        "carbohydrateContent": "2 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "3 mg",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "20 toothpicks",
+        "20 grape or cherry tomatoes, halved",
+        "20 fresh basil leaves",
+        "20 small balls fresh mozzarella cheese (often labeled bocconcini)",
+        "salt and pepper to taste",
+        "0.5 cup balsamic vinegar",
+        "0.25 cup extra virgin olive oil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Thread a tomato half, a basil leaf, a mozzarella ball, and another tomato half onto a toothpick. Repeat with remaining ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange toothpicks on a serving platter and season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix vinegar and oil together in a small bowl to serve as a dipping sauce."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

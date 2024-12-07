@@ -1,0 +1,171 @@
+{
+    "headline": "Pizza Stuffed Crescent Ring",
+    "name": "Pizza Stuffed Crescent Ring",
+    "description": "This pizza stuffed crescent ring is packed with sausage, pepperoni, cheese, and olives just like a supreme pizza. It's cheesy on the inside, and buttery and herby outside. Serve with extra pizza sauce for dipping.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "461 kcal",
+        "carbohydrateContent": "33 g",
+        "cholesterolContent": "75 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "949 mg",
+        "sugarContent": "10 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "8 ounces ground beef and/or bulk italian sausage",
+        "1/2 cup chopped onion",
+        "1/2 cup chopped red sweet pepper",
+        "3 cloves garlic, minced",
+        "2 ounces pepperoni slices, quartered (about 30 slices) (1/2 cup)",
+        "1/4 cup sliced black olives",
+        "1 1/2 cups shredded mozzarella cheese, divided",
+        "1 (15-ounce) can pizza sauce",
+        "2 (8-ounce) packages refrigerated crescent rolls",
+        "2 tablespoons butter, melted",
+        "1/2 teaspoon Italian seasoning",
+        "1/4 teaspoon garlic powder",
+        "2 tablespoons grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/E30Hxtxm4Ijfdl70C8zlyUwarJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5141-4x3-step01-724e0bd28e95411db31da4fedfec2b3e.jpg"
+                }
+            ],
+            "text": "Gather all ingredients.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 375 degrees F (190 degrees C). Line a large baking sheet with parchment paper.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/b358Sn0V1n5R0O47ZdHqoFTszNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5146-4x3-step03--0263f4f6a5ba46dd981b19582a7405e8.jpg"
+                }
+            ],
+            "text": "Cook ground beef, onion, pepper, and garlic in a large skillet over medium until beef is browned; about 4 minutes. Drain grease.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/mNL4hwh7-Cl6HmOLcDIiqdxwdcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5147-4x3-step04--8d78b2102e3b4890a45660206507321d.jpg"
+                }
+            ],
+            "text": "Stir in pepperoni and olives. Remove from heat; cool slightly, about 10 minutes.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VOq7d5YitSUOVoZw7A47kFUcaV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5149-4x3-step05--62e14d6f8a4d4ce084f9e638f3abb458.jpg"
+                }
+            ],
+            "text": "Stir the mozzarella cheese and 3/4 cup of the pizza sauce into meat mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/JOmLicwelfFaclqRz1tT-y84i8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5153-4x3-step06--4d0c7b3c93a243b3a1bae9a9b8e31bef.jpg"
+                }
+            ],
+            "text": "Unroll crescent roll dough. Separate each dough sheet into 4 rectangles of two rolls each, so you have 8 rectangles total. Arrange rectangles on the prepared baking sheet in a ring so that the short sides form a 5-inch circle in the center with dough pieces overlapping slightly, like a starburst."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/IQAnIuXufHEXTL282F47ar0iRmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5156-4x3-step07--e44f46daf991482abf1f7e6c053b11bc.jpg"
+                }
+            ],
+            "text": "Carefully spoon meat mixture on the halves of the rectangles closest to the center of the ring."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yL_CR0BWXFTKHI_LsbZBkreQTug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5157-4x3-step08--7cde91ac3fe34ed4a9cc319126b1261f.jpg"
+                }
+            ],
+            "text": "Working around the circle, bring unfilled sides of dough up and over the meat mixture, tucking ends underneath the ring to secure, as needed.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zPyK8tNbXMrfINgi_V6I9Pe8ZYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5160-4x3-step09--43a3c913081c4f5395c0bb7b57903deb.jpg"
+                }
+            ],
+            "text": "Use a paring knife to cut the dough along any attached perforations at the top of the ring so that the filling shows through."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1BerMRCtE4LScvFGM1EjxcAYTIs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5162-4x3-step10--b0a2690c328441e6af99c48421b23317.jpg"
+                }
+            ],
+            "text": "Combine melted butter, Italian seasoning, and garlic powder in a small bowl.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/82ECs4gQpPZU7wufqQ0li3qnl6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5166-4x3-step11--08ec62a98c0a40a192c0b1a7cd789396.jpg"
+                }
+            ],
+            "text": "Brush butter mixture over the top of the crescent ring. Sprinkle with Parmesan cheese.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sOpAQLGH0lDZ_-9djdZ4U3LZ3T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5191-4x3-step12--00e9b6b423d94093b850809d43139837.jpg"
+                }
+            ],
+            "text": "Bake until dough is golden brown, 15 to 17 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/m0pVip9CdmxNPKOBy7QGrw8KzHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732583-Pizza-Stuffed-Crescent-Ring-ddmfs-5193-4x3-step13--2c3ac00ae80f4ddabacf10ba91a7195d.jpg"
+                }
+            ],
+            "text": "Let cool 5 minutes before slicing. Warm remaining pizza sauce and serve with crescent ring."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "headline": "French Quarter Bread Pudding",
+    "name": "French Quarter Bread Pudding",
+    "description": "This is an old family heirloom from my French auntie. Serve with a lemon or bourbon sauce. Enjoy!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "505 kcal",
+        "carbohydrateContent": "64 g",
+        "cholesterolContent": "115 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "12 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "420 mg",
+        "sugarContent": "29 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (1 pound) loaf French bread",
+        "0.5 cup chopped pecans",
+        "0.5 cup unsalted butter, melted",
+        "3 eggs",
+        "1 cup half-and-half cream",
+        "1.25 cups milk",
+        "0.5 teaspoon ground cinnamon",
+        "0.5 teaspoon ground nutmeg",
+        "1 cup white sugar",
+        "1 teaspoon vanilla extract",
+        "0.25 cup golden raisins"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 325 degrees F (165 degrees C). Cut bread into 1 inch thick slices. Arrange bread slices and pecans on a baking sheet and drizzle with melted butter; toast lightly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, beat together eggs, cream, milk, cinnamon, nutmeg, sugar and vanilla. Put bread and pecans in a lightly greased 7x11 in casserole dish. Pour egg mixture over bread. Make sure that bread slices are saturated with liquid."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven for 60 minutes, until golden. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

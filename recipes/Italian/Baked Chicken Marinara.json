@@ -1,0 +1,103 @@
+{
+    "headline": "Baked Chicken Marinara",
+    "name": "Baked Chicken Marinara",
+    "description": "This baked chicken marinara could not be easier. Seasoned, pan-seared chicken breasts bake in the same skillet with marinara and mozzarella for a cozy, comforting dinner.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "614 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "207 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "91 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "2084 mg",
+        "sugarContent": "11 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "4 (8 ounce) skinless, boneless chicken breasts",
+        "2 teaspoon kosher salt",
+        "1 teaspoon dried Italian seasoning",
+        "2 tablespoon olive oil",
+        "1 (24 ounce) jar marinara sauce (such as Rao\u2019s\u00ae)",
+        "8 ounce low-moisture, part-skim mozzarella cheese, shredded (about 2 cups)",
+        "1/4 cup torn fresh basil leaves",
+        "Cooked pasta, for serving (optional)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yqF8a8TOa-Yc8vej4hFWQAz6g4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8686945-BakedChickenMarinara-ddmfs-0041-4x3-Step-01-3ce5120e0ed2440094eb7c329d7dc276.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C) with racks in upper and lower third positions."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vaKD20M71y64FSuQF9z9dx3dPcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8686945-BakedChickenMarinara-ddmfs-0045-4x3-Step-02-1621495e5d2d4c6cb5da12c68a418ada.jpg"
+                }
+            ],
+            "text": "Sprinkle both sides of chicken evenly with salt and Italian seasoning. Heat oil in a deep, large oven-safe skillet over medium-high heat. Add chicken and cook until golden brown on both sides, 3 to 4 minutes per side."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/W0QjG5P7WI02YqtyVf9TTFYDBMw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8686945-BakedChickenMarinara-ddmfs-0046-4x3-Step-03-9f8a4003958f4ec6896b15dc185d5f2e.jpg"
+                }
+            ],
+            "text": "Pour marinara sauce evenly over chicken and sprinkle with mozzarella. Cover with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/QpMXmVryzIRx2b-cX_BGNo-6WVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8686945-BakedChickenMarinara-ddmfs-0106-4x3-step-04-8c027619f93240ba9318ab894de5e6ab.jpg"
+                }
+            ],
+            "text": "Bake on the lower third rack in the preheated oven until cheese is melted, the sauce is bubbling around the edges, and a thermometer inserted into thickest portion of chicken registers 165 degrees F (74 degrees C), 20 to 25 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Mufg7eOER0C62GoxDL8vL6thRTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8686945-BakedChickenMarinara-ddmfs-0110-4x3-step-05-5ec690fff3b94b7fafb9703676539756.jpg"
+                }
+            ],
+            "text": "Remove skillet from oven and remove foil. Increase oven temperature to broil. Once preheated, return skillet to upper third rack and broil until cheese is lightly browned in spots, about 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VLuNJsgR_UgUHygxMY3cvxYb4JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8686945-BakedChickenMarinara-ddmfs-0114-4x3-step-06-7af349c64f0546b5a2e2c28aa7202769.jpg"
+                }
+            ],
+            "text": "Garnish with fresh basil and serve with pasta."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

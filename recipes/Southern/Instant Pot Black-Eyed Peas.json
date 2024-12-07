@@ -1,0 +1,64 @@
+{
+    "headline": "Instant Pot Black-Eyed Peas",
+    "name": "Instant Pot Black-Eyed Peas",
+    "description": "These Instant Pot black-eyed peas with lots of bacon don\u2019t require an overnight soak before cooking. Using the pressure function on the Instant pot will ensure fast prep for a dish commonly served on New Year\u2019s Day. Sounds like good luck for the New Year!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "469 kcal",
+        "carbohydrateContent": "37 g",
+        "cholesterolContent": "59 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "34 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1543 mg",
+        "sugarContent": "5 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 pound bacon, cut into 1-inch pieces",
+        "3 garlic cloves, minced",
+        "1 pound dry black eyed peas",
+        "1 cup water",
+        "5 cups chicken broth",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon dried oregano",
+        "1/4 teaspoon dried dill (optional)",
+        "freshly cracked black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Rinse black-eyed peas and set them aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Turn on a multi-functional pressure cooker (such as Instant Pot\u00ae) and select Saute function. Add bacon; cook and stir until bacon is evenly browned, about 10 minutes. Stir in minced garlic; cook until fragrant, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add rinsed black-eyed peas, water, and chicken broth to the pot; stir to combine. Select Cancel.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Close and lock the lid. Select high pressure according to manufacturer\u2019s instructions; set timer for 30 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Release pressure using the natural-release method according to manufacturer\u2019s instructions, 10 to 40 minutes. Remove the lid, and add garlic powder, oregano, dill and black pepper. Fluff the mixture and serve."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

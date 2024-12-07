@@ -1,0 +1,106 @@
+{
+    "headline": "Real Italian Calzones",
+    "name": "Real Italian Calzones",
+    "description": "Calzones are easier to make than you think with homemade pizza dough stuffed with cheese, pepperoni, and mushrooms, baked until golden brown and hot.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "335 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "64 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "667 mg",
+        "sugarContent": "1 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (.25 ounce) package active dry yeast",
+        "1 cup warm water",
+        "1 tablespoon olive oil",
+        "1 teaspoon white sugar",
+        "1 teaspoon salt",
+        "2.5 cups all-purpose flour, plus more for dusting",
+        "1 teaspoon olive oil",
+        "1 large egg, beaten",
+        "1.5 cups shredded Cheddar cheese",
+        "0.5 cup ricotta cheese",
+        "0.5 cup diced pepperoni",
+        "0.5 cup sliced fresh mushrooms",
+        "1 tablespoon dried basil leaves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Make dough: Dissolve yeast in warm water in a mixing bowl; let sit until foamy, about 5 minutes. Add 1 tablespoon oil, sugar, and salt; mix in 1 cup flour until smooth. Gradually stir in remaining flour until dough is smooth and workable."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/YmVQsaSjO85PJXVUhirPSmFSkKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18874-Real-Italian-Calzones-ddmfs-119-step2-f8c663a7a8a94813a7b32b1cb6679c30.jpg"
+                }
+            ],
+            "text": "Turn dough out onto a lightly floured surface. Knead dough until it is elastic, about 5 minutes. Place 1 teaspoon olive oil in a large bowl; lay dough in the bowl and flip to coat with oil. Cover and let rise until almost doubled in size, about 40 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/c4aRlGrjJY5225fhAXgVeRMuVsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18874-Real-Italian-Calzones-ddmfs-118-step1-c57fb05a88ce4725a5e264e1859a0527.jpg"
+                }
+            ],
+            "text": "Meanwhile, make the filling: Combine Cheddar cheese, ricotta cheese, pepperoni, mushrooms, and basil leaves in a medium bowl. Mix well, cover, and refrigerate to chill."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EbTXKcupAaAYU_j6b6MCBbhbuaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18874-Real-Italian-Calzones-ddmfs-121-step4-2bbec0ce1fbc42358fc852c1d6f913be.jpg"
+                }
+            ],
+            "text": "Punch down dough; divide into 2 equal pieces. Roll each piece out on a lightly floured surface into 1/8-inch-thick circles. Fill each circle with 1/2 of the cheese and meat filling."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/r6iG9p_4wpn36K9vsnGo5TFzlQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18874-Real-Italian-Calzones-ddmfs-123-step6-89ad308e03184c868aa52352ba48e2f1.jpg"
+                }
+            ],
+            "text": "Fold dough over filling to make a semicircle. Press edges down with the tines of a fork to seal. Brush the top of each calzone with beaten egg and place on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Bwkz2gVOQUJcPYSzOJgD94XDi5Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18874-Real-Italian-Calzones-ddmfs-127-4x3-1-a30a0e72801f42bcb0643ed4b57e8a3c.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until golden brown, about 30 minutes. Serve hot."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

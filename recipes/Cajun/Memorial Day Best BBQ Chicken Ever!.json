@@ -1,0 +1,56 @@
+{
+    "headline": "Memorial Day Best BBQ Chicken Ever!",
+    "name": "Memorial Day Best BBQ Chicken Ever!",
+    "description": "This make-ahead bbq chicken is so easy. Grab Worcestershire, brown sugar, ketchup, garlic powder, and Cajun seasoning, marinate the chicken, then grill.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT505M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "176 kcal",
+        "carbohydrateContent": "11 g",
+        "cholesterolContent": "67 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "403 mg",
+        "sugarContent": "9 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup Worcestershire sauce",
+        "2.5 tablespoons brown sugar",
+        "1.5 tablespoons ketchup",
+        "1 teaspoon Cajun seasoning",
+        "1 teaspoon garlic powder",
+        "6 skinless, boneless chicken breast halves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk Worcestershire sauce, brown sugar, ketchup, Cajun seasoning, and garlic powder in a large glass or ceramic bowl. Add chicken and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 8 hours to overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove chicken from marinade and shake off excess. Discard remaining marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill on the preheated grill until chicken is no longer pink and the juices run clear, 6 to 8 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

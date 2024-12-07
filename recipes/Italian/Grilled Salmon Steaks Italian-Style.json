@@ -1,0 +1,52 @@
+{
+    "headline": "Grilled Salmon Steaks Italian-Style",
+    "name": "Grilled Salmon Steaks Italian-Style",
+    "description": "I wanted to get more fish in our diet, so I experimented with different flavorings for salmon steaks. This combination seemed to always be especially delicious with a risotto and vegetable side.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT13M",
+    "cookTime": "PT8M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "324 kcal",
+        "carbohydrateContent": "3 g",
+        "cholesterolContent": "100 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "34 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "179 mg",
+        "sugarContent": "0 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 salmon steaks",
+        "1 tablespoon dried Italian seasoning",
+        "1 teaspoon crumbled dried thyme",
+        "1 teaspoon crushed dried rosemary",
+        "salt and pepper to taste",
+        "1 tablespoon fresh lime juice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium heat and lightly oil grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season one side of each steak with the Italian seasoning, thyme, rosemary, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lay the steaks with the seasoned-side down on the prepared grill. Cook on grill until the flesh flakes, turning once, 7 to 8 minutes. Sprinkle each steak with lime juice to serve."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "headline": "Juicy Lucy Burgers",
+    "name": "Juicy Lucy Burgers",
+    "description": "The famous Juicy Lucy burger, a favorite of Minnesotans, features melted American cheese sandwiched between two seasoned ground beef patties.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "593 kcal",
+        "carbohydrateContent": "23 g",
+        "cholesterolContent": "131 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "38 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "1143 mg",
+        "sugarContent": "1 g",
+        "fatContent": "38 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds ground beef",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon black pepper",
+        "0.75 teaspoon garlic salt",
+        "4 slices American cheese (such as Kraft\u00ae)",
+        "4 hamburger buns, split"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix ground beef, Worcestershire sauce, pepper, and garlic salt together in a bowl until well combined. Form into eight thin patties, each slightly larger than a cheese slice."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stack all cheese slices and cut into four squares. Place one small cheese stack in the center of a beef patty; cover with another beef patty and tightly pinch the edges together to seal around the cheese. Be sure to seal tightly, or the cheese will burst through when cooked. Repeat with the remaining cheese and patties."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a large cast-iron skillet over medium heat. Cook patties in the hot skillet until well browned, about 4 minutes; they will puff up due to steam from the melting cheese. Flip patties, prick the tops to release steam, and cook until browned on the other side and no longer pink in the center; about 4 more minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/bg6I56RIvlOUOqOqh99C0pMyMys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1384938-juicy-lucy-burgers-KGora-1x1-1-cfee7f6c740948b4b9d47c17b6ea464d.jpg"
+                }
+            ],
+            "text": "Serve on hamburger buns."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

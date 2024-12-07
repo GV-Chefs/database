@@ -1,0 +1,105 @@
+{
+    "headline": "Shrimp Marinara",
+    "name": "Shrimp Marinara",
+    "description": "Shrimp marinara hits all the right spots - tasty shrimp with homemade tomato sauce served over spaghetti. A quick and easy weeknight meal.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "595 kcal",
+        "carbohydrateContent": "77 g",
+        "cholesterolContent": "239 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "39 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "1826 mg",
+        "sugarContent": "10 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "12 ounces dry spaghetti",
+        "3 tablespoons extra-virgin olive oil",
+        "1 pound large shrimp, peeled and deveined",
+        "4 cloves garlic, sliced",
+        "1/2 teaspoon crushed red pepper",
+        "1 (15-ounce) can diced fire-roasted tomatoes",
+        "1 (15-ounce) can tomato sauce",
+        "1/4 cup chopped fresh basil, plus more for garnish",
+        "1 tablespoon balsamic vinegar",
+        "1 teaspoon dried oregano",
+        "1/4 teaspoon kosher salt\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/9PNnGL-twaoQ4rvZ1XUzlyhKj3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7972426-shrimp-marinara-ddmfs-step1-deaf27c855f44f28b32f7ee1b3c7611c.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0By-Qbjj40IKUlJm1mvxuIxCdwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7972426-shrimp-marinara-ddmfs-step5-b685965c662f4df0895fc2ccb7d7cc83.jpg"
+                }
+            ],
+            "text": "Prepare spaghetti according to package directions; drain and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vv7dDUoJpddybWBWyyHT5FI2hto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7972426-shrimp-marinara-ddmfs_step2-38331f5ec301460abfe5f8ddf224d83e.jpg"
+                }
+            ],
+            "text": "Meanwhile, heat oil over medium heat in a large skillet. Add shrimp and cook 2 to 3 minutes or until nearly opaque, turning once."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/38XLhd0kQSHpdWjOhkoDZOC78Xs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7972426-shrimp-marinara-ddmfs-step3-d89ea39cf9f049a68a0ed80192285989.jpg"
+                }
+            ],
+            "text": "Transfer shrimp to a plate. Add garlic and crushed red pepper to the skillet. Cook and stir until fragrant, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/M-sGPGXfMdUzX2-DOsgm543873s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7972426-shrimp-marinara-ddmfs_step4-8ab76bddf97d46368dc4fabd5a2f4464.jpg"
+                }
+            ],
+            "text": "Stir in undrained tomatoes, tomato sauce, basil, balsamic vinegar, oregano, and salt. Bring to a boil. Reduce heat and simmer, uncovered, until thickened, 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/mDVndQCHxWKR_ubDbtsuetJX254=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7972426-shrimp-marinara-ddmfs-step6-c7319f978b9b47819da780028cf23af4.jpg"
+                }
+            ],
+            "text": "Return shrimp to skillet and simmer to heat through, about 1 minute. Serve over spaghetti, topped with additional fresh basil."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

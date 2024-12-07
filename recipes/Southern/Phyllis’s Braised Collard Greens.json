@@ -1,0 +1,47 @@
+{
+    "headline": "Phyllis\u2019s Braised Collard Greens",
+    "name": "Phyllis\u2019s Braised Collard Greens",
+    "description": "Phyllis's braised collard greens, cooked low and slow with ham hocks, are meltingly tender and delicious.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT155M",
+    "cookTime": "PT135M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "427 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "138 mg",
+        "fiberContent": "9 g",
+        "proteinContent": "45 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "206 mg",
+        "sugarContent": "1 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 pounds smoked ham hock\u00a0",
+        "3 lbs collard greens, cleaned, stems removed, cut into \u00bd-inch strips\u00a0",
+        "Red pepper flakes, to taste\u00a0",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place smoked ham hocks in a large pot and add 4 cups of water. Cover and simmer over low heat until meat nearly pulls away from the bone, and the skin is a little tender, about 1 hour.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove ham hocks from the pot. Add collards and red pepper flakes, and season with salt and pepper. Cover and simmer until tender, about 1 hour. Add ham hocks back in and cook for another 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

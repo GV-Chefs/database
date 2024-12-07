@@ -1,0 +1,59 @@
+{
+    "headline": "Two-Ingredient Pizza Dough",
+    "name": "Two-Ingredient Pizza Dough",
+    "description": "This 2-ingredient pizza dough is super simple to make with just self-rising flour and Greek yogurt for a tender, crisp crust in less than 30 minutes.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "116 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "6 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "314 mg",
+        "sugarContent": "1 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 cups self-rising flour, plus more for kneading",
+        "1 cup plain Greek yogurt",
+        "cooking spray"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 500 degrees F (260 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix flour and Greek yogurt together in a bowl to form a dough; transfer to a work surface floured with self-rising flour. Knead dough, adding more flour as needed to keep dough from being too sticky, about 8 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spray a 12-inch pizza pan with cooking spray and spread dough to the edges of the pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xZxZ0K3KLNDP_lkuSn9FXYGkkU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244447_two-ingredient-pizza-dough_Rita-3x2-1-2000-89b7702218db4de09e45aa3c90b8115f.jpg"
+                }
+            ],
+            "text": "Bake pizza crust in preheated oven for 5 to 7 minutes; add your favorite toppings and return to the preheated oven. Bake until crust is lightly browned, 5 to 7 minutes more."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

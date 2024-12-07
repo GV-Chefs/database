@@ -1,0 +1,53 @@
+{
+    "headline": "Mary's Cast Iron Skillet Cornbread",
+    "name": "Mary's Cast Iron Skillet Cornbread",
+    "description": "This Southern cornbread is moist and buttery with sour cream, buttermilk, and creamed corn; baked in a cast iron skillet for crispy edges.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "211 kcal",
+        "carbohydrateContent": "27 g",
+        "cholesterolContent": "60 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "632 mg",
+        "sugarContent": "3 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeIngredient": [
+        "1 tablespoon vegetable oil",
+        "1 (14 ounce) can cream-style corn",
+        "1.5 cups self-rising yellow cornmeal",
+        "0.5 cup buttermilk",
+        "0.5 cup sour cream",
+        "0.5 cup Greek yogurt",
+        "2 eggs, beaten",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon ground red chile pepper, or to taste",
+        "1 tablespoon butter, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pour vegetable oil in a cast iron skillet; place in the oven. Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix cream-style corn, cornmeal, buttermilk, sour cream, yogurt, eggs, salt, and red chile pepper together in a bowl to form batter. Remove skillet from oven using oven mitts; pour in batter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until edges pull away from skillet, 30 to 40 minutes. Spread butter over top."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

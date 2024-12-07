@@ -1,0 +1,65 @@
+{
+    "headline": "Creamy Sausage Orzo",
+    "name": "Creamy Sausage Orzo",
+    "description": "This creamy sausage orzo recipe is a one-dish pasta meal, packed with protein and veggies in a delectable sauce.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT22M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "419 kcal",
+        "carbohydrateContent": "31 g",
+        "cholesterolContent": "46 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1039 mg",
+        "sugarContent": "8 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT8M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "2 to 3 links Italian sausage\u00a0",
+        "1 medium onion, diced",
+        "1 red bell pepper, diced",
+        "4 garlic cloves, minced",
+        "1 (14.5 ounce) can diced tomatoes, divided",
+        ".75 teaspoon Italian seasoning",
+        "1 cup orzo",
+        "1.25 cup chicken broth",
+        ".25 cup half and half",
+        "1 cup spinach, or desired amount",
+        ".5 cup freshly shredded Parmesan cheese",
+        "Pinch crushed red pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Add oil to a heavy skillet. Turn heat to medium high heat. Add the sausage links, and cook on all four sides until browned, about 5 minutes. Move sausage to the side. Add onions and bell pepper; cook until softened, 4 to 5 minutes. Add garlic; cook until fragrant, about 45 seconds."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour 1/4 of tomatoes with liquid into the skillet. Take remaining tomatoes and blend until liquified; pour blended tomatoes into the skillet. Stir in Italian seasoning, orzo, and chicken broth until well blended."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover the skillet, reduce heat to medium, and cook for 10 minutes. Remove links and slice into coin-size pieces."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add half and half and spinach; allow spinach to wilt down, about 2 minutes. Stir in sliced sausage, Parmesan cheese, and crushed red pepper. Adjust seasonings to taste. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

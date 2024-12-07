@@ -1,0 +1,57 @@
+{
+    "headline": "Georgia Cornbread Cake",
+    "name": "Georgia Cornbread Cake",
+    "description": "This Georgia cornbread cake is more like a brown sugar and pecan cake. It's actually made without cornmeal and tastes similar to blonde brownies.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "514 kcal",
+        "carbohydrateContent": "49 g",
+        "cholesterolContent": "62 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "227 mg",
+        "sugarContent": "35 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "4 large eggs, beaten",
+        "1 cup vegetable oil",
+        "1 cup white sugar",
+        "1 cup brown sugar",
+        "2 cups finely chopped pecans",
+        "1.5 cups self-rising flour",
+        "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat eggs, oil, white sugar, and brown sugar together in a bowl until smooth. Stir in pecans, flour, and vanilla until incorporated. Pour batter into the prepared baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 35 minutes. Remove from the oven and set on a wire rack to cool for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Turn cake out onto a platter and let cool completely."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

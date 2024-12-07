@@ -1,0 +1,57 @@
+{
+    "headline": "No Ordinary Meatloaf",
+    "name": "No Ordinary Meatloaf",
+    "description": "Cornbread stuffing adds great texture and flavor to this Tex-Mex style meatloaf.",
+    "recipeCuisine": [
+        "Tex Mex"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "392 kcal",
+        "carbohydrateContent": "30 g",
+        "cholesterolContent": "118 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1029 mg",
+        "sugarContent": "3 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 serving cooking spray",
+        "2 cups corn bread stuffing mix",
+        "1 pound ground beef",
+        "1 pound ground pork",
+        "0.5 cup diced onion",
+        "0.5 cup diced green bell pepper",
+        "1 (14.5 ounce) can diced tomatoes",
+        "2 eggs, beaten",
+        "2 teaspoons seasoned salt",
+        "1 teaspoon garlic and herb seasoning blend",
+        "0.5 teaspoon ground black pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x5 inch loaf pan with nonstick cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In food processor or blender, pulse stuffing mix to fine crumbs; place in large bowl. Stir in ground beef, ground pork, onion, green pepper, tomatoes, eggs, seasoned salt, seasoning blend, and pepper. Use your hands to mix very well; pat into prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven until no longer pink in the center, 45 minutes to 1 hour. An instant-read thermometer inserted into the center should read at least 160 degrees F (72 degrees C). Cool for 5 to 10 minutes before slicing."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

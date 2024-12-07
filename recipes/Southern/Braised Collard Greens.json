@@ -1,0 +1,52 @@
+{
+    "headline": "Braised Collard Greens",
+    "name": "Braised Collard Greens",
+    "description": "These braised collard greens are simmered in stock with ham hocks, salt pork, bay leaves, red pepper flakes, and sugar until tender and delicious.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT70M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "582 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "103 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "1657 mg",
+        "sugarContent": "5 g",
+        "fatContent": "48 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "3 quarts chicken stock",
+        "2 pounds fresh ham hocks",
+        "0.5 pound salt pork",
+        "1 cup chopped onion",
+        "2 bay leaves",
+        "2 tablespoons white sugar",
+        "0.25 teaspoon red pepper flakes",
+        "2 pounds collard greens - rinsed, stemmed and thinly sliced",
+        "2 teaspoons red wine vinegar",
+        "salt and freshly ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pour chicken stock into a large pot. Add ham hocks, salt pork, onion, bay leaves, sugar, and red pepper flakes. Bring to a boil, reduce heat to simmer, and cook for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir collard greens into the pot and bring to a boil. Reduce heat to simmer and cook until greens are tender, about 30 minutes. Season with red wine vinegar, salt, and pepper."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

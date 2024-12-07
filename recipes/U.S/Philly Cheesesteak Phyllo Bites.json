@@ -1,0 +1,62 @@
+{
+    "headline": "Philly Cheesesteak Phyllo Bites",
+    "name": "Philly Cheesesteak Phyllo Bites",
+    "description": "Philly cheese steak-stuffed mushrooms are piled high in mini phyllo shells for a perfect snack to serve during the big game or any other big game day.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "42 kcal",
+        "carbohydrateContent": "3 g",
+        "cholesterolContent": "6 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "72 mg",
+        "sugarContent": "0 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner",
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "2 (1.9 ounce) packages mini phyllo tart shells",
+        "1 tablespoon butter",
+        "0.5 cup diced fresh mushrooms",
+        "0.25 cup diced onion",
+        "0.25 cup diced green bell pepper",
+        "6 ounces frozen thinly sliced steak (such as Steak-umm\u00ae), thawed",
+        "2 tablespoons Worcestershire sauce",
+        "1 tablespoon soy sauce",
+        "2 ounces cream cheese, softened",
+        "0.5 teaspoon parsley flakes",
+        "0.5 cup shredded mozzarella cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Place phyllo shells on a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large skillet over medium-high heat. Add mushrooms, onion, and bell pepper; cook until onion is translucent and mushrooms have softened, about 5 minutes. Add steak, Worcestershire sauce, and soy sauce; cook for 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, combine cream cheese and parsley in a large bowl. Add steak and vegetable mixture; stir to combine. Spoon mixture into phyllo shells; sprinkle mozzarella cheese over top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until cheese is brown, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "30"
+    ]
+}

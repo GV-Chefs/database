@@ -1,0 +1,87 @@
+{
+    "headline": "German Rhubarb Almond Cake",
+    "name": "German Rhubarb Almond Cake",
+    "description": "This rhubarb custard cake has a buttery crust topped with sweetened rhubarb and a velvety almond custard filling for a delightful rhubarb dessert.",
+    "recipeCuisine": [
+        "German"
+    ],
+    "totalTime": "PT150M",
+    "cookTime": "PT75M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "608 kcal",
+        "carbohydrateContent": "77 g",
+        "cholesterolContent": "128 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "195 mg",
+        "sugarContent": "47 g",
+        "fatContent": "30 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "6 cups peeled and chopped rhubarb",
+        "0.75 cup white sugar",
+        "7 tablespoons unsalted butter, softened",
+        "0.33333334326744 cup white sugar",
+        "2 cups all-purpose flour",
+        "2 tablespoons white wine",
+        "2 teaspoons baking powder",
+        "1 large egg",
+        "1 cup almond flour",
+        "0.75 cup creme fraiche",
+        "2 tablespoons creme fraiche",
+        "0.66666668653488 cup white sugar",
+        "2 large eggs",
+        "2 teaspoons vanilla sugar",
+        "1 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "For the rhubarb filling: Combine rhubarb and sugar in a large bowl. Mix to combine and set aside to allow the rhubarb to release some juice, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For the cake: Beat butter and sugar together in a large bowl until light and fluffy. Add flour, wine, baking powder, and egg; mix together to form a dough. Wrap dough in plastic wrap and place in the refrigerator for 5 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch springform cake pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll dough out on a lightly floured surface into a circle slightly larger than the diameter of the cake pan. Transfer to the prepared cake pan, letting the dough come up the sides by about 1 inch."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain rhubarb and evenly scatter over the dough; bake in the preheated oven for 45 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, make the custard filling: beat almond flour, 3/4 cup plus 2 tablespoons cr\u00e8me fra\u00eeche, sugar, eggs, vanilla sugar, and cinnamon together until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove cake from oven after 45 minutes; top with almond custard mixture and use a spatula to spread it evenly to the sides of the pan. Return cake to the oven and bake until golden brown on top, about 30 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2L3vp9J2_hM7zC_TvdEPuWwsEY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8641175GermanRhubarbAlmondCakeKimShupe4x3extra-3f382dd8611841ce81d25d1fb9242ecd.jpg"
+                }
+            ],
+            "text": "Allow the cake to cool in the pan before slicing."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

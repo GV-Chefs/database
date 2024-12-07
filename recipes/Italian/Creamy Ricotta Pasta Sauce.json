@@ -1,0 +1,61 @@
+{
+    "headline": "Creamy Ricotta Pasta Sauce",
+    "name": "Creamy Ricotta Pasta Sauce",
+    "description": "Tired of food coma-inducing cream sauces? Try Chef John's lighter pesto pasta sauce made with ricotta salata.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "297 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "52 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "617 mg",
+        "sugarContent": "1 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "8 ounces orecchiette pasta",
+        "0.5 cup ricotta cheese",
+        "1 large egg",
+        "1 teaspoon kosher salt, or more to taste",
+        "0.5 teaspoon freshly ground black pepper",
+        "1 lemon, zested",
+        "1 pinch cayenne pepper, or to taste",
+        "0.25 cup pesto, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a pot of salted water to a boil over high heat. Cook orecchiette according to package directions, reducing time by 1 minute, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, combine ricotta cheese, egg, salt, pepper, lemon zest, and cayenne pepper in a bowl. Mix until a paste forms. Add 1/3 cup hot pasta water and whisk well. Repeat with another 1/3 cup pasta water."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/koYPMz3GkRr9eGi45R9lG1XvUTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5364852-creamy-ricotta-pasta-sauce-Chef-John-1x1-1-0ac6d853f1a8464a93d2c9feb9c7f373.jpg"
+                }
+            ],
+            "text": "Transfer pasta to a saucepan using a strainer, letting most, but not all, the water drain off. Reserve cooking water. Add the sauce mixture and turn heat to medium. Cook and stir until sauce thickens enough to coat the pasta evenly, about 2 minutes. Add more pasta water if sauce gets too thick. Stir in pesto. Taste and season as desired. Transfer pasta to a warm bowl."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

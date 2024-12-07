@@ -1,0 +1,53 @@
+{
+    "headline": "Sheboygan Grilled Brats",
+    "name": "Sheboygan Grilled Brats",
+    "description": "Finishing bratwurst in beer sauce just make them better. Serve them on hard rolls with mustard and the cooked onions. Hungry? Try the famous Sheboygan double-brat!",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT52M",
+    "cookTime": "PT47M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "534 kcal",
+        "carbohydrateContent": "31 g",
+        "cholesterolContent": "79 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1014 mg",
+        "sugarContent": "4 g",
+        "fatContent": "33 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Drink"
+    ],
+    "recipeIngredient": [
+        "0.25 cup butter",
+        "2 medium onions, thinly sliced",
+        "3 cloves garlic, chopped",
+        "4 (12 ounce) bottles dark beer",
+        "2 pounds fresh bratwurst",
+        "10 hot dog buns"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high heat and lightly oil grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large skillet over medium heat, cook and stir the sliced onions for 5 to 10 minutes, or until tender and translucent. Add the chopped garlic and cook, stirring, for an additional 2 minutes. Add the beer and let simmer while the bratwursts are cooking on the grill."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill the bratwursts for 30 to 35 minutes, turning often. Be careful not to poke holes in the casing. Remove the bratwursts from the grill and simmer in the beer sauce for an additional 10 to 15 minutes. Serve hot with onions on the rolls."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "headline": "Creamy Cajun Potato Soup",
+    "name": "Creamy Cajun Potato Soup",
+    "description": "This creamy Cajun potato soup is hearty, full of goodness and Cajun flavor. Andouille sausage, the &#34;holy trinity&#34; of onion, bell pepper, and celery, and Cajun seasoning bring it all together.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "620 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "105 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "1062 mg",
+        "sugarContent": "6 g",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "5 Yukon Gold potatoes, peeled and cut into chunks",
+        "2 tablespoons Butter",
+        "1 tablespoon Olive Oil",
+        "1 Yellow Onion, chopped",
+        "2 Celery Stalks, chopped",
+        "1 Green Bell Pepper, chopped",
+        "2 Cloves Garlic, chopped",
+        "1 pound Andouille Smoked Sausage, cut into round slices",
+        "4 Cups Vegetable broth or Chicken Broth",
+        "1 Cup Heavy Cream",
+        "1 teaspoon Cajun Seasoning, or as needed",
+        "1/4 Cup Freshly Grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place potatoes in a large microwave-safe bowl with a few tablespoons water, and cook on High, stopping occasionally to stir potatoes, until nearly tender, 5 to 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat butter and olive oil in a large stock pot over medium heat. Add onion, celery, bell pepper, and garlic, and cook and stir until onion begins to turn translucent, about 5 minutes. Stir in andouille, and cook for about 5 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in vegetable broth; bring to a simmer, add potatoes, and cook until potatoes are fork-tender, about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in cream; season to taste with Cajun seasoning, and cook just until heated through. Serve hot in bowls; sprinkle each bowl with Parmesan cheese."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

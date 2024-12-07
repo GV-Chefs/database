@@ -1,0 +1,52 @@
+{
+    "headline": "Personal Portobello Pizza",
+    "name": "Personal Portobello Pizza",
+    "description": "A delicious recipe that substitutes a portobello mushroom for a pizza crust. Try using pesto sauce instead of spaghetti sauce, and experiment with your favorite pizza toppings.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "235 kcal",
+        "carbohydrateContent": "11 g",
+        "cholesterolContent": "45 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "590 mg",
+        "sugarContent": "4 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 large portobello mushroom, stem removed",
+        "1 tablespoon spaghetti sauce",
+        "0.5 cup mozzarella cheese",
+        "0.5 tablespoon sliced black olives",
+        "4 slices pepperoni sausage",
+        "1 clove garlic, chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place the mushroom on a baking sheet, and bake for 5 minutes in the preheated oven. Remove from the oven, and spread spaghetti sauce in the cup of the cap. Top with cheese, olives, pepperoni and garlic."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for an additional 20 minutes, or until cheese is melted and golden."
+        }
+    ],
+    "recipeYield": [
+        "1"
+    ]
+}

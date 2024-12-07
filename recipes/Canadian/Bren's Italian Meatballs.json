@@ -1,0 +1,54 @@
+{
+    "headline": "Bren's Italian Meatballs",
+    "name": "Bren's Italian Meatballs",
+    "description": "Meatballs made with fresh breadcrumbs, pecorino Romano cheese, parsley, and a hint of red pepper are the perfect addition to any tomato sauce.",
+    "recipeCuisine": [
+        "Canadian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "258 kcal",
+        "carbohydrateContent": "4 g",
+        "cholesterolContent": "103 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "226 mg",
+        "sugarContent": "0 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup fresh bread crumbs",
+        "0.5 cup grated pecorino Romano cheese",
+        "1 large egg",
+        "2 large cloves garlic, minced",
+        "1 tablespoon chopped fresh parsley",
+        "0.25 teaspoon ground black pepper",
+        "1 pinch red pepper flakes",
+        "1 pound lean ground beef"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Toss together bread crumbs, Romano cheese, egg, garlic, parsley, black pepper, and red pepper flakes in a bowl; mix in beef gently with your hands until combined. Form mixture into meatballs about 1 1/4-inches in diameter; place on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 10 minutes; turn meatballs and continue baking until no longer pink in the center, about 5 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

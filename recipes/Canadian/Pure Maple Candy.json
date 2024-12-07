@@ -1,0 +1,73 @@
+{
+    "headline": "Pure Maple Candy",
+    "name": "Pure Maple Candy",
+    "description": "This maple sugar candy is made with boiled maple syrup mixed with walnuts, molded into beautiful shapes for a creamy, melt-in-your-mouth sweet treat.",
+    "recipeCuisine": [
+        "Canadian"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "113 kcal",
+        "carbohydrateContent": "24 g",
+        "fiberContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "3 mg",
+        "sugarContent": "21 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups pure maple syrup",
+        "0.5 cup chopped walnuts"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/18-DjuyLbxOMpqDR73Z13ZT6s1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/142723_PureMapleCandy_step1_ddmfs_4x3_1231-c4a7d8c4621c4f50957f82083b960f0a.jpg"
+                }
+            ],
+            "text": "Attach a candy thermometer to a large, heavy-bottomed saucepan. Bring maple syrup to a boil in the saucepan over medium-high heat, stirring occasionally, until syrup reaches 235 degrees F (110 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from heat and cool to 175 degrees F (80 degrees C) without stirring, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ebAovSOrlbn1iGbkNIF5oA_Ykok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/142723_PureMapleCandy_step3_ddmfs_4x3_1248-918d96e0743445978f1fb2768ab4d134.jpg"
+                }
+            ],
+            "text": "Stir mixture rapidly with a wooden spoon until thick, creamy, and lighter in color, about 5 minutes. Stir in chopped nuts."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/kmvhdweuj8OKQcv3gfzo06yx5l4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/142723_PureMapleCandy_step4_ddmfs_4x3_1249-3f7ad3880ac04de4aec0b631a20128a7.jpg"
+                }
+            ],
+            "text": "Pour into molds; allow to cool at room temperature until set."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Unmold candy. Store in an airtight container for up to 1 month."
+        }
+    ],
+    "recipeYield": [
+        "18"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "headline": "Smoky Chipotle Hummus",
+    "name": "Smoky Chipotle Hummus",
+    "description": "This big batch chipotle hummus is a beautiful orange color with a smoky, bright flavor. Serve with pita chips and fresh vegetables.",
+    "recipeCuisine": [
+        "Inspired"
+    ],
+    "totalTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "44 kcal",
+        "carbohydrateContent": "6 g",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "110 mg",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 (15.5 ounce) cans garbanzo beans, drained",
+        "0.5 cup water",
+        "0.25 cup tahini (sesame-seed paste)",
+        "0.25 cup fresh lemon juice",
+        "2 tablespoons olive oil",
+        "1 canned chipotle pepper in adobo sauce",
+        "2 cloves garlic",
+        "1.5 teaspoons cumin",
+        "1 (7 ounce) jar roasted red bell peppers, drained",
+        "0.5 cup chopped cilantro",
+        "6 oil-packed sun-dried tomatoes, drained",
+        "0.5 teaspoon salt",
+        "ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Blend garbanzo beans, water, tahini, lemon juice, olive oil, chipotle pepper, garlic, and cumin in a food processor until smooth. Add red peppers, cilantro, sun-dried tomatoes, salt, and pepper; pulse to coarsely chop and blend. Transfer to a serving bowl."
+        }
+    ],
+    "recipeYield": [
+        "40"
+    ]
+}

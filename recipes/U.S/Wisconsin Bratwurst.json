@@ -1,0 +1,74 @@
+{
+    "headline": "Wisconsin Bratwurst",
+    "name": "Wisconsin Bratwurst",
+    "description": "In this simple Wisconsin brats recipe, fresh bratwurst sausages are cooked with beer and sliced onions, then grilled until brown and irresistible.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "558 kcal",
+        "carbohydrateContent": "10 g",
+        "cholesterolContent": "116 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "21 g",
+        "sodiumContent": "908 mg",
+        "fatContent": "45 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Drink"
+    ],
+    "recipeIngredient": [
+        "2 pounds fresh bratwurst sausages",
+        "6 (12 fluid ounce) cans or bottles beer",
+        "2 onions, thinly sliced",
+        "1 cup butter",
+        "1.5 teaspoons ground black pepper",
+        "10 hoagie rolls"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/fDhukyPfbdelIUgbma-XxQgvUMk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsinbrats_ddmfs_step1_4x3_1134-a4f0a1c18908497db84bd7b18b6b60fa.jpg"
+                }
+            ],
+            "text": "Prick bratwurst with a fork to prevent them from exploding as they cook."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2gFxUz1jyeIWYn-zBMs2U5gn8BY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsinbrats_ddmfs_step2_4x3_1138-fbbe0af10450476ca444fa91c2fdf117.jpg"
+                }
+            ],
+            "text": "Place in a large stockpot. Add beer, onions, butter, and black pepper. Place the stockpot over medium heat, bring to a boil and simmer for 15 to 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rW4EVCGNrNflXxw8U1iN1y-_7BU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsin-brats_ddmfs_4x3_1149-3bbb0beec69942ada6e196d2e0602a53.jpg"
+                }
+            ],
+            "text": "Cook bratwurst on the preheated grill until evenly browned, about 10 to 14 minutes, turning occasionally. Serve hot off the grill with onions on hoagie rolls."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

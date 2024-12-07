@@ -1,0 +1,51 @@
+{
+    "headline": "Cannellini Bean Caprese Salad",
+    "name": "Cannellini Bean Caprese Salad",
+    "description": "This cannellini bean salad is the best of both bean salad and caprese salad, fresh and delicious, and the perfect accompaniment to grilled chicken or fish.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "301 kcal",
+        "carbohydrateContent": "35 g",
+        "cholesterolContent": "18 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "599 mg",
+        "sugarContent": "11 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish",
+        "Salad"
+    ],
+    "recipeIngredient": [
+        "1 (15.5-ounce) can cannellini beans, rinsed and drained",
+        "5 ounces cherry tomatoes, halved",
+        "4 ounces mini fresh mozzarella balls (perlini)",
+        "6 large basil leaves, thinly sliced",
+        "salt and freshly ground black pepper to taste",
+        "2 tablespoons extra virgin olive oil",
+        "1/4 cup balsamic glaze, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place beans, tomatoes, mozzarella balls, basil, and olive oil in a large bowl. Toss to coat; season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When ready to serve, divide salad onto plates and drizzle with balsamic glaze, about 1 tablespoon per serving."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

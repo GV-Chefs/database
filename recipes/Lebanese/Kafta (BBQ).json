@@ -1,0 +1,55 @@
+{
+    "headline": "Kafta (BBQ)",
+    "name": "Kafta (BBQ)",
+    "description": "The yummiest preparation mixture for ground beef EVER! I have made this Lebanese meat for all of my friends and family and have HAD to leave the recipe with everyone! The mixture can be used for everything: meatballs, meatloaf, BBQ skewers, and hamburgers.",
+    "recipeCuisine": [
+        "Lebanese",
+        "Middle Eastern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "227 kcal",
+        "carbohydrateContent": "2 g",
+        "cholesterolContent": "74 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "459 mg",
+        "sugarContent": "1 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds lean ground beef",
+        "1 medium onion, grated",
+        "0.5 cup finely chopped fresh parsley",
+        "0.25 teaspoon cayenne pepper",
+        "0.25 teaspoon ground allspice",
+        "1 teaspoon salt, or to taste",
+        "0.25 teaspoon black pepper",
+        "6 wooden or metal skewers"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high heat. If using wooden skewers, soak in water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, mix together the ground beef, onion, parsley, cayenne, allspice, salt and pepper until evenly blended. Divide into 6 portions, and press around one end of the skewers to form a log shape approximately 1 inch thick and 6 inches long."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill for 10 to 15 minutes, turning occasionally, until meat is no longer pink."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

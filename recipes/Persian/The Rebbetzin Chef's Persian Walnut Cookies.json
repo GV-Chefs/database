@@ -1,0 +1,62 @@
+{
+    "headline": "The Rebbetzin Chef's Persian Walnut Cookies",
+    "name": "The Rebbetzin Chef's Persian Walnut Cookies",
+    "description": "These delicately spiced, rose-scented Persian cookies are the perfect treat for Passover since they contain no flour. They are nutty, rich, and slightly chewy with a crunchy exterior.",
+    "recipeCuisine": [
+        "Persian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "66 kcal",
+        "carbohydrateContent": "5 g",
+        "cholesterolContent": "23 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "36 mg",
+        "sugarContent": "4 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1.5 cups finely ground walnuts",
+        "0.75 cup white sugar",
+        "4 large egg yolks, divided",
+        "1 tablespoon ground cardamom",
+        "1 teaspoon baking soda",
+        "1 tablespoon rose water",
+        "1 teaspoon water",
+        "0.5 cup walnut pieces for decoration"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix together ground walnuts, sugar, 3 egg yolks, cardamom, baking soda, and rose water in a medium bowl until well blended. Roll teaspoon-sized pieces of dough into balls and place 2 inches apart onto the prepared baking sheets."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together remaining egg yolk and water using a fork. Press a walnut piece into each cookie, then brush with egg yolk glaze."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden, about 20 minutes. The cookies will appear soft and undercooked but they will harden considerably when cooled."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from the oven and allow to cool on the baking sheets for at least 10 minutes before transferring to a wire rack to cool completely."
+        }
+    ],
+    "recipeYield": [
+        "36"
+    ]
+}

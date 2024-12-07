@@ -1,0 +1,54 @@
+{
+    "headline": "Avocado Caprese Salad",
+    "name": "Avocado Caprese Salad",
+    "description": "For this avocado caprese salad, add some chopped avocado to caprese for a new twist on an old favorite. Proportioned for two, this easy salad is perfect for a quick summer lunch with a friend.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "478 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "27 mg",
+        "fiberContent": "11 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "379 mg",
+        "sugarContent": "4 g",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Lunch",
+        "Side Dish",
+        "Salad"
+    ],
+    "recipeIngredient": [
+        "1/2 cup mini mozzarella balls, or \u201cpearls\u201d, drained",
+        "1/2 cup cherry tomatoes, halved",
+        "1/2 avocado, peeled and chopped",
+        "5 to 6 leaves fresh basil, plus more for garnish",
+        "1 Tablespoon good quality balsamic vinegar",
+        "2 Tablespoons extra virgin olive oil",
+        "Salt and freshly ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine mozzarella, halved cherry tomatoes, and chopped avocado in a small bowl. Tear basil leaves into pieces and sprinkle over the other ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drizzle on balsamic vinegar and extra virgin olive oil and toss to combine. Season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide into two serving bowls and garnish with additional fresh basil. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

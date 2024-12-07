@@ -1,0 +1,67 @@
+{
+    "headline": "Ta'ameya (Egyptian Falafel)",
+    "name": "Ta'ameya (Egyptian Falafel)",
+    "description": "Egyptian falafel (called ta'ameya) is a popular street food all over Egypt. It's made with fresh herbs and ground fava beans instead of chickpeas.",
+    "recipeCuisine": [
+        "Egyptian",
+        "Middle Eastern"
+    ],
+    "totalTime": "PT515M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "814 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "402 mg",
+        "sugarContent": "1 g",
+        "fatContent": "87 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "2 cups dried split fava beans",
+        "1 red onion, quartered",
+        "0.5 cup fresh parsley",
+        "0.5 cup fresh cilantro",
+        "0.5 cup fresh dill",
+        "3 cloves garlic",
+        "1.5 teaspoons ground coriander",
+        "1.5 teaspoons salt",
+        "1 teaspoon ground cumin",
+        "1 cup sesame seeds",
+        "vegetable oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place fava beans into large bowl and cover with several inches of water. Let soak, 8 hours to overnight. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine soaked fava beans, red onion, parsley, cilantro, dill, garlic, coriander, salt, and cumin in a food processor; process to a dough-like consistency."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a skillet over medium heat. Add sesame seeds; cook, stirring occasionally, until toasted, about 5 minutes. Transfer to a large plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Shape fava bean mixture into about 50 balls. Roll balls in sesame seeds to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fill a large saucepan 1/4 full with oil; heat over medium heat. Fry fava bean balls in batches until golden brown, 3 to 5 minutes per batch. Drain on paper towels."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

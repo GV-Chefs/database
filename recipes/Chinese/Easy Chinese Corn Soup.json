@@ -1,0 +1,48 @@
+{
+    "headline": "Easy Chinese Corn Soup",
+    "name": "Easy Chinese Corn Soup",
+    "description": "This quick and satisfying Chinese corn soup is delicious and simple enough to make at home anytime for an easy lunch or dinner in just 15 minutes.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "121 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "48 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "409 mg",
+        "sugarContent": "4 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeIngredient": [
+        "1 (15 ounce) can cream style corn",
+        "1 (14.5 ounce) can low-sodium chicken broth",
+        "1 tablespoon cornstarch",
+        "2 tablespoons water",
+        "1 large egg, beaten"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine corn and chicken broth in a saucepan. Bring to a boil over medium-high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix together cornstarch and water in a small bowl or cup; pour into the boiling corn soup, and continue cooking for about 2 minutes, or until thickened."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Gradually add beaten egg while stirring the soup. Remove from heat and serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

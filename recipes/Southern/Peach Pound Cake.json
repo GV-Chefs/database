@@ -1,0 +1,68 @@
+{
+    "headline": "Peach Pound Cake",
+    "name": "Peach Pound Cake",
+    "description": "This buttery peach pound cake is easy to make with fresh, juicy peaches and easy baking ingredients for a delicious and welcome summer treat.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "307 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "77 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "196 mg",
+        "sugarContent": "26 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups white sugar",
+        "1 cup butter or margarine, softened",
+        "4 eggs",
+        "1 teaspoon vanilla extract",
+        "3 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "0.5 teaspoon salt",
+        "2 cups fresh peaches, pitted and chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C). Butter a 10-inch tube pan and dust with white sugar."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat sugar and butter together in a mixing bowl with an electric mixer until light and fluffy; add eggs, one at a time, beating well after each addition. Stir in vanilla."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift 2 \u00be cups flour, baking powder, and salt together into a bowl; gradually stir flour mixture into butter mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place remaining 1/4 cup flour into a small bowl. Add peaches and toss to coat, then fold floured peaches into batter. Spread batter evenly into the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iITX-hpIDBkNwFZYkK4K6jm8ZCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1334531-9d1505481d774071b9d42d02c49388fb.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 60 to 70 minutes. Cool in the pan for 10 minutes, then invert onto a wire rack to cool completely."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

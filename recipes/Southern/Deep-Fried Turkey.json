@@ -1,0 +1,88 @@
+{
+    "headline": "Deep-Fried Turkey",
+    "name": "Deep-Fried Turkey",
+    "description": "Try this deep-fried turkey recipe for outdoor holiday cooking that frees up your oven. It's juicy and tender on the inside and super crispy on the outside.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "603 kcal",
+        "carbohydrateContent": "2 g",
+        "cholesterolContent": "229 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "69 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "571 mg",
+        "sugarContent": "0 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 gallons peanut oil for frying, or as needed",
+        "1 (12 pound) whole turkey, neck and giblets removed",
+        "0.25 cup Creole seasoning",
+        "1 medium white onion"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Fq0BH4TAcpqRz0tTfGloCZy-YLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13824-deep-fried-turkey-step-01-9f51dabcacd040278745d75aace3afb9.jpg"
+                }
+            ],
+            "text": "Gather the ingredients. Fill a turkey fryer or large stockpot with enough oil to fry turkey; be sure to leave room for turkey so oil doesn't spill over. Heat oil to 400 degrees F (200 degrees C). Layer a large platter with food-safe paper bags."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oXWitb9RyxIp-pX8RNkFF_pTvRs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13824-deep-fried-turkey-step-02-1324182f987e47639b9f600b8907b84d.jpg"
+                }
+            ],
+            "text": "Rinse turkey and thoroughly pat dry with paper towels. Rub seasoning inside the cavity and all over the outer surfaces. Make sure the hole at the neck is open at least 2 inches so oil can flow freely into the cavity."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ydWDKLJInCES0MxaIEWXbmZqJHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13824-Deep-Fried-Turkey-Step-03-3910e76b988b4a3095572f30776df5bb.jpg"
+                }
+            ],
+            "text": "Turn off the heat source. Place whole onion into the drain basket followed by turkey, neck-end first. Slowly lower the basket into the fryer until turkey is completely submerged in oil. Turn on the heat source and cook, maintaining oil temperature at 350 degrees F (175 degrees C) until no longer pink at the bone and the juices run clear, about 45 minutes, or 3 1/2 minutes per pound."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Of_ryL-CSPiDm9XhCz5F0r3KxnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13824-deep-fried-turkey-step-04-6063f63eda354687a11844343580e31a.jpg"
+                }
+            ],
+            "text": "Carefully remove the basket from the fryer and drain turkey. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read at least 165 degrees F (74 degrees C) but no more than 180 degrees F (80 degrees C). Transfer turkey to the prepared platter to finish draining, 10 to 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/CJ23C7tr9t3JMYKIknbcgaDDdlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13824-deep-fried-turkey-step-05-212342653bec495fab257d469480e5a5.jpg"
+                }
+            ],
+            "text": "Serve warm and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

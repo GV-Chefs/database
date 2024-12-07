@@ -1,0 +1,90 @@
+{
+    "headline": "Reuben Sandwich",
+    "name": "Reuben Sandwich",
+    "description": "A Reuben sandwich is easy to make with corned beef, Swiss cheese, sauerkraut, and Thousand Island dressing grilled between slices of rye bread.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "657 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "115 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "18 g",
+        "sodiumContent": "1930 mg",
+        "sugarContent": "10 g",
+        "fatContent": "40 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "8 slices rye bread",
+        "0.5 cup Thousand Island dressing",
+        "8 slices Swiss cheese",
+        "8 slices deli sliced corned beef",
+        "1 cup sauerkraut, drained",
+        "2 tablespoons butter, softened"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RXtKxyzKqSjvt27wlnGowdpvjQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47717-reuben-sandwich-ddmfs-step-01-3x4-0581-eda1d92154614679abc8670954fc3057.jpg"
+                }
+            ],
+            "text": "Gather all ingredients and preheat a large griddle or skillet over medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6jWHl76W8KZSN30g2BlMfh_iWKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47717-reuben-sandwich-ddmfs-step-02-3x4-0584-4b03637cfca04dea84de15255e8783de.jpg"
+                }
+            ],
+            "text": "Spread one side of bread slices evenly with Thousand Island dressing."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yBmuzpYZbfAj0mx6YfMIGuigLrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47717-reuben-sandwich-ddmfs-step-03-3x4-0585-896a203385f64b6cbec66054626cf6de.jpg"
+                }
+            ],
+            "text": "On four bread slices, layer one slice Swiss cheese, 2 slices corned beef, 1/4 cup sauerkraut, and a second slice of Swiss cheese. Top with remaining bread slices, dressing-side down. Butter the top of each sandwich."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RNROGGbTAXgdQ_Ka-eXND_n8ndo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47717-reuben-sandwich-ddmfs-step-06-3x4-0601-7a5be5dbc6e54f10b8aa785ac1d20a02.jpg"
+                }
+            ],
+            "text": "Place sandwiches, butter-side down on the preheated griddle; butter the top of each sandwich with remaining butter. Grill until both sides are golden brown, about 5 minutes per side."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jIwSfYU2yuwDKQrvMCvBbatRN6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/47717-reuben-sandwich-ddmfs-hero-3x4-0624-88eae0b6357843b593b4f03f7debc7e1.jpg"
+                }
+            ],
+            "text": "Serve hot. Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

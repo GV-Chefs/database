@@ -1,0 +1,118 @@
+{
+    "headline": "Gnocchi",
+    "name": "Gnocchi",
+    "description": "Gnocchi is easy to make with just three easy ingredients: mashed potato, flour and an egg \u2014 that's all you need to knead for gnocchi!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "314 kcal",
+        "carbohydrateContent": "64 g",
+        "cholesterolContent": "47 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "351 mg",
+        "sugarContent": "2 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 potatoes, peeled",
+        "2 cups all-purpose flour",
+        "1 egg",
+        "1 teaspoon kosher salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/lcltWX7yh4Q0CXWm8DOGt-0jDG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-ingredients-0368-c2a1eb28004d4217b18063ead0e68515.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GBjQAXCDWjVNV_FuV29BFmaNpO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-01-0371-61b3f274b30d4612b9adae501b6bacf3.jpg"
+                }
+            ],
+            "text": "Place potatoes\u00a0in a large saucepan and cover with 2 inches of salted water. Bring to a boil over high heat; reduce heat to medium-high and simmer, undisturbed, until tender but still firm, 25 to 30 minutes. Drain potatoes and place back in the pot to dry and cool slightly, 5 to 10 minutes.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Q8-kd4rsUg7C94GjrtzB5DCYnlM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-02-0377-592b60f17fe04274969d707d699b57aa.jpg"
+                }
+            ],
+            "text": "As soon as potatoes are cool enough to handle, peel potatoes by rubbing skins off with your hands. Pass peeled potatoes through a potato ricer into a large bowl (alternatively, mash until very smooth.) Let cool slightly, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Y_wJLz8bCuZIRVooUe2Ul8E_FpU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-03-0383-d93ca31aa19349aebb299082af5653d9.jpg"
+                }
+            ],
+            "text": "Fold in flour, egg, and salt until flour is incorporated and\u00a0 dough starts to hold together. Transfer dough to a lightly floured surface and gently knead once or twice until mostly smooth (do not overwork)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UaetCJg5RMyv4aN3PiLO7eyf0PY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-04-0389-53deabac8af047dea4e445969ca11a1c.jpg"
+                }
+            ],
+            "text": "Divide dough into 4 even portions. Roll and shape each portions of the dough into long &#34;snakes,&#34; about \u00be-inch in diameter."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/M4AUru2I8Q5Sntolc80fFuCB09c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-05-0392-54bacd5fcb684d738c4d25a48badc429.jpg"
+                }
+            ],
+            "text": "Cut snakes into about 1/2-inch long pieces. (Optional: Roll each piece against the tines of a fork or a gnocchi board to make light ridges.) Transfer shaped gnocchi to a single layer on a parchment-lined baking sheet dusted with flour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qXORJcC8oCYi9rzhQliQGM44QmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-06-0407-bd394525069742b89dd925a7c9b0fa45.jpg"
+                }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil over high. Working in batches, drop in gnocchi and cook for 3 to 4 minutes or until gnocchi have risen to the top; transfer cooked gnocchi with a spider or slotted spoon to desired sauce."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GN5lNH6Fue3woxpEIF1oayFZ-hA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18465-gnocchi-ddmfs-3x4-0431-715927775cb747599c04b42bef952baa.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

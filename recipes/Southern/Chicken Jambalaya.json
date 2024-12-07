@@ -1,0 +1,57 @@
+{
+    "headline": "Chicken Jambalaya",
+    "name": "Chicken Jambalaya",
+    "description": "This chicken jambalaya recipe is packed with vegetables and a zippy tomato broth. It's a spicy chicken-and-rice dish with a potent change of pace.",
+    "recipeCuisine": [
+        "Southern",
+        "American"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "308 kcal",
+        "carbohydrateContent": "30 g",
+        "cholesterolContent": "75 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "563 mg",
+        "sugarContent": "3 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "0.33333298563957 cup chopped celery",
+        "0.25 cup chopped onion",
+        "0.25 cup chopped green bell pepper",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1.5 cups chicken broth",
+        "0.66666698455811 cup white rice",
+        "1 teaspoon dried thyme",
+        "0.5 teaspoon garlic salt",
+        "0.25 teaspoon ground black pepper",
+        "0.5 teaspoon hot pepper sauce",
+        "1 bay leaf",
+        "2 cups cooked, cubed chicken meat"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large skillet over medium-low heat. Add celery, onion, and green bell pepper; saut\u00e9 until tender. Stir in tomatoes, broth, rice, thyme or basil, garlic salt, ground black pepper, hot pepper sauce, and bay leaf."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring all to a boil; reduce heat, cover skillet and simmer for about 20 minutes or until rice is tender. Stir in cooked chicken and cook until heated through. Discard bay leaf and serve hot."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

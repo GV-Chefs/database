@@ -1,0 +1,72 @@
+{
+    "headline": "Hungarian Cabbage, Sausage, and Bean Soup",
+    "name": "Hungarian Cabbage, Sausage, and Bean Soup",
+    "description": "This Hungarian cabbage, sausage, and bean soup recipe is one I came up with which really allows the flavor of Hungarian sausage to shine through. It's ready in under 1 1/2 hours, and most of that time is hands-off, while the soup simmers.",
+    "recipeCuisine": [
+        "Eastern European"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT75M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "499 kcal",
+        "carbohydrateContent": "26 g",
+        "cholesterolContent": "69 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "1526 mg",
+        "sugarContent": "5 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "2 to 3 pounds Hungarian sausage, casings removed",
+        "1 large onion, chopped",
+        "4 carrots, chopped, or 3 if very large",
+        "3 ribs celery, chopped",
+        "1 teaspoon salt, or to taste",
+        "1/4 teaspoon crushed red pepper flakes, or to taste",
+        "3 cloves garlic, minced",
+        "1 tablespoon paprika",
+        "1 teaspoon dried thyme",
+        "2 cans cannellini or great northern beans, drained but not rinsed",
+        "4 cups low-sodium chicken stock"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a Dutch oven over medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add sausage to the pot, and cook, stirring and breaking up the meat with a spatula as it cooks, until browned and crumbly, 5 to 7 minutes. Remove sausage with a slotted spoon to a bowl, leaving oil in the pot."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onions, carrots, celery, salt, and red pepper flakes to the pot; stir to coat vegetables with oil, and saut\u00e9 until they start to soften, about 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add minced garlic, paprika, and thyme; stir until fragrant, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Return sausage and any accumulated juices back to the pot, stir in beans and stock. Add water if needed to cover. Bring to a boil; reduce heat to low, cover, and simmer for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chopped cabbage and simmer, uncovered, until cabbage softens, about 30 minutes more."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

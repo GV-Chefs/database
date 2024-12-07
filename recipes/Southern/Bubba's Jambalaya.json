@@ -1,0 +1,66 @@
+{
+    "headline": "Bubba's Jambalaya",
+    "name": "Bubba's Jambalaya",
+    "description": "Easy Southern classic, with chicken, sausage, ham, and shrimp.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "349 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "72 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1177 mg",
+        "sugarContent": "1 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "6 slices bacon, cut into 1 inch pieces",
+        "1 cup chopped celery",
+        "1 green bell pepper, seeded and chopped",
+        "1 onion, chopped",
+        "0.5 pound cubed cooked ham",
+        "0.5 pound cubed cooked chicken",
+        "0.5 pound cubed smoked sausage",
+        "2 (14.5 ounce) cans crushed tomatoes, with liquid",
+        "2 cups beef broth",
+        "2 cups chicken broth",
+        "1 teaspoon dried thyme",
+        "2 teaspoons Cajun seasoning",
+        "2 cups uncooked white rice",
+        "0.5 pound salad shrimp"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat a large pot over medium-high heat. Add bacon, and cook until crisp. Remove bacon pieces with a slotted spoon, and set aside. Add celery, bell pepper, and onion to the bacon drippings, and cook until tender."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the ham, chicken and sausage to the pot, and pour in the tomatoes, beef broth and chicken broth. Season with thyme and Cajun seasoning. Bring to a boil, and add the rice. Bring to a boil, then turn the heat to low, cover, and simmer for about 20 minutes, until the rice is tender."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aw0e4HeTo-DtkwavshwCLN2KqBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3371668-bubbas-jambalaya-Todd-Mueller-1x1-1-1fa871e1c36d49f3a3f824eff4266293.jpg"
+                }
+            ],
+            "text": "Stir in the shrimp and bacon just before serving, and heat through. If you use uncooked shrimp, let it cook for about 5 minutes before serving."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

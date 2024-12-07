@@ -1,0 +1,53 @@
+{
+    "headline": "Cajun Baked French Fries",
+    "name": "Cajun Baked French Fries",
+    "description": "Baked French fries coated in plenty of Cajun seasoning will be a hit with kids and adults alike.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "369 kcal",
+        "carbohydrateContent": "66 g",
+        "fiberContent": "8 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "399 mg",
+        "sugarContent": "3 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Snack",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "0.25 cup olive oil",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "1 teaspoon chili powder",
+        "1 teaspoon Cajun seasoning",
+        "1 teaspoon sea salt",
+        "6 large baking potatoes, sliced into thin wedges"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix olive oil, garlic powder, onion powder, chili powder, Cajun seasoning, and sea salt in a large resealable bag. Add potatoes and toss to evenly coat with seasoned oil. Spread coated potatoes in 1 layer onto a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 35 minutes. Stir potatoes with a spatula and continue cooking until crisp, about 10 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

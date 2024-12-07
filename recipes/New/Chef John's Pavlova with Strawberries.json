@@ -1,0 +1,77 @@
+{
+    "headline": "Chef John's Pavlova with Strawberries",
+    "name": "Chef John's Pavlova with Strawberries",
+    "description": "This recipe for Pavlova produces a light-tasting meringue dessert that's sweet, gooey, and crunchy. It tastes great with whipped cream and strawberries.",
+    "recipeCuisine": [
+        "New Zealand",
+        "Australian"
+    ],
+    "totalTime": "PT145M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "210 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "54 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "29 mg",
+        "sugarContent": "16 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.75 cup sugar",
+        "2 teaspoons cornstarch",
+        "3 egg whites, at room temperature",
+        "1 teaspoon vanilla extract",
+        "0.75 teaspoon white vinegar",
+        "2 cups heavy cream",
+        "3 tablespoons confectioners' sugar",
+        "1 pint whole strawberries, stems removed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 250 degrees F (120 degrees C). Line a baking sheet with a silicone baking mat or parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk sugar and cornstarch together in a bowl. Beat egg whites in a second bowl until foamy with a thick, ribbony texture, 2 to 3 minutes. Whisk in 1/4 of the sugar mixture until completely incorporated, about 30 seconds. Repeat with the remaining sugar mixture, whisking after each addition, until all is incorporated and egg whites are glossy and thick."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 1 teaspoon vanilla and vinegar; whisk until you can lift the beater or whisk straight up and egg whites form a sharp peak that holds its shape, 2 to 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon egg white mixture onto the prepared baking sheet; spread out into a 2x6-inch disk."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 hour. Turn off the oven, crack open the oven door, and let the Pavlova cool for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer cooled Pavlova to a serving plate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Si3j8IvUzSMYZxNZ0Gg6nLjRpn0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2372506-40af0d6ab2864710a81acdc181db938f.jpg"
+                }
+            ],
+            "text": "Whip cream, sugar, and remaining 1 teaspoon vanilla in a bowl until soft peaks form, 3 to 4 minutes. Spread over Pavlova and top with fresh strawberries."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "headline": "Hatteras Style Clam Chowder",
+    "name": "Hatteras Style Clam Chowder",
+    "description": "No cream, but a potful of clam juice in this chowder with potatoes, thyme and bacon.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "265 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "86 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "941 mg",
+        "sugarContent": "3 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon vegetable oil",
+        "1 large onion, chopped",
+        "5 stalks celery, sliced",
+        "4 carrots, sliced",
+        "4 cups peeled, cubed white potatoes",
+        "2 (16 ounce) cans minced clams, with juice",
+        "3 quarts clam juice",
+        "1 teaspoon dried thyme",
+        "0.5 teaspoon ground black pepper",
+        "8 slices crisp cooked bacon, crumbled"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large pot over medium heat, cook onion, celery and carrots in oil until they begin to soften. Stir in potatoes, clams, clam juice, thyme, pepper and bacon. Bring to a boil, then reduce heat and simmer 20 minutes, or until potatoes are tender."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

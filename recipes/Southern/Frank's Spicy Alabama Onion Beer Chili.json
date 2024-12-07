@@ -1,0 +1,59 @@
+{
+    "headline": "Frank's Spicy Alabama Onion Beer Chili",
+    "name": "Frank's Spicy Alabama Onion Beer Chili",
+    "description": "This spicy beef, onion, and beer chili recipe originated in Alabama. The deep, rich flavors meld together as it sits in the refrig waiting to be eaten!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT3020M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "369 kcal",
+        "carbohydrateContent": "40 g",
+        "cholesterolContent": "52 mg",
+        "fiberContent": "11 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1395 mg",
+        "sugarContent": "13 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 pounds ground beef chuck",
+        "2 large white onions, chopped",
+        "2 (14.5 ounce) cans diced tomatoes with juice",
+        "2 (15 ounce) cans tomato sauce",
+        "1 (12 fluid ounce) can beer",
+        "2 (15 ounce) cans spicy chili beans",
+        "0.25 cup Worcestershire sauce",
+        "3 tablespoons hot pepper sauce (e.g. Tabasco\u2122), or to taste",
+        "0.33333334326744 cup chili powder",
+        "4 fresh jalapeno peppers, seeded and chopped",
+        "3 tablespoons red pepper flakes, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Crumble ground chuck into a skillet over medium heat. Cook, stirring occasionally until evenly browned. Drain. Transfer beef to a large soup pot. Add onions, diced tomatoes, tomato sauce, beer, chili beans, Worcestershire sauce, hot pepper sauce, chili powder, jalape\u00f1os, and red pepper flakes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xOCedTZlGsEESQcj30Tbg81jgGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3181004-2e72060e49e74bb28277be4a165ff95e.jpg"
+                }
+            ],
+            "text": "Cover the pot, and simmer over low heat for 2 hours. Remove from heat, and let cool completely. Refrigerate for two days. It gets much better with time. Reheat to serve."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

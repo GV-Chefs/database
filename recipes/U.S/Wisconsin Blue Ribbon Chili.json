@@ -1,0 +1,56 @@
+{
+    "headline": "Wisconsin Blue Ribbon Chili",
+    "name": "Wisconsin Blue Ribbon Chili",
+    "description": "A Wisconsin chili recipe that is mild, sweet, tomatoey, and full of macaroni noodles. This makes a hearty pot in only 1 hour from start to finish.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "353 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "74 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1339 mg",
+        "sugarContent": "13 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds lean ground beef",
+        "1 stalk celery, chopped",
+        "0.5 red bell pepper, chopped",
+        "1 white onion, chopped",
+        "1 (28 ounce) can diced tomatoes",
+        "1.5 cups tomato juice",
+        "2 cups water",
+        "2 tablespoons chili powder",
+        "2 tablespoons brown sugar",
+        "6 cubes beef bouillon",
+        "0.75 cup uncooked elbow macaroni"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place ground beef into a large soup pot over medium heat. Cook beef until it begins to lose its pink color, about 8 minutes. Break the meat up into crumbles as it cooks. Stir in celery, bell pepper, and onion. Continue to cook until beef is browned, about 8 more minutes. Drain excess fat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in diced tomatoes, tomato juice, water, chili powder, brown sugar, and beef bouillon cubes; cover, reduce heat, and simmer for 30 minutes. Stir in macaroni and continue simmering until the pasta is tender, 10 to 15 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

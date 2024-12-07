@@ -1,0 +1,74 @@
+{
+    "headline": "Instant Pot Chicken Cacciatore",
+    "name": "Instant Pot Chicken Cacciatore",
+    "description": "This Instant Pot chicken cacciatore recipe is made with bone-in chicken thighs, mushrooms and herbes de Provence for a super flavorful meal.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "392 kcal",
+        "carbohydrateContent": "14 g",
+        "cholesterolContent": "96 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1073 mg",
+        "sugarContent": "7 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 (6 ounce) bone-in chicken thighs, with skin",
+        "2 tablespoons olive oil",
+        "1 (4 ounce) package sliced fresh mushrooms",
+        "3 stalks celery, chopped",
+        "0.5 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 (14 ounce) can stewed tomatoes",
+        "2 tablespoons tomato paste",
+        "2 teaspoons herbes de Provence",
+        "0.75 cup water",
+        "3 cubes chicken bouillon, crumbled",
+        "1 pinch red pepper flakes",
+        "1 pinch ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Rinse chicken thighs and pat dry with paper towels. Heat oil in the pot of an electric pressure cooker (such as Instant Pot) on Saut\u00e9 mode; add chicken. Cook until browned, about 6 minutes per side. Transfer chicken to a plate, reserving drippings in the pot."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place mushrooms, celery, and onion in the pot; cook and stir until soft, about 5 minutes. Add garlic; cook until fragrant, about 2 minutes. Place chicken back in the pot; add tomatoes and tomato paste. Sprinkle with herbes de Provence. Top with water and bouillon."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Close and lock the lid. Select high pressure according to manufacturer's instructions. Allow 10 to 15 minutes for pressure to build. Cook for 11 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UgXrRIt0N8yd_sodzQDrGUBeDaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4558738-instant-pot-chicken-cacciatore-France-C-1x1-1-435321e3d1bc4e45b8c92e6f1c119ef5.jpg"
+                }
+            ],
+            "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid carefully, turning it away from you. Test chicken for doneness; an instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Season to taste with red pepper flakes and black pepper."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

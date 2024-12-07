@@ -1,0 +1,58 @@
+{
+    "headline": "Okra Patties",
+    "name": "Okra Patties",
+    "description": "These fried okra patties are made from fresh okra and onion in a cornmeal batter. A delightful southern-style snack.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "224 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "31 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "467 mg",
+        "sugarContent": "3 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Snack",
+        "Appetizer",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "3 cups vegetable oil for frying",
+        "1 pound okra, finely chopped",
+        "1 cup finely chopped onion",
+        "1 teaspoon salt",
+        "0.25 teaspoon pepper",
+        "0.5 cup water",
+        "1 egg",
+        "0.5 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "0.5 cup cornmeal"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 inch of oil in a large skillet to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, mix together the okra, onion, salt, pepper, water and egg. Combine the flour, baking powder and cornmeal; and stir that into the okra mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Carefully drop spoonfuls of the okra batter into the hot oil, and fry on each side until golden, about 2 minutes per side. Remove with a slotted spoon, and drain on paper towels."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

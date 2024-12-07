@@ -1,0 +1,106 @@
+{
+    "headline": "Air Fryer Chicken Parmesan",
+    "name": "Air Fryer Chicken Parmesan",
+    "description": "The air fryer is perfect for making chicken Parmesan. No need to fuss with deep-frying and the chicken turns out cruspy and golden brown with lots of cheese and sauce.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "582 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "201 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "57 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1263 mg",
+        "sugarContent": "6 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 (8 ounce) boneless, skinless chicken breasts, patted dry",
+        "3/4 teaspoon kosher salt, divided",
+        "1/2 teaspoon black pepper, divided",
+        "1/3 cup (1 1/2 ounce) all-purpose flour",
+        "2 large eggs, lightly beaten",
+        "1 1/2 cups seasoned panko (Japanese-style breadcrumbs)",
+        "1/2 ounce Parmesan cheese, grated (about 1/4 cup), plus more for garnish",
+        "2 tablespoon olive oil",
+        "1/4 teaspoon crushed red pepper",
+        "1/4 teaspoon garlic powder",
+        "1 cup jarred marinara sauce, plus more for serving",
+        "4 ounce low-moisture, part-skim mozzarella cheese, shredded (about 1 cup)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yAVIUyqTAaKJnsktydWkXI0_tBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8698442-AirFryerChickenParmesan-ddmfs-0201-4x3-step-01-0fd13a49218e4e709b084ff67570b178.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/pYRRE1DRojRP5udPtlzRhlXo1R4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8698442-AirFryerChickenParmesan-ddmfs-0202-4x3-step-02-bfe0b5405d104c8ca6150a10e89669ff.jpg"
+                }
+            ],
+            "text": "On a cutting board, butterfly chicken by cutting each breast in half widthwise to create 4 thin pieces of chicken; season both sides with 1/2 teaspoon of the salt and 1/4 teaspoon of the black pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OiMJqazIi6Y3I2uE3uTxpopHVi0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8698442-AirFryerChickenParmesan-ddmfs-0204-4x3-step-03-2982a7307ff74be3988f4cd686d2c1b0.jpg"
+                }
+            ],
+            "text": "Place flour, egg, and panko in 3 separate shallow dishes. Add Parmesan, oil, crushed red pepper, and garlic powder to panko; stir to coat. Add remaining 1/4 teaspoon salt and remaining 1/4 teaspoon black pepper to flour; stir to combine. Working with 1 chicken piece at a time, dredge chicken in flour; shake off excess. Dip in egg; let excess drip off. Dredge in panko mixture to coat; place on a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gBqshWddl2SOj3yYjTnN7KgzXKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8698442-AirFryerChickenParmesan-ddmfs-0210-4x3-step-04-9d18f43ca31e41a39b09635c2efda255.jpg"
+                }
+            ],
+            "text": "Preheat a 6-quart air fryer to 400 degrees F (200 degrees C) for 2 minutes. Working in two batches, add 2 chicken cutlets to the air fryer basket in a single layer. Cook until chicken is golden brown on both sides, about 5 minutes per side."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Xd6HC8rX4gMOMqo7F5aKDae-DJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8698442-AirFryerChickenParmesan-ddmfs-0211-4x3-step-05-8d4ec463c61b4a6ba33a95203a93a6bb.jpg"
+                }
+            ],
+            "text": "\u00a0Top each chicken piece with 1/4 cup marinara and 1/4 cup mozzarella cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NYmca5l6TNMqqJ_5zga2A2qXoyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8698442-AirFryerChickenParmesan-ddmfs-0212-4x3-step-06-99981b35a8184fa9875c00994e91fa2c.jpg"
+                }
+            ],
+            "text": "Snugly fit all 4 breasts in a single layer in air fryer basket; cook at 400 degrees F (200 degrees C) until cheese is melted and browned and a thermometer inserted into the thickest portion of chicken registers 165 degrees F (73 degrees C), 2 to 3 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

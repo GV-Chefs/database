@@ -1,0 +1,72 @@
+{
+    "headline": "Cheese Lasagna",
+    "name": "Cheese Lasagna",
+    "description": "This cheese lasagna recipe is an easy vegetarian lasagna with 3 types of Italian cheese: ricotta, mozzarella, and Parmesan. Simple and delicious!",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "436 kcal",
+        "carbohydrateContent": "58 g",
+        "cholesterolContent": "120 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "711 mg",
+        "sugarContent": "12 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package lasagna noodles",
+        "4 cups ricotta cheese",
+        "4 eggs",
+        "0.25 cup grated Parmesan cheese",
+        "salt and pepper to taste",
+        "1 teaspoon olive oil",
+        "3 cloves garlic, minced",
+        "1 (32 ounce) jar spaghetti sauce",
+        "1 teaspoon Italian seasoning",
+        "2 cups shredded mozzarella cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add lasagna noodles and cook for 8 to 10 minutes or until al dente; drain and lay noodles flat on foil to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix ricotta, eggs, Parmesan cheese, salt, and pepper together in a bowl; mix well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a medium saucepan over medium heat; add garlic and saut\u00e9 2 minutes. Stir in spaghetti sauce and Italian seasoning until warmed through, stirring occasionally, 2 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread 1/2 cup of sauce on the bottom of a 9x13-inch baking dish. Cover with a layer of noodles. Spread 1/2 of the ricotta mixture over noodles; top with another layer of noodles. Pour 1 1/2 cups of sauce over noodles and spread the remaining ricotta over the sauce."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Top with remaining noodles and sauce; sprinkle with remaining mozzarella. Cover with a greased sheet of foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until cheese is melted and bubbly, about 45 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

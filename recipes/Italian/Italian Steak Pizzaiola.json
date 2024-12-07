@@ -1,0 +1,69 @@
+{
+    "headline": "Italian Steak Pizzaiola",
+    "name": "Italian Steak Pizzaiola",
+    "description": "In this Italian steak pizzaiola recipe, thin beef rib-eye steaks are braised in a fresh tomato sauce with olives and parsley.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "477 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "88 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "615 mg",
+        "sugarContent": "6 g",
+        "fatContent": "33 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 thin ribeye steaks",
+        "1 1/2 teaspoon kosher salt",
+        "1 teaspoon pepper",
+        "3 Tablespoons extra virgin olive oil, divided",
+        "1/2 cup finely chopped onion",
+        "2 cloves garlic, finely minced",
+        "1/4 teaspoon crushed red pepper",
+        "1/2 cup white or red wine",
+        "8 roma tomatoes, chopped",
+        "1/2 teaspoon oregano",
+        "2 Tablespoons tomato paste",
+        "1/4 cup sliced olives",
+        "2 Tablespoons finely chopped parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Season steaks with 1 teaspoon salt and 1/2 teaspoon pepper.\u00a0 Heat 1 tablespoon oil in a large deep skillet over high heat. Add steaks to skillet and cook, undisturbed, until browned about 2 minutes.\u00a0 Flip and cook 1 more minute. Remove steaks from skillet and set aside.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add remaining oil to skillet and turn heat to medium.\u00a0 Add onions, remaining salt and pepper, and cook, stirring occasionally until softened.\u00a0 Add garlic and cook for 1 minute.\u00a0Add wine and scrape bottom of skillet to loosen any browned bits.\u00a0Add tomatoes\u00a0 and oregano and bring mixture to a simmer.\u00a0 Simmer until tomatoes soften, about 5 minutes, stirring occasionally.\u00a0\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use a potato masher or the back of a spoon to crush the tomatoes.\u00a0 Add in tomato paste and olives and stir to combine.\u00a0 Simmer for 2 minutes.\u00a0\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/MFq-QbJnVyqcm51e0M9lFN7PMeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8732132_GC_SteakPizzaiola4x3-7c2c1432317747ee9a3a001807f556c9.jpg"
+                }
+            ],
+            "text": "Return steaks and any juices accumulated to the skillet and cover the steaks in the tomato mixture.\u00a0 Cook until the steak is heated through, 2 to 3 minutes.\u00a0 Remove from heat and add parsley. Serve with crusty bread or over pasta or rice."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

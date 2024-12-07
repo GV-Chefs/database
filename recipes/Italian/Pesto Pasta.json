@@ -1,0 +1,92 @@
+{
+    "headline": "Pesto Pasta",
+    "name": "Pesto Pasta",
+    "description": "Pesto pasta is deliciously easy to make with your favorite pasta, prepared pesto, and plenty of Parmesan cheese. Leftovers make a great lunch!",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "225 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "44 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "71 mg",
+        "sugarContent": "0 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package pasta",
+        "2 tablespoons olive oil",
+        "0.5 cup chopped onion",
+        "2.5 tablespoons pesto",
+        "salt to taste",
+        "ground black pepper to taste",
+        "2 tablespoons grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cu4BgtSKVAdnILeI7pnOWRNlaD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-11887-pesto-pasta-ddmfs-ingredients-3x4-991912393f85405c8bfebe8f4c8438b5.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NhBNqYduV4jkx3i1zZpTfbeM7Ug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-11887-pesto-pasta-ddmfs-step1-3x4-a9bbb0f0d0e04ea78cd307fdcd3e43af.jpg"
+                }
+            ],
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes. Drain and transfer into a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Rb4rFU_CKlj7Npdt5tIPkCjTQIs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-11887-pesto-pasta-ddmfs-step2-3x4-1b167f9f81e343b0b7b42d51f4afd299.jpg"
+                }
+            ],
+            "text": "Meanwhile, heat oil in a frying pan over medium-low heat. Add onion; cook and stir until softened, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6H6j6SzWeXXn_Ie_uUHDzc9yvUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-11887-pesto-pasta-ddmfs-step3-3x4-5866139ce9b643d2bf04bcb23507740e.jpg"
+                }
+            ],
+            "text": "Stir in pesto, salt, and pepper until warmed through."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SPv966QBGw3pYJveVLwrW8m-QfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-11887-pesto-pasta-ddmfs-3x4-deed54c61faa4c95a4cd467e5f4066ab.jpg"
+                }
+            ],
+            "text": "Add pesto mixture to hot pasta; stir in grated cheese and toss well to coat."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

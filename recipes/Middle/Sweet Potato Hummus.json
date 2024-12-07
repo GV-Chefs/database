@@ -1,0 +1,60 @@
+{
+    "headline": "Sweet Potato Hummus",
+    "name": "Sweet Potato Hummus",
+    "description": "This hearty and flavorful golden hummus has roasted sweet potatoes plus Mediterranean-inspired seasonings for a sweet and savory appetizer.",
+    "recipeCuisine": [
+        "Middle Eastern Inspired"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "75 kcal",
+        "carbohydrateContent": "12 g",
+        "fiberContent": "2 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "83 mg",
+        "sugarContent": "2 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "3 sweet potatoes",
+        "1 (15 ounce) can garbanzo beans, drained (reserve liquid) and rinsed",
+        "2 tablespoons extra-virgin olive oil",
+        "2 tablespoons tahini",
+        "2 tablespoons lemon juice",
+        "0.5 teaspoon lemon zest",
+        "0.25 teaspoon ground cumin",
+        "0.25 teaspoon ground coriander",
+        "0.25 teaspoon ground white pepper",
+        "sea salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Poke holes all over sweet potatoes with a fork."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast sweet potatoes in the preheated oven until soft, about 45 minutes; let cool. Cut sweet potatoes in half lengthwise."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine garbanzo beans and olive oil in a blender and pulse several times to mash. Scoop flesh out of sweet potato peels and add to the blender; pulse to combine. Add tahini, lemon juice, lemon zest, cumin, coriander, white pepper, and sea salt to mixture; blend until smooth, adding reserved garbanzo bean liquid as needed to make a smooth, creamy hummus."
+        }
+    ],
+    "recipeYield": [
+        "20"
+    ]
+}

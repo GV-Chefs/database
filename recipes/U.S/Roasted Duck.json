@@ -1,0 +1,80 @@
+{
+    "headline": "Roasted Duck",
+    "name": "Roasted Duck",
+    "description": "This roasted duck is coated with a simple, flavorful spice rub, then baked in the oven and basted with butter until tender, juicy, and flavorful.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT130M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "625 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "280 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "52 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "1538 mg",
+        "sugarContent": "0 g",
+        "fatContent": "45 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons paprika",
+        "2 teaspoons salt",
+        "1 teaspoon black pepper",
+        "1 (5 pound) whole duck",
+        "0.5 cup butter, melted, divided"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/BSGvc0W4PFpX0xmHRBd7GDuPaUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-65147-roasted-duck-4x3-step-01-4432646aee0a49c78e83d57b96861420.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/pSb74KV4jGOIkBqkgYwb7TpenYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-65147-roasted-duck-4x3-step-02-d95631e391964898a1c50758b76ee0b6.jpg"
+                }
+            ],
+            "text": "Combine paprika, salt, and pepper in a small bowl; rub spice mixture onto skin of duck. Place duck in a roasting pan. Roast in the preheated oven for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nmG4Lr7sGOTkTOT2KXD0hYfPZIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-65147-roasted-duck-4x3-step-03-19ab58148e6244c2a15b07f0b1a91235.jpg"
+                }
+            ],
+            "text": "Spoon 1/4 cup melted butter over duck and continue cooking for 45 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5T6UpBLAei5IuxQ9s2iQ4xpSo5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-65147-roasted-duck-4x3-step-04-58e42a92b3f6441391b5c53445d831e2.jpg"
+                }
+            ],
+            "text": "Spoon remaining 1/4 cup melted butter over duck and cook until golden brown, about 15 minutes more."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

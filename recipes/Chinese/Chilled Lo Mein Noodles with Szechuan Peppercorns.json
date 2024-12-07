@@ -1,0 +1,57 @@
+{
+    "headline": "Chilled Lo Mein Noodles with Szechuan Peppercorns",
+    "name": "Chilled Lo Mein Noodles with Szechuan Peppercorns",
+    "description": "Traditional lo mein noodles are fresh noodles made from wheat flour, egg, and water. This kicky salad uses pantry-friendly dried noodles, which are thinner and a little less chewy.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "145 kcal",
+        "carbohydrateContent": "10 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "208 mg",
+        "sugarContent": "3 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "6 ounces dried lo mein noodles (such as Simply Asia)\u00a0",
+        "3 Tablespoons peanut oil\u00a0",
+        "3 Tablespoons Chinese black vinegar or rice vinegar\u00a0",
+        "1 Tablespoon less-sodium soy sauce\u00a0",
+        "1 Tablespoon sugar\u00a0",
+        "1 jalape\u00f1o pepper, minced (seeded if desired)\u00a0",
+        "2 cloves garlic, minced\u00a0",
+        "1 teaspoon Szechuan peppercorns, crushed",
+        "1/4 cup dry-roasted peanuts, chopped",
+        "2 Tablespoons chopped green onions",
+        "1 Tablespoon fresh cilantro leaves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Prepare noodles according to package directions. Drain; rinse with cold water until cool. Drain well. Use kitchen shears to cut noodles into smaller pieces.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For vinaigrette, whisk together oil, vinegar, soy sauce, sugar, jalape\u00f1o, garlic, and peppercorns in a small bowl until sugar dissolves.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a serving bowl, toss noodles with vinaigrette until well coated. Top with peanuts, green onions, and cilantro."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "headline": "'Momma Made Em' Chicken and Sausage Gumbo",
+    "name": "'Momma Made Em' Chicken and Sausage Gumbo",
+    "description": "Chicken, sausage, and okra gumbo made from scratch the old-school way, with a deep, rich roux and plenty of time for simmering.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT235M",
+    "cookTime": "PT195M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "437 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "67 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "835 mg",
+        "sugarContent": "3 g",
+        "fatContent": "32 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (3 pound) whole chicken",
+        "0.5 cup all-purpose flour",
+        "0.5 cup vegetable oil",
+        "1 (10 ounce) package frozen chopped onions",
+        "1 (10 ounce) package frozen green bell peppers",
+        "5 stalks celery, finely chopped",
+        "1 tablespoon Cajun seasoning (such as Tony Chachere's), or to taste",
+        "2 whole bay leaves",
+        "1 (28 ounce) can diced tomatoes",
+        "1 pound fully-cooked smoked beef sausage (such as Hillshire Farm\u00ae), sliced",
+        "1 (10 ounce) package frozen sliced okra",
+        "salt and black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Fill a large pot partially with lightly salted water, and place the chicken in the pot. Bring to a boil, reduce the heat to a simmer, and cook the chicken until the meat is no longer pink and the juices run clear, about 1 hour. Remove the chicken from the broth, and crack open the carcass to allow the chicken to cool. Reserve the chicken broth. After the chicken has cooled enough to handle, pick the meat from the bones, and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the chicken is simmering, make a roux by whisking together the flour and vegetable oil in a large, heavy saucepan over medium-low heat. Cook and stir the mixture, watching constantly to avoid burning, until the roux is a rich chocolate brown color, 20 to 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "As soon as the roux has reached the desired color, stir in the onions, bell peppers, celery, Cajun seasoning, and bay leaves, and simmer, stirring occasionally, until the vegetables are tender, about 45 minutes. Pour in the reserved chicken broth, diced tomatoes, and beef sausage, and simmer, stirring occasionally, until the mixture has thickened, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix in the reserved chicken meat and okra, bring back to a simmer, and cook, stirring occasionally, until the okra is tender and the flavors have blended, 30 to 40 minutes."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

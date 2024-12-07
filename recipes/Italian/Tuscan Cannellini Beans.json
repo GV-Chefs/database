@@ -1,0 +1,63 @@
+{
+    "headline": "Tuscan Cannellini Beans",
+    "name": "Tuscan Cannellini Beans",
+    "description": "A thick and heavenly sauce develops in this Tuscan-inspired pot of cannellini beans simmered with pancetta, Parmesan, stock, and wine.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT70M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "216 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "31 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "798 mg",
+        "sugarContent": "1 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon butter",
+        "1 cup chopped pancetta",
+        "0.5 cup chopped white onion",
+        "0.33333334326744 cup chopped carrots",
+        "0.33333334326744 cup chopped celery",
+        "2 tablespoons garlic, minced",
+        "0.5 cup dry white wine",
+        "2 (15 ounce) cans cannellini beans, drained and rinsed",
+        "2 cups chicken stock",
+        "0.5 cup grated Parmesan cheese",
+        "0.33333334326744 cup heavy cream",
+        "2 teaspoons chopped fresh rosemary",
+        "1 teaspoon dried oregano",
+        "0.5 teaspoon red pepper flakes",
+        "1 bay leaf",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a medium pot over medium heat. Add pancetta; cook and stir until browned, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove pancetta but leave grease in the pot. Add onion, carrots, and celery. Saute until fragrant, about 3 minutes. Stir in garlic and cook for 30 seconds. Pour in white wine and bring to a boil while scraping up any browned bits from the pot with a wooden spoon. Boil until reduced by half, 6 to 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add in cannellini beans, chicken stock, Parmesan cheese, cream, rosemary, oregano, red pepper flakes, bay leaf, salt, and pepper. Increase heat to high and bring to a boil. Reduce heat to a simmer. Cook, stirring every so often to avoid burning, until the cheese and starch in the beans have thickened the liquid to a sauce-like consistency, 45 minutes to 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

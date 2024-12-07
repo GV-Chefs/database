@@ -1,0 +1,50 @@
+{
+    "headline": "D's Famous Salsa",
+    "name": "D's Famous Salsa",
+    "description": "This salsa with canned tomatoes is easy to make in a food processor with onion, garlic, lime juice, chiles, and cilantro for a smooth or chunky dip.",
+    "recipeCuisine": [
+        "U.S.",
+        "Mexican"
+    ],
+    "totalTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "16 kcal",
+        "carbohydrateContent": "4 g",
+        "fiberContent": "1 g",
+        "proteinContent": "1 g",
+        "sodiumContent": "283 mg",
+        "sugarContent": "2 g",
+        "fatContent": "0 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 (14.5 ounce) cans stewed tomatoes",
+        "0.5 onion, finely diced",
+        "0.25 cup canned sliced green chiles, or to taste",
+        "3 tablespoons chopped fresh cilantro",
+        "0.5 lime, juiced",
+        "1 teaspoon minced garlic",
+        "1 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/q2meLyXa7_6lmO_hcVPO9ckj2es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/866636-a3f03b3d2b384508a28e55a6a595770d.jpg"
+                }
+            ],
+            "text": "Place tomatoes, onion, green chiles, cilantro, lime juice, garlic, and salt in a blender or food processor. Blend on low to desired consistency."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "headline": "Easy Swedish Meatball Sauce",
+    "name": "Easy Swedish Meatball Sauce",
+    "description": "This quick and easy Swedish meatball sauce turns frozen meatballs into tonight's main attraction. Serve on top of noodles or rice alongside a green salad for the perfect meal.",
+    "recipeCuisine": [
+        "Scandinavian"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "393 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "140 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "358 mg",
+        "sugarContent": "1 g",
+        "fatContent": "32 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Sauce"
+    ],
+    "recipeIngredient": [
+        "1 cup beef stock",
+        "1 cup heavy cream",
+        "3 tablespoons all-purpose flour",
+        "1 tablespoon soy sauce",
+        "0.5 teaspoon ground black pepper, or more to taste",
+        "0.5 teaspoon dried rosemary, crushed, or more to taste",
+        "10 ounces frozen cooked meatballs, thawed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Qg9i4quwcYJ2xSEtyLt8C8CtlkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218894_EaSywedishMeatballSauce_mfs_step1_4x3-9d46166c89424f47b65825ab24330301.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/pwAIplYoGoN7keRu9amnXfcPNWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218894_EaSywedishMeatballSauce_mfs_step2_4x3-57f062d0086649e4bb4d19a3e5f0cdf8.jpg"
+                }
+            ],
+            "text": "Whisk together stock, cream, flour, soy sauce, 1/2 teaspoon pepper, and 1/2 teaspoon rosemary in a large saucepan over low heat until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hKJt5XlhebIhTE-lzA6AZW7ftso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218894_EaSywedishMeatballSauce_mfs_step3_4x3-66201214515e45a3814a1768471c9dfc.jpg"
+                }
+            ],
+            "text": "Cook, stirring occasionally, until thickened, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/12rKRbxTbTj5h8NtFRfjfnQ_BgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218894_EaSywedishMeatballSauce_mfs_step4_4x3-3354bd4829814b22a0e5d23426bfaa66.jpg"
+                }
+            ],
+            "text": "Stir in thawed meatballs, and continue cooking until meatballs are heated through, about 5 more minutes. An instant-read thermometer inserted into the center of the meatballs should read at least 160 degrees F (71 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qeUmguKvO8RE38B5T_TbbFmRyI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218894-easy-swedish-meatball-sauce-DDMFS-4x3-c64ad3203fce47aab73434d4205aa3fa.jpg"
+                }
+            ],
+            "text": "Taste and adjust seasonings before serving."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

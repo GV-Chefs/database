@@ -1,0 +1,139 @@
+{
+    "headline": "Slow Cooker Tuscan Chicken Meatballs with Gnocchi",
+    "name": "Slow Cooker Tuscan Chicken Meatballs with Gnocchi",
+    "description": "Slow cooker Tuscan chicken meatballs with gnocchi are the perfect comfort meal for fall and autumn nights.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT220M",
+    "cookTime": "PT195M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "460 kcal",
+        "carbohydrateContent": "39 g",
+        "cholesterolContent": "165 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "29 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "610 mg",
+        "sugarContent": "3 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "Chicken Meatballs",
+        "1 egg, lightly beaten",
+        "1/4 cup fine dry bread crumbs",
+        "1/4 cup finely chopped onion",
+        "2 Tbsp. finely chopped dried tomatoes",
+        "2 Tbsp. milk",
+        "1 Tbsp. grated Parmesan cheese",
+        "1 clove garlic, minced",
+        "1/2 tsp. Italian seasoning",
+        "1/4 tsp. salt",
+        "1/4 tsp. ground black pepper",
+        "1 lb. ground chicken",
+        "Tuscan Sauce and Gnocchi",
+        "2 1/4 cup reduced-sodium chicken broth",
+        "1/2 cup heavy cream",
+        "1/4 cup dry white wine",
+        "1/3 cup chopped dried tomatoes",
+        "1/2 tsp. Italian seasoning",
+        "1 (16 to 17.6 oz.) pkg. shelf-stable potato gnocchi",
+        "1 (5 oz.) pkg baby spinach",
+        "1/2 cup grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SjnbHDNRQCedCIbXVVmhLoU1UQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-ingredients-8d88a6174df14d178995601f26bff9ee.jpg"
+                }
+            ],
+            "text": "Gather all ingredients.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For meatballs, preheat the oven to 375 degrees F (190 degrees C). Line a 15x10x1-inch baking pan with parchment paper.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oFCFdYzUORY-VcWa2YPl6vNo0V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-step-01-32f023dc994a49ef8dea2a1374558c43.jpg"
+                }
+            ],
+            "text": "Combine egg, bread crumbs, onion, 2 tablespoons dried tomatoes, milk, 1 tablespoon Parmesan cheese, garlic, 1/2 teaspoon Italian seasoning, salt and pepper in a bowl.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8WqlAgtgEcAQ5u0pyOFpSGCAdqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-step-02-f662ba52eed54266852a22f83025c208.jpg"
+                }
+            ],
+            "text": "Add chicken, mix well.\u00a0Shape mixture into 20 1 1/2-inch meatballs. Place in the prepared baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VBQ9diwy6ZOsVDJXE-w1mW9pAzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-step-05-07508bdf977b44d988a733fb83c0f498.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until set and lightly browned (they don\u2019t have to be done at this point), about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6LAxKjyGzGjMREPkv9oXBMZhcIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-step-06-fc177820d613420baf4cb0c2864e516a.jpg"
+                }
+            ],
+            "text": "Add meatballs to a 3 1/2- to 4-quart slow cooker.\u00a0Add broth, cream, wine, 1/3 cup dried tomatoes, and 1/2 teaspoon Italian seasoning. Cover and cook on Low 6 hours or on High 3 hours.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/LYIgDWmD4IgX2I2jCrk4ARwYWSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-step-07-8eb664c2c56e4fe9bdf2d1470b2bf030.jpg"
+                }
+            ],
+            "text": "If using Low, turn to High. Add gnocchi. Cover and cook 20 minutes.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/YwcFpY9CJE9GldcW5K9MekgrBEk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-step-09-7f748b80362f463296aca69d249edb0c.jpg"
+                }
+            ],
+            "text": "Stir in spinach and Parmesan cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FWuyWlTttycKw0V8tKSBvYCCELQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8718448-Slow-Cooker-Tuscan-Chicken-Meatballs-with-Gnocchi-ddmfs-step-10-610f825ca0014c35bafc0e531d3e4779.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

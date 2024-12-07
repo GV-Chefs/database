@@ -1,0 +1,88 @@
+{
+    "headline": "Chef John's Turkey Manicotti",
+    "name": "Chef John's Turkey Manicotti",
+    "description": "Chef John gives turkey leftovers an Italian spin. A homemade crepe enfolds the cheesy, amazing filling.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT145M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "286 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "127 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "791 mg",
+        "sugarContent": "6 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 eggs",
+        "0.75 cup all-purpose flour",
+        "0.75 cup water",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon olive oil",
+        "1 cup diced cooked turkey",
+        "1 cup whole-milk ricotta cheese",
+        "1 egg",
+        "0.5 cup freshly shredded Parmigiano-Reggiano cheese",
+        "0.5 cup shredded mozzarella cheese",
+        "0.25 teaspoon dried marjoram",
+        "0.125 teaspoon red pepper flakes",
+        "0.25 cup chopped Italian parsley",
+        "salt to taste",
+        "1 teaspoon olive oil, or as needed",
+        "1.5 cups marinara sauce, divided",
+        "2 teaspoons olive oil, divided",
+        "0.33333334326744 cup freshly shredded Parmigiano-Reggiano cheese",
+        "1 tablespoon freshly shredded Parmigiano-Reggiano cheese for garnish, or as desired",
+        "1 tablespoon chopped Italian parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk 2 eggs, flour, water, salt, and 1/2 teaspoon olive oil together thoroughly in a bowl to make a very smooth batter. Cover bowl with plastic wrap and refrigerate batter for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix turkey, ricotta cheese, 1 egg, 1/2 cup Parmigiano-Reggiano cheese, mozzarella cheese, marjoram, red pepper flakes, and 1/4 cup Italian parsley in a bowl until thoroughly combined. Season with salt to taste."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place a nonstick skillet over medium-high heat and brush generously with 1 teaspoon olive oil or as needed. Swirl about 1/4 cup batter into the bottom of the pan and tilt to form a thin pancake covering the bottom of the skillet. Cook until bottom of crepe is dry, 60 to 90 seconds. Flip crepe and cook until other side has small browned spots, 60 to 90 seconds more. Repeat with remaining batter to make 6 crepes. Transfer crepes to a plate as you make them."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread about 1/2 cup marinara sauce into the bottom of a 9x12-inch baking dish. Use a brush to spread about 1/2 teaspoon of olive oil in a thin layer up the sides of the dish. Place a crepe, dimpled side down, onto a work surface; spread about 1/3 to 1/2 cup filling onto crepe in a line down the middle. Roll crepe over filling and tuck in ends if desired. Lay filled crepe into the baking dish. Repeat with remaining crepes and filling to make 6 manicotti."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread remaining 1 cup marinara sauce onto the manicotti in a line down the middle of the crepes, covering middle 1/3 of manicotti. Sprinkle 1/3 cup Parmigiano-Reggiano cheese all over manicotti. Drizzle manicotti with remaining 1 1/2 teaspoon olive oil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ldahnw_PfZJ-B9BS_qu9rJybEVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2457724-91ac091231ad4b01bad301ca73108145.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until manicotti are slightly browned and puffy, about 45 minutes. Let stand 5 minutes to cool. Garnish with 1 tablespoon Parmigiano-Reggiano cheese or as desired and 1 tablespoon Italian parsley before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

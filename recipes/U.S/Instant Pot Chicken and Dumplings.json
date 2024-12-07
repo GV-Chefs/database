@@ -1,0 +1,96 @@
+{
+    "headline": "Instant Pot Chicken and Dumplings",
+    "name": "Instant Pot Chicken and Dumplings",
+    "description": "Comforting chicken and dumplings made in the Instant Pot with flavorsome chicken thighs and veggies, topped with fluffy homemade biscuit dumplings.",
+    "recipeCuisine": [
+        "U.S.",
+        "Southern"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "467 kcal",
+        "carbohydrateContent": "29 g",
+        "cholesterolContent": "135 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "41 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1055 mg",
+        "sugarContent": "4 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 tablespoon olive oil",
+        "1 cup diced onion",
+        "0.5 cup diced carrot",
+        "0.5 cup diced celery",
+        "1 bay leaf",
+        "4 cups low-sodium chicken broth",
+        "1 pound boneless, skinless chicken thighs",
+        "1 pound bone-in chicken breasts, skin removed",
+        "1 teaspoon salt",
+        "0.5 teaspoon thyme",
+        "0.5 teaspoon dried marjoram",
+        "0.25 teaspoon freshly ground black pepper",
+        "2 tablespoons unsalted butter, softened",
+        "2 tablespoons all-purpose flour",
+        "salt and ground black pepper to taste",
+        "0.5 cup frozen petite peas",
+        "0.5 cup frozen cut green beans",
+        "1 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "0.5 teaspoon salt",
+        "2 tablespoons cold unsalted butter",
+        "1 tablespoon chopped fresh flat-leaf parsley",
+        "0.5 cup buttermilk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pour olive oil into a multi-functional pressure cooker (such as an Instant Pot) and select the Saut\u00e9 function. Cook and stir onion, carrot, celery, and bay leaf until vegetables are soft and onion has turned translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken broth, thighs, breasts, salt, thyme, marjoram, and black pepper. Close and lock the lid. Select high pressure according to manufacturer's instructions; set the timer for 9 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Carefully use tongs to remove chicken pieces to a large bowl to cool slightly; discard bay leaf."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While chicken is cooling, mash butter with flour in a small bowl to make a smooth paste; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make dumplings: Combine flour, baking powder, and salt in a medium bowl. Cut in cold butter with 2 knives or a pastry blender until mixture resembles the texture of cornmeal. Stir in parsley and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Shred cooled chicken and return to the pot. Taste broth and season with salt and pepper if needed. Add peas and green beans. Stir in flour-butter paste until incorporated. Select Saut\u00e9 function and bring broth to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour buttermilk into dumpling mixture and stir until combined. Drop dough by heaping spoonfuls over the top of stew."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dYdxskuT5mUkXQ7GX89lMJMnZjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7194534_InstantPotChickenandDumplings4x3-b1355ec3cbc44d4b9565f028b9e91209.jpg"
+                }
+            ],
+            "text": "Close the lid, leaving the steam vent open. Select Slow Cooker function and simmer on Low, covered, until a skewer inserted into the center of a dumpling comes out clean, 10 to 12 minutes."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

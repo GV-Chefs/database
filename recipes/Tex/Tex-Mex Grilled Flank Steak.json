@@ -1,0 +1,47 @@
+{
+    "headline": "Tex-Mex Grilled Flank Steak",
+    "name": "Tex-Mex Grilled Flank Steak",
+    "description": "Three ingredients is all you need for this melt in your mouth tender flank steak. This can be eaten on its own but I like to use it for tacos or grilled steak salads.",
+    "recipeCuisine": [
+        "Tex Mex"
+    ],
+    "totalTime": "PT507M",
+    "cookTime": "PT12M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "137 kcal",
+        "carbohydrateContent": "2 g",
+        "cholesterolContent": "35 mg",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "788 mg",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (1.41 ounce) package sazon seasoning with coriander and achiote (such as Goya\u00ae)",
+        "1 (12 fluid ounce) can or bottle Mexican beer",
+        "2 pounds flank steak (about 1-inch thick)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pour all 8 packets of sazon seasoning into a gallon-sized resealable plastic bag. Add beer, seal, and shake until sazon seasoning is dissolved. Add flank steak and refrigerate 8 hours or overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove steak from the bag and discard marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill steak on the hot grill for about 6 minutes on each side for medium or until desired doneness. Remove steak from gill and let rest 10 minutes. Slice against the grain."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

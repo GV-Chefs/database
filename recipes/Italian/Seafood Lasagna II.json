@@ -1,0 +1,62 @@
+{
+    "headline": "Seafood Lasagna II",
+    "name": "Seafood Lasagna II",
+    "description": "This super rich, Alfredo based seafood lasagna is a huge hit in our family. It takes a while to prepare, but it is well worth it!",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT120M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "764 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "183 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "46 g",
+        "saturatedFatContent": "22 g",
+        "sodiumContent": "1726 mg",
+        "sugarContent": "7 g",
+        "fatContent": "46 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package lasagna noodles",
+        "2 tablespoons olive oil",
+        "1 clove garlic, minced",
+        "1 pound baby portobello mushrooms, sliced",
+        "2 (16 ounce) jars Alfredo-style pasta sauce",
+        "1 pound shrimp, peeled and deveined",
+        "1 pound bay scallops",
+        "1 pound imitation crabmeat, chopped",
+        "20 ounces ricotta cheese",
+        "1 egg",
+        "black pepper",
+        "6 cups shredded Italian cheese blend"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large saucepan over medium heat. Sautee garlic and mushrooms until tender. Pour in 2 jars Alfredo sauce. Stir in shrimp, scallops and crabmeat. Simmer 5 to 10 minutes, or until heated through. In a medium bowl, combine ricotta cheese, egg and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a 9x13 inch baking dish, layer noodles, ricotta mixture, Alfredo mixture and shredded cheese. Repeat layers until all ingredients are used, ensuring that there is shredded cheese for the top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake uncovered in preheated oven for 45 minutes. Cover, and bake 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

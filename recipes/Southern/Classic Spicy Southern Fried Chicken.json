@@ -1,0 +1,73 @@
+{
+    "headline": "Classic Spicy Southern Fried Chicken",
+    "name": "Classic Spicy Southern Fried Chicken",
+    "description": "Roscoe's classic spicy Southern fried chicken is the real deal\u2014deeply golden and crisp on the outside, and moist and tender inside. Marinated in buttermilk and hot sauce, it's spicy and flavorful.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "503 kcal",
+        "carbohydrateContent": "29 g",
+        "cholesterolContent": "148 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "31 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1158 mg",
+        "sugarContent": "3 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 whole Chicken, cut into 8 pieces",
+        "2 cups Buttermilk",
+        "3 eggs",
+        "5 tablespoons hot sauce",
+        "2 tablespoons kosher salt, divided",
+        "2 tablespoons freshly ground black pepper",
+        "2 cups all-purpose flour",
+        "1 tablespoons Onion powder",
+        "1 teaspoon Garlic powder",
+        "1 teaspoons Paprika",
+        "1 teaspoons dried Oregano",
+        "1 teaspoons Cayenne pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine chicken, buttermilk, eggs, hot sauce, 1 tablespoon salt, and 1 tablespoon black pepper in a large bowl. Stir until coated. Cover and refrigerate for at least 20 minutes or up to overnight,"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine flour, remaining 1 teaspoons salt, remaining 1 tablespoon black pepper, onion powder, garlic powder, paprika, oregano, and cayenne in a large bowl; whisk until well combined. Set a wire rack over a rimmed baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove chicken from the refrigerator. Working with one piece at a time, remove from the marinade and allow excess to drip off into flour dredge. Drop chicken into flour dredge. Coat evenly in the flour mixture, pressing dredge onto chicken. Set pieces on the prepared wire rack. When all pieces are coated, dredge and press each piece a second time; return chicken to the wire rack."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour oil into a large Dutch oven to a depth of 1 inch. Heat over medium-high heat until it reaches 350 degrees F (175 degrees C). Place a clean wire rack over a paper towel-lined baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/oTT9djPTKnS2Hzi7phO0NqwDzJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8707359_Classic-Southern-Fried-Chicken_Dotdash-Meredith-Food-Studios_4x3-d1d72c169df246e7ab4d6ba8fcb7f431.jpg"
+                }
+            ],
+            "text": "Add a few chicken pieces to the hot oil and cook, turning once or twice, until golden brown on the outside, no longer pink at the bone, and the juices run clear, 10 to 15 minutes. An instant read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Maintain the oil temperature around 320 degrees F (160 degrees C) during cooking. Remove chicken to the prepared clean wire rack. Return oil to 350 degrees F (175 degrees C) and repeat to fry remaining chicken. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

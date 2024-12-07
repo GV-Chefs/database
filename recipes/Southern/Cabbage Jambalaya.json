@@ -1,0 +1,58 @@
+{
+    "headline": "Cabbage Jambalaya",
+    "name": "Cabbage Jambalaya",
+    "description": "An easy recipe that will have the kids eating cabbage like it's going out of style! Ground beef and sausage are simmered together with tomatoes, onion, celery, cabbage and rice.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "550 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "96 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "29 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "1610 mg",
+        "sugarContent": "11 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "1 pound smoked sausage, cut into 1/4-inch slices",
+        "1 onion, chopped",
+        "3 stalks celery, chopped",
+        "1 clove garlic, chopped",
+        "1 medium head cabbage, chopped",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "14.5 fluid ounces water",
+        "1 cup uncooked rice",
+        "1 pinch garlic salt, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine ground beef, smoked sausage, onion, celery, and garlic in a large stock pot over medium-high heat. Cook and stir until beef is evenly browned, about 5 minutes. Stir in cabbage, tomatoes, water, and rice. Season with garlic salt."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/v9DclGFWnKe6M7WuMxPIwgRKC30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/900365-cabbage-jambalaya-Rock_lobster-1x1-1-9e37a564576d406b8a9145d9528ded9b.jpg"
+                }
+            ],
+            "text": "Bring to a boil; reduce heat to low. Cover and cook, stirring once, until rice is tender, 35 to 40 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

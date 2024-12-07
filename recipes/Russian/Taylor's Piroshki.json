@@ -1,0 +1,72 @@
+{
+    "headline": "Taylor's Piroshki",
+    "name": "Taylor's Piroshki",
+    "description": "Authentic Russian piroshki with savory beef, onion, and dill filling, deep-fried until fluffy and golden; these piroshki are also delicious when baked.",
+    "recipeCuisine": [
+        "Russian"
+    ],
+    "totalTime": "PT105M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "447 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "67 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "478 mg",
+        "sugarContent": "4 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds ground beef",
+        "1 onion, finely chopped",
+        "1 teaspoon salt",
+        "ground black pepper to taste",
+        "dried dill weed to taste",
+        "1 (.25 ounce) package active dry yeast",
+        "0.25 cup warm water",
+        "1 cup milk",
+        "3 eggs",
+        "0.5 cup vegetable oil",
+        "2 tablespoons granulated sugar",
+        "1 teaspoon salt",
+        "4 cups all-purpose flour",
+        "3 cups oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "To make the filling: Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain. Stir in onion; cook and stir until onion has softened. Season with salt, pepper, and dill weed to taste. Allow to cool before using."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, to make the dough: Dissolve yeast in warm water and place in a warm location until frothy, about 10 to 15 minutes. Warm milk in a medium saucepan over low heat; gently whisk in eggs, oil, sugar, and salt. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place 1/2 of the flour in a large mixing bowl and gradually stir in the milk mixture. Add yeast solution alternately with remaining flour, stirring after each addition; mix well. Knead until the dough forms a ball and does not stick to the bowl. (Note: Start with the 4 cups of flour. You may need to add more, a little at a time, as you knead the dough). Cover the bowl with a clean cloth. Set in a warm location and allow to rise until doubled in volume, about 30 to 60 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove dough from bowl and place on a lightly floured surface. Pinch off pieces approximately the size of golf balls. Roll the pieces into disks about 3 1/2 to 4 inches in diameter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fill the center of each disk with a heaping tablespoon of cooled beef mixture. Fold disks over the mixture and firmly pinch the edges to seal. Arrange on a flat surface and allow to sit for approximately 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C). Lower piroshki carefully into the hot oil in batches. Fry until golden brown on one side, about 3 to 4 minutes; gently turn and fry the other side. Transfer to a paper towel-lined plate to drain. Repeat with remaining piroshki."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "headline": "Baked Beans from Scratch",
+    "name": "Baked Beans from Scratch",
+    "description": "Baked beans from scratch are made by simmering navy beans in a rich sauce made with ketchup, molasses, Worcestershire sauce, and maple syrup.",
+    "recipeCuisine": [
+        "New England"
+    ],
+    "totalTime": "PT450M",
+    "cookTime": "PT440M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "122 kcal",
+        "carbohydrateContent": "26 g",
+        "fiberContent": "5 g",
+        "proteinContent": "5 g",
+        "sodiumContent": "196 mg",
+        "sugarContent": "12 g",
+        "fatContent": "0 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 cup navy beans, soaked overnight and drained",
+        "4 cups water",
+        "0.25 cup ketchup",
+        "0.25 cup maple syrup",
+        "2 tablespoons brown sugar",
+        "2 tablespoons molasses",
+        "1 teaspoon Worcestershire sauce",
+        "0.5 teaspoon salt",
+        "0.125 teaspoon ground black pepper",
+        "0.125 teaspoon chili powder",
+        "1 small onion, chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tGtFRRbQAC65hUjmfliVx-gpEPY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-165249-baked-beans-from-scratch-VAT-step-01-4cf932bac35f44ac81e64f8e0982bdd5.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NsKGx_L-lAdSOHnmpVXrCBmIaos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-165249-baked-beans-from-scratch-VAT-step-02-68ea9f8fb5494c6ab5d2242dc9e99b13.jpg"
+                }
+            ],
+            "text": "Place beans in a large saucepan with 4 cups of water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/irU5MpHdXtu8qIDGYInyGUA9YFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-165249-baked-beans-from-scratch-VAT-step-03-1fd5e0dacd344fa0b66c9d2af19adeba.jpg"
+                }
+            ],
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Stir ketchup, maple syrup, brown sugar, molasses, Worcestershire sauce, salt, pepper, and chili powder together in a small bowl; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/YhxkZ4a242A701QyFXfULITr7HM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-165249-baked-beans-from-scratch-VAT-step-04-94f58dbf2c584b4b82f900f80b8ebb2f.jpg"
+                }
+            ],
+            "text": "Once beans have simmered for 1 hour, drain, and reserve cooking liquid. Pour beans into a 1 1/2-quart casserole dish; stir in chopped onion and molasses mixture. Stir in enough reserved cooking liquid so sauce covers beans by 1/4 inch."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dTsfrGuN94v0XCQ9Z5czqUQ5VJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-165249-baked-beans-from-scratch-VAT-step-05-f46c239ba0f740b0862349702363f1e9.jpg"
+                }
+            ],
+            "text": "Cover and bake in the preheated oven for 10 minutes; reduce heat to 200 degrees F (95 degrees C) and cook 6 hours longer, stirring beans after they have cooked for 3 hours. Once beans are tender and sauce has reduced and is sticky, remove from the oven, stir, recover, and allow to stand 15 minutes before serving."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

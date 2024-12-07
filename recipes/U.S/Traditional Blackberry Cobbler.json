@@ -1,0 +1,62 @@
+{
+    "headline": "Traditional Blackberry Cobbler",
+    "name": "Traditional Blackberry Cobbler",
+    "description": "This traditional blackberry cobbler has a delicious biscuit-like topping and is made with frozen blackberries for a taste of summer any time!",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "322 kcal",
+        "carbohydrateContent": "58 g",
+        "cholesterolContent": "41 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "213 mg",
+        "sugarContent": "36 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 pounds frozen blackberries, thawed",
+        "1.25 cups white sugar",
+        "1.5 tablespoons all-purpose flour",
+        "1.5 tablespoons butter",
+        "1.5 cups all-purpose flour",
+        "1.5 teaspoons baking powder",
+        "0.25 teaspoon salt",
+        "2 tablespoons white sugar",
+        "0.25 cup softened butter",
+        "0.66666668653488 cup milk",
+        "1 large egg, beaten"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Toss blackberries with 1 \u00bc cups sugar and 1 \u00bd tablespoons flour in a mixing bowl. Spread into a 9x9-inch baking dish, and dot with 1 \u00bd tablespoons of butter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk 1 1/2 cups flour, baking powder, salt, and 2 tablespoons sugar together in a separate bowl. Cut in softened butter until mixture resembles bread crumbs. Stir in milk and egg until combined. Drop batter over the berries by the spoonful."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the fruit is tender and the topping is golden brown, 20 to 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "9"
+    ]
+}

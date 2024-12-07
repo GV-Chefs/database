@@ -1,0 +1,100 @@
+{
+    "headline": "Chocolate Babka",
+    "name": "Chocolate Babka",
+    "description": "This chocolate babka is made with a rich yeast dough for a soft, tender bread. Swirls of chocolate filling and sweet streusel make it perfect for sharing.",
+    "recipeCuisine": [
+        "Polish"
+    ],
+    "totalTime": "PT165M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "378 kcal",
+        "carbohydrateContent": "46 g",
+        "cholesterolContent": "75 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "295 mg",
+        "sugarContent": "23 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT40M",
+    "recipeCategory": [
+        "Bread"
+    ],
+    "recipeIngredient": [
+        "0.75 cup milk",
+        "0.25 cup butter",
+        "2 cups bread flour",
+        "2 cups all-purpose flour",
+        "2 teaspoons active dry yeast",
+        "0.25 cup white sugar",
+        "0.25 cup water",
+        "1 large egg",
+        "0.75 teaspoon salt",
+        "5 (1 ounce) squares semisweet chocolate, finely chopped",
+        "1.5 teaspoons ground cinnamon",
+        "0.33333334326744 cup white sugar",
+        "0.25 cup butter, chilled",
+        "0.25 cup confectioners' sugar",
+        "0.25 cup all-purpose flour",
+        "0.25 cup butter, chilled",
+        "1 large egg, beaten",
+        "1 tablespoon water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Prepare the dough: Warm milk and melt butter in a glass or ceramic bowl in the microwave for 30 seconds, or in a saucepan on the stovetop. Combine bread flour, all-purpose flour, yeast, and sugar. Add water, milk-butter mixture, egg, and salt to the dry ingredients and mix well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use the dough hook in a stand mixer on low speed or knead the dough by hand until the dough is smooth and elastic, about 15 minutes. If the dough is too wet, add more bread flour, about 2 tablespoons at a time (up to 8 tablespoons) to make a workable dough; too much flour can make the dough dry. Cover the dough with a damp cloth and let rise until double in size, about 1 to 1 \u00bd hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make chocolate filling and streusel while the dough is rising."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For the filling: Stir together finely chopped chocolate, cinnamon, and sugar. Cut in chilled butter with a fork."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make the streusel: Combine confectioners' sugar and all-purpose flour; cut in chilled butter until the mixture resembles coarse crumbs."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When the dough has doubled, punch the dough down and cut it into two equal pieces. Loosely shape each piece into a ball. Cover the dough with a damp cloth and let it rest for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll out one portion of dough on a lightly floured surface to form a 15x4-inch rectangle. Sprinkle with 1/2 of the chocolate filling, roll up to form a long log, and seal the seam. Attach the ends to form a circle and place the ring, seam-side down, on a parchment-lined baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Repeat with the second piece of dough."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use a serrated knife or kitchen shears to cut slits at 1-inch intervals around the rings. Cover the rings with damp kitchen towels and let rise until doubled in size, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make the egg wash: Combine egg and water in a small dish and whisk to combine."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Brush the loaves with egg wash. Sprinkle streusel on top. Bake the loaves, rotating the baking sheets to promote even browning, until the bread is a deep golden brown, about 25 minutes."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

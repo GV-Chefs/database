@@ -1,0 +1,59 @@
+{
+    "headline": "Southern-Style Banana Split Cake",
+    "name": "Southern-Style Banana Split Cake",
+    "description": "Banana split cake is an easy, no-bake, layered dessert with cream cheese, banana, pineapple, whipped topping, and cherries in a graham cracker crust.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "748 kcal",
+        "carbohydrateContent": "79 g",
+        "cholesterolContent": "61 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "12 g",
+        "saturatedFatContent": "23 g",
+        "sodiumContent": "262 mg",
+        "sugarContent": "51 g",
+        "fatContent": "46 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups graham cracker crumbs",
+        "0.75 cup white sugar",
+        "0.25 pound butter, melted",
+        "2 (8 ounce) packages cream cheese",
+        "1.5 cups confectioners' sugar",
+        "4 bananas, sliced",
+        "1 (15 ounce) can crushed pineapple, drained",
+        "1 (16 ounce) container frozen whipped topping, thawed",
+        "1 (16 ounce) jar maraschino cherries, drained",
+        "12 ounces crushed peanuts"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine graham cracker crumbs, white sugar, and melted butter in a large bowl; mix well. Press into a 9x13-inch cake pan; refrigerate until chilled, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat together cream cheese and confectioners' sugar in the large bowl until smooth; spread over chilled graham cracker crust."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Layer sliced bananas and crushed pineapple over cream cheese mixture; cover with whipped topping."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Top with cherries and chopped nuts. Refrigerate for at least 1 hour and serve chilled."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

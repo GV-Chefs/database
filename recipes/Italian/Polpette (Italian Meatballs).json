@@ -1,0 +1,79 @@
+{
+    "headline": "Polpette (Italian Meatballs)",
+    "name": "Polpette (Italian Meatballs)",
+    "description": "These Italian meatballs, or polpette, start off in the oven, and finish by simmering in a simple tomato sauce.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "372 kcal",
+        "carbohydrateContent": "23 g",
+        "cholesterolContent": "132 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "441 mg",
+        "sugarContent": "11 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 pound ground pork sweet Italian sausage",
+        "1 pound ground beef",
+        "2/3 cup finely minced shallot",
+        "1/4 cup Italian seasoned breadcrumbs",
+        "1/2 cup freshly grated Parmesan cheese",
+        "3 eggs, lightly beaten",
+        "1/2 cup whole milk",
+        "1/2 teaspoon freshly ground black pepper (see note)",
+        "1 cup water",
+        "2 24-ounce bottles tomato pur\u00e9e",
+        "5 garlic cloves, finely minced",
+        "1 teaspoon Italian herb seasoning blend",
+        "Salt, to taste",
+        "Extra virgin olive oil, about 2 Tablespoons",
+        "Fresh basil leaves",
+        "Additional grated Parmesan cheese, optional"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine sausage, ground beef, shallot, Parmesan cheese, and breadcrumbs in a large bowl. Use a wooden spoon to break up the ground meat and roughly mix ingredients together. Stir in beaten eggs, milk, and black pepper. Use your hands to mix all ingredients well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Line a sheet pan with parchment paper or aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour water into a shallow bowl, and moisten fingertips and palms with water. Shape meatball mixture into about 40 ping-pong sized balls and place on the prepared sheet pan. When fingers become sticky, dip them in water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake meatballs in the preheated oven until lightly browned and a bit underdone in the center, about 20 minutes. If meatballs are larger, adjust baking time."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour tomato pur\u00e9e into a large sauce pot or a Dutch oven set over medium-low heat. Stir in minced garlic and Italian herbs. Sample the sauce for seasoning, and adjust, if needed."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When sauce begins to bubble slightly, add meatballs and stir gently, coating all the meatballs with sauce. Keep meatballs and sauce at a low simmer and cook, uncovered, about 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To serve, place meatballs and sauce on a plate, drizzle with extra virgin olive oil, garnish with fresh basil leaves, and sprinkle with additional grated Parmesan cheese, if desired."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

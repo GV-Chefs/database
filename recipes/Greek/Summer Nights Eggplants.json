@@ -1,0 +1,64 @@
+{
+    "headline": "Summer Nights Eggplants",
+    "name": "Summer Nights Eggplants",
+    "description": "Eggplant is stuffed with sauteed eggplant, onion, peppers and bread crumbs, then topped off with some feta cheese and baked. I named it after the long summer nights I spent with my family on the balcony eating this tasty recipe, because at this season in Greece we have plenty of eggplants and cook them in various ways.",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "645 kcal",
+        "carbohydrateContent": "101 g",
+        "cholesterolContent": "33 mg",
+        "fiberContent": "12 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1222 mg",
+        "sugarContent": "20 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 large eggplants",
+        "0.5 cup olive oil for frying",
+        "2 medium onions, chopped",
+        "2 cloves garlic, minced",
+        "2 small tomatoes, chopped",
+        "1 green bell pepper, seeded and chopped",
+        "1 tablespoon chopped fresh parsley",
+        "salt and pepper to taste",
+        "4 cups dry bread crumbs",
+        "1 cup crumbled feta cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Remove the leaves from the eggplants, and slice in half lengthwise. Carefully scoop out the centers of the eggplants, leaving a half-inch shell so they resemble 'canoes'. Cut the center portion into small pieces, and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the oil in a large skillet over medium heat. Add the onions and garlic, and saute for a few minutes, until tender. Add the eggplant pieces, and cook until soft, about 5 minutes. Then, stir in the tomato, green pepper, and parsley. Simmer for about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from the heat, and transfer to a large bowl. Stir in the bread crumbs until evenly blended. Divide the mixture evenly between the four eggplant shells. Sprinkle feta cheese over the top. Place the eggplant halves on a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 15 to 20 minutes in the preheated oven, until the tops are browned and the cheese is melted. Serve hot or cold. I prefer them chilled."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

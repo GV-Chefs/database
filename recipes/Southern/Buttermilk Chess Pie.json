@@ -1,0 +1,53 @@
+{
+    "headline": "Buttermilk Chess Pie",
+    "name": "Buttermilk Chess Pie",
+    "description": "This buttermilk chess pie with its smooth custard filling and crunchy top is easy to make for a classic American dessert.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT135M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "471 kcal",
+        "carbohydrateContent": "63 g",
+        "cholesterolContent": "148 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "264 mg",
+        "sugarContent": "51 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups white sugar",
+        "2 tablespoons all-purpose flour",
+        "5 eggs",
+        "0.66666668653488 cup buttermilk",
+        "0.5 cup melted butter",
+        "1 teaspoon vanilla extract",
+        "1 (9 inch) unbaked pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C.)"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, combine sugar and flour. Beat in the eggs and buttermilk until blended. Stir in the melted butter and vanilla. Pour filling into the pie crust."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until filling is set, about 45 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

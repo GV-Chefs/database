@@ -1,0 +1,57 @@
+{
+    "headline": "Date and Dried Cherry Mostarda",
+    "name": "Date and Dried Cherry Mostarda",
+    "description": "This sweet and tangy mostarda blends the rich flavors of Medjool dates and tart cherries with a hint of orange and spice. Enjoy it warm or at room temperature for a delightful burst of flavor.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "82 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "3 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "64 mg",
+        "sugarContent": "14 g",
+        "fatContent": "1 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Condiment"
+    ],
+    "recipeIngredient": [
+        "1/2 cup chopped pitted Medjool dates",
+        "1/2 cup dried tart cherries, chopped",
+        "1 shallot, minced (2 Tbsp.)",
+        "1/2 cup dry white wine",
+        "3 Tablespoons white balsamic vinegar",
+        "1 teaspoon orange zest",
+        "3 Tablespoons orange juice",
+        "3 Tablespoons sugar",
+        "1 teaspoon minced crystallized ginger",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon cinnamon",
+        "1/8 teaspoon crushed red pepper",
+        "1 Tablespoon butter",
+        "2 teaspoons stone-ground mustard",
+        "1 teaspoon mustard powder"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine dates, cherries, shallot, wine, vinegar, orange zest, orange juice, sugar, crystallized ginger, salt, cinnamon, and crushed red pepper in a small saucepan. Bring to a boil; reduce heat to low and simmer, covered, until liquid is absorbed and fruit is softened, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in butter, mustard, and mustard powder. Simmer, uncovered, until mixture is thickened and jam-like, 2 to 3 minutes. Serve warm or at room temperature."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

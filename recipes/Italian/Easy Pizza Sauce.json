@@ -1,0 +1,78 @@
+{
+    "headline": "Easy Pizza Sauce",
+    "name": "Easy Pizza Sauce",
+    "description": "An easy pizza sauce that doesn't require cooking so it's quick to make and tastes fresh and delicious. Mix tomato sauce with seasoning and it's ready.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "11 kcal",
+        "carbohydrateContent": "3 g",
+        "fiberContent": "1 g",
+        "proteinContent": "1 g",
+        "sodiumContent": "148 mg",
+        "sugarContent": "2 g",
+        "fatContent": "0 g",
+        "servingSize": "2 3/4 cups",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Sauce",
+        "Ingredient"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) can tomato sauce",
+        "1 (6 ounce) can tomato paste",
+        "1 tablespoon ground oregano",
+        "1.5 teaspoons dried minced garlic",
+        "1 teaspoon ground paprika"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/w3n_cXWhLsY2q2y0rfR8DqtTmOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44975-easy-pizza-sauce-iii-ddmfs-step1-0105-9347872aaa1a45338b4c2c4ea9405491.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/LHddI8mJu8G04eHkzy6oq10POzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44975-easy-pizza-sauce-iii-ddmfs-step2-0106-68eef324975f4626a838c8f186d8c9d6.jpg"
+                }
+            ],
+            "text": "Mix together tomato sauce and tomato paste in a medium bowl until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/MNkxBeChIr73WorKAORRvkL2LQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44975-easy-pizza-sauce-iii-ddmfs-step3-0108-a17ff77e43d34f18b248f10296c60f16.jpg"
+                }
+            ],
+            "text": "Stir in oregano, garlic, and paprika to pizza sauce mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Ui63EiNHmkw5jnn5SFH7pXgQjo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/44975-easy-pizza-sauce-iii-DDMFS-4x3-1e60e47c2cec463687021af62133a8d9.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "24"
+    ]
+}

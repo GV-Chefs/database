@@ -1,0 +1,57 @@
+{
+    "headline": "Bistec Encebollado (Cuban Steak and Onions)",
+    "name": "Bistec Encebollado (Cuban Steak and Onions)",
+    "description": "Bistec Encebollado (Cuban steak and onions) is a popular dish in Cuba as well as in other Caribbean islands like Puerto Rico and the Dominican Republic.",
+    "recipeCuisine": [
+        "Cuban"
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "383 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "66 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "36 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "838 mg",
+        "sugarContent": "6 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon garlic powder",
+        "1 (1 pound) New York strip steak, sliced thin",
+        "3 large onions, thinly sliced",
+        "2 tablespoons white vinegar",
+        "1 tablespoon onion powder",
+        "3 tablespoons olive oil",
+        "0.5 cup beef broth",
+        "2 tablespoons sofrito",
+        "1 clove garlic, minced"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine salt, pepper, and garlic powder in a small bowl. Sprinkle over steak slices on all sides to season. Transfer steak to a resealable plastic bag and add sliced onions, vinegar, and onion powder. Move steaks around to combine with the marinating ingredients. Seal the bag and refrigerate for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a skillet over medium heat. Add steak and onion mixture; cook and stir until steak is browned and onions are soft, 4 to 6 minutes. Remove from the skillet and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add beef broth, sofrito, and garlic to the skillet and cook over medium heat until garlic is golden brown, 2 to 3 minutes. Add steak and onions back to the skillet, cover, and simmer over low heat until onions and steak are cooked through, about 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "headline": "Easy Red Beans and Rice",
+    "name": "Easy Red Beans and Rice",
+    "description": "This easy red beans and rice recipe is ready in 40 minutes yet big on flavor. It is a delicious take on a Louisiana classic made with turkey kielbasa.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "289 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "35 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "808 mg",
+        "sugarContent": "4 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 cups water",
+        "1 cup uncooked rice",
+        "1 (16 ounce) package turkey kielbasa, cut diagonally into 1/4 inch slices",
+        "1 onion, chopped",
+        "1 green bell pepper, chopped",
+        "1 clove chopped garlic",
+        "2 (15 ounce) cans canned kidney beans, drained",
+        "1 (16 ounce) can whole peeled tomatoes, chopped",
+        "0.5 teaspoon dried oregano",
+        "0.5 teaspoon pepper",
+        "salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FZkX3ZLDN_1bq-oxmLAjcV9Vs4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34419-easy-red-beans-and-rice-ddmfs-4497-4x3-step-01-a8adb927846e48be89378eb2b00f991e.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/VEwL3nZe_kK6b51MwyGKORjJMEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34419-easy-red-beans-and-rice-ddmfs-4503-4x3-step-02-dee213e7911c4bd7a4940c4a8ed5a2d7.jpg"
+                }
+            ],
+            "text": "Prepare the rice: Bring water to a boil in a saucepan. Add rice and stir. Reduce heat, cover, and simmer for 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/i8So17qsHkvKZUZJoN_cohl3fRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34419-easy-red-beans-and-rice-ddmfs-4504-4x3-step-03-3701965cea904c1b97097d501d020dc8.jpg"
+                }
+            ],
+            "text": "Meanwhile, cook sausage in a large skillet over low heat for 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-bnaNuk3vWQQcDrKsPniPiy1z2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34419-easy-red-beans-and-rice-ddmfs-4505-4x3-step-04-c92c5a0705394599af37352e3b8a5d95.jpg"
+                }
+            ],
+            "text": "Stir in onion, green pepper, and garlic; saute until tender."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jGtLS_Nc958m_-h7PN28MrrNjWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34419-easy-red-beans-and-rice-ddmfs-4507-4x3-step-05-51b09d07be6649199a0be06fc053885e.jpg"
+                }
+            ],
+            "text": "Add in beans and tomatoes with juice. Season with oregano, pepper, and salt."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/A5vW0gZxY1N9tAEMNF39EoTncOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/34419-easy-red-beans-and-rice-ddmfs-4508-4x3-step-06-a5394cec0f7141e7ac5df254ae7d58fe.jpg"
+                }
+            ],
+            "text": "Simmer uncovered for 20 minutes. Serve over rice."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

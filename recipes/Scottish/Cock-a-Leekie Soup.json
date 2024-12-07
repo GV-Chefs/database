@@ -1,0 +1,63 @@
+{
+    "headline": "Cock-a-Leekie Soup",
+    "name": "Cock-a-Leekie Soup",
+    "description": "Scottish cock-a-leekie soup has many variations, but most of them feature leeks simmered in chicken stock. This version is thickened with barley.",
+    "recipeCuisine": [
+        "Scottish"
+    ],
+    "totalTime": "PT100M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "243 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "126 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "503 mg",
+        "sugarContent": "3 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 pounds chicken thighs, bone in, skin removed",
+        "10 cups water",
+        "1 medium onion, chopped",
+        "0.33333334326744 cup barley",
+        "1 (10.5 ounce) can condensed chicken broth",
+        "7 medium leeks, sliced",
+        "2 stalks celery, thickly sliced",
+        "1 tablespoon chopped fresh parsley",
+        "1 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "1 sprig fresh thyme, chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken into a large pot; pour in water and add onion and barley. Bring to a boil over high heat, then reduce the heat to low and simmer for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use tongs to transfer chicken to a cutting board. Discard skin and bones; chop meat into bite-sized pieces and return to the pot."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hkviA4o5oExUfeD1ckPw9g5SLJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-99-05751ed2de5f45ffa5c284b166a17cc3.jpg"
+                }
+            ],
+            "text": "Add condensed broth, leeks, celery, parsley, salt, pepper, and thyme; simmer until vegetables are tender, about 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

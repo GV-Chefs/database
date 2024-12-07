@@ -1,0 +1,61 @@
+{
+    "headline": "Hearty Halibut Chowder",
+    "name": "Hearty Halibut Chowder",
+    "description": "I got this recipe when I lived in Anchorage, Alaska. It's made from Alaskan halibut. The shredded carrots and Cheddar cheese in this chowder make it distinctive.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "172 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "39 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "15 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "364 mg",
+        "sugarContent": "3 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT35M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon unsalted butter",
+        "1 large onion, finely diced",
+        "2 large potatoes, peeled and cubed",
+        "2 cloves garlic, minced",
+        "6 cups chicken stock",
+        "1 (8 ounce) can stewed tomatoes, diced",
+        "2 large carrots, shredded",
+        "1.5 cups milk",
+        "0.5 cup heavy cream",
+        "salt and pepper to taste",
+        "2 pounds halibut, cut into 1-inch cubes",
+        "0.5 cup shredded Cheddar cheese",
+        "1 pinch red pepper flakes, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a large pot over medium heat. Add onion; cook until softened and translucent, about 5 minutes. Add potatoes and garlic; cook until potatoes softened slightly, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/MWpOx7ufKZy7QpGoyK1QMCYqakg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1885760-ac179e7516944b52a2b5a30007197c2a.jpg"
+                }
+            ],
+            "text": "Add chicken stock, tomatoes, and carrots; bring to a boil, then reduce heat to medium-low, cover, and simmer for 10 minutes. Stir in milk and cream; season with salt and black pepper, then stir in halibut and simmer uncovered until halibut is flaky and no longer translucent in center, about 10 minutes. Gently stir in Cheddar cheese and pepper flakes until cheese melted. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "headline": "Blackened Prime Rib",
+    "name": "Blackened Prime Rib",
+    "description": "A definite different twist on an old classic. This prime rib will really spice things up! Use the pan drippings for au-jus or make some delicious Yorkshire Pudding. Whip up a batch of fresh horseradish sauce and serve this prime rib with garlic asparagus or a fluffy baked potato. Please note the total time includes 1 hour for marinating.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT185M",
+    "cookTime": "PT115M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "697 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "127 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "21 g",
+        "sodiumContent": "2644 mg",
+        "sugarContent": "14 g",
+        "fatContent": "52 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup brown sugar",
+        "2 teaspoons ground cumin",
+        "2 tablespoons ground black pepper",
+        "2 tablespoons ground coriander",
+        "0.25 cup chili powder",
+        "2 tablespoons kosher salt",
+        "0.25 cup soy sauce",
+        "0.5 cup chili powder",
+        "3 tablespoons Cajun-style blackened seasoning",
+        "6 pounds prime rib roast, bone in",
+        "2 cups water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, mix together the brown sugar, cumin, black pepper, coriander, 1/4 cup chili powder, kosher salt, and soy sauce. In a separate small bowl, mix together 1/2 cup chili powder and blackened seasoning. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut ribs from roast, and place in a roasting pan. They will act as a roasting rack. Rub the meat all over with the soy sauce mixture. Then rub and coat with the Cajun seasoning mixture. Let marinate for at least one hour or wrap in plastic, and chill overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 500 degrees F (260 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove any plastic from roast, and place pan into the preheated oven. Roast uncovered for 15 minutes in the preheated oven. Pour water into the pan to produce moist heat. Reduce oven temperature to 300 degrees F (150 degrees C), and continue roasting for 1 hour and 10 minutes, or until the internal temperature is at least 130-140 degrees F/55-60 degrees C) for medium rare, or (145-155 degrees F/63-68 degrees C) for medium . Let the roast stand for 30 minutes before carving to let the juices return to the center."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

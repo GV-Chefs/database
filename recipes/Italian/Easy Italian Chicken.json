@@ -1,0 +1,96 @@
+{
+    "headline": "Easy Italian Chicken",
+    "name": "Easy Italian Chicken",
+    "description": "Everyone loves Italian chicken recipes, and this one's a winner. Italian-style dressing plus boneless breasts make a tender, tasty, 2-ingredient dish.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American"
+    ],
+    "totalTime": "PT125M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "344 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "68 mg",
+        "proteinContent": "28 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1296 mg",
+        "sugarContent": "6 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "6 skinless, boneless chicken breast halves",
+        "1 (16 ounce) bottle Italian-style salad dressing"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/9HCydJG2plf3rC-aAejzgnXnQyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17745-Italian-Chicken-ii-Step-01-9452fbee01344690a23efe3c9e8d4a8a.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yz9qVCqM3lRPDMOxz8HZ0DOjCYA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17745-Italian-Chicken-ii-Step-02-94770010a5fe4dc1bffe9c376ad6d58a.jpg"
+                }
+            ],
+            "text": "Pierce chicken breasts with a fork."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/vuYYnEeOJLN4HGv8rNqH3nh8zxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17745-Italian-Chicken-ii-Step-03-59b6720cb17541b9971eb19967f869ab.jpg"
+                }
+            ],
+            "text": "Pour salad dressing into a large resealable plastic bag; add chicken breasts, seal bag, and shake to coat. Marinate in the refrigerator for at least 1 hour to overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/uosf5aG6o0fH_WS-eGvI2WUzt98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17745-Italian-Chicken-ii-Step-05-8b43b3241dd4431ea64d7c705d4a60ab.jpg"
+                }
+            ],
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Remove chicken from marinade and place in a lightly greased 9x13-inch baking dish; discard remaining marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/auHzVq-HtWnhmWsVAf2EsVcFBek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17745-Italian-Chicken-ii-Step-06-9408dfcbe25a4fa1bcb29470bf30643c.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven, turning chicken occasionally, until cooked through and juices run clear, about 1 hour. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ory7eZVfM5hp-kcrCr5e89ukORY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17745-Italian-Chicken-ii-DDMFS-4x3-346814609e884ecaa1e1b6f8c396c818.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

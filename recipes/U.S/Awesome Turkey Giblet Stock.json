@@ -1,0 +1,51 @@
+{
+    "headline": "Awesome Turkey Giblet Stock",
+    "name": "Awesome Turkey Giblet Stock",
+    "description": "This turkey neck stock is easy to make on the stovetop with giblets, veggies, spices, and citrus zest for a tasty gravy or moistener for stuffing.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT110M",
+    "cookTime": "PT95M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "407 kcal",
+        "carbohydrateContent": "27 g",
+        "cholesterolContent": "688 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "50 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "335 mg",
+        "sugarContent": "8 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Sauce"
+    ],
+    "recipeIngredient": [
+        "6 cups water",
+        "1 neck, giblets, and liver from a turkey",
+        "1 onion, quartered",
+        "1 stalk celery, sliced",
+        "1 carrot, sliced",
+        "2 tangerines, zested",
+        "1 teaspoon whole black peppercorns",
+        "1 bay leaf"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine water, turkey neck, giblets (excluding liver), onion, celery, carrot, zest, peppercorns, and bay leaf in a large saucepan. Bring to a boil. Reduce heat and simmer for 1 hour, skimming froth occasionally. Add liver and continue cooking at a bare simmer for 30 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Strain stock through a fine sieve into a large bowl. Reserve liver for another use. Reserve neck and remaining giblets for gravy. There should be about 3 cups stock. If there is more, return stock to the pan and simmer until reduced to about 3 cups. If there is less, add enough water to measure about 3 cups."
+        }
+    ],
+    "recipeYield": [
+        "1"
+    ]
+}

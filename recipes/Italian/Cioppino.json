@@ -1,0 +1,92 @@
+{
+    "headline": "Cioppino",
+    "name": "Cioppino",
+    "description": "This cioppino is a classic seafood stew with fish, shrimp, scallops, clams, mussels, and crab in a warm broth seasoned with basil, thyme, and oregano.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "318 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "164 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "755 mg",
+        "sugarContent": "4 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.75 cup butter",
+        "2 onions, chopped",
+        "1 bunch fresh parsley, chopped",
+        "2 cloves garlic, minced",
+        "2 (14.5 ounce) cans stewed tomatoes",
+        "2 (14.5 ounce) cans chicken broth",
+        "1.5 cups white wine",
+        "1 cup water",
+        "2 bay leaves",
+        "1 tablespoon dried basil",
+        "0.5 teaspoon dried thyme",
+        "0.5 teaspoon dried oregano",
+        "1.5 pounds cod fillets, cubed",
+        "1.5 pounds large shrimp - peeled and deveined",
+        "1.5 pounds bay scallops",
+        "18 small clams",
+        "18 mussels, cleaned and debearded",
+        "1.5 cups crabmeat"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xvvAxU1lq23OdU4TQqVhHDuO1yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12816-cioppino-step2-199copy-e04b8c6efc374ac78b1093c55886faf6.jpg"
+                }
+            ],
+            "text": "Melt butter in a large stockpot over medium-low heat. Add onions, parsley, and garlic. Cook and stir until onions are softened, 3 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UMAh_3d0KlTYiMkmwOCnaXiPlP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12816-cioppino-step3-203copy-28bcf16af7974685aad4215c61c7af84.jpg"
+                }
+            ],
+            "text": "Add tomatoes to the pot (break them into chunks as you add them). Stir in chicken broth, wine, water, bay leaves, basil, thyme, and oregano. Cover and simmer for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/S3IKq9D9KgRL3jFV00khe8FC7w4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12816-cioppino-step4-213copy-b7b90256e12f492db33b7d222846e2a5.jpg"
+                }
+            ],
+            "text": "Stir in cod, shrimp, scallops, clams, mussels, and crabmeat. Bring to boil; lower heat, cover, and simmer until clams open up, 5 to 7 minutes. Ladle soup into bowls and serve."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0s1NugH5SGHWm2tNCXL0eJX-LU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12816-cioppino-ARMag-DEC2020_09971-f5eded3dc22347109ac5fc032715d673.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "13"
+    ]
+}

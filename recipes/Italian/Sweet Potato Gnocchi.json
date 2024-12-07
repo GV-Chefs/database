@@ -1,0 +1,64 @@
+{
+    "headline": "Sweet Potato Gnocchi",
+    "name": "Sweet Potato Gnocchi",
+    "description": "Sweet potato gnocchi is easy to make at home with mashed sweet potatoes, egg, and flour for a tasty pasta dish that feels like you're eating out.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "350 kcal",
+        "carbohydrateContent": "72 g",
+        "cholesterolContent": "47 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "324 mg",
+        "sugarContent": "8 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 (8 ounce) sweet potatoes",
+        "1 egg",
+        "1 clove garlic, pressed",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground nutmeg",
+        "2 cups all-purpose flour"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake sweet potatoes in the preheated oven until soft to the touch, about 30 minutes. Remove from the oven and let cool, 15 to 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove and discard skins from cooled potatoes. Mash flesh in a large bowl or press through a ricer. Blend in egg, garlic, salt, and nutmeg. Mix in flour, a little at a time, until a soft dough forms."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the water is coming to a boil, make the gnocchi: Roll dough on a floured surface into several long, snake-like logs. Cut logs into 1-inch pieces."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drop dough pieces into boiling water and cook until they float to the surface. Transfer with a slotted spoon to a serving dish and keep warm until ready to serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

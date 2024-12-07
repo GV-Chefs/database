@@ -1,0 +1,48 @@
+{
+    "headline": "Bratwurst, Sauerkraut and Bean Casserole",
+    "name": "Bratwurst, Sauerkraut and Bean Casserole",
+    "description": "Wanted to do something different with brats, so I put this together from ingredients I had in the cupboard.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "533 kcal",
+        "carbohydrateContent": "39 g",
+        "cholesterolContent": "84 mg",
+        "fiberContent": "10 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "2906 mg",
+        "sugarContent": "15 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeIngredient": [
+        "1 pound fresh bratwurst sausages",
+        "1 (32 ounce) package sauerkraut",
+        "1 pinch celery salt",
+        "1 tablespoon brown sugar",
+        "1 (15 ounce) can baked beans"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Cook bratwurst in a skillet over medium-high heat just until nicely browned on the outside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread sauerkraut in the bottom of a 9x11 casserole dish, leaving a 2 inch margin at the edges. Sprinkle celery salt and brown sugar over the sauerkraut. Place the sausages on top. Pour the beans around the outer edge of the sauerkraut. Cover the dish with a lid or aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for about 45 minutes in the preheated oven, until bratwurst links are cooked through."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

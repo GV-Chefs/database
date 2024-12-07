@@ -1,0 +1,59 @@
+{
+    "headline": "Johnsonville Italian Meatballs",
+    "name": "Johnsonville Italian Meatballs",
+    "description": "These Italian sausage meatballs flavored with Parmesan and onion bake in just 20 minutes and are a delicious way to jazz up your pasta night suppers.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "366 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "105 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "976 mg",
+        "sugarContent": "1 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.33333334326744 cup dry bread crumbs",
+        "1 large egg, lightly beaten",
+        "0.25 cup KRAFT 100% Grated Parmesan Cheese",
+        "0.25 cup milk",
+        "0.25 cup finely chopped onion",
+        "1 (19 ounce) package Johnsonville\u00ae Italian Mild Sausage Links, casings removed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine bread crumbs, egg, Parmesan cheese, milk, and onion in a large bowl. Add sausage to bread crumb mixture; mix well. Shape into 20 meatballs and place them on a shallow baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2au3XVsGASJFqCwAYzKDSiZ3Uq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3301145-johnsonville-italian-meatballs-Trusted-Brands-1x1-1-2f0516f9375a46f59b18c631635d45dc.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until meatballs are cooked through, about 20 minutes. An instant-read thermometer inserted into the center of a meatball should read at least 160 degrees F (72 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

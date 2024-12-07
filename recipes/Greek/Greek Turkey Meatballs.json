@@ -1,0 +1,95 @@
+{
+    "headline": "Greek Turkey Meatballs",
+    "name": "Greek Turkey Meatballs",
+    "description": "These Greek turkey meatballs are perfect for your next Greek night at home, reminiscent of Greek-style kebabs, and they take no time to make.",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "473 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "179 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "683 mg",
+        "sugarContent": "2 g",
+        "fatContent": "32 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "Cooking spray",
+        "1 pound ground turkey",
+        "2 ounce feta cheese, drained and finely crumbled",
+        "1/2 cup seasoned breadcrumbs",
+        "2 tablespoons olive oil",
+        "2 tablespoons finely chopped red onion",
+        "2 tablespoons finely chopped fresh mint",
+        "1 tablespoon finely chopped fresh oregano, plus oregano leaves for garnish",
+        "1 tablespoon finely chopped fresh flat-leaf parsley",
+        "3/4 teaspoon kosher salt",
+        "1/2 teaspoon ground black pepper",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon ground cumin",
+        "1/2 teaspoon lemon zest (from 1 lemon), plus lemon wedges for serving",
+        "1/4 teaspoon crushed red pepper",
+        "1 large egg, lightly beaten"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/IeRYXVnPF1Qi4dUmHOjgPSUyNzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654633-greek-turkey-meatballs-ddmfs-5344-step1-3x4-03ad09068bcd4ee88e7a3a5529d7353c.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a large rimmed baking sheet with aluminum foil; spray with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aCR4Hqt1aNcsuWgI5keMFkpMbms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654633-greek-turkey-meatballs-ddmfs-5312-02-3x4-f043b0747d40457da1a0c3a7298c85e3.jpg"
+                }
+            ],
+            "text": "Place ground turkey, feta, breadcrumbs, olive oil, red onion, mint, oregano, parsley, salt, black pepper, garlic powder, cumin, lemon zest, crushed red pepper, and egg in a large bowl; stir gently until well combined."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Pvs1Q_HZAFDCfM45viDPZ2-9kQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654633-greek-turkey-meatballs-ddmfs-5315-03-3x4-16e5fd669c4d4313a7acde49cdb5bad0.jpg"
+                }
+            ],
+            "text": "Using a cookie scoop or tablespoon, shape mixture into 24 (1-ounce) meatballs; arrange in an even layer on the prepared baking sheet. Generously spray meatballs with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Wk6sRUsfL0uR581mTHHm26w_wRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654633-greek-turkey-meatballs-ddmfs-5316-04-3x4-6ff21243d9164840b31716eb96b68a3a.jpg"
+                }
+            ],
+            "text": "Broil in the preheated oven until meatballs are golden brown on top, and an instant-read thermometer inserted into thickest portion of meatballs registers 165 degrees F (74 degrees C), 8 to 10 minutes. Rotate baking sheet from front to back halfway through cooking time. Garnish with oregano leaves, and serve with lemon wedges."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

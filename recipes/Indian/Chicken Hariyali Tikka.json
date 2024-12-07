@@ -1,0 +1,50 @@
+{
+    "headline": "Chicken Hariyali Tikka",
+    "name": "Chicken Hariyali Tikka",
+    "description": "Chicken breast meat is rubbed with an intoxicating paste made with cilantro, mint, and other distinctive flavors. Chicken legs may also be used, or a combination of legs and breasts. This recipe is cooked in the oven, but will work well on the grill. Serve hot with onion rings.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT215M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "147 kcal",
+        "carbohydrateContent": "3 g",
+        "cholesterolContent": "65 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1966 mg",
+        "sugarContent": "1 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeIngredient": [
+        "1 cup finely chopped fresh cilantro",
+        "0.5 cup finely chopped fresh mint leaves",
+        "1 tablespoon ginger garlic paste",
+        "1 tablespoon lemon juice",
+        "1 tablespoon green chile paste",
+        "1 tablespoon salt",
+        "1 pound skinless, boneless chicken breast halves - cut into chunks"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, grind together the cilantro, mint leaves, ginger garlic paste, lemon juice, green chile paste, and salt. Place the chicken in the bowl, and rub with the mixture. Cover, and refrigerate 2 to 3 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven broiler. Lightly grease a baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place the chicken in the baking dish, and broil 20 minutes, or until chicken juices run clear."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

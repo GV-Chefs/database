@@ -1,0 +1,54 @@
+{
+    "headline": "Hoe Cake",
+    "name": "Hoe Cake",
+    "description": "This simple bread \u2014 sometimes also called johnnycake or journey cake \u2014 was originally baked on a farm hoe. Now made in an old-fashioned cast iron skillet, hoe cake is still a Southern classic.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "147 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "2 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "492 mg",
+        "sugarContent": "2 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1.5 tablespoons shortening",
+        "2 cups self-rising flour",
+        "1 cup milk",
+        "2 pinches garlic salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C). Grease a well-seasoned cast iron skillet with the shortening, and place it in the oven as it heats."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together flour and milk in a bowl, making a thick but still runny batter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove the hot greased skillet from the preheated oven, and quickly sprinkle a pinch of garlic salt over the bottom of the skillet. Immediately pour in the batter, and sprinkle the top with a pinch of garlic salt."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Return the skillet to the preheated oven and bake until cake is risen and the top is golden brown, about 20 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

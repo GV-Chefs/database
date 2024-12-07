@@ -1,0 +1,80 @@
+{
+    "headline": "Ground Beef with Homemade Taco Seasoning Mix",
+    "name": "Ground Beef with Homemade Taco Seasoning Mix",
+    "description": "This flavorful ground beef taco recipe includes a homemade taco seasoning mix using spice-shelf staples for a perfect taco filling any night of the week.",
+    "recipeCuisine": [
+        "Tex-Mex"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "107 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "36 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "328 mg",
+        "sugarContent": "0 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Spice Mix"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons dried minced onion",
+        "1 teaspoon salt",
+        "1 teaspoon chili powder",
+        "0.5 teaspoon cornstarch",
+        "0.5 teaspoon ground cumin",
+        "0.5 teaspoon red pepper flakes",
+        "0.25 teaspoon cayenne pepper",
+        "0.25 teaspoon dried minced garlic",
+        "0.25 teaspoon dried oregano",
+        "1 pound ground beef",
+        "0.5 cup water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/lUclyK7XxfHRqnJeWJZ8uC2X8P8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229112-ground-beef-with-homemade-taco-seasoning-ddmfs-4x3-step1-0116-6d8564b1a5334b27a82ab48fa0e31178.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix minced onion, salt, chili powder, cornstarch, cumin, red pepper flakes, cayenne pepper, minced garlic, and oregano in a bowl; set seasoning mix aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/QnVD5eKpvLjsZV9aOu1U92dkHXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229112-ground-beef-with-homemade-taco-seasoning-ddmfs-4x3-step2-0117-d9bcf0dbf3124fe1bc98eac85b879558.jpg"
+                }
+            ],
+            "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 7 to 10 minutes. Drain and discard any excess grease."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tQq1D3TigZEeysde4qL0LZ0N9D4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229112-ground-beef-with-homemade-taco-seasoning-mix-DDMFS-4x3-719013d51e844a948c0b39cccb5ed908.jpg"
+                }
+            ],
+            "text": "Pour water and seasoning mix over beef; stir to combine. Bring to a simmer and cook until mixture thickens slightly, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

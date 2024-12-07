@@ -1,0 +1,61 @@
+{
+    "headline": "Vegan Mapo Tofu",
+    "name": "Vegan Mapo Tofu",
+    "description": "Ready in minutes, this vegan mapo tofu relies on a show-stopping sauce of fermented black beans, chili bean paste, and Sichuan peppercorns.",
+    "recipeCuisine": [
+        "Sichuan"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "255 kcal",
+        "carbohydrateContent": "16 g",
+        "fiberContent": "2 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "658 mg",
+        "sugarContent": "7 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup vegetable broth",
+        "1 tablespoon maple syrup",
+        "2 teaspoons reduced-sodium soy sauce",
+        "1 teaspoon cornstarch",
+        "1 tablespoon peanut oil",
+        "1 cup shiitake mushrooms, sliced",
+        "3 tablespoons fermented black beans, roughly chopped",
+        "2 green onions, white parts only, chopped",
+        "6 cloves garlic, minced",
+        "1 tablespoon fresh ginger, minced",
+        "1 teaspoon Sichuan peppercorns",
+        "2 tablespoons chili bean paste (doubanjiang)",
+        "1 (14 ounce) container silken tofu, cut into 1-inch cubes",
+        "1 tablespoon chile oil",
+        "1 tablespoon sesame oil",
+        "3 tablespoons peanuts, chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix vegetable broth, maple syrup, soy sauce, and cornstarch in a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat peanut oil in a wok over medium-high heat. Add mushrooms, black beans, green onions, garlic, ginger, and Sichuan peppercorns. Saute until aromatic, about 1 minute. Add chili bean paste and the soy sauce mixture. Cook and stir until thick, 3 to 5 minutes. Add tofu; cook until heated through, about 1 minute more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer cooked tofu to a serving dish; drizzle chile oil and sesame oil on top. Top with chopped peanuts."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

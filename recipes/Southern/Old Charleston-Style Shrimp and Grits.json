@@ -1,0 +1,121 @@
+{
+    "headline": "Old Charleston-Style Shrimp and Grits",
+    "name": "Old Charleston-Style Shrimp and Grits",
+    "description": "This shrimp and grits recipe featuring creamy, cheesy grits topped with a savory shrimp sauce is a classic Southern seafood dish bursting with flavor.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "618 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "270 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "39 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "1635 mg",
+        "sugarContent": "3 g",
+        "fatContent": "44 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Brunch",
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 cups water",
+        "2 teaspoons salt",
+        "1 cup coarsely ground grits",
+        "2 cups half-and-half",
+        "2 pounds uncooked shrimp, peeled and deveined",
+        "salt to taste",
+        "1 pinch cayenne pepper, or to taste",
+        "1 medium lemon, juiced",
+        "1 pound andouille sausage, cut into 1/4-inch slices",
+        "5 slices bacon",
+        "1 medium green bell pepper, chopped",
+        "1 medium red bell pepper, chopped",
+        "1 medium yellow bell pepper, chopped",
+        "1 cup chopped onion",
+        "1 teaspoon minced garlic",
+        "0.25 cup butter",
+        "0.25 cup all-purpose flour",
+        "1 cup chicken broth",
+        "1 tablespoon Worcestershire sauce",
+        "1 cup shredded sharp Cheddar cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring water and 2 teaspoons salt to a boil in a heavy saucepan over medium-high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aLy8WHBzWEcI61SPcreZM76oukk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220895_OldCharleston-StyleShrimpandGrits_mfs_step1_0042-1-1ba081b8d9df4f0ba98e94adbc68c5ed.jpg"
+                }
+            ],
+            "text": "Whisk grits into the boiling water, and then whisk in half-and-half. Reduce heat to medium-low and simmer, stirring occasionally, until grits are thickened and tender, 15 to 20 minutes. Set aside and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season shrimp with salt and cayenne pepper. Add lemon juice, toss to combine, and set aside to marinate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place sausage slices in a large skillet over medium-high heat. Cook, stirring occasionally, until browned, 5 to 8 minutes. Remove sausage from the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add bacon to the same skillet. Cook over medium-high heat until evenly browned, about 5 minutes per side. Transfer bacon to paper towels to drain, then chop or crumble when cool enough to handle. Leave bacon drippings in the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add bell peppers, onion, and garlic to the bacon drippings; cook and stir until onion is translucent, about 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir cooked sausage and marinated shrimp into the skillet with the cooked vegetables. Turn off the heat and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/8_izLfWWMiBluPsLf0uI7eQijPY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220895_OldCharleston-StyleShrimpandGrits_mfs_step3_0046-1-15ebf8573fac4e608533fb4eccc7d763.jpg"
+                }
+            ],
+            "text": "Melt butter in a small saucepan over medium heat. Whisk in flour, stirring to create a smooth roux. Turn heat to low and cook, stirring constantly, until mixture is golden brown in color, 8 to 10 minutes. Watch carefully, mixture burns easily."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour the roux over the sausage, shrimp, and vegetables."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7Gag4W94lLiatd6O_l67sbG5Zhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220895_OldCharleston-StyleShrimpandGrits_mfs_step2_0044-1-6d42510828e149aabb7914b8fba5813c.jpg"
+                }
+            ],
+            "text": "Place the skillet over medium heat, add chicken broth, bacon, and Worcestershire sauce, and stir to combine. Cook until sauce thickens up and shrimp turn opaque and bright pink, about 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Just before serving, mix Cheddar cheese into grits; stir until cheese is melted and grits are creamy and light yellow."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon grits onto plates and serve shrimp mixture over top."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "headline": "Rizogalo (Greek Rice Pudding)",
+    "name": "Rizogalo (Greek Rice Pudding)",
+    "description": "Greek rice pudding is a simple, comforting, and delicious dessert. Some Greek versions make rizogalo with eggs, but this is an egg-free version.",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT315M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "176 kcal",
+        "carbohydrateContent": "31 g",
+        "cholesterolContent": "10 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "44 mg",
+        "sugarContent": "13 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups water",
+        "0.5 cup uncooked short-grain white rice",
+        "2 cups whole milk",
+        "4 tablespoons white sugar",
+        "4 tablespoons cornstarch",
+        "1 teaspoon vanilla extract",
+        "0.25 teaspoon ground cinnamon, or more to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring water and rice to a boil in a saucepan. Immediately reduce the heat to medium-low and cook, uncovered and at a slow simmer, stirring occasionally, until soft and most of the water has been absorbed, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 2 cups milk and sugar. Increase the heat to high and bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir remaining 1/2 cup milk and cornstarch together in a bowl; add to boiling rice-milk mixture along with vanilla. Stir until well combined, then remove from the heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Ladle into individual serving dishes and sprinkle with cinnamon. Let cool to room temperature, about 30 minutes, then refrigerate until well chilled, at least 4 hours."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

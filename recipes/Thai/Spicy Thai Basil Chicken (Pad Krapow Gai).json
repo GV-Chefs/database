@@ -1,0 +1,127 @@
+{
+    "headline": "Spicy Thai Basil Chicken (Pad Krapow Gai)",
+    "name": "Spicy Thai Basil Chicken (Pad Krapow Gai)",
+    "description": "Chef John's version of this classic Thai dish, made with freshly chopped chicken thighs and fresh basil, has a rich sauce that cooks down into a caramelized glaze.",
+    "recipeCuisine": [
+        "Thai"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "715 kcal",
+        "carbohydrateContent": "59 g",
+        "cholesterolContent": "156 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "50 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1182 mg",
+        "sugarContent": "6 g",
+        "fatContent": "30 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.33333334326744 cup chicken broth",
+        "1 tablespoon oyster sauce",
+        "1 tablespoon soy sauce, or as needed",
+        "2 teaspoons fish sauce",
+        "1 teaspoon white sugar",
+        "1 teaspoon brown sugar",
+        "2 tablespoons vegetable oil",
+        "1 pound skinless, boneless chicken thighs, coarsely chopped",
+        "0.25 cup sliced shallots",
+        "4 cloves garlic, minced",
+        "2 tablespoons minced Thai chilies, Serrano, or other hot pepper",
+        "1 cup very thinly sliced fresh basil leaves",
+        "2 cups hot cooked rice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/V1II6xdA1M8Uzj5FABPWhxmqisA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-Spicy-Thai-Basil-Chicken-mfs-STEP-001-c82a29e56a0f4889902e849e6e2afc0c.jpg"
+                }
+            ],
+            "text": "Gather ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-LVsFwg-s2svRvaGDQM_sJ231To=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-Spicy-Thai-Basil-Chicken-mfs-STEP-007-bc50160ad0724952bceb317ad94e275b.jpg"
+                }
+            ],
+            "text": "Whisk chicken broth, oyster sauce, soy sauce, fish sauce, white sugar, and brown sugar together in a bowl until well blended."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-oTH4IIWAzO2YdC50flw2ZOrQwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-Spicy-Thai-Basil-Chicken-mfs-STEP-015-b4d868a1ec7c4968abf91d45497d5df0.jpg"
+                }
+            ],
+            "text": "Heat large skillet over high heat. Drizzle in oil. Add chicken and stir fry until it loses its raw color, 2 to 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WxA7p0nF44pFMezxgOsoNq1RBs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-Spicy-Thai-Basil-Chicken-mfs-STEP-019-431710222813488da564bb80d2ac0713.jpg"
+                }
+            ],
+            "text": "Stir in shallots, garlic, and sliced chilies. Continue cooking on high heat until some of the juices start to caramelize in the bottom of the pan, about 2 or 3 more minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/X6WY65iUyInjfkKrOZii2ywgSOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-Spicy-Thai-Basil-Chicken-mfs-STEP-023-1983fd8568f743928de6d41a311a9f45.jpg"
+                }
+            ],
+            "text": "Add about a tablespoon of the sauce mixture to the skillet; cook and stir until sauce begins to caramelize, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OaHD3VPs9DYrPJnyXGqfWgsnpSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-Spicy-Thai-Basil-Chicken-mfs-STEP-027-973f29e4ac474ad4acd6978cd75c297d.jpg"
+                }
+            ],
+            "text": "Pour in the rest of the sauce. Cook and stir until sauce has deglazed the bottom of the pan. Continue to cook until sauce glazes onto the meat, 1 or 2 more minutes. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WrJwroR34ENNbv4kD2tFWkBjrUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-Spicy-Thai-Basil-Chicken-mfs-STEP-030-0080b1a4c26e4e2d9283df894340a1ee.jpg"
+                }
+            ],
+            "text": "Stir in basil. Cook and stir until basil is wilted, about 20 seconds. Serve with rice."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NimapCyPk8WQ1gcO-4J5Y6SQgLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257938-spicy-thai-basil-chicken-chef-john-4x3-84457b900e2e4ec5823e8ace55df7b34.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "headline": "Creamy Chicken Marsala",
+    "name": "Creamy Chicken Marsala",
+    "description": "This creamy chicken Marsala features tender cremini mushrooms and an easy sauce made from condensed cream of mushroom soup and Marsala wine.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "355 kcal",
+        "carbohydrateContent": "20 g",
+        "cholesterolContent": "35 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "539 mg",
+        "sugarContent": "8 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons olive oil",
+        "salt and ground black pepper to taste",
+        "2 skinless, boneless chicken breasts, cut into cubes",
+        "1 onion, diced",
+        "1 cup sliced cremini mushrooms",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 cup Marsala wine"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over medium-high heat. Season chicken with salt and pepper, then add to hot oil and cook until browned, 3 to 5 minutes. Stir in onion and mushrooms; continue cooking until onion is translucent, 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour condensed soup and Marsala wine over chicken mixture; cook until hot and chicken is no longer pink in the middle, 3 to 5 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

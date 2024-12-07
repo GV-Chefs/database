@@ -1,0 +1,56 @@
+{
+    "headline": "Cathie's Clam Chowder",
+    "name": "Cathie's Clam Chowder",
+    "description": "This is the best clam chowder recipe around that mixes bacon, half-and-half, clam juice, and fresh minced clams to make up this traditional chowder.",
+    "recipeCuisine": [
+        "New England",
+        "American"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "271 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "68 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "377 mg",
+        "sugarContent": "1 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "6 slices bacon, diced",
+        "2 stalks celery, diced",
+        "1 onion, diced",
+        "0.25 cup butter",
+        "2 tablespoons all-purpose flour",
+        "3 (8 ounce) jars clam juice",
+        "1 quart half-and-half cream",
+        "4 cups minced clams",
+        "ground white pepper, to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a medium skillet over medium heat, cook bacon, celery, and onion until onion is translucent. Remove from heat and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large saucepan, melt butter over medium heat. Whisk in flour to form a roux, cooking until bubbly. Whisk in 1 jar of clam juice, until smooth. Stir in onion mixture. Pour in half-and-half, stirring constantly. Stir in clams, reduce heat and simmer 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season with pepper and serve."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

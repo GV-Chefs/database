@@ -1,0 +1,60 @@
+{
+    "headline": "Awesome and Easy Creamy Corn Casserole",
+    "name": "Awesome and Easy Creamy Corn Casserole",
+    "description": "This corn casserole is easy to prepare with butter, eggs, cornbread mix, whole and creamed corn, and sour cream for a family-pleasing side dish.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "391 kcal",
+        "carbohydrateContent": "43 g",
+        "cholesterolContent": "95 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "501 mg",
+        "sugarContent": "11 g",
+        "fatContent": "23 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) can whole kernel corn, drained",
+        "1 (14.75 ounce) can creamed corn",
+        "1 (8.5 ounce) package dry cornbread mix",
+        "1 cup sour cream",
+        "0.5 cup butter, melted",
+        "2 eggs, beaten"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x9-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix whole and creamed corn, cornbread mix, sour cream, melted butter, and eggs together in a medium bowl until well combined. Spoon mixture into the prepared dish."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zbQt7VbMkzhJ4xyO49alKAFM-NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/964200-e71a681b1b524d0fb5e3adac749ad856.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until the top is golden brown and a toothpick inserted in the center comes out clean, about 45 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

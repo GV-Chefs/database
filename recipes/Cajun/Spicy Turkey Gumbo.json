@@ -1,0 +1,86 @@
+{
+    "headline": "Spicy Turkey Gumbo",
+    "name": "Spicy Turkey Gumbo",
+    "description": "For this spicy turkey gumbo, leftover turkey is ideal. The recipe also includes a special way to make a roux in the oven, greatly simplifying the process.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT175M",
+    "cookTime": "PT145M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "474 kcal",
+        "carbohydrateContent": "20 g",
+        "cholesterolContent": "108 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1578 mg",
+        "sugarContent": "5 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons vegetable oil",
+        "8 ounces andouille sausage, sliced into 1/8 inch thick rounds",
+        "2 cups diced onions",
+        "2 teaspoons kosher salt, plus more to taste",
+        "1 cup chopped green bell pepper",
+        "1 1/2 cup sliced celery",
+        "1 teaspoon freshly ground black pepper",
+        "1/2 teaspoon cayenne pepper, or to taste",
+        "2 tablespoons all-purpose flour",
+        "prepared brown roux",
+        "8 cups turkey or chicken broth",
+        "1 1/2 pounds cooked turkey meat, cut into bite-sized pieces",
+        "1/2 cup sliced green onions",
+        "1/4 cup chopped Italian parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). For roux, stir flour and avocado oil together in a small baking dish until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake roux in the preheated oven, stirring occasionally, until it is a dark caramel color, 60 to 90 minutes. Stir well, and set aside until needed."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 2 tablespoons vegetable oil to a large soup pot over medium-high heat, and add sausage. Cook, stirring, for a few minutes until the sausage is lightly browned; remove to a bowl.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onions and salt to the pot; cook, stirring, for a few minutes, until onions start to turn translucent. Stir in bell pepper, celery, black pepper, and cayenne, and cook until vegetables start to soften and take on some color, a few minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sprinkle in the 2 tablespoons flour, and cook, stirring, until flour has started to toast and stick to the bottom of the pan, about 4 minutes. Stir in prepared roux. Add broth and reserved sausage."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir everything together, and bring broth to a simmer (heat can be raised to high until mixture reaches a simmer). Reduce heat to medium-low and simmer, stirring occasionally, for about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add turkey, and cook for 30 to 40 minutes. Excess fat can be skimmed off the surface."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ZdPlISv22-Z1cLa0txbsP5i5FZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8744687_Spicy-Turkey-Gumbo_John-Mitzewich_4x3-a31913f58f21422cb00e9993da01f7a2.jpg"
+                }
+            ],
+            "text": "Reduce heat to low; stir in parsley and green onions. Cook about 5 minutes more; taste for seasoning and adjust. Ladle into bowls; top with a scoop of white rice."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

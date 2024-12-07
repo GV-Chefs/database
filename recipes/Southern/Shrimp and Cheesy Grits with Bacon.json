@@ -1,0 +1,61 @@
+{
+    "headline": "Shrimp and Cheesy Grits with Bacon",
+    "name": "Shrimp and Cheesy Grits with Bacon",
+    "description": "Tender cheesy grits are served with cooked shrimp and bacon in a Carolina brunch classic.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "446 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "248 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "39 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1120 mg",
+        "sugarContent": "11 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1.5 cups chicken broth",
+        "1.5 cups evaporated milk",
+        "0.75 cup quick-cooking grits",
+        "0.5 teaspoon salt",
+        "1 cup shredded Cheddar cheese",
+        "1 cup chopped raw bacon",
+        "2 tablespoons bacon drippings",
+        "1 pound uncooked medium shrimp, peeled and deveined",
+        "0.5 cup diced green bell pepper",
+        "0.5 cup diced onion",
+        "1 tablespoon shredded Cheddar cheese, or as desired"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Pour chicken broth and evaporated milk into a large saucepan and bring to a boil. Stir in grits and salt; return to a boil. Reduce heat to low, cover, and simmer grits, stirring often, until thick, about 5 minutes. Stir in 1 cup Cheddar cheese until melted. Set grits aside and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a large skillet over medium heat. Cook and stir bacon in the hot skillet until crisp, 8 to 10 minutes. Use a slotted spoon to transfer bacon to a paper towel-lined plate. Drain all but 2 tablespoons bacon drippings from the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Return the skillet to medium heat. Cook and stir shrimp, bell pepper, and onion in hot bacon drippings until shrimp are bright pink and no longer translucent inside and bell pepper is tender, 5 to 8 minutes. Stir cooked bacon into shrimp mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread grits into a serving dish, top with shrimp mixture, and garnish with 1 tablespoon Cheddar cheese."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

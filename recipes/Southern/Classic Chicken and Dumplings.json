@@ -1,0 +1,51 @@
+{
+    "headline": "Classic Chicken and Dumplings",
+    "name": "Classic Chicken and Dumplings",
+    "description": "Your classic boiled chicken recipe with old-fashioned noodle-style dumplings simmered in the broth for a simple yet satisfying soup.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT140M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "349 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "82 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "141 mg",
+        "sugarContent": "0 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (2 to 3 pound) whole chicken",
+        "2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1 cup hot chicken broth",
+        "1 egg"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cover chicken with salted water in a large stockpot or Dutch oven; simmer until cooked through and tender, remove chicken from pot and remove meat from bones. Keep chicken warm while making the dumplings."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To make the dumplings: Sift about 2 cups of flour and 1 teaspoon baking powder into a large mixing bowl. Make a well in the flour mixture; pour in 1 cup of hot chicken broth, mixing first with a fork, then with your fingers. Add the egg and mix well again."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Knead the dough for a few seconds on a floured board. Separate the dough into 4 or 5 parts and roll as thin as possible. Cut into 1 1/2 or 2 inch wide pieces. Break these into 2 inch long strips. Drop into boiling chicken broth and simmer for 10 to 15 minutes. Serve with previously prepared chicken."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "headline": "Authentic Southern Banana Pudding",
+    "name": "Authentic Southern Banana Pudding",
+    "description": "A rich and creamy custard poured over layers of wafer cookies and banana slices makes a crowd pleasing classic Southern banana pudding.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT43M",
+    "cookTime": "PT8M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "531 kcal",
+        "carbohydrateContent": "56 g",
+        "cholesterolContent": "155 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "19 g",
+        "sodiumContent": "227 mg",
+        "sugarContent": "26 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (12 ounce) package vanilla wafer cookies (such as Nilla\u00ae)",
+        "6 bananas, or more as needed",
+        "1 cup white sugar",
+        "2 tablespoons all-purpose flour",
+        "dash of salt",
+        "2 cups heavy whipping cream",
+        "1 cup 2% milk",
+        "0.75 cup butter",
+        "4 egg yolks",
+        "2 teaspoons vanilla extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place a layer of wafer cookies on the bottom of a large glass bowl. Top with a layer of banana slices. Alternate layers, reserving 10 wafer cookies to crumble for topping."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix sugar, flour, and salt together in a saucepan. Slowly whisk in cream, about 1/4 cup at a time. Add milk and butter. Place pan over medium heat. Stir constantly until custard begins to thicken, 3 to 5 minutes. Remove pan from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place egg yolks in a bowl. Whisk a few tablespoons of warm custard mixture into the egg yolks. Add the egg/custard mixture back to the saucepan. Stir over medium heat until custard is thick enough to coat the back of a spoon, 4 to 5 minutes. Stir in vanilla extract. Remove from heat; allow to cool about 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour mixture slowly over the layers of wafers and bananas. Gently shake bowl so custard seeps to the bottom of the bowl. Crumble the remaining wafer cookies and sprinkle over the top."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

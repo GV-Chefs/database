@@ -1,0 +1,57 @@
+{
+    "headline": "Amish Meatloaf",
+    "name": "Amish Meatloaf",
+    "description": "A recipe for Amish meatloaf topped with bacon strips and a ketchup glaze that I had while in Amish country in Holmes County, Ohio.",
+    "recipeCuisine": [
+        "Amish",
+        "American"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "464 kcal",
+        "carbohydrateContent": "46 g",
+        "cholesterolContent": "118 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1161 mg",
+        "sugarContent": "34 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 pounds ground beef",
+        "2.5 cups crushed butter-flavored crackers",
+        "0.75 cup ketchup",
+        "1 small onion, chopped",
+        "0.25 cup brown sugar",
+        "2 eggs",
+        "2 slices bacon",
+        "2 tablespoons vinegar",
+        "2 tablespoons prepared yellow mustard",
+        "0.75 teaspoon salt, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine ground beef, crushed crackers, 3/4 cup ketchup, onion, 1/4 cup brown sugar, and eggs until well blended. Press into a 9x5-inch loaf pan; lay bacon over top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until cooked through, about 1 hour. While loaf bakes, whisk remaining 1 cup ketchup, remaining 1/2 cup brown sugar, vinegar, mustard, and salt together in a bowl; spread over top of meatloaf during last 15 minutes of baking."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

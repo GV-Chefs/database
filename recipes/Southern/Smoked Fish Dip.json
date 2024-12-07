@@ -1,0 +1,52 @@
+{
+    "headline": "Smoked Fish Dip",
+    "name": "Smoked Fish Dip",
+    "description": "This smoky fish dip is made in minutes by blending smoked whitefish, mayo, sour cream, seafood seasoning, hot pepper sauce, and Worcestershire sauce.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "25 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "6 mg",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "202 mg",
+        "sugarContent": "1 g",
+        "fatContent": "0 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "2 cups flaked smoked whitefish",
+        "4 tablespoons fat-free sour cream",
+        "2 tablespoons fat-free mayonnaise",
+        "4 drops hot pepper sauce, or to taste",
+        "3 drops Worcestershire sauce, or to taste",
+        "3 drops liquid smoke flavoring",
+        "1 pinch seafood seasoning, such as Old Bay",
+        "cracked black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place whitefish, sour cream, and mayonnaise in the bowl of a food processor; season with hot pepper sauce, Worcestershire sauce, liquid smoke, seafood seasoning, and cracked black pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Blend until combined with a spread-like consistency."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

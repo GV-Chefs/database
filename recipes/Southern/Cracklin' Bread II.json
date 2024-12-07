@@ -1,0 +1,56 @@
+{
+    "headline": "Cracklin' Bread II",
+    "name": "Cracklin' Bread II",
+    "description": "A traditional Southern favorite - use crumbled fried bacon if pork cracklin's are not available in your store.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "206 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "31 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "662 mg",
+        "sugarContent": "5 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 egg",
+        "3 tablespoons shortening or bacon fat",
+        "1.125 cups buttermilk",
+        "1.25 cups cornmeal",
+        "2 tablespoons sugar",
+        "0.25 cup all-purpose flour",
+        "0.5 teaspoon baking soda",
+        "1 tablespoon baking powder",
+        "1 teaspoon salt",
+        "1 cup crushed pork cracklin's"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (220 degrees C). Grease a 9x9 inch square baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, mix together the egg, shortening and buttermilk. In a separate bowl, stir together the cornmeal, sugar, flour, baking soda, baking powder and salt. Stir the dry ingredients into the wet ingredients until smooth, then stir in the pork cracklin's. Pour the batter into the prepared baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 25 to 30 minutes in the preheated oven, until center is set and the top is slightly brown."
+        }
+    ],
+    "recipeYield": [
+        "9"
+    ]
+}

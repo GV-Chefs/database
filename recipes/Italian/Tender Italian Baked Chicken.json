@@ -1,0 +1,105 @@
+{
+    "headline": "Tender Italian Baked Chicken",
+    "name": "Tender Italian Baked Chicken",
+    "description": "This Italian baked chicken recipe calls for just 5 ingredients. The cheesy bread crumb coating keeps the chicken breast moist and delicious.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "554 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "92 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "768 mg",
+        "sugarContent": "1 g",
+        "fatContent": "40 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "0.75 cup mayonnaise",
+        "0.5 cup grated Parmesan cheese",
+        "0.75 teaspoon garlic powder",
+        "0.75 cup Italian seasoned bread crumbs",
+        "4 skinless, boneless chicken breast halves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qq4sp7QKtdRGRqbChFt6vKQZfAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52005-tender-italian-baked-chicken-ddmfs-Step1-2038-301db6b1c0154902b2a4b36fec22db6d.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/go2bJttl-vOym5zEjP7eRCv2dlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52005-tender-italian-baked-chicken-ddmfs-Step2-2039-62366f3316ce4e64a84100d3aa2b03ab.jpg"
+                }
+            ],
+            "text": "Mix mayonnaise, Parmesan cheese, and garlic powder together in a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ZCAP2xxOzeNDBvBhgixffamHLv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52005-tender-italian-baked-chicken-ddmfs-Step4-2053-1b3cb66745bb4462b7a81ebb48c067b0.jpg"
+                }
+            ],
+            "text": "Place bread crumbs in a separate bowl. Dip each chicken breast into the mayonnaise mixture, then into the bread crumbs to coat"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nT-5TzeMP_jd6TnnlxbVl2NZDRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52005-tender-italian-baked-chicken-ddmfs-Step5-2055-3d2f6273ac2e4363aaa77df732997fad.jpg"
+                }
+            ],
+            "text": "Arrange breaded chicken on a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-zhSPYSudS-OSIwp9DM4b6j5AFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52005-tender-italian-baked-chicken-ddmfs-Step6-2086-0285406f1b28431381f405ddb327a4ab.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until chicken is no longer pink in the center and the coating is golden brown, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SE8-bPRl6I8FL4LaxSCkvI6pNf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52005-tender-italian-baked-chicken-ddmfs-3X4-2095-573d65075c9142a8ba3c955eb4abb2ee.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

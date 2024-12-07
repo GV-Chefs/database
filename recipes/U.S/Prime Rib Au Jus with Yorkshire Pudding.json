@@ -1,0 +1,79 @@
+{
+    "headline": "Prime Rib Au Jus with Yorkshire Pudding",
+    "name": "Prime Rib Au Jus with Yorkshire Pudding",
+    "description": "This prime rib roast au jus with Yorkshire pudding is a classic English recipe that makes a showstopping holiday main dish.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT260M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "965 kcal",
+        "carbohydrateContent": "40 g",
+        "cholesterolContent": "468 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "64 g",
+        "saturatedFatContent": "23 g",
+        "sodiumContent": "608 mg",
+        "sugarContent": "6 g",
+        "fatContent": "58 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (5 pound) bone-in beef rib roast",
+        "8 cloves garlic, quartered",
+        "0.75 teaspoon salt",
+        "1 teaspoon freshly ground black pepper",
+        "2 cups eggs",
+        "2 cups milk",
+        "1 pinch salt",
+        "2 cups all-purpose flour",
+        "0.5 cup pan drippings from prime rib",
+        "0.5 cup white wine",
+        "2 cups beef stock"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place roast bone-side down in a roasting pan. Use a sharp paring knife to poke 24 small holes 1 inch deep all over roast. Stuff each hole with garlic. Sprinkle with 3/4 teaspoon salt and black pepper. Allow roast to stand at room temperature for 2 hours. This will remove the chill, allowing meat to cook more evenly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, beat together eggs and milk with a pinch of salt in a medium bowl until combined. Stir in flour until smooth. Cover Yorkshire pudding batter and place in the refrigerator."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook roast in the preheated oven for 30 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C) and continue roasting until an instant-read thermometer inserted into the center of meat reaches 140 degrees F (60 degrees C), about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When roast is done, remove from the roasting pan, cover with aluminum foil, and let rest in a warm spot while you make Yorkshire puddings. Measure out 1/2 cup beef fat from the pan and divide among 12 muffin tins; pour off remaining fat, but save the roasting pan to make jus."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place the grease-filled muffin tins into the oven and increase the oven temperature to 425 degrees F (220 degrees C). Let the muffin tins preheat for 10 minutes, then fill 3/4 full with refrigerated batter and return to the oven. Bake until puddings have risen tall and are golden brown, 20 to 25 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/43HqQY-i_VCdPg2ZX0HaAEMzPW4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/343775-8ec587d7c360402a90da5eaf13fa2ed6.jpg"
+                }
+            ],
+            "text": "While Yorkshire puddings are baking, place the roasting pan on the stove over medium-high heat. Stir in wine and bring to a simmer while scraping to dissolve the pan drippings; pour in beef stock and return to a simmer. Cook for 10 minutes, then strain and serve with roast and puddings."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

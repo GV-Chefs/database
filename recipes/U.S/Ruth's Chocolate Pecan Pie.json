@@ -1,0 +1,56 @@
+{
+    "headline": "Ruth's Chocolate Pecan Pie",
+    "name": "Ruth's Chocolate Pecan Pie",
+    "description": "This pecan pie is thick, gooey, and full of sweet, buttery pecans. Unsweetened cocoa adds just a hint of chocolate flavor to this popular pie.",
+    "recipeCuisine": [
+        "U.S.",
+        "Southern"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "564 kcal",
+        "carbohydrateContent": "71 g",
+        "cholesterolContent": "93 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "382 mg",
+        "sugarContent": "37 g",
+        "fatContent": "31 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.5 cup margarine, melted",
+        "1 cup light corn syrup",
+        "1 cup white sugar",
+        "0.25 cup unsweetened cocoa powder",
+        "1 teaspoon vanilla extract",
+        "0.25 teaspoon salt",
+        "4 eggs",
+        "1 cup chopped pecans",
+        "1 recipe pastry for a 9 inch single crust pie"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a heavy saucepan, combine melted margarine, corn syrup, sugar, and cocoa. Cook over low heat, stirring constantly, until sugar dissolves. Stir in vanilla, salt, and eggs until well combined. Stir in 1/2 of the pecans; mix well. Pour into pastry shell and top with remaining pecans."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 325 degrees F (165 degrees C) for 55 minutes. Let cool before serving."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

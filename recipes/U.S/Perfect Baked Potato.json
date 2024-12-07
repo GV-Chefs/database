@@ -1,0 +1,55 @@
+{
+    "headline": "Perfect Baked Potato",
+    "name": "Perfect Baked Potato",
+    "description": "This perfect baked potato has a crisp, golden skin, and is light and fluffy on the inside. Add a dollop of sour cream if you like!",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT91M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "419 kcal",
+        "carbohydrateContent": "38 g",
+        "cholesterolContent": "58 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1448 mg",
+        "sugarContent": "2 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT1M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 medium baking potato",
+        "1 teaspoon olive oil",
+        "0.5 teaspoon salt",
+        "2 teaspoons butter",
+        "1 pinch freshly ground black pepper",
+        "0.25 cup shredded Cheddar cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 300 degrees F (150 degrees C). Scrub the potato, and pierce the skin several times with a knife or fork. Rub the skin with olive oil, then with salt."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/G2Vjd9H4C-D1MEmqeFTwe-LmlnA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1645501629-perfect-baked-potato-Rita-4x3-9f2e4b5c0a0340ee86fb5fef561f5d85.jpg"
+                }
+            ],
+            "text": "Place the potato in the preheated oven, and bake until slightly soft and golden brown, about 90 minutes. Slice the potato down the center, and serve with butter and black pepper. Sprinkle shredded Cheddar cheese over the top, if desired."
+        }
+    ],
+    "recipeYield": [
+        "1"
+    ]
+}

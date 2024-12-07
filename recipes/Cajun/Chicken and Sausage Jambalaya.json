@@ -1,0 +1,80 @@
+{
+    "headline": "Chicken and Sausage Jambalaya",
+    "name": "Chicken and Sausage Jambalaya",
+    "description": "Chicken and sausage jambalaya is a classic one pot meal, with the Holy Trinity of Louisiana cooking\u2014celery, onion, and bell pepper\u2014combined with chicken and rice. Tasso and andouille bring the spice and flavor.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "623 kcal",
+        "carbohydrateContent": "29 g",
+        "cholesterolContent": "164 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "37 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "1166 mg",
+        "sugarContent": "6 g",
+        "fatContent": "40 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons canola oil",
+        "Salt and freshly ground black pepper to taste",
+        "3 skin on, bone-in chicken thighs",
+        "1 can whole peeled tomatoes",
+        "2 ribs celery, diced",
+        "1 large yellow onion, diced",
+        "1 green bell, cored, seeded, and diced",
+        "2 tsp Cayenne pepper",
+        "2 bay leaves",
+        "4 garlic cloves, minced",
+        "4 cups chicken stock",
+        "2 cup tasso or ham steak, chopped",
+        "1 pound andouille sausage, sliced 1/4-inch thick",
+        "2 cups long grain rice",
+        "1 bunch scallions, thinly sliced"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add canola oil to a large Dutch oven set over medium heat. Salt and pepper chicken liberally and sear on both sides until golden brown, about 5 minutes per side. Remove from Dutch oven.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Open canned tomatoes and strain liquid into a 4-cup measuring cup. Pour in enough chicken stock to total 4 cups; set aside. Roughly chop tomatoes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add celery, onion, bell pepper (the trinity), chopped tomatoes, cayenne, bay leaves, and garlic to the Dutch oven and stir until combined on medium heat. Mix in stock with tomato juice, seared chicken, tasso, andouille, and rice. Bring this to a nice simmer. Cover the pot."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 30 minutes. Remove the pot from the oven and continue to let jambalaya steam for an additional 5 minutes.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/b1W9ksM7Bz6jHRdBhfjsETq2n7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8726289_Chicken-and-Sausage-Jambalaya_Dotdash-Meredith-Food-Studios_4x3-4cbf39b067b64e4d8d09ac172d0aa451.jpg"
+                }
+            ],
+            "text": "Garnish with scallions and a few dashes of hot sauce when ready to serve."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

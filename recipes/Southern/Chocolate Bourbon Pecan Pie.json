@@ -1,0 +1,59 @@
+{
+    "headline": "Chocolate Bourbon Pecan Pie",
+    "name": "Chocolate Bourbon Pecan Pie",
+    "description": "This chocolate bourbon pecan pie is a nice change from traditional pecan pie. Sweet chocolate chips and bourbon add depth to this classic Southern dessert.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT55M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "647 kcal",
+        "carbohydrateContent": "80 g",
+        "cholesterolContent": "124 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "228 mg",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup white sugar",
+        "1 cup light corn syrup",
+        "0.5 cup unsalted butter",
+        "4 large eggs",
+        "0.25 cup bourbon",
+        "1 teaspoon vanilla extract",
+        "0.25 teaspoon salt",
+        "6 ounces semisweet chocolate chips",
+        "1 cup chopped pecans",
+        "1 (9 inch) pie shell"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees F)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat sugar, corn syrup, and butter in a small saucepan over medium heat, stirring constantly, until butter melts and sugar dissolves. Remove from the heat and cool slightly, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk eggs, bourbon, vanilla, and salt together in a large bowl until well combined. Slowly pour sugar mixture into egg mixture, whisking constantly. Stir in chocolate chips and pecans. Pour mixture into pie shell."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until set and golden, 50 to 55 minutes. Serve warm or chilled."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

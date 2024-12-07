@@ -1,0 +1,59 @@
+{
+    "headline": "Biko",
+    "name": "Biko",
+    "description": "Glutinous white rice, also known as sticky rice or sweet rice, cooked with coconut milk and then baked with a coconut topping, is the Filipino dessert known as biko.",
+    "recipeCuisine": [
+        "Filipino"
+    ],
+    "totalTime": "PT660M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "463 kcal",
+        "carbohydrateContent": "90 g",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "17 mg",
+        "sugarContent": "38 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "4 cups uncooked glutinous white rice",
+        "6 cups cold water",
+        "1 (14 ounce) can coconut milk, divided",
+        "1.3333333730698 cups white sugar",
+        "1.3333333730698 cups brown sugar",
+        "3 tablespoons coconut preserves (such as Phil Supreme\u00ae)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Soak rice overnight in the water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook the soaked rice over medium heat in a saucepan with the soaking water, 1/2 can of coconut milk, and white sugar, stirring constantly, until tender and thickened, about 20 minutes. Pour into the prepared baking pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir together the brown sugar, remaining 1/2 can of coconut milk, and coconut preserves in a small saucepan, and bring to a boil. Pour the mixture carefully over the rice."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the topping thickens, about 25 minutes. Cool completely; cut into squares to serve."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "headline": "Crispy Grilled Pizza Margherita",
+    "name": "Crispy Grilled Pizza Margherita",
+    "description": "Fire up the grill and bring your pizza fixings outdoors. Grilled pizza with mozzarella, basil, and tomatoes is a fun and refreshing way to spend a summer evening.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "458 kcal",
+        "carbohydrateContent": "40 g",
+        "cholesterolContent": "41 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "967 mg",
+        "sugarContent": "7 g",
+        "fatContent": "23 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package pizza dough, at room temperature",
+        "0.25 cup olive oil",
+        "4 ounces shredded Asiago cheese",
+        "3 large tomatoes, thinly sliced",
+        "1 cup packed whole basil leaves",
+        "8 ounces fresh mozzarella cheese, shredded",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high heat, and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place pizza dough in a bowl to rise 2 to 3 times the original size, about 1 hour. Flour a work surface and a rolling pin. Divide dough in half; roll each half to a 10- to 12-inch diameter circle."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place pizza dough rounds on the preheated grill using a wooden paddle (pizza peel) and close lid; cook until grill marks appear on the bottom of each round, 3 to 5 minutes. Remove from grill and flip over on a work surface. Lower grill heat to medium."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Brush each round with olive oil. Spread half the Asiago cheese on each crust; add tomatoes, basil, and mozzarella. Season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer pizzas to grill with wooden paddle and close lid. Cook until bottom of rounds is cooked with grill marks and cheese is melted, 7 to 10 minutes. Remove from grill and let stand for 5 minutes before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

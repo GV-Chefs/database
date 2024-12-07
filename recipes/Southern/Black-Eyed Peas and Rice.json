@@ -1,0 +1,58 @@
+{
+    "headline": "Black-Eyed Peas and Rice",
+    "name": "Black-Eyed Peas and Rice",
+    "description": "This black-eyed peas and rice recipe includes diced ham, bell peppers, onion, garlic, paprika, and bay leaves for a delicious New Year's Day meal.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT545M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "274 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "11 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "278 mg",
+        "sugarContent": "3 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "1 cup dried black-eyed peas",
+        "1 tablespoon olive oil",
+        "1 cup lean diced ham",
+        "1 onion, chopped",
+        "0.5 cup chopped green bell pepper",
+        "1 clove garlic, minced",
+        "2 cups water",
+        "2 bay leaves",
+        "2 pinches paprika, or more to taste",
+        "salt and ground black pepper to taste",
+        "3 cups cooked rice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place black-eyed peas into a large container and cover with several inches of cool water; let stand 8 hours to overnight. Drain and rinse."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a pot over medium heat; cook and stir ham until browned, about 5 minutes. Add onion, green bell pepper, and garlic; saute until onion is tender, about 10 minutes. Add black-eyed peas, water, bay leaves, paprika, salt, and black pepper; cover pot with a lid and simmer until peas are tender, 40 to 50 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove bay leaves from black-eyed peas mixture and stir in rice. Simmer until all the liquid is evaporated, 5 to 10 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

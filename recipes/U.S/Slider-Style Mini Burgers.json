@@ -1,0 +1,106 @@
+{
+    "headline": "Slider-Style Mini Burgers",
+    "name": "Slider-Style Mini Burgers",
+    "description": "This slider recipe for mini baked burgers is made with a savory blend of ground beef, onion soup mix, mayo, and cheese that's great for potlucks.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "232 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "36 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "12 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "428 mg",
+        "sugarContent": "2 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "cooking spray",
+        "2 pounds ground beef",
+        "1 (1.25 ounce) envelope onion soup mix",
+        "2 cups shredded Cheddar cheese",
+        "0.5 cup mayonnaise",
+        "24 dinner rolls, split",
+        "0.5 cup sliced pickles"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/LsE47I15n_-lpFWYvsETieMfWRs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/178295-Slider-Style-Mini-Burgers-ddmfs-Step1-4x3-0671-012b6826fab04ff3ae0dec9006dfb12e.jpg"
+                }
+            ],
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Cover a baking sheet with aluminum foil and grease with cooking spray. Grease a sheet of aluminum foil; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0PuUngwTIp10mQv3Qa2OaiLqi08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/178295-Slider-Style-Mini-Burgers-ddmfs-Step2-4x3-0675-c974c81e08134834bf1091ac1f38f17d.jpg"
+                }
+            ],
+            "text": "Mix together ground beef and onion soup mix in a large skillet; cook and stir over medium-high heat until beef is crumbly and evenly browned, 5 to 7 minutes. Drain and discard any excess grease."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/DCYlRiTrh-_kPzWxWAcosBuEV-s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/178295-Slider-Style-Mini-Burgers-ddmfs-Step3-4x3-0682-ef4349977c3b4302864b39a8e24aebb6.jpg"
+                }
+            ],
+            "text": "Remove the skillet from heat; stir in Cheddar cheese and mayonnaise."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Evn-m6jVULLV00ZZZBN7R8jpwNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/178295-Slider-Style-Mini-Burgers-ddmfs-Step4-4x3-0684-7093dcfcf2fc4fa18fe9bc008b5798dd.jpg"
+                }
+            ],
+            "text": "Place roll bottoms on the prepared baking sheet. Spread beef mixture onto each bottom. Cover with tops. Cover sandwiches with the prepared sheet of aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Ib4LTLA670LFycjGxQgioZJPCY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/178295-Slider-Style-Mini-Burgers-ddmfs-Step5-4x3-0716-4b3b3237fc7e4dcc97599df257353512.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until burgers are heated through and cheese is melted, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jQBSuP3owX_p3mFAPNB4oBi8mYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/178295-Slider-Style-Mini-Burgers-ddmfs-4x3-0740-5f56a7f1b0b94bafa13c9a2bf4bc9250.jpg"
+                }
+            ],
+            "text": "Serve with sliced pickles and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "24"
+    ]
+}

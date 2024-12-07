@@ -1,0 +1,62 @@
+{
+    "headline": "Coconut Conch Chowder",
+    "name": "Coconut Conch Chowder",
+    "description": "This creamy conch chowder recipe is a nice mix of seafood and vegetables. Perfect for your next party and pairs well with a mango pepper sauce.",
+    "recipeCuisine": [
+        "Caribbean"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "430 kcal",
+        "carbohydrateContent": "20 g",
+        "cholesterolContent": "81 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "19 g",
+        "sodiumContent": "474 mg",
+        "sugarContent": "2 g",
+        "fatContent": "31 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound conch meat",
+        "0.25 cup margarine, divided",
+        "2 green onions, chopped",
+        "1 carrot, diced",
+        "1 stalk celery, diced",
+        "1 small sweet potato, peeled and diced",
+        "1 small red bell pepper, diced",
+        "0.5 cup fresh corn kernels",
+        "2 tablespoons all-purpose flour",
+        "1 quart half-and-half",
+        "1 (14 ounce) can unsweetened coconut milk",
+        "2 cups fish stock",
+        "1.5 tablespoons grated fresh ginger root",
+        "salt and pepper to taste",
+        "1.5 teaspoons hot sauce",
+        "1 bunch fresh cilantro, chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place conch meat in a pot with enough water to cover, and bring to a boil. Cook 15 minutes. Drain, and finely chop in a food processor."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt 2 tablespoons butter in a skillet over medium heat and mix in the green onions, carrot, celery, sweet potato, red pepper, and corn. Cook and stir 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt remaining 2 tablespoons butter in a large pot, and whisk in flour to create a roux. Pour in half and half, coconut milk, and fish stock. Mix in ginger and season with salt and pepper. Stir conch and vegetables into the pot. Bring to a boil, reduce heat to low, and simmer 15 minutes. Mix in hot sauce and cilantro. Continue cooking 15 minutes, or to desired consistency."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

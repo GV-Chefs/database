@@ -1,0 +1,57 @@
+{
+    "headline": "Cheddar Cheese Straws",
+    "name": "Cheddar Cheese Straws",
+    "description": "These light, dry sticks of bread, rich with Cheddar and a bit of cayenne, make wonderful appetizers.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "67 kcal",
+        "carbohydrateContent": "4 g",
+        "cholesterolContent": "6 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "103 mg",
+        "sugarContent": "0 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 cups all-purpose flour",
+        "2 cups shredded sharp Cheddar cheese",
+        "0.75 cup margarine",
+        "1 teaspoon baking powder",
+        "0.25 teaspoon cayenne pepper",
+        "0.5 teaspoon salt",
+        "0.5 cup water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (205 degrees C). Grease or line a baking sheet with parchment paper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine the flour, baking powder, cayenne pepper, salt, grated cheese and butter or margarine in a bowl and mix until well combined. Add water a little bit at a time to make a very stiff dough."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "On a lightly floured surface, roll pieces of the dough into just slightly thicker than pencil shaped sticks. Cut sticks into 4 to 5 inch lengths. Arrange the pieces on the baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake at 400 degrees F (205 degrees C) for 5 minutes or until browned."
+        }
+    ],
+    "recipeYield": [
+        "48"
+    ]
+}

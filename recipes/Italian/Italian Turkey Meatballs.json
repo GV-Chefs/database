@@ -1,0 +1,57 @@
+{
+    "headline": "Italian Turkey Meatballs",
+    "name": "Italian Turkey Meatballs",
+    "description": "Italian-style turkey meatballs are lean and clean with fresh herbs, Parmesan cheese, and seasoned bread crumbs. Try them on pasta or in a meatball sub!",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "253 kcal",
+        "carbohydrateContent": "11 g",
+        "cholesterolContent": "93 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "495 mg",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons Melt\u00ae Organic Buttery Spread, softened",
+        "1.5 pounds ground lean turkey",
+        "0.66666668653488 cup dry Italian bread crumbs",
+        "0.33333334326744 cup chopped fresh parsley",
+        "0.25 cup shredded Parmesan cheese",
+        "0.25 cup tomato sauce",
+        "3 cloves garlic, minced",
+        "3 tablespoons chopped fresh oregano",
+        "2 teaspoons chopped fresh rosemary",
+        "1 teaspoon dry mustard",
+        "0.5 teaspoon cayenne pepper",
+        "0.25 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees. Grease a broiler pan with buttery spread."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix ground turkey, bread crumbs, parsley, Parmesan, tomato sauce, garlic, oregano, rosemary, mustard, cayenne, and salt together in a large bowl until well combined. Form mixture into 30 meatballs; place onto the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until no longer pink inside, about 15 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

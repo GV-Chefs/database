@@ -1,0 +1,67 @@
+{
+    "headline": "Easy Cajun Jambalaya",
+    "name": "Easy Cajun Jambalaya",
+    "description": "Chicken breast and kielbasa are sauteed with green pepper, onion celery and garlic, then stewed with chicken stock and rice. This version is lightly spiced, in response to those a little more sensitive to pepper.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "488 kcal",
+        "carbohydrateContent": "59 g",
+        "cholesterolContent": "74 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "29 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1083 mg",
+        "sugarContent": "3 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 teaspoons olive oil",
+        "2 boneless skinless chicken breasts, cut into bite-size pieces",
+        "8 ounces kielbasa, diced",
+        "1 onion, diced",
+        "1 green bell pepper, diced",
+        "0.5 cup diced celery",
+        "2 tablespoons chopped garlic",
+        "0.25 teaspoon cayenne pepper",
+        "0.5 teaspoon onion powder",
+        "salt and ground black pepper to taste",
+        "2 cups uncooked white rice",
+        "4 cups chicken stock",
+        "3 bay leaves",
+        "2 teaspoons Worcestershire sauce",
+        "1 teaspoon hot pepper sauce"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large pot over medium-high heat. Add chicken and kielbasa; saut\u00e9 until lightly browned, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in onion, bell pepper, celery, and garlic. Season with cayenne, onion powder, salt, and pepper; cook and stir until onion is tender and translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1_7_qG6Vgx4NG31eW35hBMb9WGI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/794731-8c57f0afb64447fcb37fa72b00d686f7.jpg"
+                }
+            ],
+            "text": "Add rice and stir in chicken stock and bay leaves. Bring to a boil; reduce heat, cover, and simmer for 20 minutes, or until rice is tender. Stir in Worcestershire sauce and hot pepper sauce."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

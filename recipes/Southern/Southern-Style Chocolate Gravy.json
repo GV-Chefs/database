@@ -1,0 +1,101 @@
+{
+    "headline": "Southern-Style Chocolate Gravy",
+    "name": "Southern-Style Chocolate Gravy",
+    "description": "This chocolate gravy is lusciously smooth and easy to make with basic pantry ingredients. Delicious served on top of hot and flaky homemade biscuits.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "91 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "6 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "24 mg",
+        "sugarContent": "15 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast",
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.75 cup white sugar",
+        "0.25 cup cocoa",
+        "3 tablespoons all-purpose flour",
+        "2 cups milk",
+        "1 tablespoon butter, softened",
+        "2 teaspoons vanilla"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jW320t1ykrkowuS0NEllhNaOq3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187298-southern-style-chocolate-gravy-DDMFS-step-01-0777-4a73b6d00d524b91ba558b04d997daf8.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/grcFLkei7nSjESSIsAiXj49_QAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187298-southern-style-chocolate-gravy-DDMFS-step-01-1-0779-2c87ccfeb876423fb7f616e5e4d02be8.jpg"
+                }
+            ],
+            "text": "Whisk sugar, cocoa, and flour in a medium bowl until no lumps remain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zK4gg_NJrKLKsUTQTJdjY0tCN0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187298-southern-style-chocolate-gravy-DDMFS-step-02-0783-4d371e76b7c5451ea0fc0d850e145688.jpg"
+                }
+            ],
+            "text": "Pour in milk and whisk until well combined."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/RZMtO5_uut7eOvS52xdPY0aWLn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187298-southern-style-chocolate-gravy-DDMFS-step-03-0787-0a66762984a843c9ace6a4f8b023230d.jpg"
+                }
+            ],
+            "text": "Transfer mixture to a saucepan; cook and stir over medium heat until it thickens to a gravy consistency, 7 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ILDaaqwB7tujiWhloMj98g2uhLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187298-southern-style-chocolate-gravy-DDMFS-step-04-0789-dd316bd68538452d85d0671525b3cbae.jpg"
+                }
+            ],
+            "text": "Remove from heat; stir in butter and vanilla."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AcvpsPT7hQflLr9WPRqumbidago=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187298-southern-style-chocolate-gravy-DDMFS-4x3-0827-e724b4d563a447beb330c88a29e494bd.jpg"
+                }
+            ],
+            "text": "Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

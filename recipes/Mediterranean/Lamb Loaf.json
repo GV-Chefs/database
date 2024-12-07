@@ -1,0 +1,72 @@
+{
+    "headline": "Lamb Loaf",
+    "name": "Lamb Loaf",
+    "description": "Flavored with mouthwatering mint, rosemary, tomato, and thyme, this Mediterranean lamb meatloaf is a dish that the whole family will enjoy.",
+    "recipeCuisine": [
+        "Mediterranean Inspired"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "409 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "125 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "735 mg",
+        "sugarContent": "4 g",
+        "fatContent": "30 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 teaspoon vegetable oil",
+        "2 slices dry bread, diced",
+        "0.5 teaspoon vegetable oil, or as needed",
+        "0.25 cup milk",
+        "1 pound ground lamb",
+        "1 egg",
+        "4 cloves minced garlic",
+        "2 tablespoons chopped fresh thyme",
+        "1 tablespoon Worcestershire sauce",
+        "1 tablespoon lemon zest",
+        "1 teaspoon ground coriander",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried rosemary, crushed",
+        "0.75 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "0.25 cup tomato sauce",
+        "5 leaves fresh mint, finely chopped",
+        "2 tablespoons balsamic vinegar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a 9x5-inch loaf pan with oil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place bread and milk in a small bowl. Press bread with a fork to soak up the milk."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine lamb, egg, garlic, thyme, Worcestershire sauce, lemon zest, coriander, basil, rosemary, salt, and pepper in a medium bowl. Add soaked bread; discard the leftover milk. Mix with hands until well combined. Transfer meatloaf to the prepared pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine tomato sauce and mint; spread evenly over the meatloaf. Drizzle with balsamic vinegar."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until no longer pink in the center, about 35 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Remove and let cool for 5 minutes before serving."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

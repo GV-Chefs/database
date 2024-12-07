@@ -1,0 +1,57 @@
+{
+    "headline": "Flavorful Southern Fried Chicken",
+    "name": "Flavorful Southern Fried Chicken",
+    "description": "I found a recipe for fried chicken in a cookbook and I added my favorite spices to make it more flavorful.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "505 kcal",
+        "carbohydrateContent": "48 g",
+        "cholesterolContent": "71 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "34 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "842 mg",
+        "sugarContent": "7 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.66666668653488 cup all-purpose flour",
+        "0.66666668653488 cup grated Parmesan cheese",
+        "1.3333333730698 cups bread crumbs",
+        "1 teaspoon poultry seasoning",
+        "0.5 teaspoon onion powder",
+        "0.5 teaspoon garlic powder",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon pepper",
+        "1.5 cups milk",
+        "12 ounces chicken tenderloins",
+        "1.5 cups vegetable oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large plastic bag, combine the flour, Parmesan cheese, bread crumbs, poultry seasoning, onion powder, garlic powder, salt and pepper. Shake to mix."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the oil in a large skillet over medium heat until a drop of water evaporates immediately. Dip one piece of chicken at a time into the milk, and then place in the bag with the coating. Shake until fully coated. Place in the frying pan, and continue with remaining chicken."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook until the edges are browned, then flip and cook until browned on the other side. If some chicken is done sooner, keep on a paper towel lined plate in a warm oven, so that the chicken is all still warm at serving time."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

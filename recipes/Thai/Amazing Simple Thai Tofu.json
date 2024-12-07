@@ -1,0 +1,45 @@
+{
+    "headline": "Amazing Simple Thai Tofu",
+    "name": "Amazing Simple Thai Tofu",
+    "description": "You'd never guess it's Tofu! Peanut and ginger flavors combine to create a wonderful Asian-flavored dish that everyone will love. Serve over white rice.",
+    "recipeCuisine": [
+        "Thai"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "285 kcal",
+        "carbohydrateContent": "11 g",
+        "fiberContent": "4 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "179 mg",
+        "sugarContent": "3 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeIngredient": [
+        "1 (14 ounce) package firm tofu, cut into 3/4 inch cubes",
+        "0.33333334326744 cup chopped green onion",
+        "1.5 teaspoons olive oil",
+        "0.5 teaspoon sesame oil",
+        "1 teaspoon soy sauce",
+        "2 teaspoons grated fresh ginger root",
+        "0.25 cup chunky peanut butter",
+        "3 tablespoons flaked coconut",
+        "sesame seeds"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil and sesame oil in a skillet over medium-high heat. Reduce heat to medium, and cook green onions for one minute. Add tofu, and continue cooking 4 minutes more, sprinkling with soy sauce halfway through. Gently stir in the peanut butter and ginger, being careful not to break the tofu, until well incorporated."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from heat, and toss in coconut. Transfer to a serving dish, and sprinkle with sesame seeds."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

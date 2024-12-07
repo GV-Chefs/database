@@ -1,0 +1,72 @@
+{
+    "headline": "Caprese Stuffed Portobello Mushrooms",
+    "name": "Caprese Stuffed Portobello Mushrooms",
+    "description": "These Caprese stuffed portobello mushrooms, broiled with a layer of mozzarella, then piled with fresh tomatoes, fresh mozzarella, and basil are a hearty appetizer or a fabulous addition to a steak dinner.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "151 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "23 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "259 mg",
+        "sugarContent": "4 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer",
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "4 mushroom caps",
+        "4 teaspoons olive oil",
+        "4 garlic cloves, minced",
+        "salt and pepper to taste",
+        "5 slices fresh mozzarella, divided",
+        "1/2 cup gourmet cherry tomatoes, halved",
+        "2 basil leaves, thinly sliced",
+        "Balsamic glaze to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove mushroom stems and remove gills. Place mushrooms, cap side facing downward, on a wire rack over the prepared baking sheet.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until mushrooms have released their liquid, about 15 minutes. Meanwhile, whisk olive oil and minced garlic together; season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove mushrooms and drain off liquid. Flip mushrooms over, and return to the baking sheet. Place one slice of fresh mozzarella into each mushroom cavity. Lightly drizzle olive oil mixture over cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the broiler, and set a rack about 6 inches from the heat source.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Broil mushrooms until cheese is golden, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place tomatoes in a bowl. Cut remaining mozzarella into cubes, and combine with tomatoes. Spoon tomato mixture evenly into mushroom caps; top with basil, and drizzle with balsamic glaze."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

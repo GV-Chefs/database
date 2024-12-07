@@ -1,0 +1,73 @@
+{
+    "headline": "Chef John's Falafel",
+    "name": "Chef John's Falafel",
+    "description": "Craving falafel? You need to soak the chickpeas a full day before you actually want to eat. After that, it's simple to make. Serve with Chef John's tahini or tzatziki sauce and pita bread.",
+    "recipeCuisine": [
+        "Middle Eastern Inspired",
+        "Greek"
+    ],
+    "totalTime": "PT750M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "271 kcal",
+        "carbohydrateContent": "24 g",
+        "fiberContent": "7 g",
+        "proteinContent": "7 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "646 mg",
+        "sugarContent": "5 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Lunch",
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup dry garbanzo beans",
+        "0.5 yellow onion, diced",
+        "0.5 cup chopped fresh flat-leaf parsley",
+        "4 cloves minced garlic",
+        "1 tablespoon all-purpose flour, or more as needed",
+        "2 teaspoons lemon juice",
+        "1.5 teaspoons salt, or to taste",
+        "1 teaspoon ground cumin",
+        "0.5 teaspoon ground coriander",
+        "0.25 teaspoon baking soda",
+        "0.125 teaspoon cayenne pepper",
+        "oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place garbanzo beans into a large container and cover with several inches of cool water; let stand 12 to 24 hours. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Blend garbanzo beans, onion, parsley, garlic, flour, lemon juice, salt, cumin, coriander, baking soda, and cayenne pepper together in a food processor, scraping down the sides of the bowl as necessary, until mixture is finely ground and holds together when pressed. Transfer garbanzo mixture to a bowl, cover with plastic wrap, and refrigerate until flavors blend, 1 to 2 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide dough into 12 portions and roll each with moistened hands into a ball."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/iTnzG-KF3EokQHMwZgUcHfQ5MrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2222246-070ed71ae2ab44d289066da24f2d5cf5.jpg"
+                }
+            ],
+            "text": "Working in batches, cook falafel balls in hot oil until browned and crispy, about 5 minutes. Transfer to a wire rack to drain."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

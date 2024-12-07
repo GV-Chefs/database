@@ -1,0 +1,87 @@
+{
+    "headline": "Quick Beef Stir-Fry",
+    "name": "Quick Beef Stir-Fry",
+    "description": "This beef stir-fry is quick and easy for busy weeknights. Thin slices of beef sirloin are stir-fried with colorful vegetables and soy sauce.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "268 kcal",
+        "carbohydrateContent": "9 g",
+        "cholesterolContent": "49 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "526 mg",
+        "sugarContent": "3 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons vegetable oil",
+        "1 pound beef sirloin, cut into 2-inch strips",
+        "1.5 cups fresh broccoli florets",
+        "1 red bell pepper, cut into matchsticks",
+        "2 carrots, thinly sliced",
+        "1 green onion, chopped",
+        "1 teaspoon minced garlic",
+        "2 tablespoons soy sauce",
+        "2 tablespoons sesame seeds, toasted"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ZiLP4ZIx1miCX1WgMytg_dCwhz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823_QuickBeefStirFry-mfs-Step1-f709f0df9223415cb168d2ef2a2af56e.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TG7EFAWujAoqmwL5qyEkSDZEuFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823_QuickBeefStirFry-mfs-Step2-b1784684ad5b406f929d6455fb1e986e.jpg"
+                }
+            ],
+            "text": "Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Move beef to the side of the wok and add broccoli, bell pepper, carrots, green onion, and garlic to the center of the wok. Cook and stir vegetables for 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/X9DxC2ORk0_RpzDuUl84p-1g0y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823_QuickBeefStirFry-mfs-Step3-f59503188dcd4fc59db0bffbfad4fe25.jpg"
+                }
+            ],
+            "text": "Stir beef into vegetables and season with soy sauce and sesame seeds. Continue to cook and stir until vegetables are tender, about 2 more minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7N-Xq1XMMJw8G0KJv2e0ETUYB2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823-quick-beef-stir-fry-DDMFS-4x3-1f79b031d3134f02ac27d79e967dfef5.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

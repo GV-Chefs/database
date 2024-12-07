@@ -1,0 +1,52 @@
+{
+    "headline": "Yummy Pecan Pralines",
+    "name": "Yummy Pecan Pralines",
+    "description": "Pecans are cooked to the soft ball stage with brown sugar, white sugar, evaporated milk, and butter, and then beaten and poured onto a slab to firm up into these sweet, chewy candies.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "146 kcal",
+        "carbohydrateContent": "22 g",
+        "cholesterolContent": "5 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "18 mg",
+        "sugarContent": "22 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup brown sugar",
+        "1 cup white sugar",
+        "0.5 cup evaporated milk",
+        "2 tablespoons butter",
+        "1.25 cups pecan halves",
+        "0.25 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Generously grease a large slab or baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a saucepan over medium heat, combine brown sugar, white sugar, and milk. Bring to a boil. Stir in butter, pecans, and vanilla. Heat, without stirring, to between 234 and 240 degrees F (112 to 116 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when it's removed from the water and placed on a flat surface. Remove saucepan from heat and let syrup cool 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat until thickened, then pour immediately onto prepared surface and let rest until firm. Completely cool before cutting."
+        }
+    ],
+    "recipeYield": [
+        "20"
+    ]
+}

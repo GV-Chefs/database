@@ -1,0 +1,53 @@
+{
+    "headline": "Kentucky Biscuits",
+    "name": "Kentucky Biscuits",
+    "description": "This is a great recipe, different than the usual biscuit. Serve piping hot with butter, jam, or honey.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "154 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "21 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "231 mg",
+        "sugarContent": "2 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 cups all-purpose flour",
+        "2.5 teaspoons baking powder",
+        "0.5 teaspoon baking soda",
+        "1 dash salt",
+        "1 tablespoon white sugar",
+        "0.5 cup butter",
+        "0.75 cup buttermilk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a bowl, mix the flour, baking powder, baking soda, salt, and sugar. Cut in 1/2 cup butter until the mixture resembles coarse crumbs. Mix in the buttermilk. Turn out onto a lightly floured surface, and knead 2 minutes. Transfer to an ungreased baking sheet, roll into a 6x6 inch square, and cut into 12 even sections. Do not separate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake 15 minutes in the preheated oven, until a knife inserted in the center of the square comes out clean. Separate into biscuits, and serve hot."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

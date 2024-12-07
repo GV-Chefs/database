@@ -1,0 +1,41 @@
+{
+    "headline": "Overnight Chia Oats",
+    "name": "Overnight Chia Oats",
+    "description": "Overnight chia oats are a delicious breakfast that can help jumpstart your day. Make several jars at a time for a few days of grab-and-go breakfasts.",
+    "recipeCuisine": [
+        "Australian"
+    ],
+    "totalTime": "PT485M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "338 kcal",
+        "carbohydrateContent": "60 g",
+        "fiberContent": "10 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "155 mg",
+        "sugarContent": "21 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Breakfast",
+        "Ingredient"
+    ],
+    "recipeIngredient": [
+        "1 cup Almond Breeze Vanilla almondmilk",
+        "0.5 cup rolled oats",
+        "0.5 medium banana, mashed",
+        "1 tablespoon chia seeds"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine almond milk, oats, mashed banana, and chia seeds in a 1-pint jar. Seal with a lid and shake until well combined. Refrigerate until chia seeds have swelled and mixture is thick and gel-like, 8 hours to overnight."
+        }
+    ],
+    "recipeYield": [
+        "1"
+    ]
+}

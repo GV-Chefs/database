@@ -1,0 +1,122 @@
+{
+    "headline": "Chef John's Italian Meatballs",
+    "name": "Chef John's Italian Meatballs",
+    "description": "These Italian meatballs use a delicious mix of ground beef and pork and get added flavor from garlic, Italian herb seasoning, and Parmesan cheese.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT135M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "390 kcal",
+        "carbohydrateContent": "5 g",
+        "cholesterolContent": "91 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "617 mg",
+        "fatContent": "31 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.33333334326744 cup plain bread crumbs",
+        "0.5 cup milk",
+        "2 tablespoons olive oil",
+        "1 onion, diced",
+        "1 pound ground beef",
+        "1 pound ground pork",
+        "2 eggs",
+        "2 tablespoons grated Parmesan cheese",
+        "0.25 bunch fresh parsley, chopped",
+        "3 cloves garlic, crushed",
+        "2 teaspoons salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon dried Italian herb seasoning",
+        "0.5 teaspoon red pepper flakes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PtCOASjEUVfMUh5TxMKB4MZg2m8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220854-chef-johns-italian-meatballs-DDMFS-step-1-BG-31666-92760c16187f49eeb771171f2b8d7461.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/KCRxvoVS7_l0TR4jUZ9DFrg2SB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220854-chef-johns-italian-meatballs-DDMFS-step-2-BG-31700-bb3804b1dfd64a82ab15436b85548269.jpg"
+                }
+            ],
+            "text": "Cover a baking sheet with foil and spray lightly with cooking spray. Soak bread crumbs in milk in a small bowl for 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/r5Xr3zu-d42Y4ZcTV3fA3ZgxWrk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220854-chef-johns-italian-meatballs-DDMFS-step-3-BG-31705-82aa4a68d38c45bcbb878c38e1594b80.jpg"
+                }
+            ],
+            "text": "Meanwhile, heat olive oil in a skillet over medium heat. Add onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue cooking and stirring until onion is very tender, about 15 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/48Mrrlw3or9qjVTLw-6ZvfAcww0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220854-chef-johns-italian-meatballs-DDMFS-step-5alt-BG-31710-86bc0cd74f5e48808565cc040c01a494.jpg"
+                }
+            ],
+            "text": "Gently stir beef and pork together in a large bowl. Add onions, bread crumb mixture, eggs, Parmesan cheese, parsley, garlic, salt, black pepper, Italian herb seasoning, and red pepper flakes; mix together using a rubber spatula until combined. Cover and refrigerate for about one hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/L5iUwGmrOZH7mRbSZrzaAcVYq08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220854-chef-johns-italian-meatballs-DDMFS-step-6-BG-31698-78a92196728340a2b42abcf8e2f0c5e2.jpg"
+                }
+            ],
+            "text": "Form mixture into balls about 1 \u00bd inches in diameter; arrange in a single layer on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/w-dcJsBLYg-B6em4Ofl7Vlp2rF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220854-chef-johns-italian-meatballs-DDMFS-step-7-BG-31714-c856b6737adf4499a327dee3c4e86c7c.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/bA6K66Wfj2oyXQtnZob8FP-UFU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220854-chef-johns-italian-meatballs-DDMFS-beauty-4x3-BG-31732-f527165240e34fb081a5290e47d580d0.jpg"
+                }
+            ],
+            "text": "Serve with your favorite tomato sauce. Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "headline": "Cauliflower and Potato Stir-Fry - East Indian Recipe",
+    "name": "Cauliflower and Potato Stir-Fry - East Indian Recipe",
+    "description": "Cauliflower and potatoes are simmered with aromatic Indian-inspired spices in this East Indian stir-fry for a quick dinner ready in under an hour.",
+    "recipeCuisine": [
+        "Indian Inspired"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "220 kcal",
+        "carbohydrateContent": "28 g",
+        "fiberContent": "7 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "641 mg",
+        "sugarContent": "5 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons canola oil",
+        "2 teaspoons cumin seeds",
+        "1 teaspoon caraway seeds",
+        "0.5 red onion, chopped",
+        "4 cloves garlic, minced",
+        "1 head cauliflower, cut into florets with 1-inch stalks",
+        "1 large potato, diced",
+        "1 teaspoon red chili powder",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon salt",
+        "0.25 cup chopped fresh cilantro, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over medium heat. Add cumin and caraway seeds; cook until they begin to pop and oil bubbles, 1 to 2 minutes. Add onion and garlic; cook and stir until onion is soft and translucent, 5 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in cauliflower and potato until coated with oil. Add chili powder, turmeric, and salt; stir to coat vegetables."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cover skillet; cook over medium-low heat, stirring occasionally, until cauliflower and potatoes are softened, about 20 minutes. Sprinkle with cilantro."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

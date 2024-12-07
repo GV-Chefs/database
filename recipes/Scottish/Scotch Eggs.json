@@ -1,0 +1,60 @@
+{
+    "headline": "Scotch Eggs",
+    "name": "Scotch Eggs",
+    "description": "Scotch eggs are hard-boiled eggs wrapped in pork sausage, coated in bread crumbs, and deep-fried for a delicious appetizer or portable picnic dish.",
+    "recipeCuisine": [
+        "Scottish"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1489 kcal",
+        "carbohydrateContent": "108 g",
+        "cholesterolContent": "503 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "64 g",
+        "saturatedFatContent": "25 g",
+        "sodiumContent": "4278 mg",
+        "sugarContent": "8 g",
+        "fatContent": "88 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1 quart oil for frying",
+        "4 large eggs",
+        "2 pounds bulk pork sausage",
+        "1 cup all-purpose flour",
+        "4 large eggs, beaten",
+        "4 cups dried bread crumbs, seasoned"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Heat oil in a deep-fryer to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place eggs in a saucepan and cover with water. Bring to boil. Cover, remove from heat, and let eggs sit in hot water for 10 to 12 minutes. Remove from hot water, cool, and peel."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Flatten sausage and make a patty to surround each egg. Very lightly flour the outer sausage layer then coat with beaten egg. Roll in bread crumbs to cover evenly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Deep-fry prepared eggs until golden brown while making sure each side is well cooked. Bake in the preheated oven for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut in half and serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

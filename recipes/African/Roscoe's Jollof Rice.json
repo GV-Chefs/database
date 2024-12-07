@@ -1,0 +1,79 @@
+{
+    "headline": "Roscoe's Jollof Rice",
+    "name": "Roscoe's Jollof Rice",
+    "description": "Roscoe's jollof rice recipe is fragrant and spicy jasmine rice cooked in a pureed tomato and pepper base.",
+    "recipeCuisine": [
+        "African"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "233 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "175 mg",
+        "sugarContent": "4 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 can tomatoes",
+        "1 Red Pepper, seeded and roughly chopped",
+        "1 Red Onion, cut into chunks",
+        "4 garlic cloves\u00a0",
+        "2 tablespoons minced fresh Ginger, minced",
+        "1 Red Jalapeno, cut in half lengthwise",
+        "1 Scotch Bonnet, cut in half lengthwise",
+        "\u00bd cup Palm Oil",
+        "2 red onions, sliced thin",
+        "1 tablespoon Tomato Paste",
+        "1 teaspoon Ground Turmeric",
+        "2 Maggi beef cubes",
+        "1 teaspoon smoked paprika",
+        "3 cups jasmine rice",
+        "1 teaspoon Thyme, dried or fresh",
+        "1 bay leaf",
+        "Salt and freshly ground black pepper to taste",
+        "3 cups water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine tomatoes, red bell pepper, red onion, garlic, ginger, red jalapeno, and Scotch bonnet in a blender; blend until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat palm oil in a large Dutch oven over medium heat. Add onions and cook, stirring frequently, until softened, 6 to 8 minutes. Remove onions from the pan.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in tomato base and cook on low until reduced by half. Stir in tomato paste, turmeric, Maggi cubes, and smoked paprika. Cook, stirring, until the mixture reduces and becomes an even deeper red, about 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in rice, thyme, and bay leaf, and season with salt and pepper. Stir in water and cover with a lid. Cook on low for 35 minutes. Turn off the heat and let sit covered for 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/fvXWUPdb4SDoB0LXFjrjFZqhfj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8726382_Roscoes-Jollof-Rice_Dotdash-Meredith-Food-Studios_4x3-3fbdf25b4fb64a52b13eadb7f2548733.jpg"
+                }
+            ],
+            "text": "Fluff rice with a fork, taste and adjust seasonings, and serve."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

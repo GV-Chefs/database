@@ -1,0 +1,60 @@
+{
+    "headline": "Southern Pecan Pie",
+    "name": "Southern Pecan Pie",
+    "description": "This Southern pecan pie recipe combines sugar, dark corn syrup, and lots of pecans in a buttery crust for a sticky and sweet Southern dessert treat.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT50M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "520 kcal",
+        "carbohydrateContent": "70 g",
+        "cholesterolContent": "77 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "262 mg",
+        "sugarContent": "37 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3 eggs",
+        "1 cup white sugar",
+        "1 cup corn syrup",
+        "2 tablespoons butter, melted",
+        "1 teaspoon vanilla extract",
+        "0.25 teaspoon salt",
+        "1.5 cups pecan halves",
+        "1 recipe pastry for a 9 inch single crust pie"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat eggs slightly in a medium bowl. Beat in sugar, and then blend in syrup, butter, vanilla, salt, and pecans. Pour filling into unbaked pie shell."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/60-AcMqDKeqbbRnmXeKGRcrzurs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/southern-pecan-pie-1x1-chef-mo-4d201512f432484da2b37b28909cf03e.jpeg"
+                }
+            ],
+            "text": "Bake in preheated oven for 15 minutes. Reduce heat to 350 degrees F (175 degrees C), and continue baking until pie is golden brown and slightly puffed on top, about 35 to 40 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

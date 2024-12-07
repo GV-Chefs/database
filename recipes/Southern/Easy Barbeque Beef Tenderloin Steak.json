@@ -1,0 +1,47 @@
+{
+    "headline": "Easy Barbeque Beef Tenderloin Steak",
+    "name": "Easy Barbeque Beef Tenderloin Steak",
+    "description": "For sensational flavor, rub nice thick tenderloin steaks with olive oil, crushed garlic and meat tenderizer. Let the meat sit for a bit and then grill.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "771 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "207 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "61 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "391 mg",
+        "fatContent": "56 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 (2 inch thick) steaks beef tenderloin",
+        "1 tablespoon olive oil",
+        "2 cloves crushed garlic",
+        "1 teaspoon meat tenderizer"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Rub meat with olive oil and crushed garlic. Sprinkle with tenderizer. Cover, and refrigerate for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat grill for medium high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Brush grate with oil, and place steaks on the grill. Cook for 5 to 7 minutes per side, or until done."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

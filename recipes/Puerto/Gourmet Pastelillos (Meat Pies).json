@@ -1,0 +1,59 @@
+{
+    "headline": "Gourmet Pastelillos (Meat Pies)",
+    "name": "Gourmet Pastelillos (Meat Pies)",
+    "description": "Pastelillos are deep-fried meat pies stuffed with a savory filling of lean ground beef, green olives, and onion seasoned with sofrito and saz\u00f2n.",
+    "recipeCuisine": [
+        "Puerto Rican",
+        "Caribbean",
+        "Latin"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "290 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "21 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "736 mg",
+        "sugarContent": "0 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons extra-virgin olive oil",
+        "1 pound extra-lean ground beef",
+        "0.5 onion, diced",
+        "0.25 cup tomato sauce",
+        "6 large pimento-stuffed olives, diced",
+        "2 tablespoons sofrito (such as Goya\u00ae)",
+        "1 (1.41 ounce) package sazon seasoning with coriander and achiote (such as Goya\u00ae)",
+        "2 small garlic cloves, minced and crushed",
+        "0.5 teaspoon oregano",
+        "2 (14 ounce) packages frozen empanada dough (such as Goya\u00ae discos)",
+        "vegetable oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large skillet over medium-high heat. Cook and stir beef in hot oil until browned and crumbly, 5 to 7 minutes. Stir in onion, tomato sauce, olives, sofrito, saz\u00f2n, garlic, and oregano. Bring to a simmer and cook until mixture is thickened, about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon 1 heaping tablespoon meat mixture into the middle of a disco. Moisten the edges, fold dough to form a half-moon, and press with a fork to seal. Repeat with remaining meat mixture and discos."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep fryer or large saucepan to 350 degrees F (175 degrees C). Working in batches, fry pastelillos in hot oil until golden brown and bubbly, about 3 minutes. Drain on paper towels before serving."
+        }
+    ],
+    "recipeYield": [
+        "15"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "headline": "Garlic Tuscan Chicken",
+    "name": "Garlic Tuscan Chicken",
+    "description": "This Tuscan chicken recipe simmers chicken breasts in a rich and creamy Parmesan cheese sauce with sun-dried tomatoes, spinach, and lots of garlic!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "505 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "179 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "40 g",
+        "saturatedFatContent": "17 g",
+        "sodiumContent": "541 mg",
+        "sugarContent": "3 g",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "1.5 pounds skinless, boneless chicken breasts, thinly sliced",
+        "1 cup heavy cream",
+        "0.5 cup chicken broth",
+        "0.5 cup grated Parmesan cheese",
+        "1 teaspoon garlic powder",
+        "1 teaspoon Italian seasoning",
+        "1 cup spinach, chopped",
+        "0.5 cup chopped sun-dried tomatoes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large skillet over medium-high heat. Cook chicken until browned and no longer pink in the center, 3 to 5 minutes per side. Remove chicken and set aside on a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/UqtgN7-00_xwuhbowaHzpICv1gQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3794914-garlic-tuscan-chicken-Tracy-Wood-4x3-1-b16fcc954f6a4e159ca79660e3ef04cb.jpg"
+                }
+            ],
+            "text": "Add heavy cream, chicken broth, Parmesan cheese, garlic powder, and Italian seasoning to the skillet. Whisk sauce over medium-high heat until starting to thicken, about 5 minutes. Add spinach and sun-dried tomatoes; simmer until spinach starts to wilt, about 1 minute. Return chicken to the skillet and cook until heated through, 2 to 3 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

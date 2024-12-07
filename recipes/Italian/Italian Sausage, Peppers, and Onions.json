@@ -1,0 +1,78 @@
+{
+    "headline": "Italian Sausage, Peppers, and Onions",
+    "name": "Italian Sausage, Peppers, and Onions",
+    "description": "This sausage and peppers recipe with onions, garlic, and herbs is simple, delicious, and easy to cook in one pan for a satisfying sandwich filling.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "461 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "96 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "15 g",
+        "sodiumContent": "857 mg",
+        "sugarContent": "3 g",
+        "fatContent": "39 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "6 (4 ounce) links sweet Italian sausage",
+        "2 tablespoons butter",
+        "1 medium yellow onion, sliced",
+        "0.5 medium red onion, sliced",
+        "4 cloves garlic, minced",
+        "1 large red bell pepper, sliced",
+        "1 medium green bell pepper, sliced",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "0.25 cup white wine, or more to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cook sausage in a large skillet over medium heat until brown on all sides, 5 to 7 minutes. Remove from skillet, and slice."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tQ_L9uXxL66TNX2VTnsptGFD9d4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/76808-ItalianSausagePepperAndOnions-mfs-step3-0020-61040976d91c46a0bf45d0501ad686f1.jpg"
+                }
+            ],
+            "text": "Melt butter in the same skillet. Stir in onions and garlic, and cook 2 to 3 minutes. Mix in bell peppers, season with basil and oregano, and stir in 1/4 cup wine. Continue to cook and stir until peppers and onions are tender, 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/o8DbLSvEl24p346md9-9UoTfYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/76808-ItalianSausagePepperAndOnions-mfs-step4-0025-f88811f8a1cf492f8c9e90e2df04ece0.jpg"
+                }
+            ],
+            "text": "Return sausage slices to the skillet. Reduce heat to low, cover, and simmer 15 minutes, or until sausage is heated through, adding more wine if needed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/f_iLHrdpC6SizqQ0n__RgSV159I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/76808-italian-sausage-peppers-and-onions-DDMFS-4x3-6d4ee7afa68a4ced96b9816d9b584ab7.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

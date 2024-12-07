@@ -1,0 +1,57 @@
+{
+    "headline": "Olde Tavern Spoon Bread",
+    "name": "Olde Tavern Spoon Bread",
+    "description": "Good ol' Southern style spoon bread made with a cornmeal mush, which adds extra moistness.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT110M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "119 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "57 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "322 mg",
+        "sugarContent": "3 g",
+        "fatContent": "5 g",
+        "servingSize": "1 1/2-quart casserole",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 cups milk",
+        "1.25 cups yellow cornmeal",
+        "3 eggs, beaten",
+        "1 teaspoon salt",
+        "1.75 teaspoons baking powder",
+        "2 tablespoons butter, melted"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Measure milk into a saucepan and bring to a boil. Add cornmeal; cook and stir for several minutes, until cornmeal has absorbed all of milk. Remove from the heat and allow to cool for about 1 hour. Mixture will be very stiff."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 1 1/2-quart casserole dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place cornmeal mixture into a large bowl. Stir in eggs, salt, baking powder, and butter. Pour into the prepared casserole dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 35 minutes in the preheated oven, or until edges become lightly toasted. Serve hot directly from the dish with a spoonful."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

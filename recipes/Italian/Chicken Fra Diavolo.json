@@ -1,0 +1,82 @@
+{
+    "headline": "Chicken Fra Diavolo",
+    "name": "Chicken Fra Diavolo",
+    "description": "This chicken fra diavolo is chicken thighs in my version of fra diavolo sauce, the spicy Italian pepper and tomato sauce with fresh herbs and white wine. It's usually used with seafood, but we like spicy, and I wondered, \u201cwhy not chicken?\u201d We liked it with crusty bread, to get every last drop of the sauce.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "414 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "200 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "38 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "425 mg",
+        "sugarContent": "4 g",
+        "fatContent": "26 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "6 bone-in, skin-on chicken thighs",
+        "Salt and pepper, to taste",
+        "1 Tablespoon olive oil",
+        "1 Tablespoon unsalted butter",
+        "1 small onion, chopped",
+        "1 hot red pepper, chopped, see note",
+        "4 cloves garlic, minced",
+        "2 teaspoons dried Italian seasoning",
+        "1 teaspoon crushed red pepper flakes, or to taste",
+        "1/2 cup white wine, such as Pinot Grigio",
+        "1 Tablespoon tomato paste",
+        "1 14.5-ounce can crushed fire-roasted tomatoes",
+        "1 Tablespoon minced fresh basil, plus more for optional garnish",
+        "1 Tablespoon minced fresh parsley",
+        "Shredded Parmesan cheese, to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pat chicken thighs dry with paper towels, and trim away extra skin and excess fat. Season each chicken thigh with salt and pepper on both sides."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large, oven-safe skillet, heat olive oil and butter over medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When the butter is bubbling, add chicken thighs. Being careful not to crowd the skillet, work in batches to brown each thigh, 3 to 5 minutes per side. When all the thighs are browned, remove to a plate and keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To the same skillet, add chopped onions and hot red pepper. Cook until the onions begin to soften, about 3 minutes. Add garlic, Italian seasoning, and crushed red pepper flakes and cook until garlic is fragrant, about 30 seconds."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in wine, add tomato paste, and cook about 3 minutes. Add crushed tomatoes and minced basil and cook until sauce thickens slightly, about 5 minutes. Nestle browned chicken thighs, skin side up, into the sauce, and add any accumulated juices."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place skillet in oven; bake until an instant-read thermometer reads at least 165 degrees F (74 degrees C) when inserted near the center of chicken thighs."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sprinkle with minced fresh parsley and garnish with additional basil leaves, if desired. Top with shredded Parmesan cheese, to taste. Serve warm."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

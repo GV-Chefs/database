@@ -1,0 +1,69 @@
+{
+    "headline": "Restaurant-Style Prime Rib Roast",
+    "name": "Restaurant-Style Prime Rib Roast",
+    "description": "Learn how long to cook prime rib with this easy recipe for succulent and juicy rib roast, an impressive main dish for holidays and special occasions.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT490M",
+    "cookTime": "PT270M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "870 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "171 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "44 g",
+        "saturatedFatContent": "31 g",
+        "sodiumContent": "458 mg",
+        "sugarContent": "0 g",
+        "fatContent": "73 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (14 pound) roast-ready prime rib roast (ribs cut off and tied to roast)",
+        "aluminum foil",
+        "0.75 cup all-purpose flour",
+        "2 teaspoons freshly ground black pepper",
+        "2 teaspoons salt",
+        "2 teaspoons paprika",
+        "1 teaspoon onion powder",
+        "0.5 teaspoon garlic powder",
+        "0.25 teaspoon celery seed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Remove rib roast from the refrigerator. Allow it to come to room temperature for about 3 hours, depending on its size."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C). Line a roasting pan with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place rib roast onto the prepared roasting pan; blot with paper towels. Sift together flour, pepper, salt, paprika, onion powder, garlic powder, and celery seed into a bowl. Coat roast all over with flour mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast in the preheated oven until cooked to your desired degree of doneness, about 4 1/2 hours (20 minutes a pound) for medium-rare. An instant-read thermometer inserted into the center should read at least 120 degrees F (49 degrees C) for medium-rare, 130 degrees F (54 degrees C) for medium, or 140 degrees F (60 degrees C) for well-done."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/z4YeLYqLrl-EL7OGBBZzzb9Z8Rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6177485-restaurant-style-prime-rib-roast-Emma-Crawford-1x1-1-a4b7b1a2d2b040b8abf4906b882bd223.jpg"
+                }
+            ],
+            "text": "Cover roast with aluminum foil. Let rest on the counter in a warm spot for 30 minutes to 1 hour before slicing."
+        }
+    ],
+    "recipeYield": [
+        "14"
+    ]
+}

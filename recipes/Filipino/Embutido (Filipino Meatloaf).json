@@ -1,0 +1,61 @@
+{
+    "headline": "Embutido (Filipino Meatloaf)",
+    "name": "Embutido (Filipino Meatloaf)",
+    "description": "This Filipino meatloaf uses ground pork, canned luncheon meat, chorizo de Bilbao, sweet pickles, raisins, and egg.",
+    "recipeCuisine": [
+        "Filipino"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT70M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "484 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "179 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1518 mg",
+        "sugarContent": "4 g",
+        "fatContent": "36 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeIngredient": [
+        "1.5 pounds ground pork",
+        "1 (12 ounce) container fully cooked luncheon meat (such as SPAM\u00ae), sliced thin",
+        "2 (4 ounce) links chorizo de bilbao (spicy Spanish semi-cured sausage), sliced thin",
+        "2 tablespoons chopped sweet pickle",
+        "1 (1.5 ounce) box raisins",
+        "3 eggs, beaten",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "2 tablespoons soy sauce, or to taste",
+        "1 tablespoon cornstarch"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix together ground pork, luncheon meat, chorizo de Bilbao, pickle, raisin, eggs, salt, and pepper in a large bowl. Form mixture into 2 logs and wrap with aluminum foil. Place wrapped logs in a baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 hour. Set meatloaves aside to rest."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Carefully drain drippings from the baking dish into a small saucepan; place over medium heat. Stir soy sauce and cornstarch into drippings; bring to a boil. Cook and stir mixture at a boil until sauce is thick, 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Unwrap meatloaves and slice; serve sauce over sliced meatloaf."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

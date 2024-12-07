@@ -1,0 +1,56 @@
+{
+    "headline": "Vegan Jamaican Curry",
+    "name": "Vegan Jamaican Curry",
+    "description": "This vegan Jamaican curry dish is full of earthy goodness. The saut\u00e9ed tofu combined with the boldness from the curry and creaminess from the coconut makes this dish a must try! Serve over rice.",
+    "recipeCuisine": [
+        "Caribbean"
+    ],
+    "totalTime": "PT31M",
+    "cookTime": "PT16M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "138 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "56 mg",
+        "sugarContent": "3 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 Tablespoons GrapeSeed Oil",
+        "1\u00a0 (14 ounce) package Tofu, cut into bite-sized cubes",
+        "1 Yellow Onion, chopped",
+        "1 Red Bell Pepper, chopped",
+        "2\u00a0 to 3 Tablespoons Jamaican Yellow Curry powder, divided",
+        "1 small Zucchini, cut into bite-sized piece",
+        "1/2 Cup sliced cremini mushrooms or baby bellas",
+        "1/4 Cup Coconut Milk",
+        "Salt and Pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat grapeseed oil in a cast iron skillet over medium-high heat. Pat excess water from tofu with a paper towel, and fry tofu in the hot skillet until browned around the edges, about 4 minutes per side. Remove from skillet and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onions, bell peppers, and 1 tablespoon curry powder to the skillet and saut\u00e9 for 2 minutes. Add zucchini and mushrooms to the skillet; saut\u00e9 for 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Return tofu to the skillet, add 1 tablespoon curry powder, or more to taste, and mix well. Pour in coconut milk, stir well. Reduce heat to low, cover, and let simmer for 3 to 5 minutes. Season with salt and pepper."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "headline": "Rosemary Steak",
+    "name": "Rosemary Steak",
+    "description": "This is a wonderful rosemary steak dish that was prepared for me when I lived in Argentina. This Argentinean meat dish is quite popular in various restaurants around Buenos Aires.",
+    "recipeCuisine": [
+        "Argentine"
+    ],
+    "totalTime": "PT145M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "506 kcal",
+        "carbohydrateContent": "2 g",
+        "cholesterolContent": "108 mg",
+        "proteinContent": "33 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "667 mg",
+        "sugarContent": "0 g",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup red wine",
+        "1 teaspoon salt",
+        "1 sprig fresh rosemary",
+        "4 New York strip steaks, cut 1-inch thick"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine red wine, salt, and rosemary in a small bowl. Let stand at room temperature for 2 to 3 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a large cast iron skillet or griddle over high heat. Place steaks on the hot skillet and cook to desired degree of doneness, about 8 minutes per side. An instant-read thermometer inserted into the centers of steaks should read about 135 degrees F (62 degrees C) for medium-rare."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour red wine mixture into the skillet with steaks; let boil for 1 minute. Serve steaks with sauce on a deep platter."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

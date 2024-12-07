@@ -1,0 +1,91 @@
+{
+    "headline": "Linguine with Clam Sauce",
+    "name": "Linguine with Clam Sauce",
+    "description": "Linguini with clam sauce is a quick and easy Italian dinner. The garlicky sauce is made with canned clams in butter, oil, parsley, and basil.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "878 kcal",
+        "carbohydrateContent": "85 g",
+        "cholesterolContent": "92 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "37 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "190 mg",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) package linguini pasta",
+        "2 (6.5 ounce) cans minced clams, with juice",
+        "0.5 cup vegetable oil",
+        "0.25 cup butter",
+        "1 tablespoon dried parsley",
+        "0.25 tablespoon dried basil",
+        "0.5 teaspoon minced garlic",
+        "ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/CSMG0E_pNg5fQ8Js5PKzVJrxCC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11951-linguine-with-clam-sauce-DDMFS-step-1-a9efc69d72994403820fdc7fadfa3ccb.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qMeegrKtDIGI4-4fw0kzLnpW1Zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11951-linguine-with-clam-sauce-DDMFS-step-3-b0748d64aabe4ac1b4f05d7ccdb71519.jpg"
+                }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Cook linguine at a boil until tender yet firm to the bite, about 11 minutes. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_rqq1Q0aCEtATa3pF37xXUHdbzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11951-linguine-with-clam-sauce-DDMFS-step-2-938b83f1b3504189a98bdd769f86fa86.jpg"
+                }
+            ],
+            "text": "While the pasta is cooking, combine clams with juice, oil, butter, parsley, basil, garlic, and pepper in a large saucepan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2EPSrIeWjwWWr5zb7r6QrAgwHy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11951-linguine-with-clam-sauce-DDMFS-step-4-556e028a70b041a1856a4ce987659a4d.jpg"
+                }
+            ],
+            "text": "Cook over medium heat until boiling."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Js03kQnCj9Y4cnQiy-kGPjzuIQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11951-linguine-with-clam-sauce-DDMFS-4x3-b07754d1e48742e8bac1e4edcf96bcba.jpg"
+                }
+            ],
+            "text": "Serve warm clam sauce over pasta."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

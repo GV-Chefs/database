@@ -1,0 +1,52 @@
+{
+    "headline": "Maple Walnut Pralines",
+    "name": "Maple Walnut Pralines",
+    "description": "This is an easy recipe for maple syrup-flavored walnut pralines requiring minimal preparation and cooking.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "272 kcal",
+        "carbohydrateContent": "23 g",
+        "cholesterolContent": "10 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "42 mg",
+        "sugarContent": "19 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.25 cup butter",
+        "0.5 cup pure maple syrup",
+        "1 cup confectioners' sugar",
+        "0.125 teaspoon ground cinnamon",
+        "1 pinch salt",
+        "2.5 cups chopped walnuts"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Spread a sheet of waxed paper onto a flat working surface."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Melt butter in a saucepan over medium heat, stirring frequently. Slowly stream maple syrup into the saucepan while stirring with the butter; bring to a light simmer. Stir confectioners' sugar, cinnamon, and salt into syrup mixture with a whisk; cook and stir until the mixture is hot and the confectioners' sugar is completely dissolved into the liquid. Gently stir walnuts into the liquid just until coated and remove saucepan from heat. Let the mixture cool slightly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drop walnut pieces by the spoonful onto the waxed paper and let each portion spread into a rounded mound; let cool completely until set, at least 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

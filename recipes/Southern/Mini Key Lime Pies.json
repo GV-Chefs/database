@@ -1,0 +1,53 @@
+{
+    "headline": "Mini Key Lime Pies",
+    "name": "Mini Key Lime Pies",
+    "description": "Nothing taste better than key lime pie made with fresh key limes. This one is really tasty and super simple to make. Mini pies are great because everyone can have their own.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "451 kcal",
+        "carbohydrateContent": "63 g",
+        "cholesterolContent": "47 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "272 mg",
+        "sugarContent": "50 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "12 mini graham cracker crusts",
+        "3 cups sweetened condensed milk",
+        "1 cup sour cream",
+        "1 cup freshly squeezed Key lime juice",
+        "3 tablespoons grated Key lime zest",
+        "2 fresh Key limes, thinly sliced",
+        "1 (7 ounce) can whipped cream topping"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Place crusts on a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk sweetened condensed milk, sour cream, Key lime juice, and Key lime zest together in a bow until smooth; divide and pour into crusts, filling to the top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until hot, 5 to 8 minutes. Refrigerate until thoroughly chilled, at least 1 hour. Garnish each pie with a Key lime slice and dollop of whipped cream."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

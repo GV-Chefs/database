@@ -1,0 +1,52 @@
+{
+    "headline": "American Girl's Peach Cobbler",
+    "name": "American Girl's Peach Cobbler",
+    "description": "The first person I served this for didn't like peach cobbler (unknown to me). He really enjoyed it. I just made it because it sounded yummy and I was dieting. No one will ever guess it's 'lighter' than any other cobbler. I hope you like it. Oh! and it's quick and easy.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "252 kcal",
+        "carbohydrateContent": "54 g",
+        "cholesterolContent": "0 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "157 mg",
+        "sugarContent": "40 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.5 cup reduced-calorie margarine, melted",
+        "1.5 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1.5 cups white sugar",
+        "0.5 cup skim milk",
+        "4 (15 ounce) cans sliced peaches packed in juice, drained and juice reserved"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour the melted margarine into the bottom of a 9x13 inch baking dish; set aside. In a medium bowl, combine the flour, baking powder and white sugar. Stir in 1 cup of the reserved liquid from the peaches and the milk until smooth. Pour the batter evenly into the bottom of the dish over the margarine. Do not stir. Spoon peaches over the batter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the top is golden, 35 to 40 minutes ."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

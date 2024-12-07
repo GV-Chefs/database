@@ -1,0 +1,104 @@
+{
+    "headline": "Best Fried Green Tomatoes",
+    "name": "Best Fried Green Tomatoes",
+    "description": "These fried green tomatoes are perfectly crispy outside, juicy inside, and a quick and easy way to use up green tomatoes for a wonderful late summer treat.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "510 kcal",
+        "carbohydrateContent": "56 g",
+        "cholesterolContent": "95 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1136 mg",
+        "sugarContent": "10 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "4 large green tomatoes",
+        "2 eggs",
+        "0.5 cup milk",
+        "1 cup all-purpose flour",
+        "0.5 cup cornmeal",
+        "0.5 cup bread crumbs",
+        "2 teaspoons coarse kosher salt",
+        "0.25 teaspoon ground black pepper",
+        "1 quart vegetable oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/E0tw9MSNtcT0FhJ40wzrmTQybe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16760-best-fried-green-tomatoes-ddmfs-step1-059-fe7523c1eb944e0d8194ebcc8d186c17.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/l_Z1VE1jrn_bL9T_V3Ohvr8QPwQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16760-best-fried-green-tomatoes-ddmfs-step2-060-c49947478ceb4f15abaa116d4ef0055e.jpg"
+                }
+            ],
+            "text": "Slice tomatoes 1/2 inch thick. Discard the ends."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_UK2Q0YT0jpJriMu9d1uZFIShiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16760-best-fried-green-tomatoes-ddmfs-step4-069-23ac3f203c5946618ad41fb4777b67d2.jpg"
+                }
+            ],
+            "text": "Whisk eggs and milk together in a medium-sized bowl. Scoop flour onto a plate. Mix cornmeal, bread crumbs, salt, and pepper on another plate. Dip tomatoes into flour to coat. Then dip tomatoes into milk and egg mixture; dredge in breadcrumbs to completely coat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/XV48_PEG5SZYWF7Gpy_10vnlbBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16760-best-fried-green-tomatoes-ddmfs-step5-073-15b5a8b88cd44c16811f4e278bfed621.jpg"
+                }
+            ],
+            "text": "Heat oil in a large deep skillet to 375 degrees F (190 degrees C). Place tomatoes in hot oil in batches of 4 or 5, to prevent them from touching; fry until crisp and golden brown on one side, then flip and fry on other side."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_jR8TZ4wACdPOhaM0Zu9xLdyWvE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16760-best-fried-green-tomatoes-ddmfs-step6-074-d7d5998f7afb43bb8ef7ee13b9849840.jpg"
+                }
+            ],
+            "text": "Transfer fried tomatoes to a paper towel-lined plate to drain. Repeat with remaining tomatoes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wIS0Uz2FacyX76ugWsfSAPdpYBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16760-best-fried-green-tomatoes-DDMFS-4x3-aafa626cfb014f99824a1a74991846da.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

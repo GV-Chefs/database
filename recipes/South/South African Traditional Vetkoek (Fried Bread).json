@@ -1,0 +1,64 @@
+{
+    "headline": "South African Traditional Vetkoek (Fried Bread)",
+    "name": "South African Traditional Vetkoek (Fried Bread)",
+    "description": "Vetkoek, or fat cake, is a traditional South African fried dough that's crispy outside, fluffy inside, often stuffed with delicious fillings.",
+    "recipeCuisine": [
+        "South African",
+        "African"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "332 kcal",
+        "carbohydrateContent": "60 g",
+        "fiberContent": "2 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "391 mg",
+        "sugarContent": "4 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 cups lukewarm water",
+        "0.25 cup white sugar",
+        "1 (.25 ounce) package active dry yeast",
+        "7 cups all-purpose flour",
+        "2 teaspoons salt",
+        "3 cups oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix lukewarm water, sugar, and yeast in a small bowl. Let stand until yeast softens and bubbles slightly, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift together flour and salt in a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour yeast mixture over flour mixture and knead until dough is smooth and elastic, 5 to 7 minutes. Cover bowl with a clean cloth and let dough rise until doubled in volume, about 45 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pinch off a piece of dough about the size of a tennis ball; roll until smooth. Flatten ball of dough until it is palm-sized; set aside on a floured work surface. Repeat with remaining dough."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fry in hot oil, 2 to 3 pieces at a time, until golden brown, about 3 minutes per side. Drain on paper towels."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

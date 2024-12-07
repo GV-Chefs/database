@@ -1,0 +1,48 @@
+{
+    "headline": "Garlic-Herb Linguine",
+    "name": "Garlic-Herb Linguine",
+    "description": "This linguine pasta recipe features tender linguine tossed with melted butter, garlic, parsley, and seasoned salt. Pair it with any main dish!",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "409 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "61 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "15 g",
+        "sodiumContent": "626 mg",
+        "sugarContent": "2 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 ounces dried linguine",
+        "0.25 cup butter, melted",
+        "1 teaspoon minced garlic",
+        "1 teaspoon dried parsley",
+        "1 teaspoon seasoned salt, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook linguine at a boil until tender yet firm to the bite, 10 to 11 minutes. Drain and transfer to a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix melted butter, garlic, and parsley together in a small bowl. Drizzle butter mixture over linguine. Add seasoned salt and toss to coat."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

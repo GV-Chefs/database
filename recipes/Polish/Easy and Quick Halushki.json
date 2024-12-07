@@ -1,0 +1,57 @@
+{
+    "headline": "Easy and Quick Halushki",
+    "name": "Easy and Quick Halushki",
+    "description": "You can make haluski, a comforting, hearty dish of bacon, egg noodles and cabbage, with only five ingredients in about half an hour.",
+    "recipeCuisine": [
+        "Polish"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "698 kcal",
+        "carbohydrateContent": "69 g",
+        "cholesterolContent": "114 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "709 mg",
+        "sugarContent": "9 g",
+        "fatContent": "38 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound bacon",
+        "1 onion, diced",
+        "1 (16 ounce) package egg noodles",
+        "1 head cabbage, sliced",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Snip bacon into small pieces with a scissors and cook in a large skillet over medium heat until crisp, stirring often, about 10 minutes. Cook and stir onion with bacon until translucent, about 5 more minutes; set bacon and onion aside, leaving drippings in the skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook egg noodles in the boiling water, stirring occasionally until cooked through but firm to the bite, about 5 minutes. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/O3zwdREQWsdokwXxCXz1Of_E2Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2490873-easy-and-quick-halushk-Molly-1x1-1-ab92a29bf16f435ea5376d7ac4e6b953.jpg"
+                }
+            ],
+            "text": "Transfer bacon and onion mixture with drippings into the pot used to cook the noodles and cook and stir cabbage until coated with drippings. Cover pot and cook until cabbage is tender, 10 to 12 minutes, stirring occasionally. Gently stir in noodles and season to taste with salt and black pepper."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "headline": "Crawfish Etouffee IV",
+    "name": "Crawfish Etouffee IV",
+    "description": "A delicious dish with onions, bell pepper, crawfish and diced tomatoes, simmered in mushroom soup.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT120M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "501 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "81 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "1406 mg",
+        "sugarContent": "4 g",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT60M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup vegetable oil",
+        "0.5 cup margarine",
+        "1 cup diced onion",
+        "0.5 cup diced green bell pepper",
+        "1 tablespoon minced garlic",
+        "1 pound peeled crawfish",
+        "3 (10.75 ounce) cans condensed cream of mushroom soup",
+        "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "1 tablespoon dried parsley",
+        "salt to taste",
+        "ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In an 8 quart stock pot over medium heat, add vegetable oil and margarine. Saute onions, green pepper and garlic until onions are translucent."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add crawfish to the onion mixture, and cook for 5 minutes. Add a little water to keep crawfish moist while cooking."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in soup and diced tomatoes. Bring to a boil and simmer for 30 minutes. Sprinkle in parsley after about 10 minutes. Salt and pepper to taste while simmering. Water can be added to thin as desired."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

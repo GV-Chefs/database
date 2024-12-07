@@ -1,0 +1,63 @@
+{
+    "headline": "Corn and Crab Bisque",
+    "name": "Corn and Crab Bisque",
+    "description": "Fresh corn cut from the cob and crab meat come together in this hearty, creamy, and easy to prepare bisque that's spiced up with cayenne and Cajun seasonings.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "219 kcal",
+        "carbohydrateContent": "20 g",
+        "cholesterolContent": "59 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "993 mg",
+        "sugarContent": "5 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.25 cup butter",
+        "0.75 cup onion, chopped",
+        "3 (14 ounce) cans chicken broth",
+        "3 cloves garlic",
+        "2 bay leaves",
+        "0.5 teaspoon cayenne pepper",
+        "1 teaspoon Cajun seasoning",
+        "salt and pepper to taste",
+        "4 ears corn, kernels cut from cob",
+        "0.5 cup half-and-half",
+        "3 tablespoons all-purpose flour",
+        "0.5 cup milk",
+        "16 ounces fresh lump crabmeat"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat butter in a large pot over medium heat. Stir in onion; cook until soft and translucent. Pour in chicken broth, and bring to a boil. Stir in garlic, bay leaves, cayenne pepper, Cajun seasoning, salt, and pepper. Stir corn into boiling broth. Simmer about 10 minutes. Reduce heat to medium low."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove 1 cup of soup, and set aside to cool slightly. Then pour into a food processor. Pour in half-and-half. Puree for 30 to 45 seconds, and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a small bowl, stir together flour and milk. Slowly stir into simmering soup. Stirring constantly, simmer for 1 to 2 minutes. Then stir in pureed mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat to low, stir in crab meat, and cook until warmed through, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

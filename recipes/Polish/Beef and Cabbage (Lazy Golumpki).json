@@ -1,0 +1,68 @@
+{
+    "headline": "Beef and Cabbage (Lazy Golumpki)",
+    "name": "Beef and Cabbage (Lazy Golumpki)",
+    "description": "Beef and cabbage are baked with rice and tomatoes in this lazy version of golumpki, a traditional Polish cabbage and beef dish.",
+    "recipeCuisine": [
+        "Polish"
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "287 kcal",
+        "carbohydrateContent": "37 g",
+        "cholesterolContent": "35 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "727 mg",
+        "sugarContent": "10 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 head green cabbage, cut into bite-size pieces",
+        "1 pound ground beef",
+        "1 teaspoon salt",
+        "1 teaspoon dried parsley",
+        "0.25 teaspoon onion powder",
+        "0.125 teaspoon ground black pepper",
+        "2 cups water",
+        "1 cup white rice",
+        "1 (10.75 ounce) can condensed tomato soup (such as Campbell's\u00ae)",
+        "1 (32 ounce) container crushed tomatoes (such as Hunt's\u00ae)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Boil cabbage in a stockpot until tender, 10 to 15 minutes. Drain well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Mix salt, parsley, onion powder, and black pepper into ground beef."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes. Stir tomato soup and crushed tomatoes together in a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine cabbage, seasoned ground beef, rice, and tomato mixture together in a bowl; transfer to a 9x13-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until bubbling, about 45 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "headline": "Creole Okra",
+    "name": "Creole Okra",
+    "description": "A yummy vegetarian side dish, easy to make. Taste holds up for leftovers. The use of frozen okra makes this a year-round favorite in our family.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "133 kcal",
+        "carbohydrateContent": "14 g",
+        "fiberContent": "5 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "185 mg",
+        "sugarContent": "8 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "0.5 large onion, chopped",
+        "2 cloves garlic, minced",
+        "0.5 green bell pepper, chopped",
+        "1 (16 ounce) can diced tomatoes in juice",
+        "0.375 teaspoon dried thyme",
+        "2 tablespoons chopped fresh parsley",
+        "0.25 teaspoon cayenne pepper",
+        "salt and pepper to taste",
+        "1 (16 ounce) package frozen cut okra"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat the olive oil in a large skillet over medium heat. Saute the onion and garlic until limp. Add the green pepper; cook and stir until tender. Drain the tomatoes, reserving juice, and pour them into the skillet. Season with thyme, parsley, cayenne, salt, and pepper. Simmer for 5 minutes over medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the frozen okra, and pour in enough of the reserved juice from the tomatoes to cover the bottom of the pan. Cover, and cook for 15 minutes, or until okra is tender."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

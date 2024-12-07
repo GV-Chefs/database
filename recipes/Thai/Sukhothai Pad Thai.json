@@ -1,0 +1,67 @@
+{
+    "headline": "Sukhothai Pad Thai",
+    "name": "Sukhothai Pad Thai",
+    "description": "This dish can be made with shrimp, chicken, or pork instead of tofu. You can also look for items in the Asian-style foods section at your local grocery store. Adjust the pad thai sauce ingredients to taste.",
+    "recipeCuisine": [
+        "Thai"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "619 kcal",
+        "carbohydrateContent": "64 g",
+        "cholesterolContent": "93 mg",
+        "fiberContent": "5 g",
+        "proteinContent": "20 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1010 mg",
+        "sugarContent": "18 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup white sugar",
+        "0.5 cup distilled white vinegar",
+        "0.25 cup soy sauce",
+        "2 tablespoons tamarind pulp",
+        "1 (12 ounce) package dried rice noodles",
+        "0.5 cup vegetable oil",
+        "1.5 teaspoons minced garlic",
+        "4 eggs",
+        "1 (12 ounce) package firm tofu, cut into 1/2 inch strips",
+        "1.5 tablespoons white sugar",
+        "1.5 teaspoons salt",
+        "1.5 cups ground peanuts",
+        "1.5 teaspoons ground, dried oriental radish",
+        "0.5 cup chopped fresh chives",
+        "1 tablespoon paprika",
+        "2 cups fresh bean sprouts",
+        "1 lime, cut into wedges"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "To prepare pad thai sauce: In a medium saucepan over medium heat, blend sugar, vinegar, soy sauce, and tamarind pulp."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To make pad thai: Soak rice noodles in cold water until soft; drain. In a large skillet or wok over medium heat, warm oil and add garlic and eggs; scramble eggs. Add tofu and stir until well mixed; add noodles and stir until cooked."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in pad thai sauce, 1 1/2 tablespoons sugar, and 1 1/2 teaspoons salt. Stir in peanuts and ground radish. Remove from heat and add chives and paprika."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve with lime and bean sprouts on the side."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

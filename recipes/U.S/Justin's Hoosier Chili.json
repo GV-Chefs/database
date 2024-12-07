@@ -1,0 +1,59 @@
+{
+    "headline": "Justin's Hoosier Chili",
+    "name": "Justin's Hoosier Chili",
+    "description": "This chili's secret ingredient is canned tomato soup. It makes a hearty, spicy chili that's sure to win awards in any upcoming chili cook-off.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT85M",
+    "cookTime": "PT75M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "385 kcal",
+        "carbohydrateContent": "47 g",
+        "cholesterolContent": "46 mg",
+        "fiberContent": "11 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "1585 mg",
+        "sugarContent": "9 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "1 medium onion, chopped",
+        "3 teaspoons ground cumin, divided",
+        "1 teaspoon red pepper flakes",
+        "2 (14.5 ounce) cans chicken broth",
+        "2 (10.5 ounce) cans condensed tomato soup (such as Campbell's\u00ae)",
+        "1 (14.5 ounce) can crushed tomatoes",
+        "5 tablespoons chili powder",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "2 (15.5 ounce) cans pinto beans, drained",
+        "1 pinch cayenne pepper, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Crumble ground beef into a soup pot over medium-high heat. Cook and stir until evenly browned, 7 to 10 minutes. Drain off all but 1 to 2 tablespoons grease."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onion, 1 \u00bd teaspoons cumin, and red pepper flakes; cook and stir until onion is tender, about 5 minutes. Pour in chicken broth, condensed soup, and tomatoes; season with chili powder, salt, and pepper. Simmer for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in pinto beans, season with remaining 1 \u00bd teaspoons cumin and cayenne pepper, and simmer for 30 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

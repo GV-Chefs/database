@@ -1,0 +1,53 @@
+{
+    "headline": "Florida Key Lime Pie",
+    "name": "Florida Key Lime Pie",
+    "description": "To make this heavenly key lime pie, combine lots of lime juice and lime zest with fluffy whipped cream cheese and condensed milk. Then spoon this slightly tart filling into a graham cracker crust, top with lots of sweetened whipped cream and chill.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT0M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "921 kcal",
+        "carbohydrateContent": "108 g",
+        "cholesterolContent": "120 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "24 g",
+        "sodiumContent": "561 mg",
+        "sugarContent": "96 g",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (9 inch) prepared graham cracker crust",
+        "2 (8 ounce) packages cream cheese, softened",
+        "2 (14 ounce) cans low-fat sweetened condensed milk",
+        "0.75 cup key lime juice",
+        "1 teaspoon grated lime zest",
+        "0.25 teaspoon salt",
+        "1 cup heavy cream, chilled",
+        "1 teaspoon vanilla extract",
+        "3 tablespoons confectioners' sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "To Make Lime Filling: In a large mixing bowl, whip cream cheese until fluffy. Add condensed milk, lime juice, lime rind, and salt. Whip until mixture is smooth. Pour into graham cracker crust. Cover with plastic wrap and chill thoroughly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To Make Topping: In a medium bowl, whip cream until soft peaks form. Add vanilla or lemon extract and confectioners' sugar. Continue to whip until cream forms stiff peaks. Place topping in a fine-mesh sieve and place sieve over a bowl to catch liquid that drains off. Cover topping tightly with plastic wrap and allow to drain for 2 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Before serving, discard liquid that has drained from topping. Spread topping over pie."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

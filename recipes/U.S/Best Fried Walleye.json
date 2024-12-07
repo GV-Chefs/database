@@ -1,0 +1,68 @@
+{
+    "headline": "Best Fried Walleye",
+    "name": "Best Fried Walleye",
+    "description": "This fried walleye recipe gently fries seasoned walleye fillets with a crispy cracker coating to retain the naturally delicious flavor of the fish.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "592 kcal",
+        "carbohydrateContent": "40 g",
+        "cholesterolContent": "229 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "39 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "492 mg",
+        "sugarContent": "1 g",
+        "fatContent": "31 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 walleye fillets",
+        "0.5 cup all-purpose flour",
+        "0.5 teaspoon garlic powder",
+        "0.5 teaspoon ground black pepper",
+        "1 pinch salt",
+        "2 eggs, beaten",
+        "2 cups crushed saltine crackers",
+        "vegetable oil for frying",
+        "1 lemon, cut into wedges"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Check walleye fillets to ensure all bones and skin have been removed. Cut fillets into manageable pieces, if necessary."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine flour, garlic powder, pepper, and salt in a shallow bowl. Place beaten eggs in a separate shallow bowl. Place cracker crumbs onto a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep fryer or large cast iron skillet to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dip fillets into flour mixture, then dip in beaten egg, and then coat evenly with cracker crumbs; set fillets aside on a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Carefully lower 2 fillets into hot oil using tongs; cook until golden brown, about 3 minutes per side. Transfer to a paper towel-lined plate; repeat with remaining fillets. Serve with lemon wedges."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

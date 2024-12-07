@@ -1,0 +1,66 @@
+{
+    "headline": "Wonton Soup",
+    "name": "Wonton Soup",
+    "description": "This delicious wonton soup recipe features homemade dumplings filled with seasoned pork floating in a gingery chicken broth with chopped scallions.",
+    "recipeCuisine": [
+        "Chinese"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "195 kcal",
+        "carbohydrateContent": "21 g",
+        "cholesterolContent": "44 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "13 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "887 mg",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "0.5 pound boneless pork loin, coarsely chopped",
+        "2 ounces peeled shrimp, finely chopped",
+        "1 tablespoon Chinese rice wine",
+        "1 tablespoon light soy sauce",
+        "1 teaspoon brown sugar",
+        "1 teaspoon finely chopped green onions",
+        "1 teaspoon chopped fresh ginger root",
+        "24 (3.5 inch square) wonton wrappers",
+        "3 cups chicken stock",
+        "2 tablespoons finely chopped green onions"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Make the wontons: Mix pork, shrimp, rice wine, soy sauce, brown sugar, green onions, and ginger together in a large bowl until well combined. Let stand for 25 to 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon about 1 teaspoon filling onto the center of a wonton wrapper. Moisten all four wrapper edges with water and fold over filling to make a triangle; press the edges firmly to seal. Bring left and right corners together above filling; overlap the tips of these corners, moisten with water, and press together to seal. Repeat until all wrappers have been filled and sealed."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make the soup: Bring chicken stock to a rolling boil in a pot. Gently drop in wontons and cook for 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Vdale-MMzmsBjF_R-_vvwYbwr_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5256168-dc352e6a1e234e7bb2e391f02f11ffb1.jpg"
+                }
+            ],
+            "text": "Ladle into bowls and garnish with green onions."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

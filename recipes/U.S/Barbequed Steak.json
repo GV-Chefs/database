@@ -1,0 +1,49 @@
+{
+    "headline": "Barbequed Steak",
+    "name": "Barbequed Steak",
+    "description": "A tender cut like Porterhouse, T-Bone, Rib Eye, New York or Top Sirloin are all good steaks for this simple marinade. Serve with a dollop of garlic butter, if desired.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT120M",
+    "cookTime": "PT6M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "302 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "61 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "719 mg",
+        "fatContent": "24 g",
+        "servingSize": "4 (1/2 pound) steaks",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT1M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "4 (1/2 pound) beef top sirloin steaks",
+        "0.5 cup vegetable oil",
+        "1 ounce steak spice seasoning mix"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Put oil and steak spice on a large enough platter to accommodate the steaks. Coat the steak well with the oil and spices."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high heat and lightly oil grate"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill steaks over high heat to desired doneness."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

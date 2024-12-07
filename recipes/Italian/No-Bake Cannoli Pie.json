@@ -1,0 +1,119 @@
+{
+    "headline": "No-Bake Cannoli Pie",
+    "name": "No-Bake Cannoli Pie",
+    "description": "This no-bake cannoli pie tastes sweet, nutty and has lots of fresh citrus flavor from orange zest. It is made with a waffle cone crust which is similar to cannoli shells",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT260M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "653 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "128 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "28 g",
+        "sodiumContent": "375 mg",
+        "sugarContent": "26 g",
+        "fatContent": "50 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "Crust",
+        "8 waffle cones, slightly crushed",
+        "\u00bd cup salted roasted pistachios",
+        "1 tablespoon granulated sugar",
+        "7 tablespoons unsalted butter, melted",
+        "cooking spray",
+        "Filling",
+        "1/4 cup salted roasted pistachios, pluschopped pistachios for garnish",
+        "1 \u00bd cups whole-milk ricotta, drained",
+        "1 (8-oz.) container mascarpone cheese (about 1 cup)",
+        "1 cup (about 4 oz.) unsifted powdered sugar",
+        "1/2 cup miniature semisweet chocolate chips, plus more for garnish",
+        "2 teaspoons grated orange zest (from 1 orange), plus more for garnish",
+        "1 teaspoon vanilla extract",
+        "\u00bc teaspoon kosher salt",
+        "1 cup heavy whipping cream"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0iOn-wLe0c_B4Jd6qQSeyJ7nAbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654867-no-bake-cannoli-pie-ddmfs-step-01-41915-4ac88ebdb1884d5faa658e505c31747f.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/4DLSTv--h_Pv77lzRbY374heCP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654867-no-bake-cannoli-pie-ddmfs-step-02-41920-0634a6e3cb334ee28567d0bbe4d574ce.jpg"
+                }
+            ],
+            "text": "Prepare the Crust: Pulse waffle cones, pistachios, and sugar in a food processor until mixture is finely ground, about 20 (1-second) pulses. Add butter, and pulse until mixture holds together when squeezed, about 10 (1-second) pulses, stopping to scrape down sides as needed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/20EqirsBT0wo4u8OsH18o43245Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654867-no-bake-cannoli-pie-ddmfs-step-03-41922-897885f57ca04e97a2d3bd5b10a804c3.jpg"
+                }
+            ],
+            "text": "Lightly coat a 9-inch deep-dish pie plate with cooking spray, and transfer waffle cone mixture to prepared pie plate, pressing evenly into bottom and up sides of pie plate. Freeze Crust, uncovered, until set, about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5P98Gnog351mbRh-6a7y4rZbXGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654867-no-bake-cannoli-pie-ddmfs-step-04-41927-1e85e739eeb04083b8fe44745907bf4a.jpg"
+                }
+            ],
+            "text": "Meanwhile, prepare the Filling: Finely chop pistachios, and transfer to a medium bowl. Add ricotta, mascarpone, powdered sugar, chocolate chips, orange zest, vanilla, and salt. Stir until combined, and set aside at room temperature."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qhCoFGMhR1QPbyyxG_i4zUcLV_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654867-no-bake-cannoli-pie-ddmfs-step-05-41929-142a11d2ccfd48ec87afe2440aea0d9b.jpg"
+                }
+            ],
+            "text": "Beat heavy cream with an electric mixer on medium-high speed until medium peaksform, 2 to 3 minutes. Spoon whipped cream into ricotta mixture, and gently folduntil just combined."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_AtyjMgB5i6TzHyBiupCSogXL_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654867-no-bake-cannoli-pie-ddmfs-step-06-41930-4c9167802764450ab40c956cc7d034e7.jpg"
+                }
+            ],
+            "text": "Spoon ricotta mixture into prepared Crust, and spread in an even layer with a rubber spatula or offset spatula. Cover with plastic wrap, and refrigerate, uncovered, until set, at least 4 hours or up to 8 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5L7vpSJByIMOqwxu1gBd0z3OdJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8654867-no-bake-cannoli-pie-ddmfs-step-07-41931-42df1fb10431438787a932e913273e91.jpg"
+                }
+            ],
+            "text": "Remove pie from refrigerator; remove plastic wrap, and garnish with additional chopped pistachios, chocolate chips, and orange zest."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

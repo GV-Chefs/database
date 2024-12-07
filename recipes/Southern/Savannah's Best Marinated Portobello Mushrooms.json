@@ -1,0 +1,51 @@
+{
+    "headline": "Savannah's Best Marinated Portobello Mushrooms",
+    "name": "Savannah's Best Marinated Portobello Mushrooms",
+    "description": "Marinate portobello mushroom caps for 15 minutes with a mixture of garlic, balsamic vinegar, and soy so they'll be just the right texture after cooking.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "112 kcal",
+        "carbohydrateContent": "5 g",
+        "fiberContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1286 mg",
+        "sugarContent": "3 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup cooking wine",
+        "2 tablespoons dark soy sauce",
+        "2 tablespoons balsamic vinegar",
+        "1 tablespoon olive oil",
+        "2 cloves garlic, minced",
+        "2 large portobello mushroom caps"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix cooking wine, soy sauce, vinegar, oil, and garlic together in the bottom of a baking dish. Place mushroom caps into the baking dish with the gills facing up. Spoon marinade into the cavities, cover with foil, and marinate for 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 25 minutes. Flip mushrooms and bake until mushrooms are tender and juicy, about 8 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

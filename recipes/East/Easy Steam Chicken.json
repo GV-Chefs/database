@@ -1,0 +1,58 @@
+{
+    "headline": "Easy Steam Chicken",
+    "name": "Easy Steam Chicken",
+    "description": "This steamed chicken is simple to make with salt-marinated chicken breasts steamed until tender and juicy, then served with a garlic soy-sesame sauce.",
+    "recipeCuisine": [
+        "East And Southeast Asian"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "408 kcal",
+        "carbohydrateContent": "10 g",
+        "cholesterolContent": "61 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1382 mg",
+        "sugarContent": "3 g",
+        "fatContent": "30 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 skinless, boneless chicken breast halves",
+        "1 cup salt",
+        "2 tablespoons vegetable oil",
+        "1 onion, finely chopped",
+        "2 cloves garlic, finely chopped",
+        "5 tablespoons light soy sauce",
+        "2 tablespoons sesame oil",
+        "2 sprigs fresh cilantro"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken and salt in a bowl. Evenly rub salt into chicken. Refrigerate for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place a steamer basket into a saucepan and fill with water to just below the bottom of the steamer. Rinse chicken and place into the basket. Bring water to a boil; cover and steam chicken until juices run clear, about 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat vegetable oil in a skillet over medium heat. Stir in onion; cook until tender, 3 to 4 minutes. Mix in garlic; cook until fragrant, about 1 minute. Stir in soy sauce and sesame oil, then remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon sauce over chicken and garnish with cilantro to serve."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

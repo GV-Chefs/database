@@ -1,0 +1,93 @@
+{
+    "headline": "Rustic Flatbread Pizza",
+    "name": "Rustic Flatbread Pizza",
+    "description": "This flatbread pizza recipe takes smoked bacon, cremini mushrooms, asparagus, and Asiago cheese and puts them all on a thin, crunchy flatbread crust.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "332 kcal",
+        "carbohydrateContent": "34 g",
+        "cholesterolContent": "28 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "761 mg",
+        "sugarContent": "3 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "6 crimini mushrooms, sliced",
+        "3 cloves garlic, chopped",
+        "1 pinch salt and ground black pepper, or to taste",
+        "1 tablespoon olive oil",
+        "8 spears fresh asparagus, trimmed and cut into 2-inch pieces",
+        "0.5 pound applewood-smoked bacon, cut into 2-inch pieces",
+        "1 (12 inch) prepared flatbread pizza crust",
+        "0.75 cup prepared marinara sauce",
+        "0.5 cup shredded mozzarella cheese",
+        "0.5 cup shredded Asiago cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Line a baking sheet with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon olive oil in a skillet over medium heat, and stir in mushrooms and garlic; sprinkle with salt and black pepper. Cook and stir until mushrooms have given off their juice and juice has evaporated, about 10 minutes. Remove from heat and set mushroom mixture aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat 1 more tablespoon olive oil in a separate large skillet over medium-high heat until very hot, and place asparagus into the skillet. Cook, stirring occasionally, until asparagus pieces are very well browned (almost but not quite burned in spots), about 8 minutes. Remove asparagus from skillet and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat to medium, and cook bacon in the same skillet until crisp, about 10 minutes; stir often. Drain excess grease as bacon cooks, for crispier pieces."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove bacon pieces and place on a paper towel-lined plate; blot with paper towels to reduce grease."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place flatbread crust onto the prepared baking sheet, and spread marinara sauce over crust."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread mushrooms and garlic evenly over pizza."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread asparagus over pizza."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange bacon pieces on pizza."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sprinkle mozzarella cheese all over pizza, followed by Asiago cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until cheeses are melted and bubbling, 12 to 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

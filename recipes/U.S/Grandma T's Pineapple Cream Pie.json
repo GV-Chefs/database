@@ -1,0 +1,50 @@
+{
+    "headline": "Grandma T's Pineapple Cream Pie",
+    "name": "Grandma T's Pineapple Cream Pie",
+    "description": "Grandma's secret recipe for pineapple cream pie is sure to become one of your family's treasured recipes.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT200M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "324 kcal",
+        "carbohydrateContent": "48 g",
+        "cholesterolContent": "65 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "313 mg",
+        "sugarContent": "34 g",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup sugar",
+        "3 tablespoons all-purpose flour",
+        "0.5 teaspoon salt",
+        "1 cup milk",
+        "1 (15 ounce) can crushed pineapple, drained",
+        "2 egg yolks",
+        "3 tablespoons butter",
+        "1 (9 inch) baked pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk sugar, flour, and salt together in a saucepan over medium heat. Add milk and cook, whisking constantly, until mixture thickens and begins to bubble, 3 to 5 minutes. Remove from heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir pineapple, egg yolks, and butter into milk mixture. Return to heat and cook over medium heat until mixture begins to bubble, 3 to 5 minutes. Continue cooking, stirring constantly, until hot and thick, about 2 minutes more. Pour mixture into prepared pie crust. Refrigerate until chilled, at least 3 hours."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

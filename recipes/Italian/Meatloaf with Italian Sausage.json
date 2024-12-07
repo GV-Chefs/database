@@ -1,0 +1,55 @@
+{
+    "headline": "Meatloaf with Italian Sausage",
+    "name": "Meatloaf with Italian Sausage",
+    "description": "Ground beef and Italian sausage mixed with bell pepper, onion, hot wheat cereal and meatloaf standards for a variation on this family favorite.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "640 kcal",
+        "carbohydrateContent": "15 g",
+        "cholesterolContent": "170 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "19 g",
+        "sodiumContent": "637 mg",
+        "sugarContent": "2 g",
+        "fatContent": "50 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.25 pounds ground beef",
+        "4 (4 ounce) links Italian sausage, casings removed",
+        "1 egg, beaten",
+        "1 small green bell pepper, chopped",
+        "1 onion, chopped",
+        "0.5 cup dry hot wheat cereal",
+        "0.5 cup milk",
+        "1 dash Worcestershire sauce",
+        "salt and pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Chop sausage finely. In a large bowl combine beef, sausage, egg beat, bell pepper, onion, cereal, milk, Worcestershire sauce, salt and pepper. Mix together and press into a loaf pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 hour, or until cooked through. Drain grease from loaf pan periodically during baking. Let stand 10 minutes before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "headline": "White Bean Dip",
+    "name": "White Bean Dip",
+    "description": "An awesome alternative to the usual refried beans and tortilla chips. Serve this dip with pita chips or veggie wheat crackers.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "133 kcal",
+        "carbohydrateContent": "14 g",
+        "fiberContent": "4 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "192 mg",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "2 (15 ounce) cans cannellini beans, rinsed and drained",
+        "0.33333334326744 cup chopped fresh cilantro",
+        "3 cloves garlic, crushed or to taste",
+        "0.33333334326744 cup olive oil",
+        "1.5 medium lemons, juiced",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a food processor, combine the cannellini beans, cilantro, garlic, olive oil and lemon juice. Process until smooth, or to your desired consistency. Taste, and season with salt and pepper."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "headline": "Challah Bread",
+    "name": "Challah Bread",
+    "description": "This challah recipe makes a beautiful braided Jewish egg bread with yeast that's sweetened with honey and topped with poppy seeds.",
+    "recipeCuisine": [
+        "Kosher"
+    ],
+    "totalTime": "PT220M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "165 kcal",
+        "carbohydrateContent": "30 g",
+        "cholesterolContent": "19 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "241 mg",
+        "sugarContent": "5 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Bread"
+    ],
+    "recipeIngredient": [
+        "2.5 cups warm water (110 degrees F/45 degrees C)",
+        "1 tablespoon active dry yeast",
+        "0.5 cup honey",
+        "4 tablespoons vegetable oil",
+        "3 eggs, divided",
+        "1 tablespoon salt",
+        "8 cups unbleached all-purpose flour",
+        "1 tablespoon poppy seeds"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/pD7hD_lGFH8h793_VZMFpKgE1Xk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-01-2f5f022f90b14a3eaf789eba2ea58cb5.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/i8lhTIU3gYX98ztbDOWTgo7wUSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-02-a42fe8f662b4405b9763d5fe78ee3b8b.jpg"
+                }
+            ],
+            "text": "Pour warm water into a large bowl; sprinkle yeast over water. Let stand until yeast softens and begins to form a creamy foam, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/L2AExzHJUTMtGAYxuc98Q2enjLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-03-3717595cc043403d9c9bc89c32c1553f.jpg"
+                }
+            ],
+            "text": "Beat in honey, oil, 2 eggs, and salt. Add flour, 1 cup at a time, beating after each addition until dough has pulled together."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wxpqlAsVvsXDuEgPzhyYyQq62ww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-04-21feb7f4306e45b3b83161fab66965b8.jpg"
+                }
+            ],
+            "text": "Turn it out onto a lightly floured surface and knead until smooth and elastic."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/A21L9PyQPQ5GUreod-wuXqHXP68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-05-c4467ea42b964196be50de31771d658a.jpg"
+                }
+            ],
+            "text": "Place dough in a large, lightly-oiled bowl and turn to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/NW0X1b-CDcvZDrXn5KUWzhiaTXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-06-6150fad289294a12873a8e8031b1ae3c.jpg"
+                }
+            ],
+            "text": "Cover with a towel and let rise in a warm place until doubled in volume, about 1 \u00bd hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TAL9w1w8w__joEQ_y_55ltBZoTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-07-31858fe0f36e4790acb01110afed0fc0.jpg"
+                }
+            ],
+            "text": "Punch down dough and turn onto a lightly floured surface. Divide in half and knead each half for 5 minutes or so, adding flour as needed to keep it from getting sticky."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/eh7FN8iSPrFTA2112o7pv7VoNO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-08-88cf8c0d4a93496c85c44e69f948fc9e.jpg"
+                }
+            ],
+            "text": "Divide each half into thirds and roll into a long snake about 1 \u00bd inches in diameter."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Zr8Fm3X42Q4qAxDbb7UppcWmPIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-09-431e998523e04d3ebb8969dd7413b8a4.jpg"
+                }
+            ],
+            "text": "Pinch the ends of the three snakes together firmly and braid from middle. Either leave as a braid or form into a round braided loaf by bringing ends together, curving the braid into a circle, and pinching ends together."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zkxWMTzc8SMATf7IYS4UIQjL4H8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-10-095de577f60746ea88b0db7d64ce5da0.jpg"
+                }
+            ],
+            "text": "Grease two baking trays and place the finished braid or round on each. Cover with a towel and let rise for about 1 hour. Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/6TbCFVmgQa20cczWLbuo3ZDNxhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-12-45ff4c52f3fd4cf897e4677b84fdb2f4.jpg"
+                }
+            ],
+            "text": "Beat the remaining egg and brush a generous amount over each braid; sprinkle with poppy seeds."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/LGuvHnagxWOv22HGgMPEfSDwpto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-step-13-e7a291bc54db4251981c068578023e90.jpg"
+                }
+            ],
+            "text": "Bake in preheated oven until golden brown, about 40 minutes. Cool on a wire rack for at least one hour before slicing."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ShHesY34r0Or7U8aA_g0_EGlzk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-6760-challah-hero-03-4x3-ed3ddaa4ecd14ebab681ed4cfe220600.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "30"
+    ]
+}

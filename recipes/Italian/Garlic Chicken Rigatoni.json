@@ -1,0 +1,73 @@
+{
+    "headline": "Garlic Chicken Rigatoni",
+    "name": "Garlic Chicken Rigatoni",
+    "description": "This delicious creamy pasta recipe with chicken, garlic, rigatoni, vegetables, and cheese is on the table in under 30 minutes.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "425 kcal",
+        "carbohydrateContent": "42 g",
+        "cholesterolContent": "81 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "31 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "1436 mg",
+        "fatContent": "14 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (8 ounce) package rigatoni pasta",
+        "1 tablespoon salt",
+        "1 pound skinless, boneless chicken breasts, cut into bite-sized pieces",
+        "1 tablespoon herb-infused olive oil",
+        "0.25 cup tapioca starch",
+        "1 teaspoon Italian seasoning",
+        "0.25 teaspoon salt",
+        "0.13 teaspoon freshly ground black pepper",
+        "0.75 cup water",
+        "0.33 cup sliced fresh mushrooms",
+        "0.25 cup chopped marinated artichoke hearts",
+        "2 tablespoons chopped oil-packed sun-dried tomatoes",
+        "3 cloves minced garlic",
+        "0.33 cup Chardonnay wine",
+        "0.25 cup heavy whipping cream",
+        "2 ounces shredded aged Cheddar cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot with water and 1 tablespoon salt to a boil. Cook rigatoni in the boiling water, stirring occasionally until tender yet firm to the bite, about 10 minutes. Drain and reserve pasta water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, combine tapioca starch, Italian seasoning, salt, and black pepper in a bowl. Add chicken pieces and toss to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a skillet until it shimmers. Add chicken pieces and cook until browned, about 5 minutes. You might be tempted to add more olive oil or butter, don't do this."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in reserved pasta water and add mushrooms, artichoke hearts, sun-dried tomatoes, and garlic. Cook about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix in white wine, cream and Cheddar cheese. Whisk until sauce is slightly thickened. Add rigatoni and toss to combine."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add rigatoni and toss to combine. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

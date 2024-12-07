@@ -1,0 +1,57 @@
+{
+    "headline": "Hawaiian Beef Casserole",
+    "name": "Hawaiian Beef Casserole",
+    "description": "This casserole with ground beef, kidney beans, and pineapple bakes in a sweetened ketchup sauce for a simple dish sure to be a kid pleaser.",
+    "recipeCuisine": [
+        "Hawaiian"
+    ],
+    "totalTime": "PT65M",
+    "cookTime": "PT55M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "467 kcal",
+        "carbohydrateContent": "57 g",
+        "cholesterolContent": "57 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1290 mg",
+        "sugarContent": "35 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeIngredient": [
+        "2 tablespoons cooking oil",
+        "1 onion, chopped",
+        "1 pound ground beef",
+        "1 (19 ounce) can kidney beans with liquid",
+        "1 (19 ounce) can pineapple chunks with juice",
+        "1 cup ketchup",
+        "0.5 cup brown sugar",
+        "1 tablespoon cornstarch",
+        "2 teaspoons ground mustard",
+        "1 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the oil in a skillet over medium heat; cook the onion in the hot oil until softened, about 5 minutes. Crumble the ground beef into the skillet and cook and stir until completely browned, 5 to 7 minutes. Drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir the kidney beans with liquid, pineapple with juice, ketchup, brown sugar, cornstarch, mustard, and salt together in a large bowl. Add the ground beef and onions to the mixture and stir to coat. Pour into a large casserole dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until completely heated through, about 45 minutes."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

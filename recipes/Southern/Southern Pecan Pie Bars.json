@@ -1,0 +1,72 @@
+{
+    "headline": "Southern Pecan Pie Bars",
+    "name": "Southern Pecan Pie Bars",
+    "description": "Classic Southern pecan pie, with its sticky, nutty filling, gets simplified into easy-to-eat bars featuring a crunchy shortbread crust.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT125M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "270 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "51 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "201 mg",
+        "sugarContent": "9 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "baking spray",
+        "2 cups all-purpose flour",
+        "0.75 cup cold unsalted butter, cubed",
+        "0.5 cup powdered sugar",
+        "1 teaspoon salt",
+        "4 large eggs",
+        "0.66666668653488 cup light brown sugar",
+        "0.25 cup salted butter, melted",
+        "0.25 cup all-purpose flour",
+        "0.75 teaspoon salt",
+        "0.5 cup Golden Eagle syrup",
+        "3 cups pecans, chopped"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Line a 9x13-inch baking pan with parchment paper, leaving a 2-inch overhang on at least 2 sides. Spray the parchment paper with baking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine flour, butter, powdered sugar, and salt in a food processor and pulse 6 or 7 times to combine. Transfer mixture to the lined pan and press into an even layer."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until lightly golden brown, about 20 minutes. Transfer pan to a wire rack."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine eggs, brown sugar, melted butter, flour, and salt together in a large bowl. Mix in syrup until well combined. Stir in pecans. Pour over the still-warm shortbread crust."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ISIpq3EK-P34xMaXcrpFd0VcK7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7244553-1f50593a8e884b2db71d8a1a5539a075.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until filling is set, 25 to 30 minutes. Cool completely in the pan for at least 1 hour. Run a knife around the edge of the pan and pull out using the parchment overhang. Slice into bars."
+        }
+    ],
+    "recipeYield": [
+        "24"
+    ]
+}

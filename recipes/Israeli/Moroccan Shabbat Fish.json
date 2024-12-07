@@ -1,0 +1,60 @@
+{
+    "headline": "Moroccan Shabbat Fish",
+    "name": "Moroccan Shabbat Fish",
+    "description": "Tilapia is dressed up with red pepper, olive oil, fresh parsley, cayenne, and tomatoes in this Mediterranean-style dish.",
+    "recipeCuisine": [
+        "Israeli"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "278 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "62 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "36 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "303 mg",
+        "sugarContent": "3 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 red bell pepper, cut into thin strips",
+        "3 tomatoes, sliced",
+        "6 (6 ounce) tilapia fillets",
+        "1 cup water",
+        "0.25 cup olive oil",
+        "2 tablespoons paprika",
+        "1 tablespoon chicken bouillon granules",
+        "1 teaspoon cayenne pepper",
+        "salt and pepper to taste",
+        "0.25 cup chopped fresh parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 200 degrees F (95 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Layer sliced red peppers and tomatoes in the bottom of a baking dish. Arrange tilapia fillets on top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk water, oil, paprika, bouillon granules, cayenne, salt, and pepper together in a bowl; pour over tilapia, then sprinkle with parsley. Cover the baking dish with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until tilapia flakes easily with a fork and vegetables tender, about 1 hour."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

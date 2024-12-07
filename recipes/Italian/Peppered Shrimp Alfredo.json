@@ -1,0 +1,67 @@
+{
+    "headline": "Peppered Shrimp Alfredo",
+    "name": "Peppered Shrimp Alfredo",
+    "description": "Peppered shrimp with garlic, red pepper, and mushroom are simmered in prepared Alfredo sauce and spiced with cayenne pepper to give it an extra kick.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "707 kcal",
+        "carbohydrateContent": "51 g",
+        "cholesterolContent": "202 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "28 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "1035 mg",
+        "sugarContent": "7 g",
+        "fatContent": "45 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Pasta"
+    ],
+    "recipeIngredient": [
+        "12 ounces penne pasta",
+        "0.25 cup butter",
+        "2 tablespoons extra-virgin olive oil",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, diced",
+        "0.5 pound portobello mushrooms, diced",
+        "1 pound medium shrimp, peeled and deveined",
+        "1 (15 ounce) jar Alfredo sauce",
+        "0.5 cup grated Romano cheese",
+        "0.5 cup cream",
+        "1 teaspoon cayenne pepper, or more to taste",
+        "Salt and pepper to taste",
+        "0.25 cup chopped parsley"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt butter together with the olive oil in a saucepan over medium heat. Stir in onion, and cook until softened and translucent, about 2 minutes. Stir in garlic, red pepper, and mushroom; cook over medium-high heat until soft, about 2 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/mXey8czsZ_3arf8kgFDCo6ZfEKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4095462-8b0f90f738b44b45824c27b873c7ed07.jpg"
+                }
+            ],
+            "text": "Stir in the shrimp, and cook until firm and pink, then pour in Alfredo sauce, Romano cheese, and cream; bring to a simmer stirring constantly until thickened, about 5 minutes. Season with cayenne, salt, and pepper to taste. Stir drained pasta into the sauce, and serve sprinkled with chopped parsley."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

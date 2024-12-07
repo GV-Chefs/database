@@ -1,0 +1,67 @@
+{
+    "headline": "Polish Chicken and Dumplings",
+    "name": "Polish Chicken and Dumplings",
+    "description": "This delicious and comforting Polish chicken soup with homemade dumplings is an old family recipe that has been perfected over the years!",
+    "recipeCuisine": [
+        "Polish"
+    ],
+    "totalTime": "PT210M",
+    "cookTime": "PT180M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "704 kcal",
+        "carbohydrateContent": "53 g",
+        "cholesterolContent": "224 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "43 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1543 mg",
+        "sugarContent": "1 g",
+        "fatContent": "34 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeIngredient": [
+        "1 (3 pound) whole chicken",
+        "1 onion, chopped",
+        "1 stalk celery, with leaves",
+        "1 tablespoon poultry seasoning",
+        "1 teaspoon whole allspice",
+        "1 teaspoon dried basil",
+        "0.5 teaspoon salt",
+        "1 teaspoon black pepper",
+        "1 teaspoon seasoning salt",
+        "1 (10.75 ounce) can condensed cream of chicken soup",
+        "4 eggs",
+        "2 tablespoons olive oil",
+        "1 tablespoon salt",
+        "1 teaspoon black pepper",
+        "2 cups water",
+        "4 cups all-purpose flour"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken, onion, and celery in a large pot; fill the pot with water. Season with poultry seasoning, whole allspice, basil, 1/2 teaspoon salt, 1 teaspoon pepper, and seasoning salt; bring to a boil. Reduce heat, and simmer for approximately 2 hours, or until chicken is cooked."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove chicken from broth and set chicken aside to cool; strain broth to remove seasonings and any bone. Return broth to the pan, stir in cream of chicken soup and continue simmering."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, stir together eggs, olive oil, 1 tablespoon salt, and 1 teaspoon pepper with 2 cups water. Gradually add flour, and stir to form a thick dough."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Using a large spoon and knife, scoop a spoonful of dough and cut small pieces into broth. Repeat with remaining dough. Stir, cover, and simmer for about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, skin and debone chicken; cut meat into small pieces, add to broth and heat through."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

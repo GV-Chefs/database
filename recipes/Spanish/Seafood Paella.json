@@ -1,0 +1,82 @@
+{
+    "headline": "Seafood Paella",
+    "name": "Seafood Paella",
+    "description": "This seafood paella, short grain rice flavored with saffron and chorizo, is topped with steamed clams, mussels, and shrimp.",
+    "recipeCuisine": [
+        "Spanish"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "665 kcal",
+        "carbohydrateContent": "36 g",
+        "cholesterolContent": "273 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "65 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "2347 mg",
+        "sugarContent": "6 g",
+        "fatContent": "25 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "4 tablespoon Olive Oil\u00a0",
+        "1 yellow onion, medium dice",
+        "2 red bell peppers, medium diced",
+        "1/2 cup chopped Chorizo",
+        "1 dried red chili pepper",
+        "2 large tomatoes",
+        "1 tablespoon tomato paste",
+        "1 cup White Wine",
+        "3 garlic cloves, minced",
+        "1 big pinch Saffron",
+        "1 tablespoon Smoked Paprika",
+        "3 garlic cloves, minced",
+        "1 1/2 cups Valencia Rice",
+        "3 1/2 cups Chicken stock",
+        "1 pound Mussels",
+        "1 pound Jumbo Shrimp",
+        "1 pound Clams"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place a medium-sized paella pan over medium-high heat, and add oil, onion, bell pepper, chorizo, and dried chili and cook until vegetables soften, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Using a box grater, grate tomatoes straight into the pan. Stir and cook until liquid has reduced by half."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat to low, and add tomato paste, white wine, garlic, saffron, and paprika. Cook paste mixture down, stirring, until fully incorporated.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add rice and chicken stock and stir until everything is all mixed in. Simmer over low heat, without stirring, for 15 minutes. Every now and then, peek with a spoon to make sure nothing is sticking or burning while simmering.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "After 15 minutes add shrimp, mussels, and clams. Cover with a lid or foil and cook on low for another 5 minutes. Turn off heat and let the pan sit for 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/lA1ob95_0gPrQ5BK2gUWZWV-_LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8727168_Seafood-Paella_Dotdash-Meredith-Food-Studios_4x3-061a6a5e3eb743bf95272854a2e4e62b.jpg"
+                }
+            ],
+            "text": "Remove the lid. The rice should be fluffy with a slightly toasted bottom, mussels and clams should be open all of the way, and your shrimp should be pink. Fluff paella with a fork before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

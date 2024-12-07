@@ -1,0 +1,54 @@
+{
+    "headline": "Pickled Sausage",
+    "name": "Pickled Sausage",
+    "description": "Pickled sausage is a convenience store treat, and you can easily make your own in just two days with smoked beef sausage and a homemade brine.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT2890M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "136 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "29 mg",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1882 mg",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Appetizer",
+        "Snack"
+    ],
+    "recipeIngredient": [
+        "4 cups water",
+        "4 cups distilled white vinegar",
+        "2 tablespoons salt",
+        "10 drops red food coloring",
+        "10 links smoked beef sausage"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Inspect one quart-sized jar for cracks and ring for rust, discarding any defective ones. Immerse in simmering water for 5 minutes. Wash new, unused lid and ring in warm soapy water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, bring water, vinegar, salt, and food coloring to a boil in a large pot over medium-high heat."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "At the same time, cut sausage links in half or thirds, depending on size."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place sausage links into the sterilized jar. Pour in as much hot vinegar mixture as needed to fill the jar, then secure the lid and immediately place into the refrigerator. Serve after 2 days."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

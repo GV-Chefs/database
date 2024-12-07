@@ -1,0 +1,83 @@
+{
+    "headline": "Cowboy Caviar",
+    "name": "Cowboy Caviar",
+    "description": "Cowboy caviar is a crowd-pleasing dip made with pantry and freezer staples. It comes together in minutes and develops more flavor as it sits in the fridge.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "233 kcal",
+        "carbohydrateContent": "32 g",
+        "fiberContent": "8 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "1255 mg",
+        "sugarContent": "6 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "1 (15.5 ounce) can black beans, drained",
+        "1 (15.5 ounce) can black-eyed peas, drained",
+        "1 (14.5 ounce) can diced tomatoes, drained",
+        "2 cups frozen corn kernels, thawed",
+        "0.5 medium onion, diced",
+        "0.25 medium green bell pepper, finely chopped",
+        "0.5 cup chopped pickled jalapeno peppers",
+        "0.5 teaspoon garlic salt",
+        "1 cup Italian salad dressing",
+        "0.75 cup chopped cilantro"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/AMYIJEhqFrVq7KXNm2ioIdNiFnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-103674-cowboy-caviar-VAT-step-01-b4048810486b4b53bbbe29a26d7b071d.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/79WRMPzZ-BvD-2_xSDq9RgHG2UU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-103674-cowboy-caviar-VAT-step-02-01348212e4e04764922708883ee7518e.jpg"
+                }
+            ],
+            "text": "Mix black beans, black-eyed peas, diced tomatoes, corn, onion, bell pepper, and jalape\u00f1o peppers together in a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/qIbtA0AYZIbEQq1E9_wxwdQ6uKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-103674-cowboy-caviar-VAT-step-03-B-salad-mixed-3f3e45b6643341fb98e56075d60745b8.jpg"
+                }
+            ],
+            "text": "Season with garlic salt, then pour in Italian salad dressing and add cilantro. Mix until well coated."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2CyT0qwJl12Y7rl8JzZE9SQVw_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-103674-cowboy-caviar-VAT-4x3-C-with-hand-holding-chips-b1c1aadc9206446ebe18975edbc6996d.jpg"
+                }
+            ],
+            "text": "Refrigerate until flavors have melded, at least 20 minutes or up to 3 days, before serving."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

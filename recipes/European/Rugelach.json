@@ -1,0 +1,68 @@
+{
+    "headline": "Rugelach",
+    "name": "Rugelach",
+    "description": "Rugelach are rolled pastry cookies that are easy to make with homemade pastry and a sweet walnut-raisin filling for a delicious Jewish holiday treat.",
+    "recipeCuisine": [
+        "European",
+        "American"
+    ],
+    "totalTime": "PT145M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "102 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "16 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "1 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "27 mg",
+        "sugarContent": "3 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT40M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups all-purpose flour",
+        "1 cup unsalted butter",
+        "1 (8 ounce) package cream cheese",
+        "0.33333334326744 cup sour cream",
+        "0.25 teaspoon salt",
+        "1 cup finely chopped walnuts",
+        "0.5 cup raisins",
+        "0.5 cup white sugar",
+        "1 tablespoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place butter, cream cheese, sour cream, flour, and salt in a food processor; pulse until crumbly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Shape and press crumbly dough mixture into four equal disks. Wrap each pastry disk; chill in the refrigerator for 1 hour or up to 2 days."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine walnuts, raisins, sugar, and cinnamon in a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll each pastry disk into a 9-inch round keeping other disks chilled until ready to roll them. Sprinkle round with walnut-raisin mixture; press lightly into dough. Cut each round into 12 wedges with a chefs knife or pizza cutter. Roll wedges from wide to narrow, you will end up with point on outside of cookie. Place on ungreased baking sheets and chill rugelach for 20 minutes before baking."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (180 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "After rugelach are chilled, bake in the preheated oven on center rack until lightly golden, about 22 to 25 minutes; cool on wire racks."
+        }
+    ],
+    "recipeYield": [
+        "48"
+    ]
+}

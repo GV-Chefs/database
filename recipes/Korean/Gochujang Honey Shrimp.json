@@ -1,0 +1,74 @@
+{
+    "headline": "Gochujang Honey Shrimp",
+    "name": "Gochujang Honey Shrimp",
+    "description": "Guchajang and honey add a sweet and spicy flavor to this quick shrimp dish.",
+    "recipeCuisine": [
+        "Korean"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT5M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "265 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "170 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "489 mg",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "16 ounces uncooked medium shrimp, peeled and deveined",
+        "garlic powder to taste",
+        "salt to taste",
+        "3 tablespoons gochujang (Korean hot and sweet pepper paste), or to taste",
+        "2 tablespoons honey",
+        "1 tablespoon sesame oil",
+        "3 teaspoons soy sauce",
+        "1 teaspoon freshly squeezed lemon juice",
+        "3 cloves garlic, minced",
+        "1 teaspoon minced fresh ginger root",
+        "1.5 tablespoons vegetable oil, or more as needed",
+        "0.5 cup water",
+        "1 teaspoon cornstarch",
+        "1 teaspoon sesame seeds",
+        "scallions, sliced diagonally, as a garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Season both sides of shrimp with garlic powder and salt, and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine gochujang, honey, sesame oil, soy sauce, lemon juice, garlic, and ginger in a bowl until well combined. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a non-stick skillet over medium-high heat. Add shrimp and cook until they are bright pink on the outside and the meat is opaque, 2 to 3 minutes, flipping half way through; do not overcook. Remove shrimp from the pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce temperature to low, and add sauce to skillet. Whisk water and cornstarch together in a small bowl to make a slurry. Stir slurry into the sauce until well combined. Keep cooking, stirring constantly, until the sauce starts to slightly thicken, about 1 minute. Add shrimp back into the skillet and stir until coated and just heated through."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/r8cFpQ6gf30AtGUyPLAKJx-OwyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1675093576Gochujang-Honey20Shrimp-2000-2d205073f35f4628b4c2e8a44c42985f.jpeg"
+                }
+            ],
+            "text": "Garnish with sesame seeds and scallions. Serve hot."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

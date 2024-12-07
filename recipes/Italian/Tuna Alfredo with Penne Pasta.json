@@ -1,0 +1,48 @@
+{
+    "headline": "Tuna Alfredo with Penne Pasta",
+    "name": "Tuna Alfredo with Penne Pasta",
+    "description": "Pasta, tuna, Alfredo, and Parmesan--here's a quick and easy meal that doubles as comfort food. Remember your mom's tuna noodle casserole?",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT26M",
+    "cookTime": "PT16M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "794 kcal",
+        "carbohydrateContent": "48 g",
+        "cholesterolContent": "109 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "62 g",
+        "saturatedFatContent": "16 g",
+        "sodiumContent": "1443 mg",
+        "sugarContent": "6 g",
+        "fatContent": "40 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup penne pasta",
+        "24 ounces tuna, drained",
+        "1 teaspoon onion powder",
+        "1 pinch salt",
+        "1 (16 ounce) jar Alfredo sauce",
+        "2 ounces grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of water to a boil; add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain pasta; return to pot."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place tuna in a skillet over low heat; season with onion powder and salt. Cook until lightly browned, about 5 minutes. Stir tuna into cooked pasta. Add Alfredo sauce; stir until combined. Garnish with grated Parmesan cheese."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

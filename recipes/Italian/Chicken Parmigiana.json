@@ -1,0 +1,90 @@
+{
+    "headline": "Chicken Parmigiana",
+    "name": "Chicken Parmigiana",
+    "description": "This chicken parmigiana recipe is made with breaded chicken breasts baked with spaghetti sauce and cheese in this tasty, family-friendly Italian dish.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "528 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "184 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "44 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "1310 mg",
+        "sugarContent": "17 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 egg, beaten",
+        "2 ounces dry bread crumbs",
+        "2 skinless, boneless chicken breast halves",
+        "0.75 (16 ounce) jar spaghetti sauce",
+        "2 ounces shredded mozzarella cheese",
+        "0.25 cup grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/i-vnB4YttUfU9mof4HgPd1JowLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8975-chicken-parmigiana-ddmfs-4358-4x3-step-01-2217d2780fde4d0dbdbc4fa2b349c6ca.jpg"
+                }
+            ],
+            "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a medium baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ebT-npx8P8iB1Vthd7TJ9u8eM1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8975-chicken-parmigiana-ddmfs-4363-4x3-step-02-4ba40f388af7457792ae7521b549dd38.jpg"
+                }
+            ],
+            "text": "Pour egg into a small shallow bowl. Place bread crumbs in a separate shallow bowl. Dip chicken into egg, then into bread crumbs. Place coated chicken on the prepared baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/18Lt4SNr0TkG-RzGEPd1C0rByvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8975-chicken-parmigiana-ddmfs-4407-4x3-step-03-6c484c8e6bb24f6ea174e7c3cb067227.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until no longer pink and juices run clear, about 40 minutes. Remove from the oven."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xU-pHP6pIoLdJ_f0GL2kAlnA7ao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8975-chicken-parmigiana-ddmfs-4409-4x3-step-04-842af617e5d74e0d960cdd2f5ea49c2a.jpg"
+                }
+            ],
+            "text": "Pour 1/2 of the spaghetti sauce into a 7x11-inch baking dish. Place chicken breasts over the sauce, then cover with remaining sauce. Sprinkle mozzarella and Parmesan cheeses on top."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Dkn0r3qChuuvVdIXpTJyU0waXo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8975-chicken-parmigiana-ddmfs-4421-4x3-step-05-be18a4e3f7b74b3088c3c60b8646ba8c.jpg"
+                }
+            ],
+            "text": "Continue baking until heated through and cheeses have melted, about 20 more minutes."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

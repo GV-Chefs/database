@@ -1,0 +1,55 @@
+{
+    "headline": "Custard Pecan Pie",
+    "name": "Custard Pecan Pie",
+    "description": "This custard pecan pie is a simple yet delicious old-fashioned dessert that's made without the corn syrup that most pecan pie recipes call for nowadays.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "688 kcal",
+        "carbohydrateContent": "73 g",
+        "cholesterolContent": "79 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "354 mg",
+        "sugarContent": "59 g",
+        "fatContent": "43 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 (9 inch) deep dish pie crust",
+        "2 cups light brown sugar",
+        "1 tablespoon all-purpose flour",
+        "0.5 cup melted margarine",
+        "1 cup evaporated milk",
+        "1 teaspoon vanilla extract",
+        "3 eggs",
+        "1 cup chopped pecans",
+        "1 cup pecan halves"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C.)"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, combine brown sugar, flour, margarine, milk, vanilla and eggs. Blend until smooth. Stir in chopped pecans. Pour into pie crust. Place whole pecan meats gently on top in decorative manner."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

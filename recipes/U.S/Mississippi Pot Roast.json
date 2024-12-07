@@ -1,0 +1,54 @@
+{
+    "headline": "Mississippi Pot Roast",
+    "name": "Mississippi Pot Roast",
+    "description": "Mississippi pot roast is easy to make in a slow cooker with a chuck roast, au jus gravy, and pepperoncini peppers for fork-tender, flavorsome results.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT485M",
+    "cookTime": "PT480M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "553 kcal",
+        "carbohydrateContent": "3 g",
+        "cholesterolContent": "153 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "29 g",
+        "saturatedFatContent": "21 g",
+        "sodiumContent": "1053 mg",
+        "fatContent": "46 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (3 pound) chuck roast",
+        "0.5 (12 ounce) jar pepperoncini",
+        "0.5 (12 ounce) jar pepperoncini juice",
+        "0.5 cup unsalted butter",
+        "1 (1 ounce) packet au jus gravy mix",
+        "1 (0.4 oz) package buttermilk ranch dressing mix",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine chuck roast, pepperoncini, pepperoncini juice, butter, au jus mix, ranch dressing mix, salt, and pepper in a slow cooker. Cover and cook on Low until roast is fork-tender, about 8 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EhGZL8lavdU6sxBb3Yk0MMfu6fM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4564532-2a26a770a1d34f18adbf2353e9362fb2.jpg"
+                }
+            ],
+            "text": "Remove chuck from slow cooker; shred with 2 forks and serve with gravy."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

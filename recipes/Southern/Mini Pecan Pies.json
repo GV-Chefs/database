@@ -1,0 +1,59 @@
+{
+    "headline": "Mini Pecan Pies",
+    "name": "Mini Pecan Pies",
+    "description": "These cute mini pecan pies, made with light and dark corn syrup, make a rich and tasty addition to your holiday dessert table.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "319 kcal",
+        "carbohydrateContent": "45 g",
+        "cholesterolContent": "35 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "163 mg",
+        "sugarContent": "22 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1.5 cups pecan halves",
+        "1 cup white sugar",
+        "3 eggs, beaten",
+        "0.5 cup light corn syrup",
+        "0.5 cup dark corn syrup",
+        "2 tablespoons butter, melted",
+        "1 teaspoon vanilla extract",
+        "0.25 teaspoon salt",
+        "18 (3 inch) ready-to-bake pie shells"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place pecans on a food processor and pulse until coarsely chopped."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix sugar, eggs, light corn syrup, dark corn syrup, butter, vanilla extract, and salt together in a bowl; fold in pecans. Spoon 1/4 cup pecan mixture into each mini pie shell. Transfer pies onto a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until mini pies are slightly browned, 25 to 30 minutes. Serve warm or cool and place in airtight containers for up to one week."
+        }
+    ],
+    "recipeYield": [
+        "18"
+    ]
+}

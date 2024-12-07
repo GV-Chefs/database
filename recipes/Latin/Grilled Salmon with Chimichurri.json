@@ -1,0 +1,66 @@
+{
+    "headline": "Grilled Salmon with Chimichurri",
+    "name": "Grilled Salmon with Chimichurri",
+    "description": "This grilled salmon with chimichurri pairs a rich, fatty grilled salmon with tangy, bold, herbal chimichurri sauce, made in a blender.",
+    "recipeCuisine": [
+        "Latin"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "309 kcal",
+        "carbohydrateContent": "3 g",
+        "cholesterolContent": "54 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "132 mg",
+        "sugarContent": "1 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 cloves garlic",
+        "1 shallot",
+        "1 bunch curly parsley",
+        "1 bunch fresh cilantro",
+        "4 sprigs fresh dill, or more to taste",
+        "2 tablespoon lime juice",
+        "3 tablespoon vinegar",
+        "1/2 cup olive oil",
+        "Zest of 1/2 lime",
+        "Salt and pepper, to taste",
+        "1 teaspoon red pepper flakes, optional"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "For chimichurri, add garlic and shallot to the bowl of a food processor and pulse 2 or 3 times. Add herbs, lime juice, and vinegar. Blend until finely chopped."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "With the food processor still running, slowly drizzle in olive oil to emulsify. Add lime zest, salt, and pepper to taste and blend until smooth. Stir in red pepper flakes. Refrigerate until ready to use."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Prepare an outdoor grill for direct cooking over high heat, 450 to 550 degrees F (230 to 290 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Generously coat the flesh side of the salmon fillets with oil and season evenly with granulated garlic, Italian seasoning, salt, and pepper. Grill the salmon, skin side down, over direct high heat for 6 to 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Turn the salmon over, close the lid, and cook until fish flakes easily with a fork, 4 to 6 minutes longer. Transfer to a platter to rest for 1 to 2 minutes. Slide the salmon skin from the fillets and serve with chimichurri."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

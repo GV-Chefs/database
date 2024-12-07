@@ -1,0 +1,53 @@
+{
+    "headline": "Pan-Seared Cod with Lemon Aioli",
+    "name": "Pan-Seared Cod with Lemon Aioli",
+    "description": "This lovely pan-seared cod with an easy, homemade lemon aioli cooks exceptionally fast, sor an easy, filling weeknight meal.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "284 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "104 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "39 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "252 mg",
+        "sugarContent": "0 g",
+        "fatContent": "13 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 tablespoon mayonnaise",
+        "1/2 teaspoon lemon zest",
+        "1 teaspoon lemon juice, or more to taste",
+        "1 teaspoon grated garlic",
+        "Salt and pepper to taste",
+        "1 teaspoon milk, or more as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "For lemon aioli: Stir mayonnaise, lemon zest, lemon juice, and grated garlic together in a small bowl. Season to taste with salt and pepper. Thin to a drizzling consistency with milk."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "For fish: Pat fish dry with a paper towel. Heat olive oil and butter in a skillet over medium-high heat. Sprinkle both sides of cod with Italian seasoning, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add cod to the hot skillet and sear until golden brown on both sides and fish flakes easily with a fork, 3 to 4 minutes per side. Transfer to serving plates, and serve with lemon aioli."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

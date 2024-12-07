@@ -1,0 +1,53 @@
+{
+    "headline": "Bourbon Street Rib-Eye Steak",
+    "name": "Bourbon Street Rib-Eye Steak",
+    "description": "Rib-eye steaks are marinated in a sweet and savory bourbon whiskey marinade, then quickly grilled to smoky perfection for a New Orleans-inspired meal.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT8M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "616 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "113 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "2029 mg",
+        "sugarContent": "15 g",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT7M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup water",
+        "0.66666668653488 cup bourbon whiskey",
+        "0.5 cup soy sauce",
+        "0.25 cup packed brown sugar",
+        "3 tablespoons Worcestershire sauce",
+        "2 tablespoons lemon juice",
+        "4 (6 ounce) beef rib-eye steaks"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together the water, bourbon whiskey, soy sauce, brown sugar, Worcestershire sauce, and lemon juice in a bowl, and pour into a plastic zipper bag. Add the rib-eye steaks, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 8 hours or overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high heat, and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove the rib-eye steaks from the marinade, and shake off excess. Discard the remaining marinade. Grill the steaks on high, 1 to 2 minutes per side, to sear the meat. Move the steaks to a cooler part of the grill and cook for an additional 2 to 3 minutes per side, if desired."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "headline": "Cinnamon-Sugar Popcorn",
+    "name": "Cinnamon-Sugar Popcorn",
+    "description": "This sweet popcorn is freshly popped, tossed with cinnamon, sugar, and melted butter, then baked in the oven for a tasty snack for kids and adults.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "114 kcal",
+        "carbohydrateContent": "18 g",
+        "cholesterolContent": "10 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "100 mg",
+        "sugarContent": "9 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Snack",
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup unpopped popcorn",
+        "0.33329999446869 cup butter",
+        "0.66666668653488 cup white sugar",
+        "2 teaspoons ground cinnamon",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon vanilla extract"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/A-tS015p2Mux-0qzzN2oZD2shbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/59854-cinnamon-sugar-popcorn-ddmfs-step-1-0809-cfe2a514b56d4c7aaabd144066b42e19.jpg"
+                }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 250 degrees F (120 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/uQBO6OUFjdx-UCt8830Ra5m5tsA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/59854-cinnamon-sugar-popcorn-ddmfs-step-2-0811-b7ab42c427b64e8693beca75c11ce4a4.jpg"
+                }
+            ],
+            "text": "Pop corn using an air popper according to the manufacturer's directions. Place into a large mixing bowl and set aside. Melt butter in a small saucepan over medium heat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/lMMEuk3d1Lak_XDFV02CNIWVisQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/59854-cinnamon-sugar-popcorn-ddmfs-step-3-0812-a31eb423673d44d6ae6acb8df86212d8.jpg"
+                }
+            ],
+            "text": "Stir in sugar, cinnamon, salt, and vanilla; cook until thick and bubbly. Pour over popcorn; stir until evenly coated."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread popcorn into a large roasting pan. Bake in the preheated oven for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/tLPArRdMHvOjccPmS8Xy09NJqpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/59854-cinnamon-sugar-popcorn-ddmfs-step-5-0858-b3fd62aeaae041bcaa6187ea449416f0.jpg"
+                }
+            ],
+            "text": "Turn the oven off and allow popcorn to stay in the oven for 20 minutes. Remove from the oven and let cool completely before serving."
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

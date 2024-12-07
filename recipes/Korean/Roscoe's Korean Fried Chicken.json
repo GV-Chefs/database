@@ -1,0 +1,80 @@
+{
+    "headline": "Roscoe's Korean Fried Chicken",
+    "name": "Roscoe's Korean Fried Chicken",
+    "description": "This Korean fried chicken is coated in a thin batter, dredged, and then fried twice, and served with a spicy ginger, garlic, and gochujang sauce.",
+    "recipeCuisine": [
+        "Korean"
+    ],
+    "totalTime": "PT50M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "750 kcal",
+        "carbohydrateContent": "70 g",
+        "cholesterolContent": "104 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "1137 mg",
+        "sugarContent": "18 g",
+        "fatContent": "41 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "12 chicken wings, mixed flats and legs",
+        "6 chicken legs",
+        "2 tablespoons grated ginger",
+        "2 tablespoons grated garlic",
+        "1\u20442 teaspoon salt",
+        "1\u20444 teaspoon ground black pepper",
+        "1 cup water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place a wire rack inside a rimmed baking sheet. In a large bowl toss chicken wings, chicken legs, ginger, garlic, salt, pepper, and water together. Mix well."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In another bowl combine flour, potato starch, cornstarch, and EverCrisp in a large mixing bowl. Whisk ingredients until fully mixed. Season with salt and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 1 cup of flour mixture to the bowl with chicken. Mix into chicken and water to make a very thin batter.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken to the flour bowl and toss and press until completely dredged in mixture. Place on the prepared wire rack until ready to fry."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep fryer or large saucepan to 325 degrees F (165 degrees C). Line a second rimmed baking sheet with paper towels, and place a clean wire rack on top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken pieces to the hot oil about 5 pieces at a time so as not to drop the temperature of the oil. Fry for 6 minutes. Transfer chicken to the rack over the paper towel-lined baking sheet tray. Continue with remaining chicken pieces."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Increase oil temperature to 350 degrees F (175 degrees C) until continuously boiling. Carefully add the first batch of cooked chicken and fry again until cooked through and crispy, about 5 minutes more. Transfer to a plate lined with paper towels to drain. Repeat with the second batch of chicken pieces.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/i9W_4L4VDpryCDWQrT43bIyPDAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8707371_Korean-Twice-Fried-Chicken_Dotdash-Meredith-Food-Studios_4x3-bb91644750c34758abb60c0f02ba6ff3.jpg"
+                }
+            ],
+            "text": "Transfer chicken to a medium-sized serving bowl. Heat a small saucepan over medium-low heat. Add sesame oil, grated garlic, grated ginger, brown sugar, gochujang paste, vinegar, and 1/2 cup water. Cook and stir continuously until sugar has melted and sauce is smooth, about 5 minutes. Drizzle sauce over twice-fried chicken pieces, garnish with sesame seed and peanuts, and serve."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

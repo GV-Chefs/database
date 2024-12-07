@@ -1,0 +1,64 @@
+{
+    "headline": "Old-Fashioned Southern Rolls",
+    "name": "Old-Fashioned Southern Rolls",
+    "description": "Looking for delicious old-fashioned yeast dinner rolls? This super easy, Southern-inspired recipe is for you!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT180M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "159 kcal",
+        "carbohydrateContent": "25 g",
+        "cholesterolContent": "9 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "195 mg",
+        "sugarContent": "3 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT40M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup milk",
+        "0.5 cup shortening",
+        "0.25 cup white sugar",
+        "1 cup cold water",
+        "1 egg",
+        "2 teaspoons active dry yeast",
+        "5.5 cups all-purpose flour, divided",
+        "1 teaspoon baking powder",
+        "0.5 teaspoon baking soda",
+        "1.5 teaspoons salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Warm milk in a small saucepan until it bubbles, then remove from heat. Mix in shortening and sugar; stir until melted. Add cold water and let cool until lukewarm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour milk mixture into a large bowl. Add egg and yeast; mix well. Beat in 3 cups of flour and let stand for 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift in baking powder, baking soda, salt, and 1 cup flour. Stir in remaining flour, 1/2 cup at a time, beating well after each addition. When dough has pulled together, turn it out onto a lightly floured surface and knead until smooth and elastic, about 8 minutes. Lightly oil a large bowl, place dough in the bowl, and turn to coat with oil. Cover with a damp cloth and let rise in a warm place until doubled in volume, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide dough into 12 equal pieces. Divide each piece in half and form into 24 rolls. Place rounds in a lightly greased 9x13-inch baking pan or on lightly greased baking sheets. Cover rolls with a damp cloth and let rise until doubled in volume, about 40 minutes. Meanwhile, preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden, 15 to 20 minutes."
+        }
+    ],
+    "recipeYield": [
+        "24"
+    ]
+}

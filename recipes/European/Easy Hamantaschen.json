@@ -1,0 +1,63 @@
+{
+    "headline": "Easy Hamantaschen",
+    "name": "Easy Hamantaschen",
+    "description": "Hamantaschen are triangular-shaped cookies filled with your favorite jam or preserve. A traditional, popular treat for the Jewish holiday of Purim!",
+    "recipeCuisine": [
+        "European",
+        "American"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "247 kcal",
+        "carbohydrateContent": "40 g",
+        "cholesterolContent": "23 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "75 mg",
+        "sugarContent": "15 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3 large eggs",
+        "1 cup granulated sugar",
+        "0.75 cup vegetable oil",
+        "0.5 cup orange juice",
+        "2.5 teaspoons vanilla extract",
+        "5.5 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "1 cup fruit preserves, any flavor"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease cookie sheets."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine eggs and sugar in a large bowl; beat with an electric mixer until smooth and creamy. Stir in oil, orange juice, and vanilla. Combine flour and baking powder; stir into batter to form a stiff dough, adding more flour if needed."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Turn dough out onto a lightly floured surface and roll out into a 1/2-inch thickness. Cut into circles using a cookie cutter or the rim of a drinking glass; place 2 inches apart onto the prepared cookie sheets."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon about 1 to 2 teaspoons of preserves into center of each cookie. Pinch edges to form three corners."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until lightly browned, 12 to 15 minutes. Cool on the cookie sheets for 1 minute; transfer to a wire rack to cool completely."
+        }
+    ],
+    "recipeYield": [
+        "24"
+    ]
+}

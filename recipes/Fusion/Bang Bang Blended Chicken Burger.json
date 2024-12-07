@@ -1,0 +1,87 @@
+{
+    "headline": "Bang Bang Blended Chicken Burger",
+    "name": "Bang Bang Blended Chicken Burger",
+    "description": "Minced roasted mushrooms give this crunchy, tangy, sweet, savory, juicy chicken burger extra moisture and a deep umami flavor.",
+    "recipeCuisine": [
+        "Fusion"
+    ],
+    "totalTime": "PT100M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1066 kcal",
+        "carbohydrateContent": "80 g",
+        "cholesterolContent": "253 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "43 g",
+        "saturatedFatContent": "14 g",
+        "sodiumContent": "1711 mg",
+        "sugarContent": "21 g",
+        "fatContent": "64 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT40M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Sandwich"
+    ],
+    "recipeIngredient": [
+        "3/4 cup rice vinegar",
+        "2 tablespoons water",
+        "2 teaspoons white sugar",
+        "2 teaspoons sesame seeds",
+        "1 small carrot, cut into matchsticks",
+        "1/4 large English cucumber, seeded and cut into matchsticks",
+        "1/4 small red onion, cut into 1/8-inch thick wedges"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together 3/4 cups rice vinegar, water, sugar, and sesame seeds in a small bowl until sugar is dissolved. Add carrot, cucumber, and red onion, separating onion layers; toss to coat. Chill until ready to use, stirring occasionally to keep vegetables submerged in the brine."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together mayonnaise, Thai sweet chile sauce, Sriracha, 1 teaspoon rice vinegar, and 1/4 teaspoon salt in a small bowl. Chill Bang Bang Sauce until ready to use."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Line a rimmed baking sheet with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Toss mushrooms with 1 tablespoon oil. Spread mushrooms out in a single layer on the prepared baking sheet. Roast mushrooms in the preheated oven for 15 minutes, stirring halfway through. Remove from oven and allow to cool."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer cooked mushrooms to a food processor,pulsing 5 or 6 times and scraping down the sides of the bowl, until finely minced (or mince with a knife). Combine mushrooms, ground chicken,\u00a0 and 1 1/4 teaspoons salt in a bowl; mix thoroughly, without overmixing. Form into 4 patties, about the circumference of the brioche buns, and place on squares of parchment paper or plastic wrap to prevent from sticking. You can oil your hands to handle meat if mixture is sticky. Refrigerate for at least 30 minutes for the patties to firm up."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "When ready to cook the burgers, set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Place jalape\u00f1o halves, cut side down, and green onions on a baking sheet. Drizzle with 1 teaspoon oil.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Broil vegetables until charred, turning halfway through, about 10 minutes. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, preheat a large cast iron skillet over medium-high heat. Brush skillet with 1 teaspoon oil and toast brioche buns, cut side down, until lightly browned, 2 to 4 minutes; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lightly whisk eggs and water in a shallow dish. Add panko bread crumbs to a second dish. Gently dip burger patties into egg mixture, letting excess drip off. Press lightly into bread crumbs to coat both sides."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat remaining oil in a cast iron skillet over medium heat. Fry burgers until internal temperature reaches 165 degrees F (74 degrees C), about 3 minutes per side. Place patties on a plate lined with paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread a light layer of Bang Bang sauce on bottom buns. Add 2 charred jalape\u00f1o halves per bun. Add chicken patty and top with slaw and charred scallions. Top with cilantro and drizzle with more sauce."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

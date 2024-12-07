@@ -1,0 +1,64 @@
+{
+    "headline": "My Best Clam Chowder",
+    "name": "My Best Clam Chowder",
+    "description": "This classic clam chowder calls for onion, celery, potatoes, carrots, clams, and cream. A splash of red wine vinegar adds even more delicious flavor!",
+    "recipeCuisine": [
+        "New England"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "501 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "137 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "712 mg",
+        "sugarContent": "2 g",
+        "fatContent": "33 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 cups cubed potatoes",
+        "1 cup diced carrots",
+        "1 cup diced celery",
+        "1 cup minced onion",
+        "3 (6.5 ounce) cans minced clams, drained with juice reserved",
+        "water to cover",
+        "0.75 cup butter",
+        "0.75 cup all-purpose flour",
+        "1 quart half-and-half cream",
+        "2 tablespoons red wine vinegar",
+        "1.5 teaspoons salt",
+        "ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7rXpWrHiC6-CEmFXlLWClFXWZ28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/My-Best-Clam-Chowder-5f71619aaa3e436fa4d15269b8610d38.jpg"
+                }
+            ],
+            "text": "Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

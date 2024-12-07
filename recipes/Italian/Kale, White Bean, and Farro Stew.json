@@ -1,0 +1,70 @@
+{
+    "headline": "Kale, White Bean, and Farro Stew",
+    "name": "Kale, White Bean, and Farro Stew",
+    "description": "This farro stew recipe features a loaded mix of white beans and vegetables, like squash, carrots, celery, and kale, for a hearty, satisfying soup.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "American",
+        "Italian"
+    ],
+    "totalTime": "PT110M",
+    "cookTime": "PT90M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "379 kcal",
+        "carbohydrateContent": "65 g",
+        "fiberContent": "11 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1720 mg",
+        "sugarContent": "7 g",
+        "fatContent": "9 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1 (15 ounce) can cannellini beans",
+        "3 tablespoons extra-virgin olive oil",
+        "3 stalks celery, thinly sliced",
+        "3 carrots, chopped",
+        "1 Spanish onion, chopped",
+        "1 leek (white and light green part only), thinly sliced",
+        "2 cloves garlic, minced",
+        "1 cup farro",
+        "2 cups water, or more if needed",
+        "1 (15 ounce) can cannellini beans, drained and rinsed",
+        "1 (15 ounce) can diced tomatoes",
+        "1.5 cups low-sodium vegetable broth",
+        "1 zucchini, diced",
+        "1 tablespoon tomato paste",
+        "1 tablespoon dried thyme",
+        "0.25 teaspoon red pepper flakes",
+        "1 bunch kale, leaves stripped from stems and coarsely chopped",
+        "1 tablespoon salt",
+        "1 tablespoon freshly ground black pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Blend contents of 1 can cannellini beans with its liquid in a blender until pur\u00e9ed. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large pot over medium heat. Cook and stir celery, carrots, Spanish onion, and leek in hot oil until onion is translucent, about 5 minutes. Add garlic and continue cooking until fragrant, 1 to 2 minutes more."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir farro into vegetable mixture; add water, pur\u00e9ed cannellini beans, drained cannellini beans, tomatoes, vegetable broth, zucchini, tomato paste, thyme, and red pepper flakes. Stir together well and bring to a boil; reduce heat to medium-low, cover the pot, and simmer until farro is tender, 45 minutes to 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir kale, salt, and pepper into stew. Add more water if needed to keep everything covered in liquid. Continue cooking until kale is bright green and fully tender, about 30 minutes more."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "headline": "Pennsylvania Coal Region Barbecue",
+    "name": "Pennsylvania Coal Region Barbecue",
+    "description": "This Pennsylvania barbecue sandwich is a staple in the Coal Region of Northeastern PA, with homemade barbecue sauce and ground beef served on a bun.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT20M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "214 kcal",
+        "carbohydrateContent": "10 g",
+        "cholesterolContent": "48 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "10 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "301 mg",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "1 medium onion, chopped",
+        "0.75 cup ketchup",
+        "1.5 tablespoons white vinegar",
+        "1.5 tablespoons brown sugar",
+        "1.5 teaspoons prepared yellow mustard",
+        "salt and pepper to taste",
+        "4 hamburger buns"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cook ground beef and onion in a large skillet over medium-high heat until beef is browned and crumbly and onion is translucent, 5 to 7 minutes. Drain excess grease."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce the heat to medium. Stir in ketchup, vinegar, brown sugar, mustard, salt, and pepper; simmer for about 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spoon beef mixture onto buns to serve."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

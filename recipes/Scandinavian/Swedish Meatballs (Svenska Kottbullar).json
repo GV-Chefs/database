@@ -1,0 +1,151 @@
+{
+    "headline": "Swedish Meatballs (Svenska Kottbullar)",
+    "name": "Swedish Meatballs (Svenska Kottbullar)",
+    "description": "Swedish meatball recipe made with seasoned ground beef and pork, baked and served with brown sour cream gravy for a family-friendly comfort meal.",
+    "recipeCuisine": [
+        "Scandinavian"
+    ],
+    "totalTime": "PT95M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "309 kcal",
+        "carbohydrateContent": "12 g",
+        "cholesterolContent": "108 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "794 mg",
+        "sugarContent": "3 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "2 slices day-old white bread, crumbled",
+        "0.5 cup heavy cream",
+        "1 teaspoon butter",
+        "1 small onion, minced",
+        "0.66666668653488 pound ground beef",
+        "0.33333334326744 pound finely ground pork",
+        "1 egg",
+        "1 tablespoon brown sugar",
+        "1 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "0.25 teaspoon ground nutmeg",
+        "0.25 teaspoon ground allspice",
+        "0.125 teaspoon ground ginger",
+        "1 tablespoon butter",
+        "0.25 cup chicken broth",
+        "3 tablespoons all-purpose flour, or as needed",
+        "2 cups beef broth, or as needed",
+        "0.5 (8 ounce) container sour cream"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WSP5_Bceaw-RBd5MwB_X-BP4S-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step1-045-4x3-269e28a7d5394bda84028d02b39ee8da.jpg"
+                }
+            ],
+            "text": "Place bread crumbs into a small bowl; mix in cream. Allow to stand until crumbs absorb cream, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sq2zHUFFxabAtN6G63YN0nn29IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step2-050-4x3-a3ae5d93bae34e0caec72d1e1779687c.jpg"
+                }
+            ],
+            "text": "Meanwhile, melt 1 teaspoon butter in a skillet over medium heat; cook and stir onion until light brown, about 10 minutes. Transfer onion to a mixing bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ElQcx_uyPwcf666jaM7bDJRwNpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step4-125-43-c6d5b4df316044069718affc429c9d63.jpg"
+                }
+            ],
+            "text": "Mix ground beef, ground pork, egg, brown sugar, salt, black pepper, nutmeg, allspice, and ginger with onion in the mixing bowl. Lightly mix in bread crumbs and cream."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zrww97-Pkr-9xDZCH6Gl1jaQLRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step5-150-4x3-daa63a3b065e412da87b891e96ccd033.jpg"
+                }
+            ],
+            "text": "Melt 1 tablespoon butter in a large skillet over medium heat. Pinch off about 1 1/2 tablespoon meat mixture per meatball; form into balls. Place meatballs into the skillet and cook, turning often, until browned, about 5 minutes. Insides of meatballs will still be pink."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place browned meatballs into a baking dish, pour in chicken broth, and cover with foil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/XRrOkeb-qxaQpJh2KZevsu3sbyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step6-160-4x3-53623a3dbc7540a7ad46651262dc3c2f.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until meatballs are tender, about 40 minutes. Remove meatballs to a serving dish."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/mhSuA5mBMK36j9Q_QZvuYM7ulGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step7-152-4x3-36ee69d6d6e9419faf95c41cf6ac1cec.jpg"
+                }
+            ],
+            "text": "Pour pan drippings into a saucepan over medium heat. Whisk flour into drippings until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/03SS3t28o7F66PZ-1uogwqB4nXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step8-157-4x3-d7ccacba13c442439cf7f80300bf3df9.jpg"
+                }
+            ],
+            "text": "Gradually whisk in enough beef broth to total about 2 1/2 cups liquid."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2TimwJXTPIVdFfBJd9YKnrNy06M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-ddmfs-step9-175-4x3-3c3236c12f294ac2ba00587862cbe6d5.jpg"
+                }
+            ],
+            "text": "Bring gravy to a simmer, whisking constantly, until thickened, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/QF7KADg58x9wVQcSjVBsOk9pDEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216564-swedish-meatballs-svenska-kottbullar-DDMFS-4x3-2cfaeac162c9485dbd7d632fd0b6ef0a.jpg"
+                }
+            ],
+            "text": "Just before serving, whisk in sour cream. Season with salt and black pepper. Serve gravy with meatballs."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

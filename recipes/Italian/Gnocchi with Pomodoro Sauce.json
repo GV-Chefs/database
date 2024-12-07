@@ -1,0 +1,57 @@
+{
+    "headline": "Gnocchi with Pomodoro Sauce",
+    "name": "Gnocchi with Pomodoro Sauce",
+    "description": "You can use homemade or store-bought gnocchi for this classic Italian dish. Gnocchi are topped with homemade tomato sauce and fresh mozzarella cheese and then broiled in the oven.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT10M",
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.25 cup olive oil",
+        "2 (12 ounce) packages refrigerated gnocchi",
+        "3 cloves garlic, minced, or more to taste",
+        "0.25 teaspoon crushed red pepper flakes",
+        "1 pinch salt",
+        "1 pinch sugar",
+        "1 (28 ounce) can whole Italian plum tomatoes (preferably San Marzano)",
+        "8 ounces marinated mozzarella balls",
+        "fresh parsley or basil (optional)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Open marinated mozzarella balls and measure out 1/4 cup of the oil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour oil into a heavy skillet over medium-high heat. Cook gnocchi in batches in the hot oil until golden and heated through. Divide gnocchi evenly amongst 4 gratin dishes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add garlic and red chili flakes to the oil in the same skillet. Cook until garlic is fragrant, about 30 seconds. Stir in salt and sugar. Pour in tomatoes. Use a wooden spoon to break up and crush the tomatoes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring sauce to a boil, reduce heat, cover and simmer tomatoes for 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Taste sauce and adjust seasonings if desired. Spoon tomato sauce over the gnocchi. Top each dish with 3 marinated mozzarella balls and set on a baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add baking sheet to oven and broil until mozzarella balls are melted and golden browned, 3 to 5 minutes. Garnish with parsley or basil if desired and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "headline": "B\u00e1nh X\u00e8o (Vietnamese Cr\u00eapes)",
+    "name": "B\u00e1nh X\u00e8o (Vietnamese Cr\u00eapes)",
+    "description": "B\u00e1nh x\u00e8o are Vietnamese cr\u00eapes stuffed with shrimp and bean sprouts. Served with lettuce, fresh mint and basil for a fantastic street-style treat!",
+    "recipeCuisine": [
+        "Vietnamese"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "788 kcal",
+        "carbohydrateContent": "107 g",
+        "cholesterolContent": "129 mg",
+        "fiberContent": "20 g",
+        "proteinContent": "45 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "1053 mg",
+        "sugarContent": "9 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup rice flour",
+        "0.5 teaspoon white sugar",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon ground turmeric",
+        "1 cup coconut milk",
+        "0.5 cup water",
+        "2 tablespoons vegetable oil, divided, or as needed",
+        "2 tablespoons minced shallot",
+        "2 cloves garlic, minced, or more to taste",
+        "0.75 pound fresh shrimp, peeled and deveined",
+        "2 tablespoons fish sauce, or more to taste",
+        "salt to taste",
+        "1 pound mung bean sprouts",
+        "4 lettuce leaves, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Make the cr\u00eape batter: Mix rice flour, sugar, salt, and turmeric together in a large bowl. Beat in coconut milk until thick. Slowly beat in water until it reaches the consistency of a thin cr\u00eape batter."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Make the filling: Heat 1 1/2 tablespoon oil in a large skillet over medium-high heat. Add shallot and garlic; cook and stir until fragrant but not browned, 1 to 2 minutes. Add shrimp; saut\u00e9 until cooked through and opaque, 3 to 4 minutes. Season with fish sauce and salt. Transfer filling to a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 200 degrees F (95 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Wipe out the skillet and reheat over medium heat. Add remaining 1/2 tablespoon oil. Stir cr\u00eape batter and pour 1/2 cup into the hot skillet, swirling to coat the bottom. Lay 3 or 4 cooked shrimp on the bottom half of the cr\u00eape. Top with a small handful of bean sprouts. Cook until batter looks set and edges start to brown, about 1 minute. Fold cr\u00eape over and slide onto an oven-safe plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place cr\u00eape in the preheated oven to keep warm. Repeat with remaining batter, shrimp, and bean sprouts"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve cr\u00eapes with lettuce leaves. Break off pieces of cr\u00eape and roll them up in lettuce to eat."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

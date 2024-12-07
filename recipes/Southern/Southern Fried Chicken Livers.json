@@ -1,0 +1,111 @@
+{
+    "headline": "Southern Fried Chicken Livers",
+    "name": "Southern Fried Chicken Livers",
+    "description": "These crispy fried chicken livers are seasoned with garlic powder and ready to serve in just 20 minutes for a popular old-time Southern treat!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "470 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "459 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "87 mg",
+        "sugarContent": "2 g",
+        "fatContent": "29 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound chicken livers",
+        "1 egg",
+        "0.5 cup milk",
+        "1 cup all-purpose flour",
+        "1 tablespoon garlic powder",
+        "salt and pepper to taste",
+        "1 quart vegetable oil for frying"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/d-DjIeH7CAQUmixI-cgpml-Qe54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200036-southern-fried-chicken-livers-step-01-4x3-46c3495aff604a3b8a8d1865de9353f6.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ch4LhGV6Sk86IdLDR1liRTyEQ4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200036-southern-fried-chicken-livers-step-02-4x3-d6652d0267f7405280a9d5e64a7dd479.jpg"
+                }
+            ],
+            "text": "Place chicken livers in a colander; rinse with cold water and drain well. Blot dry with paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TcIdXQQmJ8y3Pmt-dxxJvsR66WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200036-southern-fried-chicken-livers-step-03-2-4x3-b6e80a799e38462bbad2c9aa0dfb08c3.jpg"
+                }
+            ],
+            "text": "Whisk egg and milk together in a shallow dish until blended."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/uZQDfDqAMrBBS3MZwRC4RlvHFPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200036-southern-fried-chicken-livers-step-04-4x3-6846ea26d2ef47738b0f68ec23680c74.jpg"
+                }
+            ],
+            "text": "Place flour, garlic powder, salt, and pepper into a zip-top bag; shake to combine. Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jwgNgbZAfv8RUWcqCVs3GXt6Dw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200036-southern-fried-chicken-livers-step-05-4x3-50282aacf7a843cf8b04297f342914b0.jpg"
+                }
+            ],
+            "text": "Dip chicken livers in egg mixture to coat, then transfer, one at a time, into flour mixture, shaking the bag to coat completely."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/JVQvZOsnMUFCfPD4HySpHM5ht-E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200036-southern-fried-chicken-livers-step-06-4x3-e55670fef8e341ed95fb69e4917fcc1a.jpg"
+                }
+            ],
+            "text": "Gently place coated livers, a few at a time, into hot oil; cover with a splatter screen and cook until crisp and golden brown, 5 to 6 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rSnZMRlV58dB4mMeWYoH5NT4oa8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200036-southern-fried-chicken-livers-hero-4x3-c911bb3a874a4e26b5f3b12b3ad34f25.jpg"
+                }
+            ],
+            "text": "Serve with your choice of dip. Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

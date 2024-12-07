@@ -1,0 +1,83 @@
+{
+    "headline": "Southern Butter Beans ",
+    "name": "Southern Butter Beans ",
+    "description": "Southern butter beans are made with bacon and ham hock and are slow-simmered over 3 hours to develop their full flavor.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT170M",
+    "cookTime": "PT165M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1815 kcal",
+        "carbohydrateContent": "203 g",
+        "cholesterolContent": "166 mg",
+        "fiberContent": "36 g",
+        "proteinContent": "159 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "6885 mg",
+        "sugarContent": "47 g",
+        "fatContent": "42 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "3 thick-cut bacon slices, chopped (3/4 cup)",
+        "1 medium (8 oz.) yellow onion, chopped (about 1 cup)",
+        "3 medium-size garlic cloves, sliced (about 1 Tbsp.)",
+        "1 tsp. cracked black pepper, plus more for garnish",
+        "6 cups lower-sodium chicken stock, plus more as needed",
+        "1 lb. dried large lima beans",
+        "1 (14-oz.) smoked ham hock",
+        "2 fresh or dried bay leaves",
+        "2 (6-in.) thyme sprigs",
+        "1/2 tsp. kosher salt",
+        "1 tsp. sherry vinegar",
+        "Thyme leaves, for garnish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/TLtMuxlgZUYU6BcidVSSW9XyO8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8630469-southern-butter-beans-ddmfs-ingredients-773a3abce2a84ff6bb2a1fe6414e67fa.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/3H83CQVW_fqWXBfG_-PCsjaYstA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8630469-southern-butter-beans-ddmfs-step1-ef750544ebe24ab5a6fd8499f66d8253.jpg"
+                }
+            ],
+            "text": "Place bacon in a large Dutch oven or large pot, and cook over medium heat, stirring occasionally, until crispy, about 8 minutes. Add onion, garlic, and pepper; cook, stirring often, until onion is soft and translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xyVXyTiXW0T5N94LusV_8x4m-FQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8630469-southern-butter-beans-ddmfs-step2-45b76a79ba3c4079af29578c818e9906.jpg"
+                }
+            ],
+            "text": "Add chicken stock, beans, ham hock, bay leaves, thyme sprigs, and salt; bring to a boil over medium-high. Reduce heat to medium-low; cover and simmer, stirring occasionally, until beans are tender, 2 1/2 to 3 hours, adding stock or water as needed to keep beans covered by about 1/4 inch. Stop adding liquid during last 30 minutes of cooking so beans aren\u2019t too brothy."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Etc28wvhDUo7stCb_F_gSPSIJIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8630469-southern-butter-beans-ddmfs-step3-8ccdb55b71d84282bbc218a88de2a8d0.jpg"
+                }
+            ],
+            "text": "Remove ham hock; pick meat, discard hock, and stir meat into beans. Remove and discard bay leaves and thyme sprigs. Stir in sherry vinegar. Divide beans evenly among bowls. Garnish with thyme leaves and additional pepper."
+        }
+    ]
+}

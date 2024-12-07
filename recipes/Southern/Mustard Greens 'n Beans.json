@@ -1,0 +1,57 @@
+{
+    "headline": "Mustard Greens 'n Beans",
+    "name": "Mustard Greens 'n Beans",
+    "description": "Savory, spicy mustard greens cook up with tender white beans and seasonings like vinegar, mustard, and crushed red pepper for a hearty side dish or vegetarian main dish that's different but quick.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "136 kcal",
+        "carbohydrateContent": "18 g",
+        "fiberContent": "6 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "166 mg",
+        "sugarContent": "2 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced, or to taste",
+        "2 tablespoons water",
+        "1 tablespoon distilled white vinegar",
+        "1 teaspoon white sugar",
+        "0.75 teaspoon dry mustard powder",
+        "0.5 teaspoon crushed red pepper flakes",
+        "1 pound mustard greens, washed and chopped",
+        "1 (15 ounce) can cannellini (white kidney) beans, drained",
+        "salt and ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat the olive oil in a large Dutch oven over medium heat; cook and stir onion and garlic until the onion is translucent, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a bowl, mix water, vinegar, sugar, dry mustard, and red pepper flakes until sugar has dissolved. Place the mustard greens into the onion and garlic mixture, and pour in the vinegar mixture. Stir to combine, cover the Dutch oven, and bring to a boil. Simmer the greens until the liquid has been absorbed, 5 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix in the white beans, allow to heat through, and season to taste with salt and black pepper."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

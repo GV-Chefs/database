@@ -1,0 +1,57 @@
+{
+    "headline": "Skillet Chicken Bulgogi",
+    "name": "Skillet Chicken Bulgogi",
+    "description": "An easy recipe for chicken bulgogi that comes together in 30 minutes. Get dinner on the table quickly with this Korean skillet dish everyone loves.",
+    "recipeCuisine": [
+        "Korean"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "269 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "69 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "28 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "1230 mg",
+        "sugarContent": "9 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.25 cup chopped onion",
+        "5 tablespoons soy sauce",
+        "2.5 tablespoons brown sugar",
+        "2 tablespoons minced garlic",
+        "2 tablespoons sesame oil",
+        "1 tablespoon sesame seeds",
+        "0.5 teaspoon cayenne",
+        "salt and ground black pepper to taste",
+        "1 pound skinless, boneless chicken breasts, cut into thin strips"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk onion, soy sauce, brown sugar, garlic, sesame oil, sesame seeds, cayenne pepper, salt, and black pepper together in a bowl until marinade is smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yzU4k4oPgazTx4OLD-yEEZ4MZKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/M7014953_JD_12015-1x1-1-010c0666a1da4f48acf7cb38c72471b5.jpg"
+                }
+            ],
+            "text": "Cook and stir chicken and marinade together in a large skillet over medium-high heat until chicken is cooked through, about 15 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

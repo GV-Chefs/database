@@ -1,0 +1,111 @@
+{
+    "headline": "Authentic Louisiana Red Beans and Rice",
+    "name": "Authentic Louisiana Red Beans and Rice",
+    "description": "This easy authentic Louisiana red beans and rice recipe features Cajun seasoning and andouille sausage for hearty, comforting flavor.",
+    "recipeCuisine": [
+        "Southern",
+        "Cajun"
+    ],
+    "totalTime": "PT690M",
+    "cookTime": "PT185M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "630 kcal",
+        "carbohydrateContent": "79 g",
+        "cholesterolContent": "33 mg",
+        "fiberContent": "10 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "604 mg",
+        "sugarContent": "3 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound dry kidney beans",
+        "0.25 cup olive oil",
+        "1 large onion, chopped",
+        "1 green bell pepper, chopped",
+        "2 stalks celery, chopped",
+        "2 tablespoons minced garlic",
+        "6 cups water",
+        "2 bay leaves",
+        "1 tablespoon dried parsley",
+        "1 teaspoon dried thyme",
+        "1 teaspoon Cajun seasoning",
+        "0.5 teaspoon cayenne pepper",
+        "0.25 teaspoon dried sage",
+        "1 pound andouille sausage, sliced",
+        "4 cups water",
+        "2 cups long grain white rice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yBmp-iPf9iRr7YHZadsZLUcGtPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58211-Authentic-Louisiana-Red-Beans-and-Rice-mfs-STEP-001-ff46b545d9fa4dc290eb80bb4d523693.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hAk-attfHrVpH67g-d_dU_4KIVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58211-Authentic-Louisiana-Red-Beans-and-Rice-mfs-STEP-002-4b68cc1f7cd24553bd041fe21e699620.jpg"
+                }
+            ],
+            "text": "Rinse beans, and then soak in a large pot of water overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/G3ooKDhZSMmue5I1u7h5FbtrGfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58211-Authentic-Louisiana-Red-Beans-and-Rice-mfs-STEP-008-c5bd4c7685994ece9d1e395747808440.jpg"
+                }
+            ],
+            "text": "Heat oil in a skillet over medium heat. Cook onion, bell pepper, celery, and garlic in olive oil for 3 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rBQ8g_QDYXVgKa6k8eTHGMeu7UI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58211-Authentic-Louisiana-Red-Beans-and-Rice-mfs-STEP-014-9d7fa7b25e6848489838306dffa30934.jpg"
+                }
+            ],
+            "text": "Rinse beans, and transfer to a large pot with 6 cups water. Stir cooked vegetables into beans. Season with bay leaves, parsley, thyme, Cajun seasoning, cayenne pepper, and sage. Bring to a boil, and then reduce heat to medium-low. Simmer for 2 1/2 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/fZ6ezi6Lh5lJh_sTELa8HfZlz4A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58211-Authentic-Louisiana-Red-Beans-and-Rice-mfs-STEP-019-566d6dd1aa11458799e9291fbeef0d17.jpg"
+                }
+            ],
+            "text": "Stir sausage into beans, and continue to simmer for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wqh7a7QRqw-C1M2LBHODzBRPB-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58211-Authentic-Louisiana-Red-Beans-And-Rice-mfs-119-d0e0d9b700be467395da252e74921e87.jpg"
+                }
+            ],
+            "text": "Meanwhile, prepare the rice. Bring water and rice to a boil in a saucepan. Reduce heat, cover, and simmer for 20 minutes. Serve beans over steamed white rice."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

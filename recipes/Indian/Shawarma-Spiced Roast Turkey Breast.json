@@ -1,0 +1,84 @@
+{
+    "headline": "Shawarma-Spiced Roast Turkey Breast",
+    "name": "Shawarma-Spiced Roast Turkey Breast",
+    "description": "Chef John's roast turkey breast recipe uses the same spices people love in a chicken shawarma wrap. It is moist, tender, and extremely flavorful, and the spices seem to work even better with the meatier taste of turkey. The gorgeously-colored pan sauce made from the drippings elevates the flavor still more.",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT300M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "307 kcal",
+        "carbohydrateContent": "5 g",
+        "cholesterolContent": "138 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "53 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "988 mg",
+        "sugarContent": "1 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree"
+    ],
+    "recipeIngredient": [
+        "1 teaspoon smoked paprika",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "1/2 teaspoon cinnamon",
+        "1/2 teaspoon ground ginger",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon black pepper",
+        "1/4 teaspoon turmeric",
+        "1/4 teaspoon ground cardamom",
+        "1/8 teaspoon cayenne",
+        "3 teaspoons kosher salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Add paprika, cumin, coriander, cinnamon, ginger, garlic powder, black pepper, turmeric, cardamom, cayenne, and salt to a bowl; stir until well mixed and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place turkey breast meat side up on a cutting board, and make a deep cut into the thickest part at a 45-degree angle, about 2/3 of the way in, to butterfly open the breast. Make a few more shallow cuts to open up even more, and then coat all exposed meat with about 3/4 of the spice mixture. Be sure to rub spices in thoroughly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fold turkey back together with the skin side up, and use 3 pieces of kitchen string to tie up tightly into a roll. Transfer to a bowl, and coat with 1 tablespoon olive oil and remaining spice mix. Refrigerate for at least 3 hours and up to 24 hours before roasting."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 475 degrees F (245 degrees C). Scatter sliced onions evenly into the bottom of an ovenproof pan. Add chicken broth. Place turkey on top, and season skin with more salt if desired."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roast in the preheated oven for 20 minutes, then reduce temperature to 300 degrees F (150 degrees C). and roast for about 1 hour more. An instant read thermometer inserted near the center should read 155 degrees F (68 degrees C). Temperature will continue to rise while resting to 165 degrees F (74 degrees C). Cooking time depends on size of breast, so start checking for doneness early. Remove turkey to a plate and cover loosely with foil. Let rest for 10 to 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, place the roasting pan over medium-high heat, and bring to a boil until liquids have reduced.\u00a0 Reduce the heat to medium-low, and check the amount of rendered fat in the pan. If necessary add a 1 or 2 tablespoons of olive oil, so there will be enough fat to make a roux. If there are already a few tablespoons fat from the turkey, you will not need to add any more oil, and can move to the next step."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add flour and cook, stirring, for about a minute. Add lemon juice and chicken broth, and turn heat up to medium-high. Stir constantly while mixture comes back to a simmer. Add a little more broth if the sauce is too thick, or continue to simmer if sauce is too thin. Taste for salt and adjust. Reduce heat to low and keep hot until needed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/XYYGedGwlRQcmtwy5CSx2LVplY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8742124_Shwarma-Spiced-Roast-Turkey-Breast_John-Mitzewich_4x3-86a0630e980f4a0d94c97b88164b745b.jpg"
+                }
+            ],
+            "text": "Slice turkey, and serve with sauce."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

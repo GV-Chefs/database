@@ -1,0 +1,47 @@
+{
+    "headline": "Grilled Halloumi",
+    "name": "Grilled Halloumi",
+    "description": "Grilled halloumi cooks up charred and crispy outside, soft and salty inside, plus the cheese keeps its shape on the grill. Perfect for summer BBQs!",
+    "recipeCuisine": [
+        "Middle Eastern"
+    ],
+    "totalTime": "PT15M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "207 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "43 mg",
+        "proteinContent": "12 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "624 mg",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "8 ounces halloumi cheese, sliced into 1/2-inch pieces"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Brush olive oil over both sides of each slice of halloumi cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place halloumi directly on the grate and grill for 3 minutes; flip and grill 3 minutes more. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

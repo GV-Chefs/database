@@ -1,0 +1,57 @@
+{
+    "headline": "Florida Strawberry Muffins",
+    "name": "Florida Strawberry Muffins",
+    "description": "These are moist and delicious despite the fact that there is no liquid other than the berry juice.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "168 kcal",
+        "carbohydrateContent": "28 g",
+        "cholesterolContent": "41 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "140 mg",
+        "sugarContent": "14 g",
+        "fatContent": "5 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeIngredient": [
+        "1.5 cups chopped fresh strawberries",
+        "0.5 cup white sugar",
+        "0.25 cup white sugar",
+        "0.25 cup butter, softened",
+        "2 eggs",
+        "1 teaspoon vanilla extract",
+        "1.75 cups all-purpose flour",
+        "0.5 teaspoon baking soda",
+        "0.25 teaspoon salt",
+        "0.25 teaspoon ground nutmeg"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a small bowl, combine the strawberries and 1/2 cup sugar. Set aside for 1 hour. Drain, reserving liquid and berries separately."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C). Grease a 12 cup muffin tin, or line with paper liners."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, cream together the butter and 1/4 cup sugar until light and fluffy. Beat in the eggs one at a time, then stir in the vanilla. Combine the flour, baking soda, salt and nutmeg; stir into the creamed mixture alternately with the juice from the berries. Gently stir in the berries. Spoon batter into the prepared muffin cups."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 18 to 20 minutes in the preheated oven, or until the tops spring back when lightly touched. Cool in the pan on a wire rack."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

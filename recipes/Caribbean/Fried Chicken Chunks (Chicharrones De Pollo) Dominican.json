@@ -1,0 +1,63 @@
+{
+    "headline": "Fried Chicken Chunks (Chicharrones De Pollo) Dominican",
+    "name": "Fried Chicken Chunks (Chicharrones De Pollo) Dominican",
+    "description": "This chicharrones de pollo recipe is a Dominican version of fried chicken seasoned with garlic, dark rum, adobo, onion powder, sazon, and coriander.",
+    "recipeCuisine": [
+        "Caribbean"
+    ],
+    "totalTime": "PT280M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "653 kcal",
+        "carbohydrateContent": "72 g",
+        "cholesterolContent": "55 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "488 mg",
+        "sugarContent": "4 g",
+        "fatContent": "22 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound skinless, boneless chicken breast meat - cut into chunks",
+        "0.5 cup dark rum",
+        "0.5 cup lemon juice",
+        "0.5 cup minced garlic",
+        "0.25 cup Worcestershire sauce",
+        "3 tablespoons garlic powder",
+        "1 teaspoon adobo seasoning",
+        "1 teaspoon onion powder",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon ground coriander",
+        "2 (.18 ounce) packets sazon with coriander and achiote",
+        "4 cups corn oil for frying",
+        "3 cups all-purpose flour"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine chicken, rum, lemon juice, minced garlic, Worcestershire sauce, garlic powder, adobo seasoning, onion powder, black pepper, coriander, and sazon seasoning in a large bowl; stir. Cover and allow to marinate in the refrigerator for 4 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large pot over medium heat to about 300 degrees F (150 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread flour into the bottom of a shallow dish. Remove chicken from marinade to flour in the dish; discard marinade. Toss chicken pieces with flour until evenly coated."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fry coated chicken pieces in hot oil in small batches until no longer pink in the center and golden brown on the outside, 5 to 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

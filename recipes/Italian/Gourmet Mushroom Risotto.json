@@ -1,0 +1,117 @@
+{
+    "headline": "Gourmet Mushroom Risotto",
+    "name": "Gourmet Mushroom Risotto",
+    "description": "This authentic Italian mushroom risotto takes time to prepare, but it's worth the wait. It's the perfect complement for grilled meats and chicken dishes.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "431 kcal",
+        "carbohydrateContent": "57 g",
+        "cholesterolContent": "29 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1131 mg",
+        "sugarContent": "4 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "6 cups chicken broth, or as needed",
+        "3 tablespoons olive oil, divided",
+        "1 pound portobello mushrooms, thinly sliced",
+        "1 pound white mushrooms, thinly sliced",
+        "2 medium shallots, diced",
+        "1.5 cups Arborio rice",
+        "0.5 cup dry white wine",
+        "4 tablespoons butter",
+        "3 tablespoons finely chopped chives",
+        "0.33333334326744 cup freshly grated Parmesan cheese",
+        "sea salt and freshly ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EZFUWAhanJYFYx4uPBINsJTxnoU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-step-01-19e89c0432e245eaa1d8da782eec7550.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/fF9he-WvcdsQqC17cfwBZ9BteTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-step-2-60-598ac33c9cf14b178bd10f735b4add6b.jpg"
+                }
+            ],
+            "text": "Warm broth in a saucepan over low heat. Meanwhile, warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Add portobello and white mushrooms; cook and stir until soft, about 3 minutes. Remove mushrooms and their liquid to a bowl; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/0mZYoDg1zHQbgrGVURVHNEDKHMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-step-4-66-64df8c340d0b43629d58471ae4172902.jpg"
+                }
+            ],
+            "text": "Add remaining 1 tablespoon olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rqhisuuMEB0cMaIom1fjV8zDNuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-step-6-73-5af6a0e1c8cb447d96cc6c8d7081ebf2.jpg"
+                }
+            ],
+            "text": "Pour in wine, stirring constantly until wine is fully absorbed. Add 1/2 cup warm broth to the rice, and stir until the broth is absorbed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/IW-Z4-9HcC6xB0cAPe6lC-nB1y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-step-7-76-24854e9b97f645c7a992bacddbb663e6.jpg"
+                }
+            ],
+            "text": "Continue adding broth, 1/2 cup at a time, stirring constantly, until the liquid is absorbed and the rice is tender, yet firm to the bite, about 15 to 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/B8F5_EmIVTy772lewQxZV_E6UgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-step-9-79-807993d0f99a4460891e974631d59410.jpg"
+                }
+            ],
+            "text": "Remove from heat. Stir in reserved mushrooms and their liquid, butter, chives, and Parmesan cheese."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/854efwMYEwilYjKr0FiF4FkwBvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-DDMFS-4x3-a8a80a8deb064c6a8f15452b808a0258.jpg"
+                }
+            ],
+            "text": "Season with salt and pepper and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "headline": "Southern-Style Pig Tails",
+    "name": "Southern-Style Pig Tails",
+    "description": "Meaty pig tails are boiled quickly, then boiled again for 2 hours until they're tender. Then they're roasted in the oven until sizzling hot and crispy.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT195M",
+    "cookTime": "PT170M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "408 kcal",
+        "carbohydrateContent": "5 g",
+        "cholesterolContent": "126 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "608 mg",
+        "sugarContent": "1 g",
+        "fatContent": "35 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "8 pig tails, rinsed",
+        "1 medium onion, coarsely chopped",
+        "6 cloves garlic, halved",
+        "1 teaspoon red pepper flakes, or to taste",
+        "1 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2krRanSKHBbf-MO-LiT1rF-F9SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-84740-southern-style-pig-tails-ddmfs-step-1-7e29db2ed1534f1bbbdc263f033930db.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jUxXDGpQeAHmBYLjhbCdPNRTrdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-84740-southern-style-pig-tails-ddmfs-step-2-1-3dd2e7cddba8467e961d21b446b4d00c.jpg"
+                }
+            ],
+            "text": "Place pig tails in a large stockpot and fill with enough cold water to cover. Cover the pot and bring to a boil. Boil for 10 to 15 minutes. Drain in a colander and clean the pot."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EdqD64XExDYE_51np35TK4dY9L4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-84740-southern-style-pig-tails-ddmfs-step-3-684e10c85eab4e8d83e84c9f3aeeb33c.jpg"
+                }
+            ],
+            "text": "Return tails to the pot and cover again with cold water. Add onion, garlic, pepper flakes, and salt; bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/YkQgM1t5hiJzJgjojI7HuNVbmA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-84740-Southern-style-pig-tails-Step-4-49ae5b3b2ed649b3b57472482574ce59.jpg"
+                }
+            ],
+            "text": "Cook at a boil until tails are almost falling apart, about 2 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Yt7bFuPgk-VOQMxTkGyRzCuISrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-84740-Southern-style-pig-tails-Step-5-96f0ad41bc1b4392a1a0c3fdfd276d50.jpg"
+                }
+            ],
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Line a roasting pan with aluminum foil."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/xwvGX4awvVrVePMF6s05ji65ehc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-84740-Southern-style-pig-tails-Step-6-8745d55445744116826a20e9d2d6b4dd.jpg"
+                }
+            ],
+            "text": "Drain pig tails and place onto the prepared roasting pan. Discard or save stock for another use."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/2aMq-nT2XlvY-oT9WdTkMJh64pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-84740-southern-style-pig-tails-Step-7-b3859c94c8fe4affacc813f412eadb1b.jpg"
+                }
+            ],
+            "text": "Roast in the preheated oven until tails pop and sizzle and the skin browns, 30 to 40 minutes. Very carefully open the oven door and remove from the oven. Allow tails to cool before serving."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

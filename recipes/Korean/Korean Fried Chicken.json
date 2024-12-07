@@ -1,0 +1,114 @@
+{
+    "headline": "Korean Fried Chicken",
+    "name": "Korean Fried Chicken",
+    "description": "This Korean fried chicken recipe is Chef John's method for cooking the crispiest and most delicious batter-coated, marinated boneless chicken thighs.",
+    "recipeCuisine": [
+        "Korean"
+    ],
+    "totalTime": "PT270M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "472 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "71 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "1150 mg",
+        "sugarContent": "1 g",
+        "fatContent": "24 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound skinless, boneless chicken thighs, quartered",
+        "0.5 yellow onion, grated",
+        "4 cloves garlic, minced",
+        "1 teaspoon fine salt",
+        "0.5 teaspoon freshly ground black pepper",
+        "4 cups oil for frying, or as needed",
+        "0.75 cup cornstarch",
+        "0.5 cup self-rising flour",
+        "1 teaspoon white sugar",
+        "0.5 teaspoon ground black pepper",
+        "0.25 teaspoon salt",
+        "1 cup very cold water, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/u2rcHmw3aWP4gD2bcB5peEwKlqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238844-KoreanFriedChicken-ddmfs-Step1-3x4-8711-5aa4bf59ca594850b6a6cf82ae8dd99e.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/w9KY8QLMhV3EXrcxVoOEjSY69DE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238844-KoreanFriedChicken-ddmfs-Step2-3x4-8714-3951ab5a22bc4f76b9c7ea5309ca3530.jpg"
+                }
+            ],
+            "text": "Make marinade: Stir together chicken, onion, garlic, salt, and pepper in a medium bowl until chicken is coated. Cover the bowl with plastic wrap and refrigerate, 4 hours to overnight."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep fryer or large saucepan to 340 degrees F (171 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ES4CJq8cc12Wy-JINgBoSdFWdxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238844-KoreanFriedChicken-ddmfs-Step5-3x4-8721-65f7fe2b55064668befb136474fadbf4.jpg"
+                }
+            ],
+            "text": "While oil is heating, make batter: Whisk together cornstarch, flour, sugar, pepper, and salt in a large bowl. Gradually whisk in cold water until mixture resembles smooth pancake batter. Use tongs to remove chicken from marinade to batter; stir to coat chicken completely. Discard marinade."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EqLj-vdPL8jOkBZ7LYzTY45Ob-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238844-KoreanFriedChicken-ddmfs-Step6-3x4-8744-186617e9dd2440509123a540f2bae669.jpg"
+                }
+            ],
+            "text": "Working in batches, fry chicken in hot oil for 4 minutes. Transfer chicken to a cooling rack."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Increase oil temperature to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nTki3umswtxzU57C7PgL9HSL60w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238844-KoreanFriedChicken-ddmfs-Step7-3x4-8775-07ad2c0987174d05a4a55d0e332b24a1.jpg"
+                }
+            ],
+            "text": "Working in batches, fry chicken again in hot oil until golden brown and crispy, 3 to 4 minutes. Transfer to a wire rack to drain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/sd7k0aF16nRqAqzkuifhIcBZBGk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238844-KoreanFriedChicken-ddmfs-3x4-8800-fc085a41feba4740af1583fec94e9151.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "headline": "Creamy Garlic Butter Shrimp Pasta",
+    "name": "Creamy Garlic Butter Shrimp Pasta",
+    "description": "Angel hair pasta is paired with garlicy shrimp in a buttery-cream sauce - restaurant-quality food at home.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "680 kcal",
+        "carbohydrateContent": "37 g",
+        "cholesterolContent": "248 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "29 g",
+        "sodiumContent": "1093 mg",
+        "sugarContent": "6 g",
+        "fatContent": "49 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 lb angel hair pasta",
+        "1 stick unsalted butter",
+        "1/4 cup minced garlic (or to taste)",
+        "1 lb (21-26) frozen jumbo shrimp, peeled and deveined",
+        "1 teaspoon cavenders Greek seasoning",
+        "Pinch crushed red pepper flakes",
+        "4 oz cream cheese softened",
+        "1 cup whipping cream",
+        "1 cup milk",
+        "1/2 cup freshly grated parmigiana reggiano",
+        "Reserved pasta water",
+        "Parsley, optional"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook angel hair pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, 4 to 5 minutes. Drain and reserve 1/2 cup of pasta water."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat a heavy skillet over medium high heat. Add butter and let melt. Reduce heat to low and add garlic. Cook until garlic is browned and fragrant, about 1 minute. Add shrimp, Greek seasoning, and red pepper flakes. Cook until shrimp starts to turn pink, turning shrimp occasionally, 2 to 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in cream cheese cubes until broken up and incorporated with butter and garlic. Pour in cream and milk and stir until incorporated with the cream cheese. Mix in Parmigiana Reggiano cheese and stir until well combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour in some of the reserved pasta water, 2 tablespoons at a time, until sauce has reached desired consistency. Add pasta to sauce in the skillet and toss to coat. Sprinkle with fresh parsley and serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

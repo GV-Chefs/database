@@ -1,0 +1,64 @@
+{
+    "headline": "Chocolate Chips Cookies with Tennessee Whiskey",
+    "name": "Chocolate Chips Cookies with Tennessee Whiskey",
+    "description": "Chocolate chip whiskey cookies receive an extra kick thanks to a touch of Tennessee whiskey in the dough. Serve with a big glass of milk!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "172 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "24 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "143 mg",
+        "sugarContent": "17 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2.5 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 cup butter, softened",
+        "1 cup white sugar",
+        "1 cup firmly packed brown sugar",
+        "2 eggs, beaten",
+        "1 tablespoon Tennessee whiskey",
+        "1 teaspoon vanilla extract",
+        "1 (12 ounce) bag semi-sweet chocolate chips"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Sift flour, baking soda, and salt together into a bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Beat butter, white sugar, and brown sugar together in a large bowl with an electric mixer until smooth. Beat in first egg until thoroughly blended; beat in second egg. Add whiskey and vanilla extract; beat until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix flour mixture into creamed butter mixture until just incorporated; fold in chocolate chips. Form dough into 1-inch balls and place on a baking sheet, 1 to 2 inches apart."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until edges are lightly browned, 9 to 12 minutes. Transfer cookies to a wire rack to cool."
+        }
+    ],
+    "recipeYield": [
+        "36"
+    ]
+}

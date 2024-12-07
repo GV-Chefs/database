@@ -1,0 +1,63 @@
+{
+    "headline": "Italian Baked Meatballs",
+    "name": "Italian Baked Meatballs",
+    "description": "These beefy baked meatballs are super tender and tasty thanks to the addition of Italian-seasoned bread crumbs, garlic, parsley, and Romano cheese.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "343 kcal",
+        "carbohydrateContent": "14 g",
+        "cholesterolContent": "135 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "24 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "612 mg",
+        "sugarContent": "1 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup Italian-seasoned bread crumbs",
+        "0.25 cup grated Romano cheese",
+        "2 tablespoons chopped fresh parsley",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "0.5 teaspoon garlic powder",
+        "0.5 teaspoon onion powder",
+        "0.5 cup water",
+        "2 eggs, beaten",
+        "1.5 pounds ground beef"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix bread crumbs, Romano cheese, parsley, salt, pepper, garlic powder, and onion powder together in a large bowl; stir in water and eggs. Add ground beef and mix until well combined. Form mixture into balls and place on a nonstick baking sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/F6xI3iTMP-AkccRI936lLguoOlM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5834922-italian-baked-meatballs-kim-1x1-1-c680b12cfaa441d39c517757aa382a39.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven cooked through and evenly browned, about 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

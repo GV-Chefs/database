@@ -1,0 +1,81 @@
+{
+    "headline": "Cajun Chicken and Sausage Gumbo",
+    "name": "Cajun Chicken and Sausage Gumbo",
+    "description": "This Cajun chicken and sausage gumbo begins with a dark roux and is a rich, deeply flavored chicken and andouille stew. Served over hot rice, it is the ultimate Cajun comfort food.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT175M",
+    "cookTime": "PT160M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "879 kcal",
+        "carbohydrateContent": "53 g",
+        "cholesterolContent": "178 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "45 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "1459 mg",
+        "sugarContent": "7 g",
+        "fatContent": "55 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "2 pounds boneless skinless chicken thighs",
+        "2 1/2 teaspoons Cajun seasoning, divided",
+        "1/2 teaspoon garlic powder",
+        "1 cup vegetable oil, divided",
+        "1 pound smoked andouille sausage, cut in 1 inch pieces",
+        "1 1/3 cups all-purpose flour",
+        "1 large white onion, finely chopped",
+        "1 large green bell pepper, finely chopped",
+        "1 jalapeno pepper, seeded and chopped",
+        "2 stalks celery, finely chopped",
+        "3 cloves garlic, minced",
+        "1 teaspoon kosher salt",
+        "6 cups chicken stock",
+        "2 bay leaves",
+        "1 teaspoon black pepper",
+        "1 Tablespoon Worcestershire sauce",
+        "2 teaspoons hot sauce, or to taste",
+        "2 teaspoons chopped fresh thyme (1/2 teaspoon if using dried)",
+        "1 pound sliced okra",
+        "Cooked rice for serving",
+        "Sliced green onions for serving"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C). Place chicken in a baking dish and sprinkle with 1 teaspoon Cajun seasoning and garlic powder. Cover with foil.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until chicken is no longer pink at the center and juices run clear, 50 to 60 minutes. Allow to cool slightly and shred chicken into 1 to 2-inch pieces. Set aside.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, add 2 teaspoons oil and sausage to a large Dutch oven over medium-high heat. Cook, stirring occasionally, until sausage is browned, about 5 minutes. Remove sausage using a slotted spoon to drain on paper towels; set aside. Reserve drippings in the pot.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat to medium-low. Add remaining oil to the pot and whisk in flour. Cook, stirring often, until roux is dark brown, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onion, peppers, celery, garlic, and salt to the roux. Increase heat to medium-high and cook, stirring constantly, until vegetables are tender, about 5 minutes.\u00a0 Stir in remaining Cajun seasoning, stock, bay leaves, black pepper, Worcestershire sauce, hot sauce, and thyme, and bring to a boil, stirring occasionally. Add reserved chicken and sausage, reduce heat to medium-low, and simmer for 20 minutes.\u00a0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in okra and cook for 20 minutes. Serve with hot cooked rice and green onions."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

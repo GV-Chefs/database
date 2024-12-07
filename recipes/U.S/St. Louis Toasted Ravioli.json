@@ -1,0 +1,102 @@
+{
+    "headline": "St. Louis Toasted Ravioli",
+    "name": "St. Louis Toasted Ravioli",
+    "description": "Toasted ravioli traces its roots to St. Louis. This breaded and fried treat is sprinkled with Parmesan cheese and served with marinara sauce for dipping.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "374 kcal",
+        "carbohydrateContent": "39 g",
+        "cholesterolContent": "57 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "11 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "886 mg",
+        "sugarContent": "9 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 (16 ounce) jar marinara sauce",
+        "1 large egg",
+        "2 tablespoons whole milk",
+        "0.75 cup Italian seasoned bread crumbs",
+        "0.5 teaspoon salt",
+        "0.5 (25 ounce) package frozen cheese ravioli, thawed",
+        "3 cups vegetable oil for frying, or as needed",
+        "1 tablespoon grated Parmesan cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OyjrBhr3O43Opx0m-xG1ecZ_DuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-16907-st-louis-roasted-ravioli-ddmfs-4x3-step-01-2fdc53989c1a40fe86e5105e12d55525.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/C2eMDtOOywm4bs0zoY968PO8v3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-16907-st-louis-roasted-ravioli-ddmfs-4x3-step-02-8196ae8ddc2e4ee39dff6c8a4baf5049.jpg"
+                }
+            ],
+            "text": "Heat marinara sauce in a saucepan over medium heat until bubbling; reduce the heat to low and simmer until needed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SeW6LZbfvXp6EKGmi6YipGoZ63U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-16907-st-louis-roasted-ravioli-ddmfs-4x3-step-03-c53884e0ba49428aa4e0ac89355710b3.jpg"
+                }
+            ],
+            "text": "Meanwhile, whisk egg and milk together in a small bowl. Whisk bread crumbs and salt together in a second small bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/9lEsFcVp_u2X095HCOpjs8Mj7uk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-16907-st-louis-roasted-ravioli-ddmfs-4x3-step-04-23a39590179240aba17c02d1c5fd3be1.jpg"
+                }
+            ],
+            "text": "Dip each ravioli in milk mixture, then in bread crumbs to coat."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/CCX2fDyP7P4bYSnhVV4EQNFes2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-16907-st-louis-roasted-ravioli-ddmfs-4x3-step-05-18472734004242589c1ae08453f0beb0.jpg"
+                }
+            ],
+            "text": "Heat 2 inches oil in a large, heavy pan until a small amount of breading sizzles and turns brown. Fry ravioli, a few at a time, until golden, about 1 minute per side. Drain on paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/A3dvk8dJy0b9czXUkl7J99mHhgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16907-st-louis-toasted-ravioli-trusted-brands-0b2f45f61b884412bc790a10e9383c43.jpeg"
+                }
+            ],
+            "text": "Sprinkle warm ravioli with Parmesan and serve immediately with hot marinara sauce on the side."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "headline": "Jalape\u00f1o Hummus",
+    "name": "Jalape\u00f1o Hummus",
+    "description": "This jalape\u00f1o hummus is made by blending chickpeas, jalape\u00f1o peppers, garlic, cumin, and tahini to make a delicious dip that'll liven up any party!",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "75 kcal",
+        "carbohydrateContent": "9 g",
+        "fiberContent": "2 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "191 mg",
+        "sugarContent": "0 g",
+        "fatContent": "4 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Appetizer"
+    ],
+    "recipeIngredient": [
+        "1 cup garbanzo beans",
+        "0.33333334326744 cup canned jalapeno pepper slices, juice reserved",
+        "3 tablespoons tahini",
+        "3 cloves garlic, minced",
+        "2 tablespoons lemon juice",
+        "0.5 teaspoon ground cumin",
+        "0.5 teaspoon curry powder",
+        "crushed red pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place chickpeas, jalape\u00f1o peppers and reserved juice, tahini, garlic, and lemon juice in a blender or food processor; season with cumin, curry powder, and crushed red pepper. Blend until smooth."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

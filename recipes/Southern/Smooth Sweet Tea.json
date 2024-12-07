@@ -1,0 +1,73 @@
+{
+    "headline": "Smooth Sweet Tea",
+    "name": "Smooth Sweet Tea",
+    "description": "This sweet tea is a classic Southern drink served chilled and easily made with tea bags and sugar for a great way to cool down on a hot summer day.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT200M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "73 kcal",
+        "carbohydrateContent": "19 g",
+        "sodiumContent": "41 mg",
+        "sugarContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Beverage"
+    ],
+    "recipeIngredient": [
+        "1 pinch baking soda",
+        "2 cups boiling water",
+        "6 tea bags",
+        "0.75 cup white sugar",
+        "6 cups cool water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Pk1P2Q4RYarPrTQXUiMqlZUGu_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-109190-SmothSweetTea-Step-1-0144-dccc1bb4cd3b43829588498cd18a31e2.jpg"
+                }
+            ],
+            "text": "Gather ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/eyfwGOQZuBRiy36Kl1PnOWRinl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-109190-SmothSweetTea-Step-2-0146-e806d4fde013450db87715dc710e130c.jpg"
+                }
+            ],
+            "text": "Sprinkle a pinch of baking soda into a 64-ounce, heat-proof glass pitcher. Pour in boiling water and add tea bags. Cover and allow to steep for 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/h8srgQApiAIBu4L6E7_6c9I4Q4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-109190-SmothSweetTea-Step-4-0150-eeada5dcffa54dc1b8076d3e0802d66e.jpg"
+                }
+            ],
+            "text": "Remove tea bags and discard; stir in sugar until dissolved. Pour in cool water; refrigerate until cold, about 3 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/REETjYFdVRmMtwVHPT66VmQVmmI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/109190-smooth-sweet-tea-DDMFS-4x3-9e849a386d414cb2b852099f02b6782d.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "7"
+    ]
+}

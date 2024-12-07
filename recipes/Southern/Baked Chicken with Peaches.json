@@ -1,0 +1,51 @@
+{
+    "headline": "Baked Chicken with Peaches",
+    "name": "Baked Chicken with Peaches",
+    "description": "The sweetness of peaches and a sprinkling of brown sugar, the spice of ginger and cloves, and a smidgen of lemon juice all heighten the flavor of these baked chicken breasts.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT45M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "248 kcal",
+        "carbohydrateContent": "30 g",
+        "cholesterolContent": "67 mg",
+        "proteinContent": "25 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "68 mg",
+        "sugarContent": "30 g",
+        "fatContent": "3 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "8 skinless, boneless chicken breast halves",
+        "1 cup brown sugar",
+        "4 fresh peaches - peeled, pitted, and sliced",
+        "0.125 teaspoon ground ginger",
+        "0.125 teaspoon ground cloves",
+        "2 tablespoons fresh lemon juice"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place chicken in the prepared baking dish, and sprinkle with 1/2 cup of brown sugar. Place peach slices over chicken, then sprinkle with remaining 1/2 cup brown sugar, ginger, cloves, and lemon juice."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for about 30 minutes in the preheated oven, basting often with juices, until chicken is cooked through and juices run clear."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

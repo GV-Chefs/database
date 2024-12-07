@@ -1,0 +1,90 @@
+{
+    "headline": "Slow Cooker Chili",
+    "name": "Slow Cooker Chili",
+    "description": "This easy slow cooker chili made with ground beef, beans, vegetables, and spices is cooked in a crockpot for a hearty and filling weeknight dinner.",
+    "recipeCuisine": [
+        "Tex-Mex"
+    ],
+    "totalTime": "PT505M",
+    "cookTime": "PT490M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "273 kcal",
+        "carbohydrateContent": "33 g",
+        "cholesterolContent": "34 mg",
+        "fiberContent": "11 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "975 mg",
+        "sugarContent": "5 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "0.75 cup diced onion",
+        "0.75 cup diced celery",
+        "0.75 cup diced green bell pepper",
+        "2 cloves garlic, minced",
+        "2 (10.75 ounce) cans tomato puree",
+        "1 (15 ounce) can kidney beans with liquid",
+        "1 (15 ounce) can kidney beans, drained",
+        "1 (15 ounce) can cannellini beans with liquid",
+        "0.5 tablespoon chili powder",
+        "1 teaspoon salt",
+        "0.75 teaspoon dried basil",
+        "0.75 teaspoon dried oregano",
+        "0.5 teaspoon dried parsley",
+        "0.25 teaspoon ground black pepper",
+        "0.125 teaspoon hot pepper sauce"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/FxfrJfpukRkWZPC_slNgXGueoEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/324-SlowCooker-Chili-ddmfs-step1-4x3-3833-159d4944151c4ed0a85c1bf074d93992.jpg"
+                }
+            ],
+            "text": "Place beef in a skillet over medium heat and cook until evenly brown, 8 to 10 minutes. Drain grease."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/abMu0uj4VqFeEY4i8U_h49E7Umo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/324-SlowCooker-Chili-ddmfs-step3-4x3-3848-32d981ca95d94f31849fae476643f906.jpg"
+                }
+            ],
+            "text": "Transfer beef to a slow cooker and mix in onion, celery, bell pepper, garlic, tomato puree, kidney beans, and cannellini beans. Season with chili powder, salt, basil, oregano, parsley, black pepper, and hot pepper sauce."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gf6Ot3fdlebjAFip8M8NiIZWkbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/324-SlowCooker-Chili-ddmfs-step4-4x3-38483985-d63ce9a1100543c9a320aa9f54984bd7.jpg"
+                }
+            ],
+            "text": "Cover and cook on Low for 8 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Gpr7uRhA_0jTwdT39C1CtK3O5LQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/324-SlowCooker-Chili-ddmfs-4x3-38483994-c501b089a5ce4680a397707bbf339f2f.jpg"
+                }
+            ],
+            "text": "Serve hot and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

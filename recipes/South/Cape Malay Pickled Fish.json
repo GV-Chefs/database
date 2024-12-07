@@ -1,0 +1,90 @@
+{
+    "headline": "Cape Malay Pickled Fish",
+    "name": "Cape Malay Pickled Fish",
+    "description": "Pickled fish made with tender cod fillets covered with a sweet, spicy, and aromatic pickling liquid is a traditional and delicious Cape Town Easter meal.",
+    "recipeCuisine": [
+        "South African",
+        "African"
+    ],
+    "totalTime": "PT1525M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "238 kcal",
+        "carbohydrateContent": "16 g",
+        "cholesterolContent": "49 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "67 mg",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "0.5 cup vegetable oil for frying",
+        "3 pounds cod fillets, cut into 2 to 3 ounce portions",
+        "salt to taste",
+        "2 large onions, peeled and sliced into rings",
+        "2 cloves garlic, chopped",
+        "1 red chile pepper, seeded and sliced lengthwise",
+        "3 large bay leaves",
+        "8 whole black peppercorns",
+        "4 whole allspice berries",
+        "2 cups red wine vinegar",
+        "0.5 cup water",
+        "0.5 cup packed brown sugar, or to taste",
+        "2 tablespoons curry powder",
+        "2 teaspoons ground cumin",
+        "2 teaspoons ground coriander",
+        "1 teaspoon ground turmeric"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1SVbUvDHN0I-JQa_M5szUDggR0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/104444-cape-malay-pickled-fish-DDMFS-step-01-2830-430b16da50c149e794a45a1ca0cafeac.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/E9R_huVgrc3wLmJvq_lD-ocv73o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/104444-cape-malay-pickled-fish-DDMFS-step-03-2834-0cee1551fb374aac9d461f71227312b4.jpg"
+                }
+            ],
+            "text": "Heat oil in a large skillet over medium-high heat. Season fish with salt and fry in the hot skillet until fish is browned and flakes easily with a fork, about 5 minutes per side. Transfer to a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/9ZnQXv0uDORyejI8kOKSOyYS5yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/104444-cape-malay-pickled-fish-DDMFS-step-06-2838-d09e6ffa71a648719b7c6af0ae393beb.jpg"
+                }
+            ],
+            "text": "Add onions and garlic to the skillet and cook over medium heat until translucent, about 5 minutes. Add chile pepper, bay leaves, peppercorns, and allspice berries, then pour in vinegar and water and bring to a boil. Stir in brown sugar until dissolved. Season with curry powder, cumin, coriander, and turmeric. Taste and add brown sugar if desired."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cjY14h650iuX2fKStvbvJtfBehM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/104444-cape-malay-pickled-fish-DDMFS-step-09-2882-43a1ff02b7f24a38bf3fff965c39217c.jpg"
+                }
+            ],
+            "text": "Arrange layers of fish and pickling mixture in a serving dish. Pour in pickling liquid to cover the top layer. Let cool to room temperature, about 30 minutes. Cover and refrigerate for at least 24 hours before serving."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

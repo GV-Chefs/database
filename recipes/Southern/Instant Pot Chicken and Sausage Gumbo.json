@@ -1,0 +1,63 @@
+{
+    "headline": "Instant Pot Chicken and Sausage Gumbo",
+    "name": "Instant Pot Chicken and Sausage Gumbo",
+    "description": "This instant pot gumbo with chicken and sausage is packed with hearty vegetables and Creole spices. Easy to make and super-comforting to eat!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "538 kcal",
+        "carbohydrateContent": "17 g",
+        "cholesterolContent": "96 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "27 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1383 mg",
+        "sugarContent": "4 g",
+        "fatContent": "40 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon vegetable oil",
+        "1.5 pounds skinless, boneless chicken thighs, chopped into bite-sized pieces",
+        "0.5 pound andouille sausage, sliced",
+        "0.5 cup vegetable oil",
+        "0.5 cup all-purpose flour",
+        "1 medium onion, chopped",
+        "1 green bell pepper, chopped",
+        "2 stalks celery, chopped",
+        "1 tablespoon minced garlic",
+        "4 cups chicken broth",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1.5 cups sliced okra",
+        "2 teaspoons black pepper",
+        "1 teaspoon cayenne pepper",
+        "1 teaspoon dried thyme",
+        "1 teaspoon Creole seasoning",
+        "1 teaspoon Worcestershire sauce"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Saut\u00e9 function. Add 1 tablespoon oil, chicken, and sausage to the pot; cook for 6 minutes. Remove meat with a slotted spoon and set aside. Add 1/2 cup oil and flour to the pot. Whisk until roux is the color of peanut butter, about 10 minutes. Add onion, bell pepper, celery, and garlic. Cook, stirring continually to prevent burning, for 5 minutes. Turn the pot off."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add broth, tomatoes, okra, black pepper, cayenne pepper, thyme, Creole seasoning, and Worcestershire sauce to the pot. Stir in cooked chicken and sausage. Close and lock the lid. Select high pressure according to manufacturer's instructions and set the timer for 4 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Serve immediately."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "headline": "Grandma's Blackberry Cobbler",
+    "name": "Grandma's Blackberry Cobbler",
+    "description": "Try this grandma's old-fashioned blackberry cobbler recipe with fresh blackberries, or use any fruit you like.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT55M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "453 kcal",
+        "carbohydrateContent": "76 g",
+        "cholesterolContent": "42 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "201 mg",
+        "sugarContent": "55 g",
+        "fatContent": "16 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "3 cups white sugar, divided",
+        "2 tablespoons cornstarch",
+        "2 pinches salt, divided",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 cup softened butter",
+        "1 cup milk",
+        "2 pounds fresh blackberries",
+        "2 cups boiling water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk 1 1/2 cups sugar, cornstarch, and one pinch salt together in a small bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk flour, remaining 1 1/2 cups sugar, baking powder, and remaining pinch salt together in a large bowl. Stir in softened butter until mixture resembles cornmeal, then stir in milk until moistened."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Spread blackberries in an even layer in the bottom of a 9x13-inch baking dish; spoon batter evenly over top. Sprinkle sugar-cornstarch mixture over batter, then pour boiling water over top."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until fruit is bubbling and topping is golden brown, 40 to 45 minutes."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

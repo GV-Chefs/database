@@ -1,0 +1,72 @@
+{
+    "headline": "Classic Shepherd's Pie",
+    "name": "Classic Shepherd's Pie",
+    "description": "This classic shepherd's pie recipe is made with a layer of savory beef topped with garlicky mashed potatoes. Perfect for feeding a hungry family!",
+    "recipeCuisine": [
+        "Uk And Ireland"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT35M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "375 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "57 mg",
+        "fiberContent": "4 g",
+        "proteinContent": "18 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1603 mg",
+        "sugarContent": "4 g",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon vegetable oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried rosemary",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "1 pound lean ground beef",
+        "4 teaspoons all-purpose flour",
+        "0.25 cup Heinz Tomato Ketchup",
+        "0.75 cup Heinz\u00ae Tomato Juice",
+        "2 tablespoons Heinz Worcestershire Sauce",
+        "2 tablespoons Dijon mustard",
+        "1 cup frozen mixed vegetables (such as peas and carrots)",
+        "3 cups cooked, warm, mashed potatoes",
+        "2 tablespoons butter",
+        "1 clove garlic, minced",
+        "0.66666668653488 cup warm milk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (180 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet set over medium heat. Add onion, garlic, thyme, rosemary, and 1/2 of the salt and pepper. Cook, stirring often, for 5 to 7 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Crumble ground beef into pan and cook until brown all over. Sprinkle with flour. Stir in ketchup, tomato juice, Worcestershire sauce and mustard. Simmer for 5 minutes. Stir in mixed vegetables. Transfer to a 9-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whip mashed potatoes with warm milk, remaining salt and pepper, butter, and garlic until very fluffy. Spread potatoes evenly over meat mixture."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until potatoes are golden on top, about 35 minutes."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

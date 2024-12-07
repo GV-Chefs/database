@@ -1,0 +1,99 @@
+{
+    "headline": "Divinity",
+    "name": "Divinity",
+    "description": "This divinity recipe combines sugar, corn syrup, egg whites, and vanilla to make a fluffy, nougat-like candy that's perfect for a sweet treat.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT770M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "67 kcal",
+        "carbohydrateContent": "15 g",
+        "fiberContent": "0 g",
+        "proteinContent": "0 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "5 mg",
+        "sugarContent": "12 g",
+        "fatContent": "1 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2.6666667461395 cups white sugar",
+        "0.66666668653488 cup light corn syrup",
+        "0.5 cup water",
+        "2 egg whites",
+        "1 teaspoon vanilla extract",
+        "0.66666668653488 cup chopped walnuts"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/BlT2jGqaVHqBVyZF0lNcOj0UkM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-9327-divinity-VAT-4x3-step-01-6d38b98996c84510bb4884bd26f10603.jpg"
+                }
+            ],
+            "text": "Gather all your ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/yrqt0zPq8d8NWvxeTGEXDvLODvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-9327-divinity-VAT-4x3-step-03-afd910d633ef43a2b575f41c8c0f491a.jpg"
+                }
+            ],
+            "text": "Heat sugar, corn syrup, and water in a 2-quart saucepan over low heat; stir continuously until sugar is dissolved and mixture comes to a boil. Continue to cook, without stirring, until the mixture reaches 250 degrees F (120 degrees C) or until a small amount of syrup dropped into cold water forms a rigid ball."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ipDpmoOHNK-bAhs-81qdf_UWlng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-9327-divinity-VAT-4x3-step-04-48bce4311d75432f9a5ae4484fd88158.jpg"
+                }
+            ],
+            "text": "Beat egg whites in a 1 1/2-quart glass, metal, or ceramic bowl until stiff peaks form."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/e5X9y8W7lad6MlXunrBydJFDRhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-9327-divinity-VAT-4x3-step-05-2e60c46933f74398aa72e394b8d12ade.jpg"
+                }
+            ],
+            "text": "Continue to beat while slowly pouring hot syrup in a thin stream into egg whites"
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ot5ggTU9cmM04lwEBaJhAPFSDo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-9327-divinity-VAT-4x3-step-06-85b2333b6495426f91b6642c3faf1882.jpg"
+                }
+            ],
+            "text": "Add vanilla; beat until mixture holds its shape and begins to lose its gloss. Fold in walnuts."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gMTkNXAxZ2jsBEeACVV8JibOinU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-9327-divinity-VAT-4x3-step-07-76f36718698142bdb96bd79aa275a4d3.jpg"
+                }
+            ],
+            "text": "Drop from a greased spoon onto waxed paper. Let stand at room temperature, turning candy over once, until the outside of candy is firm, at least 12 hours. Store in an airtight container."
+        }
+    ],
+    "recipeYield": [
+        "48"
+    ]
+}

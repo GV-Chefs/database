@@ -1,0 +1,73 @@
+{
+    "headline": "Favorite Fry Bread Tacos",
+    "name": "Favorite Fry Bread Tacos",
+    "description": "These fry bread tacos topped with ground beef chili, cheese, lettuce, and tomatoes are an authentic Native American favorite.",
+    "recipeCuisine": [
+        "Canadian",
+        "American"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "696 kcal",
+        "carbohydrateContent": "51 g",
+        "cholesterolContent": "103 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "33 g",
+        "saturatedFatContent": "19 g",
+        "sodiumContent": "1371 mg",
+        "sugarContent": "3 g",
+        "fatContent": "41 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "2 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "0.5 teaspoon white sugar",
+        "0.5 teaspoon salt",
+        "1.5 cups lukewarm water",
+        "2 cups oil for frying, or as needed",
+        "1 pound ground beef",
+        "1 (15 ounce) can kidney beans, drained",
+        "1 (1.25 ounce) package chili seasoning mix",
+        "2 cups shredded Cheddar cheese",
+        "2 cups chopped iceberg lettuce",
+        "2 tomatoes, chopped",
+        "1 cup sour cream"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together flour, baking powder, sugar, and salt in a large bowl; stir in water until a slightly sticky dough forms. Set aside to rest while oil preheats."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide dough into 6 equal portions. Flatten each portion into a round disc the size of your palm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fry dough discs, one at a time, in hot oil until bottoms are browned, about 2 minutes; flip with tongs and cook until browned on the other side, about 1 minute more. Drain fry bread on a paper towel-lined plate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat a skillet over medium heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Stir in kidney beans and chili seasoning; cook until heated through, about 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place each fry bread on a plate; top each with a portion of chili mixture, cheese, lettuce, tomatoes, and sour cream."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "headline": "Chef John's Cheese Blintzes",
+    "name": "Chef John's Cheese Blintzes",
+    "description": "Chef John's cheese blintzes, filled with a lemony ricotta and cream cheese mixture, are perfect for a special brunch. Try them with a fresh berry sauce.",
+    "recipeCuisine": [
+        "U.S.",
+        "American"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "452 kcal",
+        "carbohydrateContent": "33 g",
+        "cholesterolContent": "207 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "19 g",
+        "saturatedFatContent": "13 g",
+        "sodiumContent": "518 mg",
+        "sugarContent": "10 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1 cup milk",
+        "1 cup all-purpose flour",
+        "0.25 cup cold water",
+        "3 large eggs",
+        "2 tablespoons vegetable oil",
+        "1 tablespoon white sugar",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon vanilla extract",
+        "cooking spray",
+        "1 tablespoon butter, or as needed",
+        "1.5 cups ricotta cheese, strained if wet",
+        "0.5 cup cream cheese, at room temperature",
+        "1 large egg",
+        "3 tablespoons powdered sugar, divided, or more as needed",
+        "1 medium lemon, zested",
+        "1 pinch salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/SUQ-XQj9tIQI9OrxWC3pjBuoYr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step1-3x4-6697-830ee3358b6e43ac9a90f6150f1ee19c.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/bKZDBNp4XTR8qDq7cUpyqIq-5jw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step3-3x4-6701-29db590b84b847d0b84a78cc2c6c93db.jpg"
+                }
+            ],
+            "text": "Make the batter: Combine milk, flour, water, eggs, oil, sugar, salt, and vanilla in a blender. Blend until completely smooth, 1 or 2 minutes, scraping down the sides as needed. Let batter sit at room temperature for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/zikAFyjeseT8mVDiRJ55MD7cDZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step4-3x4-6705-36f9690ff8b244e69d172322d20b5dff.jpg"
+                }
+            ],
+            "text": "Meanwhile, make the filling: Whisk ricotta cheese, cream cheese, egg, 2 tablespoons powdered sugar, lemon zest, and salt together in a mixing bowl until thoroughly combined. Cover and refrigerate until needed."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gBgPjnulCjXuh2alLkEZETAuCB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step6-3x4-6712-32ec8d460d064851b3d0a068afdbca05.jpg"
+                }
+            ],
+            "text": "When batter has rested, heat a 10-inch, nonstick skillet over medium-high heat. Spray with cooking spray and pour in about 1/4 cup batter."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/08s91WjbSyoWjACXWfwFvnoCYhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step7-3x4-6722-0d70120e2b624b3eb1ee40b08569b421.jpg"
+                }
+            ],
+            "text": "Immediately swirl batter around to coat the bottom of the skillet. Cook until the surface looks dry, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GKZXELN-iEgAQFY9mWokObkCzm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step8-3x4-6723-7cd2cb9c734f4cd5b6b3a8955204b8ff.jpg"
+                }
+            ],
+            "text": "Flip cr\u00eape and briefly cook the other side, about 30 seconds. Transfer to a plate. Repeat to cook and stack remaining cr\u00eapes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/fY16xQIuWpZRuZi0W27KAg0RMQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step10-3x4-6727-6c4b4d7d1ec945b698fbfa32e3f3a711.jpg"
+                }
+            ],
+            "text": "Preheat the oven to 325 degrees F (165 degrees C). Lightly grease a baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/jrLeqH3xDX8np0QAtDMDDKbYMiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step12-3x4-6730-04b802e904974a6ea367871370d83de6.jpg"
+                }
+            ],
+            "text": "Spoon 3 to 4 tablespoons filling onto each cr\u00eape, about 1 inch from the edge nearest you. Fold the edge over filling and flatten slightly."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ywKYXg0Il4jqxFcufmi1j305u50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step13-3x4-6733-989c61f72a38444d80346fc47e4361ea.jpg"
+                }
+            ],
+            "text": "Fold in both sides, then roll cr\u00eape into a small filled rectangle (blintz), ending with the seam on the bottom."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/bI4ZichcEiRsXS-jnswvqNw6mT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step14-3x4-6737-8854b2e867cb4af6b91bc6cf46bb8863.jpg"
+                }
+            ],
+            "text": "Melt butter in a large skillet over medium heat. Working in batches, cook several blintzes at a time until golden brown, turning gently, about 1 minute per side. Transfer to the prepared baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/rcgV3UJd8nAT03lR8hcXuyoMlm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-Step15-3x4-6740-deafe4add9924637b729c0c05d9c3540.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven to firm up the filling, about 12 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/1TZG0k7qjeeTwNLwXg_eUwzA-_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-242406-ChefJohnsCheeseBlintzes-ddmfs-3x4-6779-80b8bd4102b945889b0ce2def2c00fda.jpg"
+                }
+            ],
+            "text": "Cool blintzes for 10 minutes, then dust lightly with remaining powdered sugar and serve."
+        }
+    ],
+    "recipeYield": [
+        "5"
+    ]
+}

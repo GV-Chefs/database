@@ -1,0 +1,59 @@
+{
+    "headline": "South Georgia Biscuits",
+    "name": "South Georgia Biscuits",
+    "description": "These are traditional hand-formed South Georgia biscuits as made by my family for generations. Unlike most recipes, these biscuits are formed entirely by hand, not rolled and cut. Once you master the technique, you can make them very quickly and will find the texture and appearance to be much better than rolled biscuits.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT22M",
+    "cookTime": "PT12M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "183 kcal",
+        "carbohydrateContent": "21 g",
+        "cholesterolContent": "2 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "286 mg",
+        "sugarContent": "1 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "2.5 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "1 teaspoon salt",
+        "0.5 cup shortening",
+        "1 cup whole milk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl, stir together the flour, baking powder and salt. Cut in shortening with a pastry blender or by rubbing between your fingers until the lumps are smaller than peas. Pour in the milk all at once, and stir with a large spoon until dough is evenly moist. It should be sticky."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Flour your hands, and knead the dough lightly for 3 or 4 turns, adding just enough flour so that it doesn't stick to your hands. Let the dough rest for a minute or two."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "With well-floured hands, pinch off pieces of dough (about 12) and pat lightly into balls. Don't over work the dough. Place about 2 inches apart on ungreased baking sheets. With floured knuckles, press each ball down to about 1/2 inch thickness."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 11 to 12 minutes in the preheated oven, until browned on the bottom. Serve hot with butter."
+        }
+    ],
+    "recipeYield": [
+        "12"
+    ]
+}

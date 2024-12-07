@@ -1,0 +1,50 @@
+{
+    "headline": "Lemon Rosemary Salmon",
+    "name": "Lemon Rosemary Salmon",
+    "description": "An easy yet impressive rosemary and lemon salmon, baked with bright, savory flavors. This dish works as a weeknight meal or special occasion dinner.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "257 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "56 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "1017 mg",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 lemon, thinly sliced",
+        "4 sprigs fresh rosemary",
+        "2 salmon fillets, bones and skin removed",
+        "coarse salt to taste",
+        "1 tablespoon olive oil, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange half the lemon slices in a single layer in a baking dish. Layer with 2 sprigs rosemary, and top with salmon fillets. Sprinkle salmon with salt, layer with remaining rosemary sprigs, and top with remaining lemon slices. Drizzle with olive oil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake 20 minutes in the preheated oven, or until fish is easily flaked with a fork."
+        }
+    ],
+    "recipeYield": [
+        "2"
+    ]
+}

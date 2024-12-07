@@ -1,0 +1,54 @@
+{
+    "headline": "Southern Ham and Brown Beans",
+    "name": "Southern Ham and Brown Beans",
+    "description": "This Southern pinto beans recipe turns a pound of dry pinto beans and a ham hock into a family-favorite meal that will be enjoyed by multiple generations.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT280M",
+    "cookTime": "PT200M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "273 kcal",
+        "carbohydrateContent": "38 g",
+        "cholesterolContent": "17 mg",
+        "fiberContent": "9 g",
+        "proteinContent": "17 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "323 mg",
+        "sugarContent": "2 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound dry pinto beans",
+        "1 large, meaty ham hock",
+        "1 large onion, chopped",
+        "2 cloves garlic, minced",
+        "8 cups water",
+        "1 teaspoon chili powder",
+        "1 teaspoon salt, or to taste",
+        "0.25 teaspoon ground black pepper, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine beans, ham hock, onion, and garlic in a large stockpot. Pour in water, then season with chili powder, salt, and pepper. Bring to a boil, and cook for 2 minutes. Remove from the heat, cover, and let stand for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "After 1 hour, return the pot to the stovetop and return to a boil. Reduce the heat to medium-low and simmer until flavors have blended and broth has thickened, at least 3 hours, or up to 6 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "During the last 15 minutes of simmering, transfer ham hock to a cutting board. Let sit until cool enough to handle, 5 to 10 minutes, then pull meat from the bone. Return meat to the stockpot and discard the bone. Adjust seasonings to taste."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

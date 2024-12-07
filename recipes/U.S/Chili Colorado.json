@@ -1,0 +1,58 @@
+{
+    "headline": "Chili Colorado",
+    "name": "Chili Colorado",
+    "description": "Rich and hearty, this chunky Colorado pork chili gets its sizzle from chili powder and cumin. It simmers on the stovetop for two hours to intensify its flavor.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT115M",
+    "cookTime": "PT100M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "452 kcal",
+        "carbohydrateContent": "11 g",
+        "cholesterolContent": "102 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "35 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "263 mg",
+        "sugarContent": "2 g",
+        "fatContent": "30 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons all-purpose flour",
+        "1.5 pounds boneless pork, cut into 1 inch cubes",
+        "1 tablespoon bacon drippings, or vegetable oil",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon all-purpose flour",
+        "0.25 cup chopped onion",
+        "1 (4 ounce) can tomato sauce",
+        "2 tablespoons chili powder",
+        "1 teaspoon cumin",
+        "0.5 teaspoon garlic powder",
+        "salt and black pepper to taste",
+        "3 cups water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place 3 tablespoons flour in a plastic bag. Add pork and shake to lightly coat with flour; set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat bacon drippings and vegetable oil in a Dutch oven over medium-high heat. Add pork and cook until meat is evenly browned, about 5 to 8 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in 1 tablespoon flour; cook and stir for 3 minutes. Stir in onion, tomato sauce, chili powder, cumin, garlic powder, salt, pepper, and water. Bring to a boil; reduce heat to medium-low and simmer until pork is just falling apart, about 1 1/2 to 2 hours."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

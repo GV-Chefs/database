@@ -1,0 +1,57 @@
+{
+    "headline": "Ham with Red Eye Gravy",
+    "name": "Ham with Red Eye Gravy",
+    "description": "Red-eye gravy is a traditional Southern gravy made with black coffee and roast ham pan drippings for a delicious sweet-smoky flavor combination.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "214 kcal",
+        "carbohydrateContent": "1 g",
+        "cholesterolContent": "41 mg",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "984 mg",
+        "fatContent": "17 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon vegetable oil",
+        "0.5 cup chopped fatty ham scraps",
+        "4 (1/4 inch thick) slices ham",
+        "salt and freshly ground black pepper to taste",
+        "0.125 teaspoon cayenne pepper, or to taste",
+        "1 teaspoon all-purpose flour",
+        "0.66666668653488 cup brewed coffee"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a medium skillet over medium heat. Cook and stir ham scraps until browned, about 5 minutes. Remove to a plate, reserving the grease in the pan."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Place ham slices in the pan and cook over medium heat until browned, about 5 minutes on each side. Season both sides with salt, black pepper, and cayenne pepper. Remove ham and reserve on a plate."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Kb4yWnNINfKQN9NP067-QwX0F2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1066496-ham-with-red-eye-gravy-Chef-John-1x1-1-5a594155ceea4978a7e8c396885636d1.jpg"
+                }
+            ],
+            "text": "Reduce heat to medium-low and sprinkle flour over the pan drippings. Cook and stir for 2 minutes. Increase heat to medium-high and pour coffee into the pan. Cook and stir until combined and thickened. Season to taste. Return ham to the pan to warm through."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

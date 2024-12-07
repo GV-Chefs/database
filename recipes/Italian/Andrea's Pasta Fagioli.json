@@ -1,0 +1,56 @@
+{
+    "headline": "Andrea's Pasta Fagioli",
+    "name": "Andrea's Pasta Fagioli",
+    "description": "This pasta fagioli recipe features tomato sauce, cannellini beans, navy beans, and ditalini pasta with parsley, basil, and oregano for a chunky soup.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT90M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "403 kcal",
+        "carbohydrateContent": "68 g",
+        "cholesterolContent": "3 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "2 g",
+        "sodiumContent": "1223 mg",
+        "sugarContent": "6 g",
+        "fatContent": "8 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "3 tablespoons olive oil",
+        "1 onion, quartered then halved",
+        "2 cloves garlic, minced",
+        "5.5 cups water",
+        "1 (29 ounce) can tomato sauce",
+        "1 (15 ounce) can cannellini beans",
+        "1 (15 ounce) can navy beans",
+        "0.33333331346512 cup grated Parmesan cheese",
+        "1 tablespoon dried parsley",
+        "1.5 teaspoons dried basil",
+        "1.5 teaspoons dried oregano",
+        "1 teaspoon salt",
+        "1 pound ditalini pasta"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large pot over medium heat. Cook and stir onion in hot oil until translucent. Stir in garlic and cook until tender. Reduce heat and stir in water, tomato sauce, cannellini beans, navy beans, Parmesan, parsley, basil, oregano, and salt. Simmer for 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water until tender yet firm to the bite, 8 to 10 minutes; drain. Stir into soup."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

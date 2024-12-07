@@ -1,0 +1,114 @@
+{
+    "headline": "Fresh Southern Peach Cobbler",
+    "name": "Fresh Southern Peach Cobbler",
+    "description": "This peach cobbler recipe tops juicy fresh peach slices with an easy homemade cobbler topping for a delicious dessert perfect for summer!",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "562 kcal",
+        "carbohydrateContent": "99 g",
+        "cholesterolContent": "46 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "400 mg",
+        "sugarContent": "73 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "8 fresh peaches - peeled, pitted and sliced into thin wedges",
+        "0.25 cup white sugar",
+        "0.25 cup brown sugar",
+        "0.25 teaspoon ground cinnamon",
+        "0.125 teaspoon ground nutmeg",
+        "1 teaspoon fresh lemon juice",
+        "2 teaspoons cornstarch",
+        "1 cup all-purpose flour",
+        "0.25 cup white sugar",
+        "0.25 cup brown sugar",
+        "1 teaspoon baking powder",
+        "0.5 teaspoon salt",
+        "6 tablespoons unsalted butter, chilled and cut into small pieces",
+        "0.25 cup boiling water",
+        "3 tablespoons white sugar",
+        "1 teaspoon ground cinnamon"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/c78OWqACgLbHO7LdI8AqlFO5vZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51535-fresh-southern-peach-cobbler-ddmfs-step-1-0594-3x4-3b203431c94c494d83cba3a23801d7d9.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/x0SE9hyRAs_dBMeO113uFyEN20A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51535-fresh-southern-peach-cobbler-ddmfs-step-3-0599-3x4-d5ed435c8e064f2fb2299ce532053dd1.jpg"
+                }
+            ],
+            "text": "Combine peaches, 1/4 cup white sugar, 1/4 cup brown sugar, 1/4 teaspoon cinnamon, nutmeg, lemon juice, and cornstarch in a large bowl; toss to coat evenly, and pour into a 2-quart baking dish. Bake in preheated oven for 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/PFFKf2XKEMX7Xjatgu6Kb61Ynmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51535-fresh-southern-peach-cobbler-ddmfs-step-5-0603-3x4-3591e3fb0d8c4a179fd042f2493f9929.jpg"
+                }
+            ],
+            "text": "Meanwhile, combine flour, 1/4 cup white sugar, 1/4 cup brown sugar, baking powder, and salt in a large bowl. Blend in butter with your fingertips or a pastry blender until mixture resembles coarse meal. Stir in water until just combined."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/OFmyouHXsRjs7y-onxb49wcfTbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51535-fresh-southern-peach-cobbler-ddmfs-step-6-0606-3x4-1675b6fcaaa34b83aac19b75ae162f46.jpg"
+                }
+            ],
+            "text": "Remove peaches from oven, and drop spoonfuls of topping over them."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/ApqOE2DGLvKL89iQI2YIi3bxOQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51535-fresh-southern-peach-cobbler-ddmfs-step-7-0608-3x4-cdec7eaf394d4d91bda7244530544773.jpg"
+                }
+            ],
+            "text": "Mix 3 tablespoons white sugar and 1 teaspoon cinnamon together in a small bowl; sprinkle over entire cobbler."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_g_SFdKUwSniBWbzaQWEiGQw6SY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51535-fresh-southern-peach-cobbler-ddmfs-0652-3x4-cb8d3d5a1e8548728fa1fc3d21fec1f0.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until topping is golden, about 30 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

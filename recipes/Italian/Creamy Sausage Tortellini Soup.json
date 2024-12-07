@@ -1,0 +1,62 @@
+{
+    "headline": "Creamy Sausage Tortellini Soup",
+    "name": "Creamy Sausage Tortellini Soup",
+    "description": "This creamy sausage tortellini soup is loaded with hot Italian sausage and veggies. It\u2019s a comforting full meal with a side salad and some crusty bread.",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "783 kcal",
+        "carbohydrateContent": "66 g",
+        "cholesterolContent": "139 mg",
+        "fiberContent": "16 g",
+        "proteinContent": "32 g",
+        "saturatedFatContent": "24 g",
+        "sodiumContent": "2081 mg",
+        "sugarContent": "24 g",
+        "fatContent": "47 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Entree",
+        "Soup"
+    ],
+    "recipeIngredient": [
+        "1/2 lb hot Italian sausage",
+        "3/4 cups celery, sliced",
+        "3/4 cup carrots, sliced",
+        "1/2 cup onion, diced",
+        "2 cloves garlic, pressed",
+        "1 tablespoon flour",
+        "1 (14.5 ounce) can chicken broth",
+        "1 (14.5 ounce) can basil, garlic &amp; oregano diced tomatoes, undrained",
+        "1/2 tsp Italian seasoning",
+        "1 (8.8 ounce) package cheese tortellini",
+        "1 cup heavy cream",
+        "2 cups fresh spinach",
+        "1/2 cup mozzarella cheese, shredded",
+        "Salt and freshly ground black pepper to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place sausage, celery, carrots and onions in a Dutch oven over medium heat. Cook and stir until sausage is browned and veggies are tender, 7 to 9 minutes. Add garlic and cook until fragrant, about 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in flour and until well incorporated. Pour in chicken broth, scraping bottom of pot to release all browned bits. Cook for 1 minute. Add diced tomatoes and Italian seasoning; bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Reduce heat, add tortellini, and simmer for 5 minutes. Add cream; cook and stir for 5 more minutes. Add mozzarella cheese and stir until melted; stir in spinach. Season with salt and pepper."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

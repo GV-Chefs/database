@@ -1,0 +1,52 @@
+{
+    "headline": "Arroz con Leche (Rice Pudding)",
+    "name": "Arroz con Leche (Rice Pudding)",
+    "description": "This arroz con leche (rice pudding), scented with cinnamon, is a Guatemalan version of rice pudding, where rice is simmered with water, milk, and sugar.",
+    "recipeCuisine": [
+        "Latin American"
+    ],
+    "totalTime": "PT80M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "180 kcal",
+        "carbohydrateContent": "34 g",
+        "cholesterolContent": "8 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "239 mg",
+        "sugarContent": "9 g",
+        "fatContent": "2 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "2 cups water",
+        "1 cup uncooked white rice",
+        "2.5 cups milk",
+        "2 tablespoons white sugar, or to taste",
+        "1 cinnamon stick",
+        "0.5 teaspoon salt"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine water and rice in a bowl; soak at least 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring water and rice to a boil in a saucepan; reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir milk, sugar, cinnamon stick, and salt into rice; simmer until thick and the consistency of pudding, about 20 minutes. Discard cinnamon stick before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

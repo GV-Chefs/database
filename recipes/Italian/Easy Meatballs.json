@@ -1,0 +1,59 @@
+{
+    "headline": "Easy Meatballs",
+    "name": "Easy Meatballs",
+    "description": "These easy meatballs are made with simple ingredients like eggs, panko bread crumbs, garlic powder, and fresh basil. Add them to your favorite sauce.",
+    "recipeCuisine": [
+        "Italian Inspired",
+        "Italian"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT10M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "245 kcal",
+        "carbohydrateContent": "6 g",
+        "cholesterolContent": "118 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "22 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "407 mg",
+        "sugarContent": "0 g",
+        "fatContent": "15 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 eggs",
+        "2 tablespoons Italian seasoning",
+        "2 teaspoons chopped fresh basil",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon garlic powder",
+        "2 pounds ground beef",
+        "0.5 cup panko bread crumbs"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Combine eggs, Italian seasoning, basil, salt, black pepper, and garlic powder in a large bowl. Add ground beef and panko bread crumbs; mix thoroughly."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Shape beef mixture into about 40 meatballs (1 1/2-inch in size, a little smaller than golf balls) using a teaspoon. Place on ungreased, rimmed baking sheets."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until no longer pink in the centers, 10 to 15 minutes total, turning halfway through. An instant-read thermometer inserted into the centers should read at least 160 degrees F (70 degrees C)."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

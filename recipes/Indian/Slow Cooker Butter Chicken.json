@@ -1,0 +1,98 @@
+{
+    "headline": "Slow Cooker Butter Chicken",
+    "name": "Slow Cooker Butter Chicken",
+    "description": "This slow cooker butter chicken made with aromatic Indian spices in a rich and creamy curry sauce is easy to make for a restaurant-worthy meal at home!",
+    "recipeCuisine": [
+        "Indian"
+    ],
+    "totalTime": "PT270M",
+    "cookTime": "PT255M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "501 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "146 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "30 g",
+        "saturatedFatContent": "20 g",
+        "sodiumContent": "320 mg",
+        "sugarContent": "11 g",
+        "fatContent": "37 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "2 tablespoons vegetable oil",
+        "4 large skinless, boneless chicken thighs, cut into bite-sized pieces",
+        "1 onion, diced",
+        "3 cloves garlic, minced",
+        "1 (6 ounce) can tomato paste",
+        "1 tablespoon curry paste",
+        "2 teaspoons curry powder",
+        "2 teaspoons tandoori masala",
+        "1 teaspoon garam masala",
+        "15 green cardamom pods",
+        "1 (14 ounce) can coconut milk",
+        "1 cup low-fat plain yogurt",
+        "salt to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/HBUfpyqggrdW69ECbB1KHf2fCCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-174543-slow-cooker-butter-chicken-DDMFS-4x3-step-01-b81d9423a3214070aabaa1074c36783f.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dtt4pPzK6-o2LehfygV4ZzCDt6g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-174543-slow-cooker-butter-chicken-DDMFS-4x3-step-02-52e4901f17d743eaa80d11d585b04bb9.jpg"
+                }
+            ],
+            "text": "Heat butter and vegetable oil in a large skillet over medium heat. Stir in chicken, onion, and garlic. Cook and stir until onion has softened and turned translucent, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WYmCtBlMBokbzz3oVoLGYahYY0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-174543-slow-cooker-butter-chicken-DDMFS-4x3-step-03-b93e091660ae44c197b732a2e2098b7d.jpg"
+                }
+            ],
+            "text": "Stir in tomato paste, curry paste, curry powder, tandoori masala, and garam masala until no lumps of tomato paste remain."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/4aOVqAEDMrq-fLDNxtTGAMnIz8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-174543-slow-cooker-butter-chicken-DDMFS-4x3-step-04-b88447f5d81d4e50a9f6385318ccd966.jpg"
+                }
+            ],
+            "text": "Pour mixture into a slow cooker; stir in cardamom pods, coconut milk, and yogurt. Season with salt."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/c1pEcL59S2RT85dGbJpyi7CSENw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-174543-slow-cooker-butter-chicken-DDMFS-4x3-e2aa838d73c44b2d84a0ecd716113ba1.jpg"
+                }
+            ],
+            "text": "Cook on High for 4 to 6 hours or Low for 6 to 8 hours, or until chicken is tender and sauce has reduced to the desired consistency. Remove and discard cardamom pods before serving."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

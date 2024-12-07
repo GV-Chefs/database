@@ -1,0 +1,62 @@
+{
+    "headline": "Easy Spoon Bread",
+    "name": "Easy Spoon Bread",
+    "description": "Pair this low-fuss and easy spoon bread with your favorite mains.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "225 kcal",
+        "carbohydrateContent": "27 g",
+        "cholesterolContent": "84 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "8 g",
+        "saturatedFatContent": "5 g",
+        "sodiumContent": "504 mg",
+        "sugarContent": "7 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "2 1/2 cups whole milk\u00a0",
+        "1 cup yellow cornmeal",
+        "2 tablespoons unsalted butter",
+        "3/4 teaspoon salt",
+        "3/4 teaspoon black pepper",
+        "1 cup frozen whole-kernel corn",
+        "1/2 cup chopped green onions, plus more for garnish\u00a0",
+        "2 teaspoons baking powder",
+        "2 eggs, lightly beaten",
+        "Sour cream, for serving"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly coat a 2-quart baking dish with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir together milk, cornmeal, butter, salt, and pepper in a saucepan over medium-high heat. Bring to a boil, stirring constantly, until mixture reaches the consistency of mashed potatoes, about 5 minutes. Remove from heat. Stir in corn, green onions, and baking powder. Stir in eggs. Transfer batter to the prepared dish."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/_S56XkyDWUNRlw2INqC-HpvcXlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8720980-Easy-Spoon-Bread-Allrecipes-Magazine-4x3-5f2aada2f18747b68e2885e49b6cc6b1.jpg"
+                }
+            ],
+            "text": "Bake in the preheated oven until risen and set, about 35 minutes. Serve with sour cream and additional green onions."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

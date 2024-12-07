@@ -1,0 +1,53 @@
+{
+    "headline": "Mangu",
+    "name": "Mangu",
+    "description": "Cooked, pureed plantains are topped with sauteed onions. This is a traditional Caribbean and Latin American morning favorite, but also makes a great side dish.",
+    "recipeCuisine": [
+        "Caribbean"
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "210 kcal",
+        "carbohydrateContent": "33 g",
+        "fiberContent": "3 g",
+        "proteinContent": "2 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "1756 mg",
+        "sugarContent": "16 g",
+        "fatContent": "10 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Breakfast",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "3 green plantains",
+        "1 quart water",
+        "0.25 cup olive oil",
+        "1 cup sliced white onion",
+        "1.5 tablespoons salt",
+        "1 cup sliced Anaheim peppers"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place the plantains and water in a saucepan. Bring to a boil, and cook 20 minutes, until plantains are tender but slightly firm. Drain, reserving 1 cup of the liquid. Cool plantains, and peel."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat the olive oil in a skillet over medium heat, and saute the onion until tender."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a bowl, mash the plantains with the reserved liquid and salt. Transfer to a food processor, mix in the peppers, and puree. Serve the pureed plantain mixture topped with the onions."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

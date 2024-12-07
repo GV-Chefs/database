@@ -1,0 +1,95 @@
+{
+    "headline": "The Best Meatballs",
+    "name": "The Best Meatballs",
+    "description": "Learn how to make meatballs with this recipe that combines ground beef, veal, and pork, with garlic, parsley, and cheese for the best meatballs ever!",
+    "recipeCuisine": [
+        "Italian"
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT30M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "613 kcal",
+        "carbohydrateContent": "7 g",
+        "cholesterolContent": "149 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "27 g",
+        "saturatedFatContent": "15 g",
+        "sodiumContent": "333 mg",
+        "sugarContent": "0 g",
+        "fatContent": "53 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT30M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "0.5 pound ground veal",
+        "0.5 pound ground pork",
+        "1 cup freshly grated Romano cheese",
+        "2 eggs",
+        "2 cloves garlic, minced",
+        "1.5 tablespoons chopped Italian flat leaf parsley",
+        "salt and ground black pepper to taste",
+        "2 cups stale Italian bread, crumbled",
+        "1.5 cups lukewarm water",
+        "1 cup olive oil"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/WKdHatEHnRW8L5KcO8a_1Wdfhmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40399-The-Best-Meatballs-ddmfs-step-0-058-2ec09b92ec804472a4c4b910e4c51766.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/d9XI1zn7Q0fLPYHcmlxBhzE4gFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40399-The-Best-Meatballs-ddmfs-step-1-060-e5099bb9af624f0f9ce5e5d8f0d8e265.jpg"
+                }
+            ],
+            "text": "Combine beef, veal, and pork in a large bowl. Mix in cheese, eggs, garlic, parsley, salt, and pepper."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/aAPm-GRWx2m0rjWiOJ8OHE3FWWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40399-The-Best-Meatballs-ddmfs-step-2-062-da1b230ae5224780b777d42a3e82b84e.jpg"
+                }
+            ],
+            "text": "Add bread crumbs and slowly mix in water, 1/2 cup at a time, until mixture is moist but still holds its shape (I usually use about 1 1/4 cups of water); shape into meatballs."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/cCBFiKYauJtuUyhJBg4P8BWSHzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40399-The-Best-Meatballs-ddmfs-step-4-066-c0f09341794f4ffa87d7b3135d5c49ad.jpg"
+                }
+            ],
+            "text": "Heat olive oil in a large skillet; add meatballs in batches and cook until browned on all sides, slightly crisp, and cooked through, about 10 to 15 minutes. Drain on paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nfsxdMIw15rqnVtl5LllGZe0KkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40399-The-Best-Meatballs-ddmfs-4x3-080-858db61ac9d645b4880adf6417035ad0.jpg"
+                }
+            ],
+            "text": "Enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

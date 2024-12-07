@@ -1,0 +1,103 @@
+{
+    "headline": "Black Beans and Rice",
+    "name": "Black Beans and Rice",
+    "description": "Black beans and rice flavored with garlic, cumin, and cayenne pepper makes a wholesome, budget-friendly, vegetarian meal or tasty side dish.",
+    "recipeCuisine": [
+        "Latin",
+        "Mexican"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "140 kcal",
+        "carbohydrateContent": "27 g",
+        "fiberContent": "6 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "0 g",
+        "sodiumContent": "354 mg",
+        "sugarContent": "1 g",
+        "fatContent": "1 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT5M",
+    "recipeCategory": [
+        "Dinner",
+        "Side Dish"
+    ],
+    "recipeIngredient": [
+        "1 teaspoon olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "0.75 cup uncooked white rice",
+        "1.5 cups low sodium, low fat vegetable broth",
+        "3.5 cups canned black beans, drained",
+        "1 teaspoon ground cumin",
+        "0.25 teaspoon cayenne pepper"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/GWJnTymIEDl27xSxfIvovXzdAak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15559-Black-Beans-and-Rice-ddmfs-step-0-ec24b036d3c645a0bab5dad3e5e31410.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/XJ4-xjaimJq6xoFil33Ij4aUY-I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15559-Black-Beans-and-Rice-ddmfs-step-1-8ce67ef17d084776b685e3651600ccf6.jpg"
+                }
+            ],
+            "text": "Heat oil in a saucepan over medium-high heat. Add onion and garlic; cook and stir until onion has softened, about 4 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/MEasH5q6Sb8cxoTEjTmCEE7CaP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15559-Black-Beans-and-Rice-ddmfs-step-2-b7e1cbe17e73488792d431df2df871d0.jpg"
+                }
+            ],
+            "text": "Stir in rice to coat; cook and stir for 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/wg7MtddWuER6QmZqdjrktkwEh3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15559-Black-Beans-and-Rice-ddmfs-step-3-60da306164ee481cb17a2f11f812db23.jpg"
+                }
+            ],
+            "text": "Add vegetable broth and bring to a boil. Cover, reduce to a simmer, and cook until liquid is absorbed, about 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/CtH5qItOYUR6KmO1llQseEcaPIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15559-Black-Beans-and-Rice-ddmfs-step-4-9124fcc34c44430ebf8fb61fcd0e1864.jpg"
+                }
+            ],
+            "text": "Stir in beans, cumin, and cayenne; cook until beans are warmed through."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/7zEfHX6X-gZSIDg896G75NWUPXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15559-Black-Beans-and-Rice-ddmfs-4x3-f8461d6ea2eb4fc3b20dc2184d0fbe6e.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

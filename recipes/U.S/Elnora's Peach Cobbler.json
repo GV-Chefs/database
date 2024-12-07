@@ -1,0 +1,56 @@
+{
+    "headline": "Elnora's Peach Cobbler",
+    "name": "Elnora's Peach Cobbler",
+    "description": "Peach cobbler can be made with just five simple ingredients that you probably already have on hand. It is a perfect dessert on a hot summer night!",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT60M",
+    "cookTime": "PT40M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "291 kcal",
+        "carbohydrateContent": "44 g",
+        "cholesterolContent": "33 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "3 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "295 mg",
+        "sugarContent": "32 g",
+        "fatContent": "12 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1 cup milk",
+        "1 cup self-rising flour",
+        "1 cup white sugar",
+        "0.5 cup butter, melted",
+        "4 cups sliced peaches",
+        "1 tablespoon white sugar, or to taste"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 375 degrees F (190 degrees C). Grease an 11x17-inch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk milk, flour, and 1 cup sugar together in a bowl until blended; add butter. Stir to combine."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange peaches in prepared baking dish; sprinkle with 1 tablespoon sugar. Cover peaches with batter, without stirring."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until browned and bubbling, about 40 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

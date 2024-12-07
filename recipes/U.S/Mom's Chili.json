@@ -1,0 +1,46 @@
+{
+    "headline": "Mom's Chili",
+    "name": "Mom's Chili",
+    "description": "Ground beef is slowly simmered with onion, ranch-style beans, diced tomatoes and green chiles and spices.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT130M",
+    "cookTime": "PT120M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "382 kcal",
+        "carbohydrateContent": "27 g",
+        "cholesterolContent": "70 mg",
+        "fiberContent": "8 g",
+        "proteinContent": "27 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "1701 mg",
+        "sugarContent": "4 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "1 large onion, chopped",
+        "1 (15 ounce) can ranch-style beans",
+        "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "1 (1.25 ounce) package chili seasoning mix",
+        "salt and pepper to taste",
+        "2 teaspoons chili powder, or to taste",
+        "1 cup water, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large saucepan over medium-high heat, cook beef and onion until meat is brown. Stir in beans, diced tomatoes, chili seasoning, salt, pepper, chili powder and water. Reduce heat and simmer 2 hours."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

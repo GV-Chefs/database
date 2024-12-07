@@ -1,0 +1,66 @@
+{
+    "headline": "Heide's Kentucky Derby Dessert",
+    "name": "Heide's Kentucky Derby Dessert",
+    "description": "This delicious Kentucky Derby pie has a sweet, chocolaty pecan filling that's got just a touch of bourbon in it for a delicious caramel flavor.",
+    "recipeCuisine": [
+        "U.S.",
+        "Southern"
+    ],
+    "totalTime": "PT120M",
+    "cookTime": "PT110M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "521 kcal",
+        "carbohydrateContent": "59 g",
+        "cholesterolContent": "99 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "6 g",
+        "saturatedFatContent": "12 g",
+        "sodiumContent": "231 mg",
+        "sugarContent": "31 g",
+        "fatContent": "31 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "1.25 cups chopped pecans",
+        "0.75 cup brown sugar",
+        "0.75 cup light corn syrup",
+        "0.5 cup all-purpose flour",
+        "0.5 cup butter, melted and cooled",
+        "0.25 cup white sugar",
+        "4 large eggs",
+        "2 tablespoons bourbon",
+        "1.5 teaspoons vanilla extract",
+        "0.75 cup miniature semisweet chocolate chips",
+        "1 (9 inch) unbaked deep dish pie crust"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 300 degrees F (150 degrees C). Spread pecans out on a cookie sheet."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake pecans in the preheated oven for 30 minutes, stirring halfway through. Continue to bake until toasted, checking and stirring every 15 minutes, for up to 30 more minutes. Remove from the oven and let cool completely."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, increase the oven temperature to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk brown sugar, corn syrup, flour, butter, white sugar, eggs, bourbon, and vanilla together in a bowl until smooth. Fold in cooled pecan pieces and chocolate chips until combined. Pour mixture into pie crust."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until pie is set, 50 to 60 minutes. Serve warm or chilled."
+        }
+    ],
+    "recipeYield": [
+        "10"
+    ]
+}

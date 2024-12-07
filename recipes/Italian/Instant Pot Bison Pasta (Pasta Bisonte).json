@@ -1,0 +1,67 @@
+{
+    "headline": "Instant Pot Bison Pasta (Pasta Bisonte)",
+    "name": "Instant Pot Bison Pasta (Pasta Bisonte)",
+    "description": "An Instant Pot makes quick work of this homemade tomato sauce made with ground bison, red wine, Portobello mushrooms, and bell peppers. Serve with your favorite pasta.",
+    "recipeCuisine": [
+        "Italian Inspired"
+    ],
+    "totalTime": "PT41M",
+    "cookTime": "PT21M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "459 kcal",
+        "carbohydrateContent": "71 g",
+        "cholesterolContent": "29 mg",
+        "fiberContent": "6 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "461 mg",
+        "sugarContent": "10 g",
+        "fatContent": "7 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "12 ounces ground bison",
+        "1.5 cups diced onion",
+        "1.5 cups diced red bell pepper",
+        "2 tablespoons olive oil",
+        "1 (8 ounce) package sliced baby portobello mushrooms",
+        "0.5 cup chopped fresh basil",
+        "4 cloves garlic, chopped",
+        "1 tablespoon dried oregano",
+        "1 bay leaf",
+        "2 (14.5 ounce) cans diced tomatoes",
+        "1 cup water",
+        "0.5 cup red wine",
+        "1 tablespoon tomato paste",
+        "1 (16 ounce) package trottole pasta",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon onion powder",
+        "0.5 teaspoon garlic powder"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Saute function; heat until indicator reads 'Hot.' Add bison, onion, red bell pepper, and olive oil. Saute until bison is browned and crumbly, 5 to 7 minutes. Add mushrooms; saute until slightly softened, 1 to 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir basil, garlic, oregano, and bay leaf into the bison mixture. Add tomatoes, water, wine, and tomato paste. Turn cooker off. Add pasta; stir until coated. Mix in salt, onion powder, and garlic powder."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Set cooker to Manual. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 5 minutes. Allow 10 to 15 minutes for pressure to build."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove lid. Stir well."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}

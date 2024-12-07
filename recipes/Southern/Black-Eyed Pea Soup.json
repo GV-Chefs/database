@@ -1,0 +1,58 @@
+{
+    "headline": "Black-Eyed Pea Soup",
+    "name": "Black-Eyed Pea Soup",
+    "description": "This black-eyed pea soup is loaded with ground beef, pork sausage, chilies, onion, and spicy tomatoes for a hearty and comforting New Year's meal.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT75M",
+    "cookTime": "PT60M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "416 kcal",
+        "carbohydrateContent": "32 g",
+        "cholesterolContent": "67 mg",
+        "fiberContent": "7 g",
+        "proteinContent": "26 g",
+        "saturatedFatContent": "7 g",
+        "sodiumContent": "2228 mg",
+        "sugarContent": "6 g",
+        "fatContent": "20 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "1 pound bulk pork sausage",
+        "1 pound ground beef",
+        "1 large onion, diced",
+        "4 cups water",
+        "3 (15 ounce) cans black-eyed peas, drained",
+        "1 (28 ounce) can diced tomatoes",
+        "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL\u00ae), undrained",
+        "1 (4 ounce) can chopped green chilies",
+        "4 beef bouillon cubes",
+        "4 teaspoons molasses",
+        "1 teaspoon Worcestershire sauce",
+        "0.75 teaspoon garlic salt",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "0.25 teaspoon ground cumin"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat a Dutch oven over medium heat. Cook and stir pork sausage, ground beef, and onion in the hot pot until meat is no longer pink, 10 to 12 minutes; drain off excess fat. Pour in water, then stir in black-eyed peas, diced tomatoes, tomatoes with green chiles, canned green chilies, beef bouillon cubes, molasses, Worcestershire sauce, garlic salt, salt, black pepper, and cumin until thoroughly mixed."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bring soup to a boil; reduce heat, cover, and simmer for 45 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

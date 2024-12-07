@@ -1,0 +1,94 @@
+{
+    "headline": "Filipino Lechon Kawali",
+    "name": "Filipino Lechon Kawali",
+    "description": "Lechon kawali, fried pork belly, is a tasty Filipino dish with flavors of garlic and bay leaves. This lechon kawali recipe is easy and yummy.",
+    "recipeCuisine": [
+        "Filipino",
+        "American"
+    ],
+    "totalTime": "PT70M",
+    "cookTime": "PT45M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "502 kcal",
+        "carbohydrateContent": "2 g",
+        "cholesterolContent": "62 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "1587 mg",
+        "fatContent": "45 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1.5 pounds pork belly, cut into small pieces",
+        "3 cloves garlic, crushed",
+        "2 bay leaves",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "2 cups oil for frying, or as needed"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/r1jZNwQU1NClzxtjMxE4cXTtw5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-237899-FilippinoLechonKawali-ddmfs-step1-3x4-6200-39a1fb09afd84147956c5822dd1e55c6.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/5htean-766kpPrOKBiFQYZFka7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-237899-FilippinoLechonKawali-ddmfs-step2-3x4-6204-a85664c2a3884bb5bbd3345d0dcc3895.jpg"
+                }
+            ],
+            "text": "Combine pork belly, garlic, bay leaves, salt, and pepper in a skillet; pour in enough water to cover. Bring to a boil, reduce heat, and simmer until skin is tender, 35 to 45 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/dKwYcV9uUkxahruwS50njKaPw58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-237899-FilippinoLechonKawali-ddmfs-step3-3x4-6275-acef5f0cb321466bb5317b1e460fb19e.jpg"
+                }
+            ],
+            "text": "Drain and let sit at room temperature until pork has air-dried."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/49QWo0KV0Jv1J2E1F8NXGGKw-hU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-237899-FilippinoLechonKawali-ddmfs-step4-3x4-62756333-5991ca966e09478eadac0650ad16d525.jpg"
+                }
+            ],
+            "text": "Fry pork in the hot oil, working in batches, until golden brown, 3 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/V0ttJ-v_rl7NDu5r7ye-O1otgt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-237899-FilippinoLechonKawali-ddmfs-step5-3x4-62756335-f41d57a9fffe4418a2cab1cd2e5d8bb0.jpg"
+                }
+            ],
+            "text": "Remove fried pork with a slotted spoon and drain on a paper towel-lined plate."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

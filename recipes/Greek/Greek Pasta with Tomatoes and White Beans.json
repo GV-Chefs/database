@@ -1,0 +1,57 @@
+{
+    "headline": "Greek Pasta with Tomatoes and White Beans",
+    "name": "Greek Pasta with Tomatoes and White Beans",
+    "description": "Cannellini beans, penne pasta, spinach, feta, and tomatoes create a quick and tasty Greek-inspired dinner that keeps you coming back for more.",
+    "recipeCuisine": [
+        "Greek"
+    ],
+    "totalTime": "PT25M",
+    "cookTime": "PT15M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "460 kcal",
+        "carbohydrateContent": "79 g",
+        "cholesterolContent": "17 mg",
+        "fiberContent": "12 g",
+        "proteinContent": "23 g",
+        "saturatedFatContent": "3 g",
+        "sodiumContent": "593 mg",
+        "sugarContent": "8 g",
+        "fatContent": "6 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "8 ounces penne pasta",
+        "2 (14.5 ounce) cans Italian-style diced tomatoes",
+        "1 (19 ounce) can cannellini beans, drained and rinsed",
+        "10 ounces fresh spinach, washed and chopped",
+        "0.5 cup crumbled feta cheese"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in penne and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, 10 to 12 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, combine tomatoes and beans in a large non-stick skillet; bring to a boil over medium high heat, then reduce heat to medium-low and simmer 10 minutes. Add spinach; cook until wilted, 2 minutes, stirring constantly."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/W_A6fbQ5wOZsIwSj6AJrXp5ZI6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/960901-8eeca8953e02434585da291f5a09922c.jpg"
+                }
+            ],
+            "text": "Serve sauce over pasta, and sprinkle with feta."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

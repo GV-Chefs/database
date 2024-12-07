@@ -1,0 +1,72 @@
+{
+    "headline": "Sausage Biscuits and Gravy",
+    "name": "Sausage Biscuits and Gravy",
+    "description": "No one will leave the table hungry after a breakfast of biscuits and hearty Southern-style sausage gravy.",
+    "recipeCuisine": [
+        "Southern"
+    ],
+    "totalTime": "PT30M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "947 kcal",
+        "carbohydrateContent": "66 g",
+        "cholesterolContent": "129 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "38 g",
+        "saturatedFatContent": "21 g",
+        "sodiumContent": "3111 mg",
+        "sugarContent": "20 g",
+        "fatContent": "60 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Breakfast"
+    ],
+    "recipeIngredient": [
+        "1 (19 ounce) can Southern-style flaky refrigerated biscuits (such as Pillsbury Grands\u00ae)",
+        "1 (16 ounce) package maple-flavored breakfast sausage",
+        "3 tablespoons all-purpose flour, or as needed",
+        "1 (12 ounce) can evaporated milk",
+        "1.5 cups milk",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "1 teaspoon butter"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange biscuits on a baking sheet spaced about 1 1/2 inches apart."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden brown, 13 to 17 minutes. Slice in half crosswise; keep warm."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, crumble sausage into a large skillet over medium heat; cook, breaking sausage apart, until no longer pink, about 10 minutes. Sprinkle sausage and pan drippings with flour; cook and stir until sausage coated, about 1 more minute. Reduce heat to medium-low."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in evaporated milk, followed by milk until thoroughly combined; bring to a simmer, stirring constantly, until desired thickness, 3 to 5 minutes. Season with salt and black pepper; stir in butter until melted. Stir in more flour if gravy isn't thick enough."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/t33dDU9AIPPWkdHtgzurNp8cTHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5221495-dcc0e2e8e9674be7821e4b26b5a7ad7c.jpg"
+                }
+            ],
+            "text": "Serve biscuits, cut sides up, topped with sausage gravy."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

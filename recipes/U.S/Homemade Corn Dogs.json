@@ -1,0 +1,126 @@
+{
+    "headline": "Homemade Corn Dogs",
+    "name": "Homemade Corn Dogs",
+    "description": "Make your own corn dogs using beef frankfurters skewered on sticks, dipped in corn batter, and fried until golden brown for a carnival treat at home.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT40M",
+    "cookTime": "PT20M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "318 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "43 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "9 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "776 mg",
+        "sugarContent": "6 g",
+        "fatContent": "23 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "1 cup yellow cornmeal",
+        "1 cup all-purpose flour",
+        "0.25 cup white sugar",
+        "4 teaspoons baking powder",
+        "0.25 teaspoon salt",
+        "0.125 teaspoon black pepper",
+        "1 cup milk",
+        "1 egg",
+        "1 quart vegetable oil for frying",
+        "2 (16 ounce) packages beef frankfurters",
+        "16 wooden skewers"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/Wn4xsCeXXKgpXUbK-1q8f_0V2qE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-Step-Ingredients-9dd18c92eb4e4e82aeefc4c9650f0d77.jpg"
+                }
+            ],
+            "text": "Gather all ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/hr1699zNBBBdHU13JMmyDMNSKOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-Step-1-dc99c52c0b6042faa2c122f0e86a7c1a.jpg"
+                }
+            ],
+            "text": "Combine cornmeal, flour, sugar, baking powder, salt, and pepper in a medium bowl; stir in milk and egg to make a batter."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/T2I270z5ldzJQaAkrqb5GQdWScE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-Step-2-f7528dfa06e54a6c8e0de642825784b7.jpg"
+                }
+            ],
+            "text": "Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/b2VP8ESZ1AnHLSXd4C-dajdvsbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-Step-3-f7dc334b76984412b85b34a1e8dcd1fd.jpg"
+                }
+            ],
+            "text": "Meanwhile, pat frankfurters dry and insert a skewer into each one."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/EBqKiYGA3z3_zjZnA9W7mGbZlNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-Step-4-fee046d00a75433ab226fa844c0a346e.jpg"
+                }
+            ],
+            "text": "Roll frankfurters in batter until well coated."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/nGU3Fv3MGi4z1hXsUEqdpqKVbYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-Step-5b-e6900151f2fe41bc80f20e68a5a82f53.jpg"
+                }
+            ],
+            "text": "Fry 2 or 3 corn dogs at a time in preheated oil until lightly browned, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/q-SBnh-TVVDLYgnta5iDOvuvSCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-Step-6c-13af828c4d544364b4e02f7e7baf28b4.jpg"
+                }
+            ],
+            "text": "Drain on paper towels."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/-fP1DXeTpdz9Wnzy0-UrR_4DCBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-JF-35149-Homemade-Corn-Dogs-4x3-86d5f822adc144a5bc6e8d3aa897e476.jpg"
+                }
+            ],
+            "text": "Serve and enjoy!"
+        }
+    ],
+    "recipeYield": [
+        "16"
+    ]
+}

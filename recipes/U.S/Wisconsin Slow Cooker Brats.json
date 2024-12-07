@@ -1,0 +1,51 @@
+{
+    "headline": "Wisconsin Slow Cooker Brats",
+    "name": "Wisconsin Slow Cooker Brats",
+    "description": "Bratwurst are slow cooked in beer with onions and ketchup before being finished on a grill.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT255M",
+    "cookTime": "PT245M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "377 kcal",
+        "carbohydrateContent": "13 g",
+        "cholesterolContent": "69 mg",
+        "fiberContent": "0 g",
+        "proteinContent": "14 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1046 mg",
+        "sugarContent": "6 g",
+        "fatContent": "27 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner",
+        "Lunch"
+    ],
+    "recipeIngredient": [
+        "8 bratwurst",
+        "2 (12 fluid ounce) cans or bottles beer",
+        "1 onion, sliced",
+        "0.75 cup ketchup"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Place bratwurst, beer, onion, and ketchup in a slow cooker. Pour water over mixture until everything is covered. Set slow cooker to HIGH and cook for 4 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high heat and lightly oil grate."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Grill bratwurst on preheated grill until they are browned, about 5 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

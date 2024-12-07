@@ -1,0 +1,51 @@
+{
+    "headline": "Deviled Sausages",
+    "name": "Deviled Sausages",
+    "description": "Sausages bathed in a sweet and spicy sauce of soy, Worcestershire, cayenne, mustard, tomato paste, and brown sugar. Use beef or pork sausages. Serve with potatoes, a sweet potato mash, or on a bed of steamed rice with vegetables.",
+    "recipeCuisine": [
+        "U.S."
+    ],
+    "totalTime": "PT35M",
+    "cookTime": "PT25M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "349 kcal",
+        "carbohydrateContent": "8 g",
+        "cholesterolContent": "65 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "16 g",
+        "saturatedFatContent": "9 g",
+        "sodiumContent": "1280 mg",
+        "sugarContent": "5 g",
+        "fatContent": "28 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT10M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "1 pound sausages",
+        "0.5 cup water",
+        "1 teaspoon soy sauce",
+        "2 tablespoons Worcestershire sauce",
+        "1 tablespoon mustard",
+        "0.25 teaspoon cayenne pepper, or to taste",
+        "2 tablespoons tomato paste",
+        "1 tablespoon brown sugar"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large skillet over medium heat. Cook sausages, about 15 minutes, until well browned and cooked through."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Drain fat, and return skillet and sausages to medium heat. Stir in water, soy sauce, Worcestershire sauce, mustard, cayenne, tomato paste, and brown sugar. Bring contents to a boil; reduce heat, and simmer, stirring occasionally, about 10 minutes."
+        }
+    ],
+    "recipeYield": [
+        "4"
+    ]
+}

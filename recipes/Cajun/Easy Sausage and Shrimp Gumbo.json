@@ -1,0 +1,57 @@
+{
+    "headline": "Easy Sausage and Shrimp Gumbo",
+    "name": "Easy Sausage and Shrimp Gumbo",
+    "description": "Sausage and shrimp gumbo is a nice twist on the classic Cajun stew traditionally served over rice and is perfect for cold evening meals.",
+    "recipeCuisine": [
+        "Cajun"
+    ],
+    "totalTime": "PT92M",
+    "cookTime": "PT72M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "568 kcal",
+        "carbohydrateContent": "19 g",
+        "cholesterolContent": "122 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "21 g",
+        "saturatedFatContent": "8 g",
+        "sodiumContent": "1070 mg",
+        "sugarContent": "3 g",
+        "fatContent": "45 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT20M",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeIngredient": [
+        "1 cup canola oil",
+        "1 cup all-purpose flour",
+        "1 onion, diced",
+        "1 green bell pepper, diced",
+        "3 stalks celery, diced",
+        "1 pound andouille sausage, chopped",
+        "2 tablespoons Cajun seasoning",
+        "2 cloves garlic, chopped",
+        "1 teaspoon freshly ground black pepper",
+        "6 cups low-sodium chicken stock",
+        "1 pound peeled and deveined small shrimp"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cook and stir oil and flour in a skillet over medium heat until mixture is thick and the color of peanut butter, about 20 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir onion, green bell pepper, and celery into flour mixture; cook and stir until softened, about 5 minutes. Add sausage; cook and stir until browned, about 5 minutes. Add Cajun seasoning, garlic, and black pepper; cook and stir until fragrant, about 2 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour chicken stock over vegetable-sausage mixture; reduce heat to low and simmer for 30 minutes. Add shrimp and cook until shrimp are pink and cooked through, about 10 minutes."
+        }
+    ],
+    "recipeYield": [
+        "8"
+    ]
+}

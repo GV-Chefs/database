@@ -1,0 +1,113 @@
+{
+    "headline": "Lemon Blueberry Pavlova",
+    "name": "Lemon Blueberry Pavlova",
+    "description": "Topped with an intense lemon curd filling, fresh blueberries, and a homemade blueberry sauce, this pavlova takes a bit of time to make but is also simple and easy to pull off!",
+    "recipeCuisine": [
+        "Australian"
+    ],
+    "totalTime": "PT300M",
+    "cookTime": "PT80M",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "424 kcal",
+        "carbohydrateContent": "62 g",
+        "cholesterolContent": "165 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "11 g",
+        "sodiumContent": "76 mg",
+        "sugarContent": "58 g",
+        "fatContent": "19 g",
+        "unsaturatedFatContent": "0 g"
+    },
+    "prepTime": "PT25M",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeIngredient": [
+        "0.5 cup unsalted butter",
+        "4 large eggs",
+        "2 tablespoons lemon zest",
+        "1 pinch salt",
+        "0.5 cup white sugar",
+        "0.25 cup lemon juice",
+        "cooking spray",
+        "1 tablespoon cornstarch",
+        "1 cup white sugar",
+        "1 pinch cream of tartar",
+        "2 teaspoons lemon juice",
+        "0.25 teaspoon pure vanilla extract",
+        "1 cup blueberries",
+        "2 tablespoons white sugar",
+        "0.5 cup cold water",
+        "0.5 cup fresh blueberries, or more to taste",
+        "1 sprig fresh mint"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Prepare lemon curd filling: Cut butter into small pieces and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Separate eggs, placing yolks in a heat-proof bowl and whites in glass, metal, or ceramic bowl. Cover egg whites and leave on the counter to come to room temperature for the meringue."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add lemon zest, salt, sugar, and lemon juice to egg yolks. Whisk until thoroughly combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 1 to 2 inches water to a saucepan over low heat; bring to a simmer. Place bowl of filling over the simmering water. Cook, stirring constantly with a spatula, until mixture is very hot to the touch and thick enough to coat the back of a spoon, 10 to 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir in butter, 3 or 4 pieces at a time, waiting until butter has melted before each addition. Remove from the heat and pour filling into a bowl to cool, about 15 minutes. Lay plastic wrap on top of the filling, pressing down so it doesn't develop a skin, and place in the refrigerator until well chilled, 2 to 3 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 250 degrees F (120 degrees C). Line a baking sheet with a silicone liner, such as Silpat\u00ae. Lightly spray with cooking spray."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Begin meringue: Mix cornstarch into sugar and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add cream of tartar, lemon juice, and vanilla to the reserved egg whites. Whisk with a large whisk until very soft peaks form, about 3 minutes. Whisk in sugar mixture, 2 tablespoons at a time, whisking about 1 minute between each addition, until incorporated. When all sugar mixture has been added, continue to whisk until relatively stiff peaks form and whites are firm enough to hold their shape."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Use 2 spoons or a piping bag to transfer whites onto the prepared baking sheet, forming a ring of dollops about 8 or 9 inches across. Fill in the middle with meringue, then go back around the edges adding more meringue to build up the outside edge."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake in the center of the preheated oven for exactly 1 hour. At 1 hour, turn off the oven and crack the door. Let meringue sit in the oven until its cooled completely, about 1 hour."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Meanwhile, prepare blueberry sauce: combine 1 cup blueberries, sugar, and water in a saucepan over medium heat; bring to a simmer. Cook, stirring occasionally, until blueberries collapse and liquid thickens, about 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from the heat and pass through a fine mesh strainer. Place in the refrigerator until fully chilled, about 45 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Very carefully transfer cooled meringue to a serving platter using 2 large spatulas if necessary; you may get some cracks but that's okay. Use a spoon to crack the center a bit to make room for the filling."
+        },
+        {
+            "@type": "HowToStep",
+            "image": [
+                {
+                    "@type": "ImageObject",
+                    "url": "https://www.allrecipes.com/thmb/gUlnPkz3PiTPaizpA28-fr1sU0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-222-c8d631b51cb44b98ab2e614e527e3c30.jpg"
+                }
+            ],
+            "text": "Fill the center with chilled lemon curd filling. Place remaining blueberries over top and drizzle with blueberry sauce. Garnish with mint."
+        }
+    ],
+    "recipeYield": [
+        "6"
+    ]
+}
