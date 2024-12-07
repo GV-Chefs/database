@@ -89,7 +89,7 @@ class MainWindow(QMainWindow):
         self.tab_widget.addTab(self.oil_list, "Oils")
         self.tab_widget.addTab(self.dairy_list, "Dairy")
 
- # Add favorites tab
+        # Add favorites tab
 
         # Set layout for favorites widget
         self.favorites_widget.setLayout(self.favorites_layout)
